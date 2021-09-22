@@ -9,16 +9,28 @@ title = "Fisioterapisti | Blog"
 URL = "contact"
 name = "Contact"
 weight = 1
+[[menu.footer]]
+URL = "tools"
+name = "tools"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
+[[menu.main]]
+URL = "tools"
+name = "tools"
+weight = 2
+[[menu.main]]
+URL = "https://gethugothemes.com/products/northendlab/"
+name = "Buy Premium"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2021 Federica De Filippis. Tutti i diritti sono riservati."
+copyright = "&copy; 2021 Fisioterapia De Filippis. Tutti i diritti sono riservati."
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
