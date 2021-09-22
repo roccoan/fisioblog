@@ -25,7 +25,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/banner/doctors.svg"
 title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e a chi vuole diventarlo."
 [params.cookies]
 enable = true
