@@ -9,7 +9,7 @@ title = "Fisioterapisti | Blog"
 main = []
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contatti"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
