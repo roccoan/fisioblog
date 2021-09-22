@@ -43,10 +43,10 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Prima volta da queste parti? Sfoglia pure gli articoli alla ricerca di qualcosa che possa interessarti, oppure parti da qui"
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Inizia da qui"
+title = "Inizia qui"
 [params.cta.button]
 enable = true
 label = "Visit Here"
@@ -74,11 +74,8 @@ enable = true
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
+icon = "ti-reddit"
 link = "#"
