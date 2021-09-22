@@ -49,7 +49,7 @@ image = "images/hugo-muscot.svg"
 title = "Inizia qui"
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Inizia"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
