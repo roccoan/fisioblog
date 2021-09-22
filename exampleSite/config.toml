@@ -22,7 +22,7 @@ copyright = "&copy; 2021 Fisioterapia De Filippis. Tutti i diritti sono riservat
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
-logo = "images/F.svg"
+logo = "Fisioterapisti | Blog"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/doctors.svg"
