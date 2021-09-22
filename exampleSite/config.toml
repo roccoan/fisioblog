@@ -16,13 +16,13 @@ weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Federica De Filippis"
 contact_form_action = "#"
 copyright = "&copy; 2021 Fisioterapia De Filippis. Tutti i diritti sono riservati."
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
-logo = "Fisioterapisti | Blog"
+logo = "static\\images\\logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/doctors.svg"
