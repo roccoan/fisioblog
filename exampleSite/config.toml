@@ -5,11 +5,9 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
+[menu]
+main = []
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
