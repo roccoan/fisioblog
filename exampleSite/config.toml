@@ -33,7 +33,7 @@ expire_days = 2
 [params.cta]
 description = "Prima volta da queste parti? Sfoglia pure gli articoli alla ricerca di qualcosa che possa interessarti, oppure parti da qui"
 enable = true
-image = "images/hugo-muscot.svg"
+image = "images/reading.svg"
 title = "Inizia qui"
 [params.cta.button]
 enable = true
