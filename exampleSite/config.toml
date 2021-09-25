@@ -16,7 +16,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Federica De Filippis"
 contact_form_action = "#"
-copyright = "&copy; 2021 Fisioterapia De Filippis. Tutti i diritti sono riservati."
+copyright = "&copy; 2021 Fisioterapia De Filippis. P. IVA: 04211250719 Tutti i diritti sono riservati."
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
