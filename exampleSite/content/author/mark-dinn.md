@@ -1,7 +1,13 @@
 +++
-title = "Mark Dinn"
-image = "/images/author/mark-dinn.jpg"
-description = "This is meta description"
-+++
+description = "Fondatrice"
+image = "/images/profilo.webp"
+title = "Federica"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++++
+Ciao! 
+
+Sono Federica, fisioterapista di professione e blogger per hobby.
+
+Ho deciso di aprire questo blog per fornire risorse a tutti i neo-fisioterapisti e a chi ha in mente di diventarlo.
+
+Grazie per essere passata/o da qui, spero ti troverai bene da queste parti!
