@@ -16,7 +16,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Federica De Filippis"
 contact_form_action = "#"
-copyright = "&copy; 2021 Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Milano al n°3278 con Del. n°16 del 04/11/2019 - P. IVA: 04211250719 Tutti i diritti sono riservati."
+copyright = "&copy; 2021 Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Milano al n°3278 con Del. n°16 del 04/11/2019 - P. IVA: 04211250719. Tutti i diritti sono riservati."
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
