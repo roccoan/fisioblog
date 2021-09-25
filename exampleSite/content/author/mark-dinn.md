@@ -2,6 +2,9 @@
 description = "Fondatrice"
 image = "/images/profilo.webp"
 title = "Federica"
+[menu.footer]
+name = "Chi Sono"
+weight = 2
 
 +++
 Ciao! 
