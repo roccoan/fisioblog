@@ -1,10 +1,16 @@
 baseURL = "https://demo.gethugothemes.com/northendlab-light/"
 disqusShortname = "fisioterapisti-blog"
 languageCode = "en-us"
-paginate = "5"
+paginate = "8"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
+[menu]
+main = []
+[[menu.footer]]
+URL = ""
+name = ""
+weight = ""
 [[menu.footer]]
 URL = "contact"
 name = "Contatti"
