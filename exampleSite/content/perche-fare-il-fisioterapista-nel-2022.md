@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Studio e carriera"]
 date = 2022-01-04T23:00:00Z
 description = ""
-draft = true
 image = "/images/undraw_researching_22gp.png"
 title = "Perché fare il fisioterapista nel 2022"
 type = "post"
