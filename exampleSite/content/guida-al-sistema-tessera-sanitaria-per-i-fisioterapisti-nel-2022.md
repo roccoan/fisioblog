@@ -58,7 +58,9 @@ Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma pr
 
 Adesso che ti sei registrata/o, hai la facoltà di cambiare la password con una di tua preferenza, ma per ora lasciamo perdere questo passaggio, puoi farlo in ogni momento.
 
-Andiamo diretti all’aggiunta dei dati della P.IVA. Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”. In questa pagina c’è un campo da compilare che chiede “Partita IVA erogatore”. Visto che l’erogatore della prestazione sanitaria sei tu, devi scrivere la tua Partita IVA nel campo e confermare cliccando “Aggiungi”.
+Andiamo diretti all’aggiunta dei dati della P.IVA. 
+
+Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”. In questa pagina c’è un campo da compilare che chiede “Partita IVA erogatore”. Visto che l’erogatore della prestazione sanitaria sei tu, devi scrivere la tua Partita IVA nel campo e confermare cliccando “Aggiungi”.
 
 Perfetto, ora sei pronta/o per registrare le fatture!
 
