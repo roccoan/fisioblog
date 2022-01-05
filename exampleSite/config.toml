@@ -33,7 +33,7 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Io uso SumUp da ormai due anni, lo uso tantissimo e devo dire che mi ci trovo davvero bene. Da qui puoi avere fino a €30 di sconto, magari può tornarti utile!"
+description = "Uso SumUp da ormai due anni, lo uso tantissimo e devo dire che mi ci trovo davvero bene. Da qui puoi avere fino a €30 di sconto, magari può tornarti utile!"
 enable = true
 image = "/images/info.svg"
 title = "Sempre più pazienti ti chiedono di pagare con carta, ma non hai il POS?"
