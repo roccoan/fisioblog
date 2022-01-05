@@ -1,14 +1,16 @@
 +++
 author = "Redazione"
-categories = []
+categories = ["Studio e carriera"]
 date = 2022-01-04T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/undraw_researching_22gp.png"
 title = "Perché fare il fisioterapista nel 2022"
 type = "post"
 
 +++
+# Perché fare il fisioterapista nel 2022
+
 La pandemia ha forse reso più difficile il compito a molti studenti sull’orientamento e portato molte persone a riconsiderare il proprio lavoro: le priorità sono cambiate, si avverte maggiormente il bisogno di fare qualcosa di più significativo e che permetta di avere un equilibrio vita-lavoro più in linea con i propri interessi.
 
 A mio avviso la professione del fisioterapista ha questo ed altri vantaggi, che vediamo in questo articolo. Spero possa tornare utile a chiunque stia ragionando su cosa ne sarà del proprio futuro e se fare il fisioterapista sia una scelta ragionevole.
@@ -17,7 +19,7 @@ _Piccolo disclaimer:_ non ci addentreremo negli aspetti emotivi che comporta far
 
 E allora perché non considerarlo tra i motivi per fare la fisioterapista/il fisioterapista? Perché semplicemente tutti questi aspetti emotivi sono presenti anche in altre attività, come il volontariato, che non richiede particolari requisiti tipo la laurea e il relativo impegno richiesto. Da un lavoro - la cui formazione richiede tanto coraggio e impegno, e magari fare affidamento sui propri genitori per qualche anno, o licenziarsi dal lavoro attuale e riprendere a studiare - è naturale aspettarsi quantomeno una retribuzione. Detto questo, partiamo.
 
-1. Tanta, tantissima richiesta
+## Tanta, tantissima richiesta
 
 Sto notando che la domanda da parte dei pazienti di fisioterapia sta salendo, e nella mia esperienza ci sono tre fattori trainanti.
 
@@ -35,13 +37,13 @@ Sicuramente un’ottima scelta perché a lungo andare riduce l’incidenza di ma
 
 Quindi, conoscenza della professione più diffusa (se non sai che esiste come puoi andare dal fisioterapista?), età media più alta e stile di vita più attivo comportano molta più richiesta di quella che i pochi fisioterapisti sfornati dalle università riescano a soddisfare. Vedremo più avanti questo aspetto, nel frattempo passiamo al prossimo punto.
 
-2. Lavorare nel settore sanitario
+## Lavorare nel settore sanitario
 
 Ci sono tanti settori dove possiamo scegliere di lavorare. Tanti di questi non godono di ottima salute: la manifattura soffre per la concorrenza cinese, il turismo e i trasporti per la pandemia, l’agricoltura per i rischi climatici, la scuola, la ricerca e le pubbliche amministrazioni soffrono per la riduzione del personale e dei fondi pubblici.
 
 Non che sia impossibile trovare lavoro in questi settori, ma tra i pochi settori che continuano a ricevere fondi, sia perché la popolazione invecchia sia perché la pandemia ha dato una bella scossa all’opinione pubblica sull’importanza della tutela della salute, il settore sanitario è decisamente un’ottima scelta se si vuole prendere una scelta lungimirante sulla propria carriera.
 
-3. Libertà di scelta
+## Libertà di scelta
 
 In Italia, al contrario di quello che si crede, i laureati sono pochissimi rispetto alla media europea. Tra questi, sono ancora meno i laureati in materie STEM e si aggiunge il fatto che in Italia le lauree in Fisioterapia sono ad accesso molto limitato (quando mi sono iscritta io c’era posto solo per trenta persone). Ho visto centri privati che non riescono a trovare fisioterapisti e assumono laureati in scienze motorie (chiaramente non per tutte le attività, ma solo quelle che possono svolgere). Inoltre ci sono attività parallele come posturologia, osteopatia e massoterapia, le quali possono avere alcuni punti di contatto con la fisioterapia, ma non hanno vantaggi come essere riconosciute dal Servizio Sanitario Nazionale come Professioni Sanitarie per cui hanno decisamente meno sbocchi (ma in linea di massima se si vuole svolgere la libera professione vanno benissimo e non richiedono la laurea, ma un corso).
 
