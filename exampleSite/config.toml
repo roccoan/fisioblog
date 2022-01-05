@@ -5,6 +5,16 @@ paginate = "8"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
+[menu]
+main = []
+[[menu.footer]]
+URL = ""
+name = ""
+weight = ""
+[[menu.footer]]
+URL = "contact"
+name = "Contatti"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -58,4 +68,4 @@ icon = "ti-instagram"
 link = "#"
 [[params.social]]
 icon = "ti-reddit"
-link = "#"
+link = "https://www.reddit.com/r/fisioterapisti/"
