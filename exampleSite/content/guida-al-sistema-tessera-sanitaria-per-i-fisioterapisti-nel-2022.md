@@ -96,6 +96,6 @@ Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il r
 
 ### Conclusione
 
-È una procedura relativamente nuova e neanche tutti i commercialisti ne sono a conoscenza, quindi spero ti sarà utile almeno per evitare una figuraccia con il paziente che si aspettava il rimborso della spesa – e ancora meglio per fare sì che il paziente si senta di interfacciarsi con un vero professionista.
+È una procedura relativamente nuova, quindi spero ti sarà utile almeno per evitare una figuraccia con il paziente che si aspettava il rimborso della spesa – e ancora meglio per fare sì che il paziente si senta di interfacciarsi con un vero professionista.
 
 Grazie per aver letto, a presto!
