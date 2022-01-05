@@ -78,21 +78,23 @@ Se parti dalla Home, clicca su “Gestione dati spesa 730” in alto a sinistra.
 
 Questo form va compilato per ogni fattura di pazienti privati che vogliono detrarre la spesa. Ti do alcune indicazioni sui quali ho avuto dei dubbi la prima volta che l’ho fatto – il resto è abbastanza semplice (tipo il numero della fattura, la data di emissione della fattura e il codice fiscale del paziente – che sul sito viene chiamato “assistito”).
 
-* Partita IVA erogatore: non mi appariva nessuna voce dal menù a tendina, perché non l’avevo registrata. Leggi il paragrafo precedente sull’aggiunta dei dati P.IVA;
-* Dispositivo: per le fatture devi mettere “1” senza virgolette;
-* Pagamento anticipato: il criterio è la data, non l’ora. Quindi se ricevi il pagamento la mattina, e il pomeriggio generi la fattura e acquisti la marca da bollo dove è riportata un orario seguente all’ora del pagamento, non importa, non è un pagamento anticipato. È pagamento anticipato solo quando il paziente paga almeno il giorno prima dell’emissione della fattura (per esempio: fattura data 10/04, il pagamento è stato fatto il 07/04 – qui si considera pagamento anticipato);
-* Opposizione – di solito non c’è da mettere la spunta.
+* **Partita IVA erogatore:** la prima volta non mi appariva nessuna voce dal menù a tendina, perché non l’avevo registrata bene. Leggi il paragrafo precedente sull’aggiunta dei dati P.IVA - una volta aggiunta per bene devi cliccare la tua Partita IVA dal menù a tendina che appare
+* **Dispositivo:** per le fatture devi scrivere il numero “1” senza virgolette;
+* **Pagamento anticipato:** il criterio è la data, non l’ora. Quindi se ricevi il pagamento la mattina, e il pomeriggio generi la fattura e acquisti la marca da bollo dove è riportata un orario seguente all’ora del pagamento, non importa, non si considera come un pagamento anticipato. È pagamento anticipato solo quando il paziente paga almeno il giorno prima dell’emissione della fattura (per esempio: fattura data 10 aprile, il pagamento è stato fatto il 07 aprile – qui si considera pagamento anticipato);
+* **Opposizione:** di solito non c’è da mettere la spunta.
 
 Compilato questo form, quando clicchi avanti ti porta su un’altra pagina.
 
 Qui devi compilare così:
 
-* Tipo spesa: Spesa Sanitaria
-* Importo: quanti euro ti ha pagato il paziente
-* Metti il pallino su “Natura IVA” (perché le fatture che emette un professionista sanitario risultano esenti IVA)
+* **Tipo spesa:** Spesa Sanitaria;
+* **Importo:** quanti euro ti ha pagato il paziente;
+* Metti il pallino su “Natura IVA” (perché le fatture che emette un professionista sanitario risultano esenti IVA);
 * Dal menù a tendina “Natura IVA” devi selezionare la n.2.2.
 
-Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il riepilogo, controlla che i dati siano corretti e dai conferma. Hai finito! Ricorda che hai la possibilità di vedere e modificare le spese inserite andando in “Gestione Spese Sanitarie” sempre dalla barra blu in alto.
+Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il riepilogo, controlla che i dati siano corretti e dai conferma. 
+
+Hai finito! Ricorda che hai la possibilità di vedere e modificare le spese inserite andando in “Gestione Spese Sanitarie” sempre dalla barra blu in alto.
 
 ### Conclusione
 
