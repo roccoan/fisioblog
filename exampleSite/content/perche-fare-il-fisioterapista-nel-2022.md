@@ -8,8 +8,6 @@ title = "Perché fare il fisioterapista nel 2022"
 type = "post"
 
 +++
-# Perché fare il fisioterapista nel 2022
-
 La pandemia ha forse reso più difficile il compito a molti studenti sull’orientamento e portato molte persone a riconsiderare il proprio lavoro: le priorità sono cambiate, si avverte maggiormente il bisogno di fare qualcosa di più significativo e che permetta di avere un equilibrio vita-lavoro più in linea con i propri interessi.
 
 A mio avviso la professione del fisioterapista ha questo ed altri vantaggi, che vediamo in questo articolo. Spero possa tornare utile a chiunque stia ragionando su cosa ne sarà del proprio futuro e se fare il fisioterapista sia una scelta ragionevole.
