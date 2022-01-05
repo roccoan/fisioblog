@@ -39,7 +39,7 @@ image = "/images/info.svg"
 title = "Sempre più pazienti ti chiedono di pagare con carta, ma non hai il POS?"
 [params.cta.button]
 enable = true
-label = "Shop con sconti!"
+label = "SumUp -€%"
 link = "http://r.sumup.com/referrals/rprsw"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
