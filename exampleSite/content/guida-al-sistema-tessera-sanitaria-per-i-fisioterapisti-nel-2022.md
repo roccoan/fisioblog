@@ -54,15 +54,23 @@ Quindi, appena avrai per le mani la Password, basta:
 
 Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma proprio il Codice Fiscale) e la Parola Chiave è la Password che trovi nel file PDF che hai scaricato poco fa.
 
-### Aggiunta dati Partita IVA
+### Aggiunta dei dati della tua Partita IVA
 
 Adesso che ti sei registrata/o, hai la facoltà di cambiare la password con una di tua preferenza, ma per ora lasciamo perdere questo passaggio, puoi farlo in ogni momento.
 
 Andiamo diretti all’aggiunta dei dati della P.IVA. 
 
-Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”. In questa pagina c’è un campo da compilare che chiede “Partita IVA erogatore”. Visto che l’erogatore della prestazione sanitaria sei tu, devi scrivere la tua Partita IVA nel campo e confermare cliccando “Aggiungi”.
+Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”. 
+
+In questa pagina c’è un campo da compilare che chiede “Partita IVA erogatore”. Visto che l’erogatore della prestazione sanitaria sei tu, devi scrivere la tua Partita IVA nel campo e confermare cliccando “Aggiungi”.
 
 Perfetto, ora sei pronta/o per registrare le fatture!
+
+### Quali fatture devo aggiungere?
+
+Come dicevamo nell'esempio più su, devi caricare su Sistema TS _solo le fatture emesse a pazienti privati_.
+
+Quindi non devi caricare quelle emesse a studi, centri, Rsa, assicurazioni sanitarie, palestre e altri enti, ma solo quelle a pazienti privati.
 
 ### Registrazione delle fatture
 
