@@ -24,7 +24,7 @@ copyright = "&copy; 2022 Federica De Filippis - Iscritta all'Albo Professionale 
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
-logo = "/images/logo.png"
+logo = "/images/undraw_online_payments_re_y8f2.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/doctors.svg"
