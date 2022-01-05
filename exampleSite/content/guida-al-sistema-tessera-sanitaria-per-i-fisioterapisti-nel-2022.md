@@ -1,7 +1,7 @@
 +++
 author = "Redazione"
 categories = []
-date = 2022-01-05T23:00:00Z
+date = 2022-01-04T23:00:00Z
 description = ""
 image = ""
 title = "Guida al Sistema Tessera Sanitaria per i Fisioterapisti nel 2022"
