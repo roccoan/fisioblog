@@ -24,7 +24,7 @@ Io faccio così di solito: nella prima valutazione, quando il cliente vuole iniz
 
 Per quanto riguarda il sistema Tessera Sanitaria, avrai pensato “Oh no! Altri adempimenti, e chi ce l’ha il tempo!”.
 
-È vero, è un altro adempimento, ma fortunatamente non c’è bisogno di farlo subito per ogni fattura che emetti. 
+È vero, è un altro adempimento, ma fortunatamente non c’è bisogno di farlo subito per ogni fattura che emetti.
 
 Per il 2021, con un decreto emanato per il Covid funzionava semestralmente:
 
@@ -35,7 +35,7 @@ Per le fatture emesse durante il 2022, non è ancora chiaro se ci sarà bisogno 
 
 Inoltre, è un’attività che molti commercialisti accettano in delega, quindi puoi semplicemente delegarlo al commercialista – mettiti d’accordo con lei/lui.
 
-In ogni caso la procedura è molto semplice, provo a spiegartela nel modo più immediato possibile.
+In ogni caso la procedura è molto semplice (l'iscrizione va fatta una sola volta e dalla seconda/terza fattura sarai in grado di aggiungerne altre ad occhi chiusi), quindi provo a spiegartela nel modo più immediato possibile.
 
 ## La procedura
 
@@ -43,18 +43,16 @@ Sistema Tessera Sanitaria è un sito web, si accede o cercando su Google o dal l
 
 ### Registrazione al sito
 
-Se non ti sei mai registrata (oppure il tuo commercialista non ti ha mai registrato), basta seguire le indicazioni presenti [in questa pagina](https://sistemats1.sanita.finanze.it/portale/info-sulle-modalita-di-accesso-professionisti-sanitari) nella sezione “Accesso con credenziali”.
+Se non ti sei mai registrata (oppure il tuo commercialista non ti ha mai registrato), [da qui puoi richiedere la Password](https://sistemats5.sanita.finanze.it/P730CensimentoRegistrazioneWeb) che ti viene consegnata in un file pdf.
 
-Per fare prima, [da qui puoi richiedere la Password](https://sistemats5.sanita.finanze.it/P730CensimentoRegistrazioneWeb) (che ti viene consegnata in un file pdf), mentre l’Username è il tuo codice fiscale.
+Quindi, appena avrai per le mani la Password, basta:
 
-Quindi, appena avrai per le mani la Password, basta: 
-
-* tornare sulla Home; 
-* cliccare “Area Riservata” in alto a destra; 
+* tornare sulla Home;
+* cliccare “Area Riservata” in alto a destra;
 * scegliere “Operatori”;
-* cliccare su “Accedi con credenziali”. 
+* cliccare su “Accedi con credenziali”.
 
-Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma proprio il Codice Fiscale) e la Parola Chiave è la Password del file PDF che hai scaricato poco fa.
+Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma proprio il Codice Fiscale) e la Parola Chiave è la Password che trovi nel file PDF che hai scaricato poco fa.
 
 ### Aggiunta dati Partita IVA
 
