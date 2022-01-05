@@ -39,8 +39,8 @@ image = "/images/info.svg"
 title = "Inizia qui"
 [params.cta.button]
 enable = true
-label = "Inizia"
-link = "https://gethugothemes.com/shop/"
+label = "Shop"
+link = "http://r.sumup.com/referrals/rprsw"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
