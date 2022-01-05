@@ -25,4 +25,5 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022.md
 - exampleSite/content/perche-fare-il-fisioterapista-nel-2022.md
