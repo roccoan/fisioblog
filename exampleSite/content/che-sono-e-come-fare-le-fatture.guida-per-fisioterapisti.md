@@ -69,15 +69,15 @@ _Cellulare ed e-mail (opzionali)_
 
 ## Data e numero del documento
 
-Le fatture devono rispettare un certo ordine, vanno numerate e si indica in che data sono state emesse. Il numeratore dura un anno, quindi il 31 dicembre il numeratore termina e riparte dal numero uno il 1° gennaio. 
+Le fatture devono rispettare un certo ordine, vanno numerate e si indica in che data sono state emesse. Il numeratore dura un anno, quindi il 31 dicembre il numeratore termina e riparte dal numero uno il 1° gennaio.
 
-Facciamo un esempio. 
+Facciamo un esempio.
 
 Inizia il 2022 ed emetto la prima fattura dell’anno il 7 gennaio 2022. Questa sarà:
 
 **Fattura n.1 del 07-01-2022**
 
-Durante l’anno, una fattura dopo l’altra, magari arrivo al 28 dicembre 2022 alla **Fattura n.43 del 28-12-2022**. 
+Durante l’anno, una fattura dopo l’altra, magari arrivo al 28 dicembre 2022 alla **Fattura n.43 del 28-12-2022**.
 
 A Capodanno non fatturo nulla, facciamo finta di riprendere il 3 gennaio 2023. La nuova fattura non sarà la n.44, ma sarà la:
 
@@ -89,7 +89,7 @@ La stragrande maggioranza delle fatture che emetto io hanno solo una riga (poche
 
 Ognuno di questi può avere prezzi diversi. Il punto di questa sezione è calcolare il totale della fattura, moltiplicando prezzo x quantità di ogni prodotto/servizio e sommando i totali.
 
-Facciamo un generico esempio, per un paziente hai svolto un ciclo di 10 terapie domiciliari a €40 e 5 tecar a €20. 
+Facciamo un generico esempio, per un paziente hai svolto un ciclo di 10 terapie domiciliari a €40 e 5 tecar a €20.
 
 La fattura sarà composta da due righe:
 
@@ -100,13 +100,13 @@ Sommando i due totali parziali (€400 delle domiciliari più €200 delle tecar
 
 ## Una volta calcolato il totale, abbiamo finito?
 
-Ni, dipende a seconda dei casi. Se ti trovi nel Regime Forfettario, abbiamo finito. 
+Ni, dipende a seconda dei casi. Se ti trovi nel Regime Forfettario, abbiamo finito.
 
 Come fai a sapere se sei nel Regime Forfettario? Se hai appena aperto la P.IVA, al 99% dei casi sei nel Regime Forfettario, che è il regime semplificato per chi si è messo in proprio da poco oppure lo è già da un po' e non supera i €60mila di fatturato annui (o €5.000 al mese - lordi- che dir si voglia).
 
 Questa guida si rivolge a chi ha aperto da poco la P.IVA, quindi è abbastanza probabile che se ti interessa l'argomento ti trovi nel Regime Forfettario, e quindi non ci addentriamo negli altri casi (dove bisogna proseguire aggiungendo agli importi l'IVA, specificando le aliquote ecc.).
 
-Quindi se sei in Regime Forfettario ai €600 dell'esempio di prima non dovrai aggiungerci l’IVA. Per questo nelle fatture che emettiamo bisogna indicare in basso la seguente dicitura:
+Quindi se sei in Regime Forfettario ai €600 dell'esempio di prima non dovrai aggiungerci l’IVA. Per questo nelle fatture che emettiamo bisogna assolutamente indicare in basso la seguente dicitura:
 
 _Operazione effettuata senza applicazione dell’IVA ai sensi dell’art.1, commi da 54 a 89, Legge n.190/2014 - Regime Forfettario. Si richiede la non applicazione della Ritenuta alla fonte a titolo di acconto come previsto Dall’art. 1, comma 67, Legge n.190/2014. Imposta di Bollo sull’Originale (per importi superiori ad €77,47)._
 
@@ -146,10 +146,18 @@ Ora che hai capito il meccanismo di base per emettere fatture, ti spiego come fa
 
 Quando sei all’inizio e magari non puoi spendere soldi per programmi gestionali, va benissimo usare Microsoft Excel, Google Fogli o LibreOffice Calc, che sono gratuiti a differenza di Excel e puoi installarli liberamente se il tuo computer non ha Office.
 
-Ti lascio dei template (che ho realizzato io) che di volta in volta dovrai modificare, salvare con nome (come ti ho spiegato nella sezione del numeratore) in una cartella apposita, e stampare se necessario. 
+Ti lascio dei template (che ho realizzato io) che di volta in volta dovrai modificare, salvare con nome (come ti ho spiegato nella sezione del numeratore) in una cartella apposita, e stampare se necessario.
 
 Ti consiglio di fare sempre il backup della tua cartella delle fatture (anche su servizi online tipo Google Drive, Dropbox, OneDrive, ecc.).
 
 Ricorda che il numeratore va rispettato alla perfezione. Se usi un gestionale il numeratore sarà gestito in automatico, ma quando le fai in autonomia fai attenzione a non creare buchi nel numeratore saltando un numero o invertendo le date.
 
-Due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti che vogliono scaricare la spesa sanitaria sostenuta presso di voi, sul Sistema Tessera Sanitaria. Ho scritto un [articolo su Sistema Tessera Sanitaria qui]( "Guida a Sistema TS").
+Due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti che vogliono scaricare la spesa sanitaria sostenuta presso di voi, sul Sistema Tessera Sanitaria. Ho scritto un [articolo su Sistema Tessera Sanitaria qui]().
+
+## Conclusione
+
+L'articolo era bello lungo, e sei arrivata/o fin qui, ti spinge davvero tanta motivazione! Spero che la guida ti sia stata utile, e ti auguro tante tante fatture :D
+
+Se hai suggerimenti su come migliorarla ulteriormente, lascia pure un commento. 
+
+Grazie ancora, e a presto!
