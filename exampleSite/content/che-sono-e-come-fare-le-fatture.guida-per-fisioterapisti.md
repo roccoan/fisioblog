@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2022-01-10T23:00:00Z
 description = "Guida alla fatturazione per chi ha appena aperto la P.IVA"
-draft = true
 image = ""
 title = "Che sono e come fare le fatture. Guida per fisioterapisti"
 type = "post"
