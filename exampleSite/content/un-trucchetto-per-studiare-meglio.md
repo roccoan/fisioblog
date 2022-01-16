@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2022-01-16T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Un trucchetto per studiare meglio"
 type = "post"
