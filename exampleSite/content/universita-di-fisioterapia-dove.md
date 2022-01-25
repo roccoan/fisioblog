@@ -3,7 +3,6 @@ author = "Federica"
 categories = []
 date = 2022-01-26T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Università di fisioterapia: Dove?"
 type = "post"
