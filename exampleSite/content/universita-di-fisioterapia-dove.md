@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = []
-date = 2022-01-26T23:00:00Z
+date = 2022-01-24T23:00:00Z
 description = ""
 image = ""
 title = "Università di fisioterapia: Dove?"
