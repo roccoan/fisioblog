@@ -10,6 +10,8 @@ type = "post"
 +++
 Questo articolo è dedicato ai fisioterapisti in erba che frequentano l’università. In realtà può tornare utile a tutti gli universitari, soprattutto a chi frequenta professioni sanitarie per i seguenti motivi.
 
+![](/images/windows-v94mlgvsza4-unsplash-1.jpg)
+
 ## Il problema
 
 Rispetto ad altre facoltà, caratterizzate da 6-10 esami all’anno e con corsi della durata misurabile in mesi, per le professioni sanitarie la situazione è ben diversa.
@@ -34,6 +36,8 @@ Mi spiego meglio: il metodo in assoluto più efficiente può essere prendere app
 
 Ma quando siamo svegli dalle 6:30 del mattino, abbiamo già fatto i pendolari per più di un’ora, lavorato tutta la mattinata, e la lezione è dopo pranzo (quando dormire sul tavolo della mensa sembra un’ottima idea), come pretendiamo di scrivere gli appunti così perfettamente? Bisogna trovare un piano B.
 
+![](/images/firmbee-com-ememmpuojlw-unsplash.jpg)
+
 ## Una soluzione
 
 Il piano B di solito sono le cosiddette _sbobinature_: si registrano le lezioni e in gruppo ognuno trascrive parte della registrazione. Ma questo metodo ha i suoi difetti: la sera siamo stanchi, magari non abbiamo un gruppo di colleghi affidabile, o magari non abbiamo proprio un gruppo di colleghi e il lavoro da fare da soli è troppo.
@@ -50,6 +54,6 @@ Quei giorni in cui non riusciamo a partecipare alla lezione, ci facciamo inviare
 
 Chiaro che qualche imperfezione ci sarà, ma siccome i documenti che verranno fuori dovremo studiarli prima o poi, ne approfittiamo per editare il documento facendo qualche correzione qua e là. Inoltre correggere, riassumere e rielaborare le frasi ci aiuterà ad acquisire i concetti e farli nostri già a partire da questa fase preliminare, aumentando ancora di più l’efficienza nello studio.
 
-Quindi, con questo metodo possiamo prendere le esatte parole che si aspetta il prof all’esame, senza rischiare di perderle quando a lezione avremo così tanto sonno da non riuscire neanche a stringere la penna in mano. 
+Quindi, con questo metodo possiamo prendere le esatte parole che si aspetta il prof all’esame, senza rischiare di perderle quando a lezione avremo così tanto sonno da non riuscire neanche a stringere la penna in mano.
 
 A presto, e spero che questo articolo possa tornarti utile!
