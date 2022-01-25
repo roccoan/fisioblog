@@ -34,6 +34,30 @@
       </div>
       {{ if .Site.DisqusShortname}}
       <div class="col-lg-8 mx-auto block shadow">
+        <!-- cta -->
+        {{ if .Site.Params.cta.enable }}
+        <section class="section pt-0">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="row shadow bg-white p-5">
+                  <div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
+                    <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" alt="..."></div>
+                  <div class="col-md-8 text-center text-md-left">
+                    <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
+                    <p>{{ .Site.Params.cta.description | markdownify }}</p>
+                    {{ if .Site.Params.cta.button.enable }}
+                    <a href="{{ .Site.Params.cta.button.link | absURL }}"
+                      class="btn btn-primary">{{ .Site.Params.cta.button.label }}</a>
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {{ end }}
+        <!-- /cta -->
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}
       </div>
