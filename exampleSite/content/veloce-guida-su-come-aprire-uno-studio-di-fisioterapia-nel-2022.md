@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Carriera", "Libera Professione"]
 date = 2022-01-27T23:00:00Z
 description = "Veloce guida all'apertura di uno studio professionale"
-draft = true
 image = ""
 title = "Veloce guida su come aprire uno studio di fisioterapia nel 2022"
 type = "post"
