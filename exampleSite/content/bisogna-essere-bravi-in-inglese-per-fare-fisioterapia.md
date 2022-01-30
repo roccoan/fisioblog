@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Inglese", "Università"]
 date = 2022-01-03T23:00:00Z
 description = "Devi andare bene in inglese per fare fisioterapia?"
-draft = true
 image = ""
 title = "Bisogna essere bravi in inglese per fare fisioterapia?"
 type = "post"
