@@ -45,9 +45,9 @@ Durante il corso di laurea, c'è solo un "esame" di inglese scientifico. Perché
 
 Ricordo che quando ho fatto Inglese Scientifico non fu affatto difficile e ci tengo a ripeterlo, io NON sono affatto brava in inglese, penso che la mia preparazione sia ferma a the cat is on the table... o era the pen? Quindi si ammetto che avevo un sacco d'ansia, ma credimi col senno di poi non era assolutamente meritevole di tutte quelle preoccupazioni.
 
-L'esame era solo scritto, quindi niente paura di parlare davanti a persone estranee (che per pura coincidenza devono anche anche valutarti e darti un giudizio) o davanti ai colleghi con cui non vuoi fare figuracce. 
+L'esame era solo scritto, quindi niente paura di parlare davanti a persone estranee (che per pura coincidenza devono anche anche valutarti e darti un giudizio) o davanti a colleghi con cui non vuoi fare figuracce. 
 
-Se va di fortuna, magari il professore sceglie anche di farlo con domande a risposta multipla, cosa che accade anche abbastanza spesso.
+Se va di fortuna, magari il professore sceglie anche di farlo con domande a risposta multipla.
 
 Inoltre, ricordo che molti termini dell'inglese scientifico erano presi direttamente dal latino, e quindi c'era molta assonanza con gli stessi termini scientifici in italiano.
 
