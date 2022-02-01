@@ -26,13 +26,13 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Uso SumUp da ormai due anni, lo uso tantissimo e devo dire che mi ci trovo davvero bene. Da qui puoi avere fino a €30 di sconto, e tu? Stavi pensando di comprarlo?"
+description = "Si lo so, in banca le commissioni sono più basse, ma in banca dovevo pagare il canone mensile di un nuovo conto e l'affitto del POS, e non mi conveniva. E tu? Stavi pensando di prenderne uno? Da qui puoi avere fino a €30 di sconto."
 enable = true
 image = "/images/info.svg"
-title = "Questa è una mini pubblicità."
+title = "Codice Amico SumUp"
 [params.cta.button]
 enable = true
-label = "Codice Amico"
+label = "Sconto SumUp"
 link = "http://r.sumup.com/referrals/rprsw"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
