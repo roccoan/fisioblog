@@ -8,7 +8,7 @@ title = "Università di fisioterapia: Dove?"
 type = "post"
 
 +++
-Stai pensando di fare fisioterapia all'università, ma non sai da dove iniziare? Se vuoi iniziare dal perché: [parti da qui](https://fisioblog.netlify.app/perche-fare-il-fisioterapista-nel-2022/ "Perché fare il fisioterapista"), oggi invece parliamo del dove.
+Stai pensando di fare fisioterapia all'università, ma non sai da dove iniziare? Se vuoi iniziare dal _perché_: [parti da qui](https://fisioblog.netlify.app/perche-fare-il-fisioterapista-nel-2022/ "Perché fare il fisioterapista"), oggi invece parliamo del _dove_.
 
 ## Introduzione
 
@@ -18,7 +18,7 @@ Quindi, se siete indecisi sul cosa studiare, oppure lo sapete già e vi sentite 
 
 ## Che cos'è Universitaly?
 
-Il sito recita: "Universitaly è il portale del Ministero dell'Istruzione, dell'Università e della Ricerca, creato appositamente per accompagnare gli studenti nel loro percorso di studi."
+Il sito recita: "Universitaly è il portale del MIUR creato appositamente per accompagnare gli studenti nel loro percorso di studi."
 
 Banalmente, serve a vedere se in una città c'è l'università e che corsi di laurea offre.
 
@@ -26,9 +26,7 @@ Ovviamente si può fare anche la ricerca al contrario. Interessati a fisioterapi
 
 Vi darà tutte le università italiane che hanno il corso di fisioterapia, permettendo di andare direttamente sul sito dell'università per maggiori informazioni.
 
-Questo può aiutarvi a scegliere, o addirittura aiutarvi ad entrare a fisioterapia nell'università a due passi da casa.
-
-Oppure semplicemente volete la conferma che la facoltà ci sia nella città dei vostri sogni.
+Questo può aiutarvi a scegliere, o addirittura aiutarvi ad entrare a fisioterapia nell'università a due passi da casa (perché magari non sapevate ci fosse), o semplicemente a darvi la conferma che la facoltà ci sia nella città dei vostri sogni.
 
 ![](/images/brooke-cagle-g1kr4ozfoac-unsplash.jpg)
 
