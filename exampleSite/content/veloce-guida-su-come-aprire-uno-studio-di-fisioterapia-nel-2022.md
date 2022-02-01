@@ -52,6 +52,6 @@ Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabi
 
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
-Dopo la comunicazione ed entru un tot di giorni (di solito novanta) l'ASL rilascia il nulla osta e lo studio è pronto per partire!
+Dopo la comunicazione ed entro un tot di giorni (di solito novanta) l'ASL rilascia il nulla osta e lo studio è pronto per partire!
 
 Per oggi è tutto, a presto!
