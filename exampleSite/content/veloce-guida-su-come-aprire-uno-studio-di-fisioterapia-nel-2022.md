@@ -48,7 +48,7 @@ Nella comunicazione per aprire uno studio, come dicevamo prima, ogni regione è 
 * la dichiarazione (sempre di un tecnico) che il locale sia agibile e che gli impianti (tipo quelli elettrici) siano a norma ed è okay per i pazienti mettere a caricare il cellulare senza far esplodere tutto;
 * la ricevuta di un pagamento a favore dell'ASL stessa (l'importo dipende dall'ASL, ma sono in genere tra i €100 e i €200 totali).
 
-Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri. 
+Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri.
 
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
