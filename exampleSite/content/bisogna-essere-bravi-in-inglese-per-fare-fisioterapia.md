@@ -24,9 +24,9 @@ No dai se ti serve qualche dettaglio in più continua pure a leggere :)
 
 ## Test di ammissione
 
-Partiamo dall'inizio: il test di ammissione. 
+Partiamo dall'inizio: il test di ammissione.
 
-Sfogliando tra le materie delle domande del test di ammissione non troveremo inglese, a conferma di quello che ti dicevo prima. 
+Sfogliando tra le materie delle domande del test di ammissione non troveremo inglese, a conferma di quello che ti dicevo prima.
 
 Per completezza le materie del test sono:
 
@@ -44,15 +44,15 @@ Durante il corso di laurea, c'è solo un "esame" di inglese scientifico. Perché
 
 Ricordo che quando ho fatto Inglese Scientifico non fu affatto difficile e ci tengo a ripeterlo, io NON sono affatto brava in inglese, penso che la mia preparazione sia ferma a the cat is on the table... o era the pen? Quindi si ammetto che avevo un sacco d'ansia, ma credimi col senno di poi non era assolutamente meritevole di tutte quelle preoccupazioni.
 
-L'esame era solo scritto, quindi niente paura di parlare davanti a persone estranee (che per pura coincidenza devono anche anche valutarti e darti un giudizio) o davanti a colleghi con cui non vuoi fare figuracce. 
+L'esame era solo scritto, quindi niente paura di parlare davanti a persone estranee (che per pura coincidenza devono anche anche valutarti e darti un giudizio) o davanti a colleghi con cui non vuoi fare figuracce.
 
-Se va di fortuna, magari il professore sceglie anche di farlo con domande a risposta multipla.
+Se poi va particolarmente bene, magari il professore sceglie anche di farlo con domande a risposta multipla.
 
 Inoltre, ricordo che molti termini dell'inglese scientifico erano presi direttamente dal latino, e quindi c'era molta assonanza con gli stessi termini scientifici in italiano.
 
 ## Conclusione
 
-Imparare l'inglese è sicuramente una competenza che nella vita prima o poi torna utile, anche solo per chiedere indicazioni mentre siamo in viaggio. 
+Imparare l'inglese è sicuramente una competenza che nella vita prima o poi torna utile, anche solo per chiedere indicazioni mentre siamo in viaggio.
 
 Io non ho mai imparato, però per esperienza credo che saperlo non mi avrebbe agevolato particolarmente in alcun modo all'università. Avessi studiato altro sicuramente sarebbe stato diverso, ma per fisioterapia e le professioni sanitarie non è necessario.
 
