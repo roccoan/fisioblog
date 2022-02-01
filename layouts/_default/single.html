@@ -32,11 +32,12 @@
         </ul>
         {{ end }}
         <!--<div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
-          img ref
+          <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" alt="...">-->
+        <div class"text-center">
+          <img src="{{ .Site.Params.cta.image | relURL }}">
         </div>
         <div class="text-center">
-        <div class="col-lg-8 text-center text-lg-left">-->
-          <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" alt="...">
+        <!--<div class="col-lg-8 text-center text-lg-left">-->
          <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
          <p>{{ .Site.Params.cta.description | markdownify }}</p>
             {{ if .Site.Params.cta.button.enable }}
