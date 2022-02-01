@@ -27,7 +27,7 @@ enable = true
 expire_days = 2
 [params.cta]
 description = "Uso SumUp da ormai due anni, lo uso tantissimo e devo dire che mi ci trovo davvero bene. Da qui puoi avere fino a €30 di sconto, magari può tornarti utile!"
-enable = true
+enable = false
 image = "/images/info.svg"
 title = "Sempre più pazienti ti chiedono di pagare con carta, ma non hai il POS e temi costi elevati?"
 [params.cta.button]
