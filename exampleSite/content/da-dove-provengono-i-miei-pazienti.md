@@ -80,6 +80,6 @@ Non mi sento quindi di concludere che i volantini non siano efficaci (perchè no
 
 Credo che la situazione delle fonti resterà stabile. 
 
-Il volantinaggio credo uscirà perché non ho intenzione di farne altro per ora. 
+Il volantinaggio credo uscirà dai conteggi perché non ho intenzione di farne altro per ora. 
 
-Internet e Passaparola immagino resteranno preponderanti, e ho intenzione di tenere altissima la qualità così che la soddisfazione dei pazienti arrivi il più possibile alle orecchie dei medici.
+Internet e Passaparola immagino resteranno preponderanti. Infine ho intenzione di tenere altissima la qualità così che la soddisfazione dei pazienti arrivi il più possibile alle orecchie dei medici.
