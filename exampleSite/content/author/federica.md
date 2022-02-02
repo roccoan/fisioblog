@@ -4,7 +4,7 @@ image = "/images/profilo.webp"
 title = "Federica"
 
 +++
-Ciao! 
+Ciao!
 
 Sono Federica, fisioterapista di professione e blogger per hobby.
 
