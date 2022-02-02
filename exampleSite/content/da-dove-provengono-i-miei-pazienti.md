@@ -74,4 +74,12 @@ Invece il resto, poco più del 20%, deriva da volantini e soprattutto dai consig
 
 I volantini sono così pochi perché non ho fatto volantinaggio. Quel singolo paziente (5,6% cioè 1 paziente su 18) non so dove ne aveva trovato uno che avevo lasciato mesi prima. 
 
-Non mi sento quindi di concludere che i volantini non siano efficaci (perchè non costano tanto e come abbiamo visto funzionano anche a distanza di mesi), ma non mi sento molto a mio agio a stampare carta straccia da lasciare in giro - soprattutto se internet funziona così bene.
+Non mi sento quindi di concludere che i volantini non siano efficaci (perchè non costano tanto e come abbiamo visto funzionano anche a distanza di mesi), ma onestamente non mi sento molto a mio agio a stampare carta straccia da lasciare in giro - soprattutto se internet funziona così bene.
+
+### Un po' di previsioni
+
+Credo che la situazione delle fonti resterà stabile. 
+
+Il volantinaggio credo uscirà perché non ho intenzione di farne altro per ora. 
+
+Internet e Passaparola immagino resteranno preponderanti, e ho intenzione di tenere altissima la qualità così che la soddisfazione dei pazienti arrivi il più possibile alle orecchie dei medici.
