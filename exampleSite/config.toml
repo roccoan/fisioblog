@@ -26,7 +26,7 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Si lo so, in banca le commissioni sono più basse, ma in banca dovevo pagare il canone mensile di un nuovo conto e l'affitto del POS, e non mi conveniva. E tu? Stavi pensando di prenderne uno? Da qui puoi avere fino a €30 di sconto."
+description = "Si lo so, in banca le commissioni erano più basse, ma in banca dovevo pagare il canone mensile di un nuovo conto e l'affitto del POS, e non mi conveniva. E tu? Stavi pensando di prenderne uno? Da qui puoi avere fino a €30 di sconto."
 enable = true
 image = "/images/undraw_discount_d4bd.jpg"
 title = "Codice Amico SumUp"
