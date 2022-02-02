@@ -26,7 +26,7 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Si lo so, in banca le commissioni erano più basse, ma tra canone mensile di un nuovo conto e affitto del POS non mi conveniva. <br>\nE tu, stavi pensando di prenderne uno?\nDì pure che ti mando io, così puoi avere fino a €30 di sconto :)"
+description = "Si lo so, in banca le commissioni erano più basse, ma tra canone mensile di un nuovo conto e affitto del POS non mi conveniva.\nE tu, stavi pensando di prenderne uno?\nDì pure che ti mando io, così puoi avere fino a €30 di sconto :)"
 enable = true
 image = "/images/undraw_discount_d4bd.jpg"
 title = "Angolino Codice Amico: SumUp"
