@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Sistema Tessera Sanitaria", "News", "Libera Professione"]
 date = 2022-02-02T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Piccolo aggiornamento su Sistema TS "
 type = "post"
