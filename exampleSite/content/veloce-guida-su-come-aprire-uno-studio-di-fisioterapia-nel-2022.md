@@ -8,7 +8,7 @@ title = "Veloce guida su come aprire uno studio di fisioterapia nel 2022"
 type = "post"
 
 +++
-Veloce guida introduttiva sull'apertura di uno studio, per chi deve farlo a breve o è semplicemente incuriosito.
+Veloce guida introduttiva sull'apertura di uno studio, per chi deve farlo a breve o è semplicemente curioso.
 
 ## Introduzione
 
