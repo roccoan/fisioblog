@@ -15,8 +15,6 @@ Una scelta del genere non è facile e purtroppo non tutti possono permettersi di
 
 A volte scegliere di non cambiare strada è solo paura, altre volte per davvero è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze come indebitarsi tanto.
 
-gli studenti hanno il trauma della DAD e tutte le insicurezze che ne derivano, i lavoratori si licenziano in massa e tutti sono alla ricerca di meglio. Molti stanno considerando di riprendere gli 
-
 ## L'età media per fisioterapia è alta
 
 Statistiche iscrizioni ai corsi di laurea
