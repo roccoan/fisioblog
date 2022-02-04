@@ -9,11 +9,25 @@ title = "Iniziare tardi l'Università"
 type = "post"
 
 +++
-Siamo nel periodo in cui molti stanno pensando di licenziarsi, molti l'hanno fatto, molti sono alla ricerca di meglio - sia cambiando carriera che riprendendo gli studi o iniziandoli per la prima volta. 
+Siamo nel periodo della Great Resignation. Il periodo in cui molti stanno pensando di licenziarsi, molti l'hanno fatto, molti sono alla ricerca di meglio - sia cambiando totalmente carriera, che riprendendo gli studi o iniziandoli per la prima volta.
 
-Una scelta del genere non è facile e purtroppo non tutti possono permettersi di portarla a termine. 
+In tanti si sentono indietro perché l'università non è andata come speravano e si ritrovano in un percorso che non li rappresenta più, mentre i propri coetanei sembrano procedere spediti, e ci si sente persi, senza sapere più dove andare.
 
-A volte scegliere di non cambiare strada è solo paura, altre volte per davvero è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze come indebitarsi tanto.
+Periodi di smarrimento che se accadono, significa che sei sulla strada giusta.
+
+## Introduzione
+
+La scelta di cambiare la direzione della propria vita non è facile e purtroppo non tutti possono permettersi di portarla a termine.
+
+A volte è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze drastiche come indebitarsi. 
+
+Soprattutto per facoltà universitarie tipo fisioterapia e le altre professioni sanitarie, in cui c'è obbligo di presenza sia per le lezioni che per i tirocini, che per forza di cose si svolgono durante gli orari lavorativi e quindi è davvero davvero difficile frequentare l'università svolgendo un altro lavoro. 
+
+Per altre facoltà magari non è così complicato fare lo studente-lavoratore, soprattutto se non c'è obbligo di frequenza o le lezioni si possono seguire online.
+
+Altre volte, a fermarci non sono cause di forza maggiore, ma semplicemente la paura di non farcela, di non essere abbastanza, di non essere in grado, di non essere in tempo.
+
+Ed è proprio della paura di essere troppo vecchi di cui parliamo oggi.
 
 ## L'età media per fisioterapia è alta
 
