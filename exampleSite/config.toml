@@ -7,24 +7,22 @@ theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Fisioterapia De Filippis"
+url = "https://fisiodefilippis.it/"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
+[[menu.main]]
+name = "Test"
+weight = 3
+[[menu.main]]
+URL = "https://gethugothemes.com/products/northendlab/"
+name = "Professionisti"
+url = "https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Universitari"
+url = "https://fisioterapisti.org/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia/"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
-[[menu.main]]
-URL = "https://gethugothemes.com/products/northendlab/"
-name = "Buy Premium"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
