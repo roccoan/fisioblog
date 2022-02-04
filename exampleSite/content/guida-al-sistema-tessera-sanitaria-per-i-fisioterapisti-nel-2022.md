@@ -6,10 +6,6 @@ description = "Guida a Sistema Tessera Sanitaria"
 image = ""
 title = "Guida al Sistema Tessera Sanitaria per i Fisioterapisti 2022"
 type = "post"
-[menu.main]
-URL = "https://gethugothemes.com/products/northendlab/"
-name = "Professionisti"
-weight = 2
 
 +++
 Quest’articolo è per i fisioterapisti – o altri professionisti sanitari – in libera professione.

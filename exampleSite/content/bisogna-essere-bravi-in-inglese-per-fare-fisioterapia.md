@@ -6,10 +6,6 @@ description = "Devi andare bene in inglese per fare fisioterapia?"
 image = ""
 title = "Bisogna essere bravi in inglese per fare fisioterapia?"
 type = "post"
-[menu.main]
-URL = "contact"
-name = "Universitari"
-weight = 1
 
 +++
 Devi sapere bene l'inglese per fare fisioterapia?
