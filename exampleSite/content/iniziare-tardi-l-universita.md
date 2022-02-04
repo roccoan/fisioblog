@@ -1,6 +1,6 @@
 +++
-author = ""
-categories = []
+author = "Redazione"
+categories = ["Università", "Studio e carriera"]
 date = 2022-02-09T23:00:00Z
 description = ""
 draft = true
@@ -52,19 +52,23 @@ Magari là fuori ci sono decine, centinaia, migliaia di manoscritti che diventer
 
 L'università dura (almeno) 3 anni. Se inizi l'università oggi, tra 3 anni quanti anni avrai? 29? 36? 50?
 
-E invece se oggi non la inizi (e non realizzi il tuo sogno), tra tre anni quanti anni avrai? Esatto, gli stessi anni. A quell'età ci arriverai comunque, che tu abbia realizzato il tuo sogno o no.
+E invece se oggi non la inizi (e non realizzi il tuo sogno), tra 3 anni quanti anni avrai? Esatto, gli stessi anni. A quell'età ci arriverai comunque, che tu abbia realizzato il tuo sogno o no.
 
 Per citare il divulgatore scientifico Barbascura X:
 
 > _"Alla fine è la storia più antica del mondo che la vita sia fatta di occasioni. Ci sono sempre due possibilità: prendere il treno e rischiarla, o lasciarlo passare e vivere di rimorsi."_ (da _Il genio non esiste - e a volte è un idiota_)
 
-## L'età media per fisioterapia è alta
+## Se pensi di iscriverti a fisioterapia, leggi qui
 
-Riconosco che quest'articolo è parecchio generico, ma siamo pur sempre su un sito che ruota attorno alla fisioterapia. 
+Riconosco che quest'articolo è parecchio generico, ma siamo pur sempre su un sito di fisioterapisti. 
 
-Secondo i [dati Almalaurea](https://www.almalaurea.it/informa/news/2016/03/01/la-professione-di-fisioterapista "Dati Almalaurea"), il 75% dei fisioterapisti inizia in media l’università con due o più anni di ritardo rispetto all’età canonica, e si laureano con un’età media molto alta (36,2 anni) rispetto alle altre lauree magistrali di secondo livello (27,2 anni) nonostante quasi tutti (il 98%) si laureano entro un anno fuori corso.
+Secondo i [dati Almalaurea](https://www.almalaurea.it/informa/news/2016/03/01/la-professione-di-fisioterapista "Dati Almalaurea"): 
 
-Questi sono i dati, e anche a livello di esperienza personale mi sento di confermarli. Quando mi sono iscritta alla triennale, non tutti i colleghi erano neodiplomati. Alcuni avevano altre lauree o studiavano altro, poi sono riusciti a passare il test e hanno iniziato Fisioterapia. Altri avevano provato il test diverse volte, e sono entrati dopo alcuni tentavi.
+* il 75% dei fisioterapisti inizia in media l’università con due o più anni di ritardo rispetto all’età canonica,
+* si laureano con un’età media molto alta (36,2 anni) rispetto alle altre lauree magistrali di secondo livello (27,2 anni) nonostante 
+* quasi tutti (il 98%) si laureano entro un anno fuori corso.
+
+Questi sono i dati, e anche a livello di esperienza personale mi sento di confermarli. Quando mi sono iscritta alla triennale, non tutti i colleghi erano neodiplomati. Alcuni avevano altre lauree o avevano iniziato a studiare altro, poi sono riusciti a passare il test e hanno iniziato fisioterapia. Altri avevano provato il test diverse volte, e sono entrati dopo alcuni tentavi.
 
 Sempre secondo le statistiche, a prescindere dall’età d’ingresso, il voto medio di laurea dei fisioterapisti è decisamente più alto rispetto alle altre lauree (109,6 contro 107,6), e le prospettive occupazionali non sono affatto male:
 
@@ -72,6 +76,10 @@ Sempre secondo le statistiche, a prescindere dall’età d’ingresso, il voto m
 * Hanno un alto accesso al lavoro nel settore pubblico;
 * La soddisfazione media è altissima.
 
-Quindi se ti piacerebbe fare fisioterapia, ma ti limita la preoccupazione di essere troppo grande per farlo, ti stai perdendo tanto perché molto probabilmente avrai colleghi più grandi di te, e dopo la laurea non c'è alcuna penalizzazione o discriminazione per l'età.
+## Conclusione
 
-Se vuoi leggere ancora sul _perché iscriversi a fisioterapia_ clicca qui.
+Se sogni di fare fisioterapia, ma ti limita la preoccupazione di essere troppo grande per farlo, ti stai perdendo tanto perché molto probabilmente avrai colleghi più grandi di te, e dopo la laurea non c'è alcuna penalizzazione o discriminazione per l'età.
+
+Se vuoi leggere ancora sul _perché iscriversi a fisioterapia_ [clicca qui](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/").
+
+Per oggi è tutto, grazie per aver letto!
