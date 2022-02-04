@@ -35,7 +35,7 @@ enable = true
 label = "Sconto SumUp"
 link = "http://r.sumup.com/referrals/rprsw"
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "plugins/bootstrap/bootstrap.min.cs"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
@@ -56,9 +56,6 @@ enable = true
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/fisioterapisti/"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
 [[params.social]]
 icon = "ti-instagram"
 link = "#"
