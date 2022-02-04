@@ -8,7 +8,7 @@ title = "Bisogna essere bravi in inglese per fare fisioterapia?"
 type = "post"
 [menu.main]
 URL = "contact"
-name = "Università"
+name = "Universitari"
 weight = 1
 
 +++
