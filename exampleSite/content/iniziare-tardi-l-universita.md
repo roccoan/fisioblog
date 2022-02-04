@@ -1,5 +1,5 @@
 +++
-author = "Redazione"
+author = "Federica"
 categories = ["Università", "Studio e carriera"]
 date = 2022-02-09T23:00:00Z
 description = ""
@@ -31,36 +31,36 @@ Ed è proprio della paura di essere troppo vecchi di cui parliamo oggi.
 
 ## Ao, vecchio a chi?
 
-Dalle notizie provenienti soprattutto dal mondo della tecnologia, sembra che a mandare avanti il mondo siano geni 19 enni diventati miliardari prestissimo fondando aziende ultra innovative, che già a 15 anni scrivevano libri e prendevano tre lauree a 16, mentre tutti gli altri siano scemi.
+Dalle notizie provenienti soprattutto dal mondo della tecnologia, sembra che a mandare avanti il mondo siano geni 19 enni diventati miliardari prestissimo fondando aziende ultra innovative, che già a 15 anni scrivevano libri e prendevano tre lauree a 16, mentre tutti gli altri sono scemi.
 
 C'è tanta competizione, i nostri coetanei sembrano andare avanti, fare cose interessanti, realizzarsi, e siamo convinti che per noi ormai tutti i treni siano passati e che alla nostra età ormai è troppo tardi.
 
-Ma ci sono tanti, tantissimi esempi che dimostrano il contrario e che a mio avviso sono utili a mettere tutto in prospettiva.
+Ma ci sono tanti, tantissimi esempi che dimostrano il contrario e che a mio avviso sono utili a mettere tutto in prospettiva:
 
-* Van Gogh ha iniziato a disegnare a 27 anni.
-* Giorgio Armani ha fondato Armani a 41 anni, Mauricio Ortega ha fondato Zara a 36, entrambi dopo aver lavorato tanti anni come commessi, e per raggiungere il livello di superstar ci sono voluti ancora anni e anni.
-* J.K. Rowling ha pubblicato il primo libro di Harry Potter a 32 anni (dopo 12 rifiuti) e Samuel Jackson è stato un attore di serie B fino a quando non ha compiuto 40 anni.
+* Van Gogh ha iniziato a disegnare a 27 anni;
+* Giorgio Armani ha fondato Armani a 41 anni, Mauricio Ortega ha fondato Zara a 36, entrambi dopo aver lavorato tanti anni come commessi, e per raggiungere il livello di superstar ci sono voluti ancora anni e anni;
+* J.K. Rowling ha pubblicato il primo libro di Harry Potter a 32 anni (dopo 12 rifiuti) e Samuel Jackson è stato un attore di serie B fino a quando non ha compiuto 40 anni;
 * Brian Crenston (cioè Walter White di Breaking Bad) ha iniziato a recitare in Malcolm nel 2000, quando aveva 44 anni.
 
-Insomma, così tantissimi personaggi famosi. Ora, è chiaro che un uomo medio a caso molto probabilmente non diventerà mai Samuel Jackson, o una superstar internazionale della fisioterapia, solo perché inizia tardi. 
+Insomma, così tantissimi altri personaggi famosi e non. Ora, è chiaro che un uomo medio a caso molto probabilmente non diventerà mai Samuel Jackson, o una superstar internazionale della fisioterapia, solo perché inizia tardi. 
 
-Ma mettiamoci in mezzo un po' di survivorship bias e chiediamoci: quante persone potevano pubblicare romanzi migliori di Harry Potter, ma non sono mai arrivate a farlo per paura di iniziare? Può essere anche che J.K. Rowling avesse anche lei tanta paura, magari non era più coraggiosa di altri, ma semplicemente più disperata (ipotizzo perché non se la passava benissimo economicamente).
+Ma mettiamoci in mezzo un po' di survivorship bias e chiediamoci: quante persone potevano pubblicare romanzi migliori di Harry Potter, ma non sono mai arrivate a farlo per paura di iniziare? Può essere che anche J.K. Rowling avesse tanta paura, e magari non era più coraggiosa di altri, ma semplicemente più disperata (ipotizzo perché non se la passava benissimo economicamente).
 
-Magari là fuori ci sono decine, centinaia, migliaia di manoscritti che diventerebbero istantaneamente il miglior libro mai scritto. E tantissime persone che a 10/20/30 anni da oggi potrebbero fare grandi cose, ma non lo fanno perchè convinti di essere "troppo vecchi", o qualsiasi altra paura. Se così fosse il mondo si è perso parecchio, e continuerà a farlo.
+Magari là fuori ci sono decine, centinaia, migliaia di manoscritti che diventerebbero istantaneamente il miglior libro mai scritto. E tantissime persone che a 10/20/30 anni da oggi potrebbero fare grandissime cose, ma non lo fanno perchè convinti di essere "troppo vecchi", o per qualsiasi altra paura. Se così fosse il mondo si è perso parecchio, e continuerà a farlo.
 
 ## A quell'età ci arriverai lo stesso
 
 L'università dura (almeno) 3 anni. Se inizi l'università oggi, tra 3 anni quanti anni avrai? 29? 36? 50?
 
-E invece se oggi non la inizi (e non realizzi il tuo sogno), tra 3 anni quanti anni avrai? Esatto, gli stessi anni. A quell'età ci arriverai comunque, che tu abbia realizzato il tuo sogno o no.
+E invece se oggi _non_ inizi l'università, tra 3 anni quanti anni avrai? Esatto, gli stessi anni. A quell'età ci arriverai comunque, che tu abbia realizzato il tuo sogno o no. E 3 anni passano in fretta, molto in fretta.
 
 Per citare il divulgatore scientifico Barbascura X:
 
-> _"Alla fine è la storia più antica del mondo che la vita sia fatta di occasioni. Ci sono sempre due possibilità: prendere il treno e rischiarla, o lasciarlo passare e vivere di rimorsi."_ (da _Il genio non esiste - e a volte è un idiota_)
+> _"Alla fine è la storia più antica del mondo che la vita sia fatta di occasioni. Ci sono sempre due possibilità: prendere il treno e rischiarla, o lasciarlo passare e vivere di rimorsi."_ (dal libro Il genio non esiste - e a volte è un idiota)
 
 ## Se pensi di iscriverti a fisioterapia, leggi qui
 
-Riconosco che quest'articolo è parecchio generico, ma siamo pur sempre su un sito di fisioterapisti. 
+Riconosco che quest'articolo è parecchio generico, ma siamo pur sempre su un sito di fisioterapisti, quindi veniamo a noi.
 
 Secondo i [dati Almalaurea](https://www.almalaurea.it/informa/news/2016/03/01/la-professione-di-fisioterapista "Dati Almalaurea"): 
 
@@ -76,10 +76,14 @@ Sempre secondo le statistiche, a prescindere dall’età d’ingresso, il voto m
 * Hanno un alto accesso al lavoro nel settore pubblico;
 * La soddisfazione media è altissima.
 
+Se vuoi leggere ancora sul _perché iscriversi a fisioterapia_ [clicca qui](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/").
+
 ## Conclusione
 
 Se sogni di fare fisioterapia, ma ti limita la preoccupazione di essere troppo grande per farlo, ti stai perdendo tanto perché molto probabilmente avrai colleghi più grandi di te, e dopo la laurea non c'è alcuna penalizzazione o discriminazione per l'età.
 
-Se vuoi leggere ancora sul _perché iscriversi a fisioterapia_ [clicca qui](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/").
+Se stai pensando di cambiare vita e iniziare da capo, spero davvero che quest'articolo ti abbia aiutato a mettere almeno qualcosina in prospettiva e a schiarire qualche idea.
 
 Per oggi è tutto, grazie per aver letto!
+
+A presto!
