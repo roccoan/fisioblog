@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Studio e carriera"]
 date = 2022-02-03T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Iniziare tardi l'Università"
 type = "post"
