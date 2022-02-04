@@ -5,6 +5,9 @@ paginate = "8"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
+[menu]
+footer = []
+main = ["Università"]
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -50,6 +53,9 @@ enable = false
 preloader = ""
 [params.search]
 enable = true
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/fisioterapisti/"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
