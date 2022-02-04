@@ -19,7 +19,7 @@ Periodi di smarrimento che se accadono, significa che sei sulla strada giusta.
 
 La scelta di cambiare la direzione della propria vita non è facile e purtroppo non tutti possono permettersi di portarla a termine.
 
-A volte è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze drastiche come indebitarsi. 
+A volte è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze drastiche come lasciare il lavoro quando non è il caso e indebitarsi. 
 
 Soprattutto per facoltà universitarie tipo fisioterapia e le altre professioni sanitarie, in cui c'è obbligo di presenza sia per le lezioni che per i tirocini, che per forza di cose si svolgono durante gli orari lavorativi e quindi è davvero davvero difficile frequentare l'università svolgendo un altro lavoro. 
 
@@ -31,9 +31,9 @@ Ed è proprio della paura di essere troppo vecchi di cui parliamo oggi.
 
 ## Ao, vecchio a chi?
 
-Dalle notizie provenienti soprattutto dal mondo della tecnologia sembra che a mandare avanti il mondo siano geni 19 enni diventati miliardari prestissimo fondando aziende ultra innovative, che a 15 già scrivevano libri e prendevano tre lauree a 16.
+Dalle notizie provenienti soprattutto dal mondo della tecnologia, sembra che a mandare avanti il mondo siano geni 19 enni diventati miliardari prestissimo fondando aziende ultra innovative, che già a 15 anni scrivevano libri e prendevano tre lauree a 16, mentre tutti gli altri siano scemi.
 
-C'è tanta competizione, i nostri coetanei sembrano andare avanti, fare cose interessanti, realizzarsi, e siamo convinti che per noi ormai tutti i treni siano passati e che alla nostra età ormai è troppo tardi. E quanto ci sentiamo scemi rispetto agli altri?
+C'è tanta competizione, i nostri coetanei sembrano andare avanti, fare cose interessanti, realizzarsi, e siamo convinti che per noi ormai tutti i treni siano passati e che alla nostra età ormai è troppo tardi.
 
 Ma ci sono tanti, tantissimi esempi che dimostrano il contrario e che a mio avviso sono utili a mettere tutto in prospettiva.
 
