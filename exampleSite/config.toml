@@ -11,9 +11,6 @@ name = "Fisioterapia De Filippis"
 url = "https://fisiodefilippis.it/"
 weight = 1
 [[menu.main]]
-name = "Test"
-weight = 3
-[[menu.main]]
 URL = "https://gethugothemes.com/products/northendlab/"
 name = "Professionisti"
 url = "https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/"
