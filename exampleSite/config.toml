@@ -7,7 +7,7 @@ theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [[menu.footer]]
 URL = "contact"
-name = "Contatti"
+name = "Fisioterapia De Filippis"
 url = "https://fisiodefilippis.it/"
 weight = 1
 [outputs]
