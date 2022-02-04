@@ -7,7 +7,7 @@ theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
 footer = []
-main = []
+main = ["Università"]
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
