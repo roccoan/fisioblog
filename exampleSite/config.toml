@@ -7,7 +7,7 @@ theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
 footer = []
-main = ["Università"]
+main = []
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -35,7 +35,7 @@ enable = true
 label = "Sconto SumUp"
 link = "http://r.sumup.com/referrals/rprsw"
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.cs"
+link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
