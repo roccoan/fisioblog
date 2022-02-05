@@ -11,12 +11,14 @@ name = "Contact"
 weight = 1
 [[menu.main]]
 URL = "home"
-name = "Universitari"
-weight = 1
+name = "Professionisti"
+url = "https://fisioterapisti.org/categories/libera-professione/"
+weight = 2
 [[menu.main]]
 URL = "home"
-name = "Professionisti"
-weight = 2
+name = "Universitari"
+url = "https://fisioterapisti.org/categories/universit%C3%A0/"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
