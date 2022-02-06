@@ -9,7 +9,7 @@ title = "Come cercare lavoro dopo la laurea"
 type = "post"
 
 +++
-eeeeeeS![](/images/joao-ferrao-4yzrcdncrvg-unsplash.jpg)
+Se ti sei appena laureata/o in fisioterapia o stai per farlo e non sai assolutamente da dove partire nella ricerca del lavoro, inizia pure da qui. Cercare lavoro per un fisioterapista è diverso, e per certi versi più semplice.
 
 ## Introduzione
 
