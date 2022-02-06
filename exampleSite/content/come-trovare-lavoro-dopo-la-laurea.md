@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e carriera", "Università"]
 date = 2022-02-05T23:00:00Z
 description = "Come cercare lavoro dopo la laurea"
-draft = true
 image = ""
 title = "Come cercare lavoro dopo la laurea"
 type = "post"
