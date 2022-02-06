@@ -96,6 +96,6 @@ Chiaramente se visitiamo più siti incontreremo alcuni annunci più volte, quind
 
 ### Conclusione
 
-Se sei
+Spero che questo articolo ti torni utile e che la ricerca del nuovo lavoro vada benone! 
 
-Spero che questo articolo ti possa tornare utile e che la ricerca del nuovo lavoro vada benone
+Grazie per aver letto, a presto :)
