@@ -13,15 +13,15 @@ Cercare lavoro dopo la laurea come dipendenti è diverso per i fisioterapisti ri
 
 ## Introduzione
 
-Scrivo questo articolo perché molte guide e articoli in merito alla ricerca di lavoro in giro per il web sono molto generici e poco specifici per i fisioterapisti.
+Scrivo questo articolo perché molte guide in merito alla ricerca di lavoro in giro per il web sono paracchio generiche e **poco specifiche per i fisioterapisti**.
 
-Se oggi non hai tanto tempo, se proprio devo sceglierne una l'informazione a mio avviso più utile da portarsi a casa è questa : 
+Se oggi non hai tanto tempo, l'informazione a mio avviso più utile da portarsi a casa è questa :
 
-> In generale il consiglio è quello di non usare assolutamente il CV Europeo.
+> In generale per tutti i lavori il consiglio è quello di _non usare assolutamente_ il CV Europeo.
 >
-> Invece per i fisioterapisti (ma anche per altre professioni sanitarie) **il CV Europeo è proprio quello più richiesto**.
+> Invece **per i fisioterapisti** (ma anche per altre professioni sanitarie) **il CV Europeo è proprio quello più richiesto**.
 
-Se non hai il CV Europeo, creane uno dalla pagina ufficiale di EUROPASS [cliccando qui](https://europa.eu/europass/eportfolio/screen/cv-editor?lang=it "Crea nuovo CV - EUROPASS").
+Se non hai il CV Europeo, creane uno dallo strumento ufficiale di EUROPASS [cliccando qui](https://europa.eu/europass/eportfolio/screen/cv-editor?lang=it "Crea nuovo CV - EUROPASS").
 
 ## La creazione del Curriculum
 
@@ -40,14 +40,51 @@ Tutto giusto, anzi giustissimo, e io ero convinta fosse così quando mi sono lau
 
 ### Come funziona per i Fisioterapisti?
 
-Premessa: questo deriva dalla mia esperienza personale. 
+Premessa: questo deriva dalla mia esperienza personale.
 
 Esperienza personale che mi ha portato a lavorare sia al nord che al sud, in posti di lavoro sia grandi che piccoli, e a contatto con decine di altri professionisti con cui mi sono confrontata.
 
-Mai, e dico mai, mi hanno richiesto un curriculum diverso da quello europeo. 
+Mai, e dico mai, mi hanno richiesto un curriculum diverso da quello europeo.
 
-Quando mi ero appena trasferita a Milano, ricordo che avevo preparato dei Curriculum personalizzati e iniziai a portarli a mano (era prima del Covid). 
+Quando mi ero appena trasferita a Milano, ricordo che avevo preparato e stampato 50 curriculum personalizzati e iniziai a portarli a mano (era prima del Covid).
 
 Non mi chiamò nessuno finchè continuando la ricerca un ambulatorio mi disse esplicitamente che i CV così erano inutili e che dovevo portarne uno in formato Europeo.
 
 Da allora è passato un po' di tempo e oggi non lavoro più come dipendente, ma la situazione sembra essere sempre la stessa. Mi è capitato nell'ultimo anno di ricevere richieste di collaborazione e nel caso fossi interessata di **allegare il CV in formato europeo**.
+
+### Come si fa il Curriculum Europeo?
+
+Bisogna andare sul [sito ufficiale](https://europa.eu/europass/eportfolio/screen/cv-editor?lang=it "CV Europeo") dell'Unione Europea e compilare i campi con le proprie informazioni. Alla fine (porta pazienza perché è un po' lungo) si può **scaricare il PDF** che si può **inviare per e-mail** o usare per **rispondere agli annunci** di lavoro.
+
+Alcuni consigli e indicazioni di carattere generale che dà il sito dell'UE per compilarlo e utilizzarlo al meglio:
+
+* **Esponi le tue esperienze in modo chiaro** - Metti in evidenza le esperienze e le competenze corrispondenti al posto di lavoro per cui ti candidi. Presta particolare attenzione alle informazioni contenute nell'annuncio di lavoro;
+* **Personalizza il CV** - Aggiorna la sezione "Qualcosa su di me" per sottolineare perché sei il candidato/la candidata più adatto/a per il posto che ti interessa. Non inserire tutta la tua storia in dettaglio. Concentrati sui fatti e sui punti essenziali corrispondenti al lavoro che hai in mente;
+* **Rendilo leggibile** - Fai in modo che il tuo CV sia facile da leggere. Usa un linguaggio chiaro e semplice. Utilizza verbi concreti (ad esempio "ho gestito", "ho sviluppato", "ho aumentato");
+* **Usa l'ordine cronologico inverso** - Inizia sempre dall'esperienza più recente. In caso di lunghe interruzioni nel percorso formativo o lavorativo, inserisci una spiegazione;
+* **Correggi e perfeziona** - Elimina gli errori ortografici e grammaticali, inserisci un indirizzo e-mail e aggiungi una tua foto professionale.
+
+### Se invece qualcuno mi chiede un CV diverso?
+
+Mai dire mai, magari qualcuno potrebbe chiedere un formato diverso da quello europeo. Le indicazioni di carattere generale sono sempre valide.
+
+Come farlo? 
+
+Se hai Office sul tuo PC, quando apri Word e crei un nuovo documento, non aprire un documento vuoto, ma scegli uno dei template di Curriculum. 
+
+Se non hai Office, vai su Google Drive e crea un nuovo Documento Google sempre scegliendo un template per Curriculum.
+
+Ti basterà compilarlo e ricorda: **la dicitura della privacy**! Prendi pure questa, aggiornata con il GDPR e in versione concisa così non ti toglie spazio:
+
+> _Autorizzo il trattamento dei dati personali contenuti nel mio Curriculum Vitae in base all’art. 13 GDPR 679/16._
+
+## Dove cerco lavoro?
+
+Bene, dopo aver creato il CV dobbiamo inviarlo. Siamo nel 2022 e non serve portarlo a mano porta a porta, vediamo come usare internet. Ti elenco un po' di portali e aggregatori:
+
+* **Google** - scrivi nella ricerca "lavoro fisioterapista" e ti appaiono tanti risultati nella tua zona. Sono aggregati da diversi siti, alcuni sono annunci spazzatura, ma forse è il più completo;
+* **Almalaurea** - non è tra i più "forniti" ma rispetto a quando mi sono laureata io sembra essere decisamente migliorato;
+* **Indeed** e **Monster** - sono due colossi, meritano di essere visitati, molte agenzie interinali pubblicano qui;
+* **Subito.it** - alla sezione Annunci di Lavoro, di solito sono annunci più locali, alcuni centri pubblicano solo qui;
+* **Linkedin** - con Linkedin si apre un mondo, c'è tutta una strategia dietro, ma per i fisioterapisti non è necessaria. C'è una sezione di annunci di lavoro, si può partire da quella;
+* 
