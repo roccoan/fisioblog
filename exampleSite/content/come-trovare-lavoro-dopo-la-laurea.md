@@ -14,7 +14,7 @@ Se ti sei appena laureata/o in fisioterapia o stai per farlo e non sai assolutam
 
 ## Introduzione
 
-Scrivo questo articolo perché molte guide in merito alla ricerca di lavoro in giro per il web sono paracchio generiche e **poco specifiche per i fisioterapisti**.
+Scrivo questo articolo perché molte guide in merito alla ricerca di lavoro in giro per il web sono parecchio generiche e **poco specifiche per i fisioterapisti**.
 
 Se oggi non hai tanto tempo, l'informazione a mio avviso più utile da portarsi a casa è questa :
 
@@ -96,6 +96,6 @@ Chiaramente se visitiamo più siti incontreremo alcuni annunci più volte, quind
 
 ### Conclusione
 
-Spero che questo articolo ti torni utile e che la ricerca del nuovo lavoro vada benone! 
+Spero che questo articolo ti torni utile e che la ricerca del nuovo lavoro vada benone!
 
 Grazie per aver letto, a presto :)
