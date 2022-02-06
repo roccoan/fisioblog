@@ -25,6 +25,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/5-cose-da-fare-appena-dopo-la-laurea-in-fisioterapia.md
 - exampleSite/content/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia.md
 - exampleSite/content/bisogna-essere-bravi-in-matematica-per-fare-fisioterapia.md
 - exampleSite/content/come-funzionano-i-corsi-dopo-la-laurea-gli-ecm-agenas.md
