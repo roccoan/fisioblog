@@ -80,11 +80,11 @@ Ti basterà compilarlo e ricorda: **la dicitura della privacy**! Prendi pure que
 
 ## Dove cerco lavoro?
 
-Bene, dopo aver creato il CV dobbiamo inviarlo. Siamo nel 2022 e non serve portarlo a mano porta a porta, vediamo come usare internet. Ti elenco un po' di portali e aggregatori:
+Bene, dopo aver creato il CV dobbiamo inviarlo. Siamo nel 2022 e non serve portarlo a mano porta a porta, vediamo come usare internet. Ti elenco un po' di portali e aggregatori dove inviare le candidature:
 
 * **Google** - scrivi nella ricerca "lavoro fisioterapista" e ti appaiono tanti risultati nella tua zona. Sono aggregati da diversi siti, alcuni sono annunci spazzatura, ma forse è il più completo;
-* **Almalaurea** - non è tra i più "forniti" ma rispetto a quando mi sono laureata io sembra essere decisamente migliorato;
+* **Almalaurea** - non è tra i più "forniti" ma rispetto a quando mi sono laureata io sembra essere decisamente migliorato ed è adatto ai neolaureati;
 * **Indeed** e **Monster** - sono due colossi, meritano di essere visitati, molte agenzie interinali pubblicano qui;
 * **Subito.it** - alla sezione Annunci di Lavoro, di solito sono annunci più locali, alcuni centri pubblicano solo qui;
 * **Linkedin** - con Linkedin si apre un mondo, c'è tutta una strategia dietro, ma per i fisioterapisti non è necessaria. C'è una sezione di annunci di lavoro, si può partire da quella;
-* 
+* **Ticonsiglio** - sito aggiornato molto di frequente che pubblica notizie sul mondo del lavoro. Interessa tutti i lavori, ma ogni tanto appare qualche notizia interessante per noi fisioterapisti;
