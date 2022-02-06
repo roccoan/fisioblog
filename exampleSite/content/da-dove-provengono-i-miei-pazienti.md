@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-01-29T23:00:00Z
 description = "Fonti nuovi pazienti"
-draft = true
 image = ""
 title = "Da dove provengono i miei pazienti? Gennaio 2022"
 type = "post"
