@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Libera Professione"]
-date = 2022-02-03T23:00:00Z
+date = 2022-01-29T23:00:00Z
 description = "Fonti nuovi pazienti"
 draft = true
 image = ""
@@ -42,7 +42,7 @@ Io ho usato Modelli Google per creare un form per l'accettazione. Tra le domande
 
 ### Limitazioni
 
-Questa metodologia ha sicuramente delle limitazioni, non è al 100% scientifica. Questo perché non è mia intenzione pubblicare un paper, ma semplicemente prendere più consapevolezza su dove arrivano i miei pazienti. 
+Questa metodologia ha sicuramente delle limitazioni, non è al 100% scientifica. Questo perché non è mia intenzione pubblicare un paper, ma semplicemente prendere più consapevolezza su dove arrivano i miei pazienti.
 
 Farlo ovviamente non è necessario, ma se iniziamo a farlo i risultati magari ci sorprenderanno perché non ci aspettiamo che una larga fetta di pazienti arrivi da una certa fonte.
 
@@ -56,7 +56,7 @@ Inoltre, la quantità di pazienti provenienti da una determinata fonte non è in
 
 Consapevoli di queste limitazioni, direi di procedere oltre.
 
-> _*Volendo si potrebbe aggiungere un campo per indicare se il paziente ha continuato o meno con la fisioterapia._ 
+> _*Volendo si potrebbe aggiungere un campo per indicare se il paziente ha continuato o meno con la fisioterapia._
 >
 > _Però secondo me va bene comunque includere chi non prosegue con la terapia perché segnare chi fa almeno l'accettazione rende l'idea di quanto sia efficace una certa fonte, che è il nostro obiettivo._
 
@@ -86,6 +86,12 @@ Credo che nel corso di quest'anno la situazione delle fonti resterà abbastanza 
 
 Il volantinaggio credo uscirà dai conteggi perché non ho intenzione di farne altro.
 
-Internet e Passaparola immagino resteranno preponderanti. 
+Internet e Passaparola immagino resteranno preponderanti.
 
 Infine ho intenzione di tenere altissima la qualità così che la soddisfazione dei pazienti arrivi il più possibile alle orecchie dei medici.
+
+## Conclusione
+
+Per oggi è tutto, ci aggiorniamo sull'argomento a fine anno!
+
+A presto :)
