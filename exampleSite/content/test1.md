@@ -8,4 +8,4 @@ title = "test1"
 type = "post"
 
 +++
-test
+test1
