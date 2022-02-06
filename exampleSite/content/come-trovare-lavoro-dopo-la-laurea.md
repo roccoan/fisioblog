@@ -11,6 +11,8 @@ type = "post"
 +++
 Se ti sei appena laureata/o in fisioterapia o stai per farlo e non sai assolutamente da dove partire nella ricerca del lavoro, inizia pure da qui. Cercare lavoro per un fisioterapista è diverso, e per certi versi più semplice.
 
+![](/images/undraw_online_resume_re_ru7s.png)
+
 ## Introduzione
 
 Scrivo questo articolo perché molte guide in merito alla ricerca di lavoro in giro per il web sono paracchio generiche e **poco specifiche per i fisioterapisti**.
