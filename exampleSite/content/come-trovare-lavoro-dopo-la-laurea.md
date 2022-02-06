@@ -2,14 +2,14 @@
 author = "Federica"
 categories = ["Studio e carriera", "Università"]
 date = 2022-02-05T23:00:00Z
-description = "Come trovare lavoro dopo la laurea"
+description = "Come cercare lavoro dopo la laurea"
 draft = true
 image = ""
-title = "Come trovare lavoro dopo la laurea"
+title = "Come cercare lavoro dopo la laurea"
 type = "post"
 
 +++
-Cercare lavoro dopo la laurea come dipendenti è diverso per i fisioterapisti rispetto ad altre professioni, scopriamo come.
+eeeeeeS![](/images/joao-ferrao-4yzrcdncrvg-unsplash.jpg)
 
 ## Introduzione
 
@@ -68,9 +68,9 @@ Alcuni consigli e indicazioni di carattere generale che dà il sito dell'UE per 
 
 Mai dire mai, magari qualcuno potrebbe chiedere un formato diverso da quello europeo. Le indicazioni di carattere generale sono sempre valide.
 
-Come farlo? 
+Come farlo?
 
-Se hai Office sul tuo PC, quando apri Word e crei un nuovo documento, non aprire un documento vuoto, ma scegli uno dei template di Curriculum. 
+Se hai Office sul tuo PC, quando apri Word e crei un nuovo documento, non aprire un documento vuoto, ma scegli uno dei template di Curriculum.
 
 Se non hai Office, vai su Google Drive e crea un nuovo Documento Google sempre scegliendo un template per Curriculum.
 
@@ -80,7 +80,7 @@ Ti basterà compilarlo e ricorda: **la dicitura della privacy**! Prendi pure que
 
 ## Dove cerco lavoro?
 
-Bene, dopo aver creato il CV dobbiamo inviarlo. Siamo nel 2022 e non serve portarlo a mano porta a porta, vediamo come usare internet. 
+Bene, dopo aver creato il CV dobbiamo inviarlo. Siamo nel 2022 e non serve portarlo a mano porta a porta, vediamo come usare internet.
 
 Ti elenco un po' di portali e aggregatori dove inviare le candidature. In tutti questi basterà cercare "fisioterapista".
 
@@ -92,3 +92,9 @@ Ti elenco un po' di portali e aggregatori dove inviare le candidature. In tutti 
 * **Ticonsiglio** - sito aggiornato molto di frequente che pubblica notizie sul mondo del lavoro. Interessa tutti i lavori, ma ogni tanto appare qualche notizia interessante per noi fisioterapisti;
 
 Chiaramente se visitiamo più siti incontreremo alcuni annunci più volte, quindi attenzione a non candidarsi due volte (ma se capita non è un dramma, conosco persone che l'hanno fatto e sono state comunque assunte).
+
+### Conclusione
+
+Se sei
+
+Spero che questo articolo ti possa tornare utile e che la ricerca del nuovo lavoro vada benone
