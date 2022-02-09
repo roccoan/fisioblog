@@ -33,7 +33,7 @@ Allora sono quelli che curano la postura? Si, possono anche fare quello, ma non 
 
 Allora fanno manipolazioni per "sistemare" le articolazioni! Si, possono fare anche questo (che tra le altre cose è quello che fanno gli _osteopati_).
 
-> Non me ne vogliano gli appartenenti alle categorie citate per questa semplificazione eccessiva. La mia intenzione vuole essere quella di fornire un'idea a chi non è dell'ambito di quante possibilità di carriera diverse ci siano.
+> Non me ne vogliano gli appartenenti alle categorie citate per questa semplificazione eccessiva. La mia intenzione vuole essere quella di fornire un'idea di base a chi non è dell'ambito di quante possibilità di carriera diverse ci siano.
 
 Quindi, per fare un'altra considerazione, se ci ispirano solo alcuni aspetti e non ci importa delle ulteriori attività che possono fare i fisioterapisti, ci sono anche altre opportunità da valutare.
 
