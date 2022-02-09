@@ -23,7 +23,7 @@ Voglio iniziare quindi una serie di articoli che raccontano cosa aspettarsi da q
 
 La domanda è: perché c'è il bisogno di raccontarlo?
 
-Non ho dubbi che se si chiede a una persona a caso cosa faccia un fisioterapista la risposta sarebbe "i massaggi!"
+Non ho dubbi che se si chiede a una persona a caso cosa faccia un fisioterapista la risposta sarebbe molto probabilmente: "i massaggi!"
 
 Chiaramente si possono fare _anche_ i massaggi, ma non sono l'unica attività che può svolgere un fisioterapista e alcune specializzazioni addirittura non ne fanno affatto.
 
@@ -45,7 +45,9 @@ Il fisioterapista quindi, oltre alle cose già viste, può fare anche tanto altr
 
 Se dovessi riassumere in una frase cosa fa il fisioterapista:
 
-> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima di un trauma, un intervento, una patologia o modificatosi a causa di un certo stile di vita. Questo recupero deve avvenire in tempi ragionevolmente brevi, ed è ancora meglio se si riesce a recuperare tutto.
+> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima di un trauma, un intervento, una patologia o a causa di un certo stile di vita. 
+>
+> Questo recupero deve avvenire in tempi ragionevolmente brevi, ed è ancora meglio se si riesce a recuperare tutto.
 
 Per far recuperare la qualità della vita, il fisioterapista ha a disposizione tutta una serie di **strumenti**. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
 
@@ -57,6 +59,26 @@ Il mestiere del fisioterapista è quindi sapere:
 
 * **quali sono gli strumenti** più indicati per ogni problema;
 * **come combinarli** insieme;
-* come fornire anche un **supporto psicologico**, motivando, spronando e convincendo il paziente che ce la può fare a migliorare e a ritornare ad uno stato di salute quantomeno accettabile. 
+* fornire un **supporto psicologico**, motivando, spronando e convincendo il paziente che ce la può fare a migliorare e a ritornare ad uno stato di salute migliore. 
 
 Molto più spesso di quello che si crede, i pazienti tornano addirittura a fare cose impensabili per la loro situazione. Non so se hai mai sentito le parole _"mi avevano detto che non sarei mai più riuscito ad andare in bici/alzare pesi/correre/altro e invece ora riesco"_.
+
+## Dove può fare queste cose?
+
+Ci sono diversi posti in cui si svolge la professione, e in ognuno si fa qualcosa di particolare (perchè posti diversi possono contenere strumenti diversi). Vediamoli un po'.
+
+### Ospedali, Ambulatori dell'ASL
+
+I posti sicuramente più rilevanti sono ospedali, seguito dalle ASL. Non a caso sono i posti dove in genere si fanno i tirocini durante il corso di laurea.
+
+Qui quello che fa un fisioterapista dipende in buona sostanza dal reparto o dall'attività principale che si svolge in ambulatorio.
+
+Per dire, nel reparto di cardiologia dell'ospedale il fisioterapista porta avanti la riabilitazione cardiologica, per esempio ai pazienti dopo un infarto.
+
+Nel reparto di malattie respiratorie si occupa di pazienti che devono recuperare le facoltà respiratorie, in quello di ortopedia magari deve far tornare a camminare qualcuno che ha subito un intervento chirurgico al femore, e così via. 
+
+Discorso molto simile nelle ASL dove però l'attività non è di reparto (dove ci sono persone ricoverate) ma di ambulatorio (i pazienti dormono a casa loro per intenderci, non nel letto in un ospedale, e si presentano solo per fare la fisioterapia).
+
+A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà molto importanti dove ci sono a disposizione robot, esoscheletri, macchinari complessi e costosi insomma. 
+
+Anche da reparto a reparto cambiano gli strumenti disponibili che sono diversi per adattarli alle terapie richieste nel reparto stesso. 
