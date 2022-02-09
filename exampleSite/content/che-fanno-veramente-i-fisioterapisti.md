@@ -67,7 +67,7 @@ Molto più spesso di quello che si crede, i pazienti tornano addirittura a fare 
 
 Ci sono diversi posti in cui si svolge la professione, e in ognuno si fa qualcosa di particolare (perchè posti diversi possono contenere strumenti diversi). Vediamoli un po'.
 
-### Ospedali, Ambulatori dell'ASL
+### Ospedali e Ambulatori dell'ASL
 
 I posti sicuramente più rilevanti sono ospedali e ASL. Non a caso sono i posti dove in genere si fanno i tirocini durante il corso di laurea.
 
@@ -79,6 +79,12 @@ Nel reparto di malattie respiratorie si occupa di pazienti che devono recuperare
 
 Discorso molto simile nelle ASL dove però l'attività non è di reparto (dove ci sono persone ricoverate) ma di ambulatorio (i pazienti dormono a casa loro per intenderci, non nel letto in un ospedale, e si presentano solo per fare la fisioterapia).
 
-A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà molto importanti (per lo più private, credo) dove ci sono a disposizione robot, esoscheletri e altri macchinari complessi (e costosi). 
+A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà ospedaliere molto importanti (per lo più private, credo) dove ci sono a disposizione robot, esoscheletri e altri macchinari complessi (e costosi). 
 
 Anche nello stesso ospedale possono cambiare gli strumenti disponibili da reparto a reparto, per adattarli alle terapie richieste nel reparto stesso.
+
+### RSA e centri diurni
+
+Abbiamo già parlato del tema dell'invecchiamento della popolazione [_qui_](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perché fare il fisioterapista"). 
+
+RSA e centri diurni (anche qua la differenza di base è che in un posto il paziente ci dorme, nell'altro no) sono più orientati alla cura del paziente geriatrico che avrà problemi legati all'invecchiamento come difficoltà motorie, Parkinson e Alzheimer.
