@@ -37,6 +37,16 @@ Allora fanno manipolazioni per "sistemare" le articolazioni! Si, possono fare an
 
 Quindi, per fare un'altra considerazione, se ci ispirano particolarmente questi aspetti ci sono anche altre opportunità da valutare. 
 
-Per esempio, se ci ispira particolarmente la terapia manuale ma non ci importa assolutamente del resto (tipo studiare come si riabilitano i pazienti con patologie gravi in un reparto d'ospedale) perchè considerare solo la laurea in fisioterapia e non anche i corsi di osteopatia? 
+Per esempio, se ci ispira particolarmente la terapia manuale ma non ci importa assolutamente del resto (tipo studiare come si riabilitano i pazienti con patologie gravi in un reparto d'ospedale) perchè considerare solo la laurea in fisioterapia e non anche un corso di osteopatia? 
 
-Chiaramente sono valutazioni che 
+Il fisioterapista quindi, oltre alle cose già viste, può fare anche tanto altro.
+
+## Cosa può fare quindi un fisioterapista?
+
+Se dovessi riassumere in una frase cosa fa il fisioterapista:
+
+> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima (di un trauma, un intervento, una patologia o per un certo stile di vita).
+
+Per far recuperare la qualità della vita ha a disposizione tutta una serie di strumenti. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
+
+Questi altri strumenti possono essere molto semplici, tipo un foglio con su disegnate delle righe da seguire con il dito per i pazienti che devono recuperare l'utilizzo della mano. Oppure strumenti molto complessi 
