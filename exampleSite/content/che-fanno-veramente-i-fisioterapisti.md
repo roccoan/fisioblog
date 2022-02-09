@@ -88,3 +88,11 @@ Anche nello stesso ospedale possono cambiare gli strumenti disponibili da repart
 Abbiamo già parlato del tema dell'invecchiamento della popolazione [_qui_](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perché fare il fisioterapista"). 
 
 RSA e centri diurni (anche qua la differenza di base è che in un posto il paziente ci dorme, nell'altro no) sono più orientati alla cura del paziente geriatrico che avrà problemi legati all'invecchiamento come difficoltà motorie, Parkinson e Alzheimer.
+
+### Centri privati
+
+I centri privati sono molto variegati. 
+
+Si parte da quelli molto semplici dove magari c'è solo un lettino, pochi attrezzi e una scrivania, a quelli enormi con vere e proprie palestre e piscine per l'idrokinesiterapia.
+
+Nel mezzo la maggior parte dei centri fa un po' di tutto, ha macchinari a disposizione come Tecar, Magneto, Idroforesi, Elettrostimolazione, si fa posturale, riabilitazione a seguito di traumi o interventi, terapie manuali, riabilitazione del pavimento pelvico, insomma davvero tante attività.
