@@ -49,4 +49,4 @@ Se dovessi riassumere in una frase cosa fa il fisioterapista:
 
 Per far recuperare la qualità della vita ha a disposizione tutta una serie di strumenti. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
 
-Questi altri strumenti possono essere molto semplici, tipo un foglio con su disegnate delle righe da seguire con il dito per i pazienti che devono recuperare l'utilizzo della mano. Oppure strumenti molto complessi 
+Questi altri strumenti possono essere molto semplici, tipo un foglio con su disegnate delle righe da seguire con il dito per i pazienti che devono recuperare l'utilizzo della mano. Oppure strumenti molto complessi tipo macchinari, esoscheletri o robot.
