@@ -17,27 +17,27 @@ Iscriversi ad un corso di laurea senza sapere esattamente di cosa si tratta, ma 
 
 Avere però le idee chiare su cosa fa davvero un fisioterapista aiuta a intraprendere questa strada con maggiore consapevolezza e meno alla cieca.
 
-Voglio iniziare quindi una serie di articoli che raccontano cosa aspettarsi da questo fantastico percorso. 
+Voglio iniziare quindi una serie di articoli che raccontano cosa aspettarsi da questo fantastico percorso.
 
 ### Perché?
 
-La domanda è: perché c'è il bisogno di raccontarlo? 
+La domanda è: perché c'è il bisogno di raccontarlo?
 
 Non ho dubbi che se si chiede a una persona a caso cosa faccia un fisioterapista la risposta sarebbe "i massaggi!"
 
-Chiaramente si possono fare _anche_ i massaggi, ma non sono l'unica attività che può svolgere un fisioterapista e alcune specializzazioni addirittura non ne fanno affatto. 
+Chiaramente si possono fare _anche_ i massaggi, ma non sono l'unica attività che può svolgere un fisioterapista e alcune specializzazioni addirittura non ne fanno affatto.
 
-Per essere precisi, la figura professionale che ha come prerogativa quella del massaggio è il _massoterapista_. 
+Per essere precisi, la figura professionale che ha come prerogativa quella del massaggio è il _massoterapista_.
 
-Allora sono quelli che curano la postura! Si, possono anche fare quello, ma non solo quello. Chi fa solo quello si chiama _posturologo_. 
+Allora sono quelli che curano la postura? Si, possono anche fare quello, ma non solo quello. Chi fa quello si chiama _posturologo_.
 
 Allora fanno manipolazioni per "sistemare" le articolazioni! Si, possono fare anche questo (che tra le altre cose è quello che fanno gli _osteopati_).
 
-> Non me ne vogliano gli appartenenti alle categorie citate per questa semplificazione eccessiva, è solo per dare un'idea  a chi non è dell'ambito di quante possibilità di carriera ci sono. 
+> Non me ne vogliano gli appartenenti alle categorie citate per questa semplificazione eccessiva. La mia intenzione vuole essere quella di fornire un'idea a chi non è dell'ambito di quante possibilità di carriera diverse ci siano.
 
-Quindi, per fare un'altra considerazione, se ci ispirano particolarmente questi aspetti ci sono anche altre opportunità da valutare. 
+Quindi, per fare un'altra considerazione, se ci ispirano solo alcuni aspetti e non ci importa delle ulteriori attività che possono fare i fisioterapisti, ci sono anche altre opportunità da valutare.
 
-Per esempio, se ci ispira particolarmente la terapia manuale ma non ci importa assolutamente del resto (tipo studiare come si riabilitano i pazienti con patologie gravi in un reparto d'ospedale) perchè considerare solo la laurea in fisioterapia e non anche un corso di osteopatia? 
+Per esempio, se ci ispira particolarmente la terapia manuale ma non ci importa assolutamente del resto (tipo studiare come si riabilitano i pazienti con patologie respiratorie gravi in un reparto ospedaliero) perchè considerare solo la laurea in fisioterapia e non un corso di osteopatia?
 
 Il fisioterapista quindi, oltre alle cose già viste, può fare anche tanto altro.
 
@@ -45,8 +45,20 @@ Il fisioterapista quindi, oltre alle cose già viste, può fare anche tanto altr
 
 Se dovessi riassumere in una frase cosa fa il fisioterapista:
 
-> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima (di un trauma, un intervento, una patologia o per un certo stile di vita).
+> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima di un trauma, un intervento, una patologia o modificatosi a causa di un certo stile di vita.
+>
+> Ancora meglio se si riesce a recuperare tutto.
 
-Per far recuperare la qualità della vita ha a disposizione tutta una serie di strumenti. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
+Per far recuperare la qualità della vita, il fisioterapista ha a disposizione tutta una serie di **strumenti**. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
 
-Questi altri strumenti possono essere molto semplici, tipo un foglio con su disegnate delle righe da seguire con il dito per i pazienti che devono recuperare l'utilizzo della mano. Oppure strumenti molto complessi tipo macchinari, esoscheletri o robot.
+Questi altri strumenti possono essere **molto semplici**, tipo un foglio di carta con su disegnate delle righe da seguire con il dito per i pazienti che devono recuperare l'utilizzo della mano. Oppure strumenti molto **molto complessi** e costosissimi tipo gli esoscheletri o i robot.
+
+Nel mezzo ci sono tutta una serie di tecniche, strumenti e procedure che possono essere anche combinati insieme. 
+
+Il mestiere del fisioterapista è quindi sapere: 
+
+* **quali sono gli strumenti** più indicati per ogni problema;
+* **come combinarli** insieme;
+* come fornire anche un **supporto psicologico**, motivando, spronando e convincendo il paziente che ce la può fare a migliorare e a ritornare ad uno stato di salute quantomeno accettabile. 
+
+Molto più spesso di quello che si crede, i pazienti tornano addirittura a fare cose impensabili per la loro situazione. Non so se hai mai sentito le parole _"mi avevano detto che non sarei mai più riuscito ad andare in bici/alzare pesi/correre/altro e invece ora riesco"_.
