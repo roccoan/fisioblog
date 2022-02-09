@@ -45,9 +45,7 @@ Il fisioterapista quindi, oltre alle cose già viste, può fare anche tanto altr
 
 Se dovessi riassumere in una frase cosa fa il fisioterapista:
 
-> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima di un trauma, un intervento, una patologia o modificatosi a causa di un certo stile di vita.
->
-> Ancora meglio se si riesce a recuperare tutto.
+> Far recuperare ai pazienti almeno una parte della qualità della vita che avevano prima di un trauma, un intervento, una patologia o modificatosi a causa di un certo stile di vita. Questo recupero deve avvenire in tempi ragionevolmente brevi, ed è ancora meglio se si riesce a recuperare tutto.
 
 Per far recuperare la qualità della vita, il fisioterapista ha a disposizione tutta una serie di **strumenti**. Alcuni li abbiamo visti prima (terapie manuali, massoterapie, esercizi posturali), ma ce ne sono altri.
 
