@@ -96,3 +96,11 @@ I centri privati sono molto variegati.
 Si parte da quelli molto semplici dove magari c'è solo un lettino, pochi attrezzi e una scrivania, a quelli enormi con vere e proprie palestre e piscine per l'idrokinesiterapia.
 
 Nel mezzo la maggior parte dei centri fa un po' di tutto, ha macchinari a disposizione come Tecar, Magneto, Idroforesi, Elettrostimolazione, si fa posturale, riabilitazione a seguito di traumi o interventi, terapie manuali, riabilitazione del pavimento pelvico, insomma davvero tante attività.
+
+## Conclusione
+
+Ho cercato di dare una panoramica, ma riconosco di aver elencato tanti termini di cui sicuramente non ne conosci il significato. 
+
+Se sei curiosa/o ti invito magari a fare ricerche (essere curiosi è una competenza che ti servirà tanto quando sarai dei nostri!), ma ho in mente di fare una serie di articoli per dare un'idea ancora più dettagliata di cosa può fare un fisioterapista.
+
+Ti ringrazio per aver letto, a presto!
