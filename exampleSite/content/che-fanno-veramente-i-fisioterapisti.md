@@ -81,4 +81,4 @@ Discorso molto simile nelle ASL dove però l'attività non è di reparto (dove c
 
 A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà molto importanti dove ci sono a disposizione robot, esoscheletri, macchinari complessi e costosi insomma. 
 
-Anche da reparto a reparto cambiano gli strumenti disponibili che sono diversi per adattarli alle terapie richieste nel reparto stesso. 
+Anche da reparto a reparto cambiano gli strumenti disponibili che sono diversi per adattarli alle terapie richieste nel reparto stesso.
