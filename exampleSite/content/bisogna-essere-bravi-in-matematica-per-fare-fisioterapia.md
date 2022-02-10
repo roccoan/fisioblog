@@ -56,10 +56,19 @@ Fine!
 
 # Considerazioni finali
 
-Vero che con questo articolo e gli altri sull'inglese voglio rassicurare sulle varie preoccupazioni. 
+Con questo articolo e gli altri sull'inglese voglio rassicurare sulle varie preoccupazioni. 
 
 Ma sia chiaro, l'Università e il test d'ingresso non sono facili e il mio rassicurare non vuole essere un "ma va, andrà tutto bene!" fine a sé stesso.
 
 L'atteggiamento giusto è quello di volersi mettere in gioco, di volersi spingere oltre, di andare oltre quello che pensiamo di valere e di andare oltre quello che pensiamo di essere in grado di fare. 
 
 Se pensiamo "non ho fatto lo scientifico allora non posso fare materie scientifiche", stiamo perdendo il punto dell'università.
+
+Se pensiamo: "non sono bravo in matematica, in biologia, in chimica, in fisica (o qualsiasi altra cosa)" e in base a questo non facciamo cose, ci perdiamo un sacco di opportunità! Se non siamo bravi in qualcosa, l'Università serve a superare questo limite. Fa paura? Certo, ma per quanto difficile ti assicuro che all'Università:
+
+1. Le cose vengono fatte gradualmente (dalle cose facili pian piano si passa a quelle più difficili);
+2. C'è moltissimo tempo in più a disposizione (a differenza delle superiori che ogni giorno c'è un compito o un'interrogazione da preparare).
+
+Quindi, difficile è difficile, ma io dico che ne vale la pena!
+
+Grazie per essere passata/o di qui, alla prossima :)
