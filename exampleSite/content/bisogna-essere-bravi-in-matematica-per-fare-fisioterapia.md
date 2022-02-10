@@ -18,7 +18,7 @@ Abbastanza inavvertitamente mi sono ritrovata a fare questa serie di articoli in
 * Serve essere [bravi in inglese](https://fisioterapisti.org/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia/ "https://fisioterapisti.org/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia/")?
 * Bisogna essere [neodiplomati](https://fisioterapisti.org/iniziare-tardi-l-universita/ "https://fisioterapisti.org/iniziare-tardi-l-universita/")?
 
-Oggi vediamo brevemente l'argomento matematica.
+Oggi vediamo brevemente l'argomento matematica per chi ha il terrore e sa che la matematica non sarà mai il suo mestiere.
 
 ![](/images/jeswin-thomas-hecib2an4t4-unsplash.jpg)
 
@@ -38,7 +38,7 @@ Gli argomenti sono suddivisi tra le materie in questo modo:
 * 12 domande di _Chimica_;
 * 8 domande di _Matematica_ e _Fisica_.
 
-Okay, non sembrano poi tantissime le domande di matematica, ma quali sono gli argomenti richiesti? Sono _algebra, funzioni, geometria, probabilità, statistica_.
+Okay, le domande di matematica non sembrano poi tantissime, ma quali sono gli argomenti richiesti? Sono _algebra, funzioni, geometria, probabilità, statistica_.
 
 Come **fonte** ti linko il [Decreto del MIUR del 2021 con l'elenco completo](http://www.alphatest.it/content/download/1450528/29085506 "Elenco Argomenti - Decreto MIUR 2021") (quello del 2022 ancora non viene pubblicato - controlla la sezione di Professioni Sanitarie perché il decreto riguarda anche Medicina, Odontoiatria e Veterinaria - si ringrazia AlphaTest per il link).
 
@@ -50,4 +50,16 @@ In percentuale quindi **le domande di matematica sono solo il 6,7% di tutto il t
 
 ## E durante il corso di studi?
 
-Non ci sono esami di matematica durante il corso di laurea, 
+Durante il corso di laurea **non ci sono esami di matematica**.
+
+Fine!
+
+# Considerazioni finali
+
+Vero che con questo articolo e gli altri sull'inglese voglio rassicurare sulle varie preoccupazioni. 
+
+Ma sia chiaro, l'Università e il test d'ingresso non sono facili e il mio rassicurare non vuole essere un "ma va, andrà tutto bene!" fine a sé stesso.
+
+L'atteggiamento giusto è quello di volersi mettere in gioco, di volersi spingere oltre, di andare oltre quello che pensiamo di valere e di andare oltre quello che pensiamo di essere in grado di fare. 
+
+Se pensiamo "non ho fatto lo scientifico allora non posso fare materie scientifiche", stiamo perdendo il punto dell'università.
