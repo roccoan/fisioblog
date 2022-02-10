@@ -47,3 +47,7 @@ Quindi, possono capitare un po' di argomenti di matematica, ma fortunatamente **
 Per vederla da un altro punto di vista, siccome siamo in tema facciamo due calcoli e notiamo che sono solo 4 domande di matematica su 60 totali.
 
 In percentuale quindi **le domande di matematica sono solo il 6,7% di tutto il test**. 
+
+## E durante il corso di studi?
+
+Non ci sono esami di matematica durante il corso di laurea, 
