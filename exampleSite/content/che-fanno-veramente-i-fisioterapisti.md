@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e carriera", "Università"]
 date = 2022-02-09T23:00:00Z
 description = "cosa fanno i fisioterapisti"
-draft = true
 image = ""
 title = "Che fanno i fisioterapisti?"
 type = "post"
