@@ -4,13 +4,13 @@ categories = ["Libera Professione"]
 date = 2022-02-10T23:00:00Z
 description = "Aggiornamento Sistema TS 2022/2023"
 image = ""
-title = "Sistema Tessera Sanitaria | aggiornamenti e nuove scadenze per il 2022"
+title = "Sistema Tessera Sanitaria | Aggiornamenti e nuove scadenze per il 2022"
 type = "post"
 
 +++
 Sono ufficiali le novità per il 2022 di Sistema Tessera Sanitaria. Tra le altre cose, ci sono novità che riguardano i fisioterapisti, ma anche i medici e le altre professioni sanitarie che permettono detrazioni.
 
-# Introduzione
+## Introduzione
 
 > Se sai già di cosa si tratta, vai pure al **prossimo capitolo** per le novità.
 
@@ -20,7 +20,7 @@ Per riassumere di cosa si tratta, è il **sito** su cui caricare i dati delle **
 
 Quindi questo aggiornamento ti interessa solo se sei in **libera professione** ed emetti **fatture a singoli pazienti**.
 
-Se fatturi a _centri_ o altre _strutture private_, non devi effettuare questa procedura. 
+Se fatturi a _centri_ o altre _strutture private_, non devi effettuare questa procedura.
 
 La discriminante è questa:
 
@@ -33,7 +33,9 @@ Il senso è che la spesa sanitaria la può affrontare una persona fisica e non u
 
 Perfetto, direi di procedere con la novità più rilevante!
 
-# Si continua semestralmente
+## Le novità
+
+### Si continua semestralmente
 
 Quando ho scritto e pubblicato la guida ad inizio 2022, girava voce che il caricamento dei dati su Sistema TS sarebbe passato da semestralmente a mensilmente.
 
@@ -43,7 +45,7 @@ La **frequenza mensile** è stata **prorogata al 2023** (per ora).
 
 ([fonte](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2022-02-08&atto.codiceRedazionale=22A00880&elenco30giorni=false "Gazzetta Ufficiale"))
 
-# Quali sono le nuove scadenze?
+### Quali sono le nuove scadenze?
 
 Le nuove scadenze per quest'anno sono:
 
@@ -54,6 +56,6 @@ Dal _1 gennaio 2023_ l'invio dovrebbe diventare mensile (se non c'è una nuova p
 
 ([fonte](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2022-02-08&atto.codiceRedazionale=22A00880&elenco30giorni=false "Gazzetta Ufficiale"))
 
-Perfetto, per oggi è tutto! 
+Perfetto, per oggi è tutto!
 
 Ci riaggiorniamo su questo tema in estate per un friendly reminder :)
