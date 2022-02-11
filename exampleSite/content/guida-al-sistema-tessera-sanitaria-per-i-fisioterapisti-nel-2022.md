@@ -10,7 +10,7 @@ type = "post"
 +++
 Quest’articolo è per i fisioterapisti – o altri professionisti sanitari – in libera professione.
 
-# Aggiornamenti febbraio 2022
+## Aggiornamenti febbraio 2022
 
 Nel frattempo la situazione si è evoluta. Per gli aggiornamenti:
 
@@ -19,7 +19,7 @@ Nel frattempo la situazione si è evoluta. Per gli aggiornamenti:
 
 Perfetto! Procediamo pure con la guida.
 
-# La guida
+## La guida
 
 A restringere ulteriormente il campo: questa non è una procedura che ti interessa se fatturi solo a centri privati o diurni, RSA, o altre aziende sanitarie private. Dopo questo disclaimer, se vuoi procedi pure per cultura personale, magari un giorno ti torna utile!
 
