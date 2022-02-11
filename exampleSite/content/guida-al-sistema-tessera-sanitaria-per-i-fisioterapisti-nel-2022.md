@@ -10,6 +10,17 @@ type = "post"
 +++
 Quest’articolo è per i fisioterapisti – o altri professionisti sanitari – in libera professione.
 
+# Aggiornamenti febbraio 2022
+
+Nel frattempo la situazione si è evoluta. Per gli aggiornamenti:
+
+* C'è stata una [proroga per il caricamento delle spese](https://fisioterapisti.org/piccolo-aggiornamento-su-sistema-ts/ "Proroga 2° semestre 2022") del 2° semestre 2021;
+* Il caricamento resta semestrale e sono state presentate le [nuove date per il 2022](https://fisioterapisti.org/sistema-tessera-sanitaria-aggiornamenti-e-nuove-scadenze-per-il-2022/ "Aggiornamenti 2022 Sistema TS").
+
+Perfetto! Procediamo pure con la guida.
+
+# La guida
+
 A restringere ulteriormente il campo: questa non è una procedura che ti interessa se fatturi solo a centri privati o diurni, RSA, o altre aziende sanitarie private. Dopo questo disclaimer, se vuoi procedi pure per cultura personale, magari un giorno ti torna utile!
 
 Immagina questa situazione: hai trattato un paziente privato che vuole detrarre la spesa nella dichiarazione dei redditi. Per il paziente è vantaggioso recuperare parte della spesa sanitaria sostenuta, e quindi rientra nella nostra professionalità garantire che il paziente effettivamente riesca a recuperarla.
@@ -57,9 +68,9 @@ Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma pr
 
 Adesso che ti sei registrata/o, hai la facoltà di cambiare la password con una di tua preferenza, ma per ora lasciamo perdere questo passaggio, puoi farlo in ogni momento.
 
-Andiamo diretti all’aggiunta dei dati della P.IVA. 
+Andiamo diretti all’aggiunta dei dati della P.IVA.
 
-Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”. 
+Devi cliccare in alto a sinistra su “Gestione dati spesa 730” e poi nella riga blu in alto “Gestione partita IVA”.
 
 In questa pagina c’è un campo da compilare che chiede “Partita IVA erogatore”. Visto che l’erogatore della prestazione sanitaria sei tu, devi scrivere la tua Partita IVA nel campo e confermare cliccando “Aggiungi”.
 
@@ -91,7 +102,7 @@ Qui devi compilare così:
 * Metti il pallino su “Natura IVA” (perché le fatture che emette un professionista sanitario risultano esenti IVA);
 * Dal menù a tendina “Natura IVA” devi selezionare la n.2.2.
 
-Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il riepilogo, controlla che i dati siano corretti e dai conferma. 
+Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il riepilogo, controlla che i dati siano corretti e dai conferma.
 
 Hai finito! Ricorda che hai la possibilità di vedere e modificare le spese inserite andando in “Gestione Spese Sanitarie” sempre dalla barra blu in alto.
 
