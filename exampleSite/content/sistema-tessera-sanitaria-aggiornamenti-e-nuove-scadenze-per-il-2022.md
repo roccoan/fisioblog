@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-02-10T23:00:00Z
 description = "Aggiornamento Sistema TS 2022/2023"
-draft = true
 image = ""
 title = "Sistema Tessera Sanitaria | aggiornamenti e nuove scadenze per il 2022"
 type = "post"
