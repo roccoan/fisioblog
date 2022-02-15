@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2022-02-11T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Bisogna essere bravi in matematica per fare fisioterapia?"
 type = "post"
