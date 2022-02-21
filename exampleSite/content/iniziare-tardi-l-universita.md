@@ -18,9 +18,9 @@ Periodi di smarrimento che se accadono, significa che sei sulla strada giusta.
 
 La scelta di cambiare la direzione della propria vita non è facile e purtroppo non tutti possono permettersi di portarla a termine.
 
-A volte è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze drastiche come lasciare il lavoro quando non è il caso e indebitarsi. 
+A volte è impossibile prendere decisioni come quella di riprendere gli studi, perché magari si scontrano con le proprie responsabilità o implicano conseguenze drastiche come lasciare il lavoro quando non è il caso e indebitarsi.
 
-Soprattutto per facoltà universitarie tipo fisioterapia e le altre professioni sanitarie, in cui c'è obbligo di presenza sia per le lezioni che per i tirocini, che per forza di cose si svolgono durante gli orari lavorativi e quindi è davvero davvero difficile frequentare l'università svolgendo un altro lavoro. 
+Soprattutto per facoltà universitarie tipo fisioterapia e le altre professioni sanitarie, in cui c'è obbligo di presenza sia per le lezioni che per i tirocini, che per forza di cose si svolgono durante gli orari lavorativi e quindi è davvero davvero difficile frequentare l'università svolgendo un altro lavoro.
 
 Per altre facoltà non è così complicato fare lo studente-lavoratore, soprattutto se non c'è obbligo di frequenza o le lezioni si possono seguire online. Lo fanno milioni di persone nel mondo ed essendoci [pochi laureati in Italia](https://www.ansa.it/sito/notizie/cronaca/2021/10/08/istat-in-italia-solo-il-201-di-laureati-contro-il-328-ue_51620548-b30a-4657-b347-2b6cb60348e1.html "Istat: in Italia solo il 20,1% di laureati contro il 32,8% Ue"), studiare ne vale decisamente la pena (attenzione però, [non per tutti i corsi di laurea](https://www.infodata.ilsole24ore.com/2018/07/13/le-lauree-non-tutte-uguali-conviene-studiare-guadagnera-piu/?refresh_ce=1 "Le lauree non sono tutte uguali. Dove studiare e guadagnare di più?")).
 
@@ -28,7 +28,7 @@ Altre volte, a fermarci non sono cause di forza maggiore, ma semplicemente la pa
 
 Ed è proprio della paura di essere troppo vecchi di cui parliamo oggi.
 
-## Ao, vecchio a chi?
+## Vecchio a chi?
 
 Dalle notizie provenienti soprattutto dal mondo della tecnologia, sembra che a mandare avanti il mondo siano geni 19 enni diventati miliardari prestissimo fondando aziende ultra innovative, che già a 15 anni scrivevano libri e prendevano tre lauree a 16, mentre tutti gli altri sono scemi.
 
@@ -41,7 +41,7 @@ Ma ci sono tanti, tantissimi esempi che dimostrano il contrario e che a mio avvi
 * J.K. Rowling ha pubblicato il primo libro di Harry Potter a 32 anni (dopo 12 rifiuti) e Samuel Jackson è stato un attore di serie B fino a quando non ha compiuto 40 anni;
 * Brian Crenston (cioè Walter White di Breaking Bad) ha iniziato a recitare in Malcolm nel 2000, quando aveva 44 anni.
 
-Insomma, così tantissimi altri personaggi famosi e non. Ora, è chiaro che un uomo medio a caso molto probabilmente non diventerà mai Samuel Jackson, o una superstar internazionale della fisioterapia, solo perché inizia tardi. 
+Insomma, così tantissimi altri personaggi famosi e non. Ora, è chiaro che un uomo medio a caso molto probabilmente non diventerà mai Samuel Jackson, o una superstar internazionale della fisioterapia, solo perché inizia tardi.
 
 Ma mettiamoci in mezzo un po' di survivorship bias e chiediamoci: quante persone potevano pubblicare romanzi migliori di Harry Potter, ma non sono mai arrivate a farlo per paura di iniziare? Può essere che anche J.K. Rowling avesse tanta paura, e magari non era più coraggiosa di altri, ma semplicemente più disperata (ipotizzo perché non se la passava benissimo economicamente).
 
@@ -61,10 +61,10 @@ Per citare il divulgatore scientifico Barbascura X:
 
 Riconosco che quest'articolo è parecchio generico, ma siamo pur sempre su un sito di fisioterapisti, quindi veniamo a noi.
 
-Secondo i [dati Almalaurea](https://www.almalaurea.it/informa/news/2016/03/01/la-professione-di-fisioterapista "Dati Almalaurea"): 
+Secondo i [dati Almalaurea](https://www.almalaurea.it/informa/news/2016/03/01/la-professione-di-fisioterapista "Dati Almalaurea"):
 
 * il 75% dei fisioterapisti inizia in media l’università con due o più anni di ritardo rispetto all’età canonica,
-* si laureano con un’età media molto alta (36,2 anni) rispetto alle altre lauree magistrali di secondo livello (27,2 anni) nonostante 
+* si laureano con un’età media molto alta (36,2 anni) rispetto alle altre lauree magistrali di secondo livello (27,2 anni) nonostante
 * quasi tutti (il 98%) si laureano entro un anno fuori corso.
 
 Questi sono i dati, e anche a livello di esperienza personale mi sento di confermarli. Quando mi sono iscritta alla triennale, non tutti i colleghi erano neodiplomati. Alcuni avevano altre lauree o avevano iniziato a studiare altro, poi sono riusciti a passare il test e hanno iniziato fisioterapia. Altri avevano provato il test diverse volte, e sono entrati dopo alcuni tentavi.
