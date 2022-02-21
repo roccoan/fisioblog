@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Studio e carriera", "Università"]
-date = 2022-02-07T23:00:00Z
+date = 2022-02-20T23:00:00Z
 description = ""
 draft = true
 image = ""
@@ -10,6 +10,8 @@ type = "post"
 
 +++
 Finito gli esami e stai per laurearti? Vediamo insieme cosa c'è da fare, così da sapere dove indirizzarti per far sì che questo momento resti piacevole a lungo :)
+
+![](/images/baim-hanif-pywuomhtc6k-unsplash.jpg)
 
 ## 1) Questionario Almalaurea
 
@@ -71,13 +73,43 @@ In sostanza è **obbligatoria** sia per i **liberi professionisti** (che rispond
 
 Facciamo una premessa e poi un distinguo. Per "massimali" si intendono i soldi massimi che l'assicurazione sborsa in caso di danno. Per capire quanto costa l'assicurazione vediamo due casi:
 
-* C'è l'**assicurazione in convenzione con l'Albo** che costa **€30 all'anno** per i massimali di €2.000.000 o quella di **€35 all'anno** per i massimali a €5.000.000. Per fare o l'una o l'altra bisogna essere iscritti all'Albo;
-* Altre assicurazioni con **agenzie e broker assicurativi** che se ne occupino. Chiaramente non ha senso andare su queste se a parità di massimali costano di più, ma per stare più tranquilli a circa €50 se ne trovano con massimali a €10-20 milioni.
+* C'è l'**assicurazione in convenzione con l'Albo** che costa 
+  * **€30 all'anno** per i massimali di €2.000.000 o
+  * **€35 all'anno** per i massimali a €5.000.000. Per fare l'una o l'altra bisogna essere iscritti all'Albo;
 
-Tutte le FAQ su quella convenzionata con l'Albo (perché tanto dobbiamo iscriverci tutti) [a questa pagina](https://www.spepa.it/faq/#* "Assicurazione in Convenzione").
 
-## Corsi, ECM e Agenas
+* Altre assicurazioni con **agenzie/broker assicurativi** che se ne occupino. Chiaramente non ha senso andare su queste se a parità di massimali costano di più, ma per stare più tranquilli a circa €50 se ne trovano con massimali a €10-20 milioni.
 
-## Ricerca lavoro
+In buona sostanza, per iniziare va benissimo quella dell'Albo (soprattutto quella da €35 all'anno), più avanti puoi pensare di cambiare.
 
-Link ad altro articolo
+Tutte le FAQ sull'assicurazione convenzionata con l'Albo (al quale comunque dobbiamo iscriverci tutti) [a questa pagina](https://www.spepa.it/faq/#* "Assicurazione in Convenzione").
+
+## 4) Corsi, ECM e Agenas
+
+Pensavi che dopo la laurea _ciao ciao crediti_? Purtroppo no, ci sono anche dopo la laurea e si chiamano **ECM (Educazione Continua in Medicina)**.
+
+Il senso è che siccome la scienza va avanti, e **i professionisti devono restare al passo** e seguire dei corsi (ce ne sono sia gratuiti che a pagamento, un giorno ci scrivo un articolo di approfondimento).
+
+L'ottenimento di questi ECM è **obbligatorio** per i fisioterapisti a partire dal 1° gennaio successivo alla data di iscrizione all’Ordine (quindi a partire dall'anno dopo la laurea).
+
+L'ente che si occupa di tenere traccia di quanti crediti hai si chiama [Agenas](https://ape.agenas.it/Home.aspx "Agenas"). 
+
+#### Come funziona e quanti ECM servono?
+
+Per farla molto breve ci si registra sul sito di Agenas alla sezione di [MyECM](https://ape.agenas.it/professionisti/myecm.aspx "myECM"), poi nell'area riservata man mano che facciamo i nostri corsi aggiungiamo gli ECM ottenuti.
+
+Il conteggio degli ECM è per triennio. 
+
+Per i Fisioterapisti ad oggi occorre maturare **150 crediti ECM** **nel corso del triennio**. Questo significa 50 crediti ogni anno (non devono essere precisi ma _in media_, da un minimo di 25 ad un massimo di 75 ogni anno).
+
+## 5) Ricerca lavoro
+
+Bene, siamo arrivati all'ultimo punto. Su questo ti rimando ad [un altro articolo](https://fisioterapisti.org/come-trovare-lavoro-dopo-la-laurea/ "Come cercare lavoro dopo la laurea per fisioterapisti") che ho già scritto a proposito, che verte principalmente sulla creazione del CV. 
+
+Nella mia esperienza ho notato che ci sono differenze rispetto ad altre professioni e magari puoi trovare qualche spunto interessante, soprattutto se hai letto già altri articoli in giro per il web su come scrivere un Curriculum e come cercare lavoro. 
+
+Ci sono alcune peculiarità per i fisioterapisti che in altri lavori non si presentano, e le principali hanno a che fare proprio con il CV.
+
+## Conclusione
+
+Per oggi è tutto, spero ti possa tornare utile! Grazie per aver letto, a presto :)
