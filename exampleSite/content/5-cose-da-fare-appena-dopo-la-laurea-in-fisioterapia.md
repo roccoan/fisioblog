@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e carriera", "Università"]
 date = 2022-02-20T23:00:00Z
 description = ""
-draft = true
 image = ""
 title = "5 cose da fare al momento della laurea in fisioterapia"
 type = "post"
