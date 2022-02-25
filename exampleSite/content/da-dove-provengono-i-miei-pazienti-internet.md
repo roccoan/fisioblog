@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione", "Come trovare pazienti"]
 date = 2022-02-24T23:00:00Z
 description = "Panoramica Google My Business"
-draft = true
 image = "/images/undraw_reviews_lp8w.png"
 title = "Come trovare pazienti | Panoramica Internet"
 type = "post"
