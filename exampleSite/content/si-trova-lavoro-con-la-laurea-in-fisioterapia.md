@@ -23,15 +23,15 @@ Non può esserlo, perché come in tutte le cose e in tutti i lavori la situazion
 
 Che disappunto vero? Ma veniamo a noi e cerchiamo di chiarire meglio la situazione. Vediamo questa immagine.
 
-Credo che se consigliassi a tutti: "siii fai fisioterapia che si trova lavoro sempre e si guadagna bene" sarebbe falso, come sarebbe lontano dalla realtà affermare che i fisioterapisti mediamente fanno la fame e non trovano lavoro. Sono false entrambe le cose. Ma sono anche vere.
+Credo che se consigliassi a tutti: "siii fai fisioterapia che si trova lavoro sempre e si guadagna sempre bene" sarebbe falso, come sarebbe lontano dalla realtà affermare che i fisioterapisti mediamente fanno la fame e non trovano lavoro. Sono false entrambe le cose. Ma sono anche vere.
 
 ![](/images/bell-curve.png)
 
-La maggior parte dei fisioterapisti sarà al centro della curva, e non fa notizia. 
+La maggior parte dei fisioterapisti sarà al centro della curva, e non fa notizia.
 
 I fisioterapisti a destra e a sinistra, nella parte più scura, sono relativamente pochi sul totale, ma fanno notizia.
 
-Quelli a sinistra fanno notizia perché magari hanno da raccontare storie tragiche sulla loro carriera da fisioterapisti, che è la responsabile di ogni singolo problema della loro vita e  li ha portati al disastro personale, al dissesto economico e alla depressione più totale. 
+Quelli a sinistra fanno notizia perché magari hanno da raccontare storie tragiche sulla loro carriera da fisioterapisti, che è la responsabile di ogni singolo problema della loro vita e  li ha portati al disastro personale, al dissesto economico e alla depressione più totale.
 
 Quelli a destra invece sono così tanto ricchi grazie alla fisioterapia da fare schifo: belle case, vacanze da sogno, interviste in tv, collaborazioni con importanti realtà e così via.
 
@@ -49,10 +49,10 @@ Ci siamo io e tanti altri, tra cui tanti colleghi ed ex colleghi in giro per l'I
 
 Facciamo un rapido calcolo: all'Università eravamo circa 30. Considerato che nei tirocini, a lezione e nei corridoi ho conosciuto anche quelli dell'anno prima e dell'anno dopo il mio. Diciamo una 90ina di fisioterapisti in erba più tutti i tutor dei tirocini, e siamo forse ad un centinaio di professionisti conosciuti solo all'Università.
 
-Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, ai 
+Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, ai
 
 Ora, io personalmente ho avuto alti e bassi, ma tendenzialmente ho sempre trovato lavoro, sia da dipendente che da libera professionista, anche dopo averlo perso per colpa del Covid, durante la pandemia.
 
-Tra tutti i fisioterapisti che conosco, 
+Tra tutti i fisioterapisti che conosco,
 
 I fisioterapisti che conosco che non hanno mai trovato lavoro è perché hanno deciso di cambiare carriera e fare i medici.
