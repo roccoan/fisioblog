@@ -43,16 +43,40 @@ Non sarei sorpresa di scoprire fisioterapisti con la barca in Molise o fisiotera
 
 Quindi voglio cercare di raccontarti meglio cosa c'è nel mezzo, dove è più probabile che ci finirai un giorno se decidi di intraprendere questa strada.
 
-## Cosa c'è nel centro
+## Cosa c'è nel centro?
 
 Ci siamo io e tanti altri, tra cui tanti colleghi ed ex colleghi in giro per l'Italia con cui ho avuto il piacere di collaborare e confrontarmi.
 
+Parliamo di centinaia di professionisti con cui inevitabilmente si viene a contatto.
+
 Facciamo un rapido calcolo: all'Università eravamo circa 30. Considerato che nei tirocini, a lezione e nei corridoi ho conosciuto anche quelli dell'anno prima e dell'anno dopo il mio. Diciamo una 90ina di fisioterapisti in erba più tutti i tutor dei tirocini, e siamo forse ad un centinaio di professionisti conosciuti solo all'Università.
 
-Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, ai
+Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, i colleghi nelle città e nelle strutture in cui ho lavorato, insomma davvero tanti. 
 
-Ora, io personalmente ho avuto alti e bassi, ma tendenzialmente ho sempre trovato lavoro, sia da dipendente che da libera professionista, anche dopo averlo perso per colpa del Covid, durante la pandemia.
+La stragrande maggioranza ha avuto percorsi simili. Percorsi non lineari, fatti di difficoltà (che definirei fisiologiche) ma anche di lunghi momenti di calma, con il covid che ha scombussolato un po' tutto, seguito da una ripresa abbastanza decisa.
 
-Tra tutti i fisioterapisti che conosco,
+## Difficoltà fisiologiche
 
-I fisioterapisti che conosco che non hanno mai trovato lavoro è perché hanno deciso di cambiare carriera e fare i medici.
+Tutti i lavori, tutte le carriere e in generale tutti i percorsi hanno difficoltà intrinseche. Anche la carriera del fisioterapista. Non significa che ci siano solo difficoltà, la stragrande maggioranza dei momenti è "okay" e ci sono anche parecchie soddisfazioni. E le difficoltà sono molto simili a quelle di altri lavori, con le dovute differenze (che a mio avviso sono molto importanti).
+
+Vediamone un paio che a mio avviso spiegano abbastanza bene la situazione. 
+
+### Fare la gavetta da neolaureati
+
+> "Serve esperienza per lavorare" "ma come faccio ad avere esperienza se non ho mai lavorato???"
+
+Questo è un vero e proprio problema strutturale che affligge tutti i neolaureati.
+
+Ma onestamente non l'ho visto mai accadere ai professionisti sanitari, nè sentito dire a nessun neo-fisioterapista. 
+
+Questo secondo me accade perché si ha la fortuna di fare 3 anni di tirocini durante gli studi, riducendo notevolmente uno dei problemi tanto noti delle università italiane: cioè che si fa poca pratica.
+
+Ma avere già un minimo di esperienza, nella maggior parte dei casi, non esenta (purtroppo) dal dover fare la gavetta.
+
+Alcune gavette sono meglio di altre: da un lato si può iniziare con contratto a tempo determinato o con agenzia interinale, dall'altro magari verrà proposto garanzia giovani o la partita iva.
+
+Quanto dura la gavetta? Non c'è una durata precisa, ma il consiglio è se ci si sente sottopagati di cercare altrove e di andare oltre. 
+
+Se capitate in un posto in cui vi sfruttano 
+
+Al massimo per i fisioterapisti succede che un centro cerca qualcuno con una particolare specializzazione, ma lì è diverso (perché di base cercano un senior e non un junior).
