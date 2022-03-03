@@ -51,7 +51,7 @@ Parliamo di centinaia di professionisti con cui inevitabilmente si viene a conta
 
 Facciamo un rapido calcolo: all'Università eravamo circa 30. Considerato che nei tirocini, a lezione e nei corridoi ho conosciuto anche quelli dell'anno prima e dell'anno dopo il mio. Diciamo una 90ina di fisioterapisti in erba più tutti i tutor dei tirocini, e siamo forse ad un centinaio di professionisti conosciuti solo all'Università.
 
-Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, i colleghi nelle città e nelle strutture in cui ho lavorato, insomma parecchi. 
+Se a questi ci aggiungiamo tutti i colleghi conosciuti ai corsi in giro per l'Italia, i colleghi nelle città e nelle strutture in cui ho lavorato, insomma parecchi.
 
 La stragrande maggioranza ha avuto percorsi simili. Percorsi non lineari, fatti di difficoltà (che definirei fisiologiche) ma anche di lunghi momenti di calma, con il covid che ha scombussolato un po' tutto, seguito da una ripresa più o meno decisa a seconda dei casi.
 
@@ -59,7 +59,7 @@ La stragrande maggioranza ha avuto percorsi simili. Percorsi non lineari, fatti 
 
 Tutti i lavori, tutte le carriere e in generale tutti i percorsi hanno difficoltà intrinseche. Anche la carriera del fisioterapista. Non significa che ci siano solo difficoltà, la stragrande maggioranza dei momenti è "okay" e ci sono anche parecchie soddisfazioni. E le difficoltà sono molto simili a quelle di altri lavori, con le dovute differenze (che a mio avviso sono molto importanti).
 
-Vediamone un paio che a mio avviso spiegano abbastanza bene la situazione. 
+Vediamone un paio che a mio avviso spiegano abbastanza bene la situazione.
 
 ### Fare la gavetta da neolaureati
 
@@ -67,7 +67,7 @@ Vediamone un paio che a mio avviso spiegano abbastanza bene la situazione.
 
 Questo è un vero e proprio problema strutturale che affligge tutti i neolaureati.
 
-Ma onestamente non l'ho visto mai accadere ai professionisti sanitari, nè sentito dire da nessun neo-fisioterapista. 
+Ma onestamente non l'ho visto mai accadere ai professionisti sanitari, nè sentito dire da nessun neo-fisioterapista.
 
 Questo secondo me accade perché si ha la fortuna di fare 3 anni di tirocini durante gli studi, riducendo notevolmente uno dei problemi tanto noti delle università italiane: cioè che si fa poca pratica.
 
@@ -75,7 +75,7 @@ Ma avere già un minimo di esperienza, nella maggior parte dei casi, non esenta 
 
 Alcune gavette sono meglio di altre: da un lato si può iniziare con contratto a tempo determinato o con agenzia interinale in strutture organizzate, dall'altro magari verrà proposto garanzia giovani o la partita iva in postacci.
 
-Quanto dura la gavetta? Non c'è una durata precisa, ma il consiglio è se ci si sente sottopagati di cercare altrove e di andare oltre. 
+Quanto dura la gavetta? Non c'è una durata precisa, ma il consiglio è se ci si sente sottopagati di cercare altrove e di andare oltre.
 
 Si può capitare in posti dov'è normale sfruttare, sottopagare, le condizioni lavorative non sono ideali, soprattutto all'inizio quando si ha poco potere negoziale e quel posto è la prima cosa meno peggio che troviamo. Ma bisogna tenere a mente due cose:
 
@@ -84,7 +84,7 @@ Si può capitare in posti dov'è normale sfruttare, sottopagare, le condizioni l
 
 ### Si richiedono requisiti che non abbiamo
 
-Questo problema è diverso da quello di prima. 
+Questo problema è diverso da quello di prima.
 
 Se per i professionisti sanitari è più raro rispetto ad altri lavori di trovarsi all'empasse _per lavorare serve esperienza/per fare esperienza serve lavorare_, può capitare di ricevere tanti no perché sembra che tutti cerchino fisioterapisti che abbiano seguito specifici corsi.
 
@@ -103,8 +103,32 @@ Quindi in generale, se ti scontri con questo tipo di problema:
 * Se puoi permetterti un corso semplicemente fallo. Fai chiaramente il corso richiesto di più in quel periodo (perché come le mode vanno e vengono);
 * Se non te lo puoi permettere, cerca posizioni più "junior" - anche se implicano la gavetta - , più avanti si presenteranno altre occasioni sicuramente a condizioni migliori e avrai le spalle più larghe per afferrarle.
 
+## Quanto lavoro c'è veramente
+
+La mia impressione è che ce ne sia tanto, rispetto ad altri settori.
+
+Bisogna ricordare che i fisioterapisti non sono poi così tanti, ci sono barriere all'ingresso dettate dal numero chiuso all'università. 
+
+Anche se ogni anno le università sfornano nuovi fisioterapisti, già di per sè [l'Italia ha un numero di laureati molto basso](https://www.adnkronos.com/eurostat-in-italia-pochi-laureati_pTNwqOOB9V1NjlXmGou77 "Eurostat, in Italia pochi laureati"), quindi figuriamoci quanti possano essere i fisioterapisti. Dall'altro lato inoltre tanti fisioterapisti sono arrivati o stanno per arrivare all'età della pensione.
+
+Nel frattempo la popolazione invecchia, la gente tendenzialmente prova a fare più sport, a mangiare meglio e a vivere bene e generalmente ha una consapevolezza maggiore di cosa fa un fisioterapista. 
+
+Tutti fattori che non fanno altro che aumentare la richiesta di fisioterapisti, [come dicevo in questo articolo](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perché diventare fisioterapisti").
+
+Un settore che va tanto è proprio quello della cura degli anziani. In ogni posto d'Italia spuntano RSA a destra e sinistra, dove assumono sia con contratti che in collaborazione a P.IVA e un fisioterapista neolaureato può aspettarsi ragionevolmente un guadagno di 1.200/1.400 euro netti al mese (a seconda della regione, degli orari, ecc.).
+
+Le cooperative sono sempre alla ricerca di professionisti per l'assistenza domiciliare. Può essere stancante e in pochi sono disposti a farla, ma se si è in città (quindi non bisogna ricoprire ampie distanze in giro per la provincia) e si chiedono pazienti nella stessa zona è assolutamente fattibile e come prima esperienza, a seconda di quanto si lavora, permette di guadagnare stipendi decenti anche con la P. IVA - cosa purtroppo mai scontata, come per neo Architetti o neo Avvocati.
+
+Inoltre si possono congiungere diverse fonti con la P.IVA. Io l'ho aperta quando mi sono trasferita a Milano un'annetto dopo l'università. Ad un certo punto mi sono trovata a collaborare con una RSA in reparto, con una cooperativa per le domiciliari e sporadicamente per qualche paziente privato, e riuscivo a mantenermi da sola.
+
+Anche ora che sono tornata in Puglia ho la P.IVA, collaboro sporadicamente con altre realtà della zona, e ho il mio giro di pazienti sia in studio che domiciliari. Per ora alcuni mesi guadagno anche più rispetto a Milano, altri mesi no, ma comunque mi reputo soddisfatta perché non era così scontato al sud.
+
+Per quanto riguarda il pubblico, il Servizio Sanitario Nazionale ha ricevuto parecchi fondi a seguito della pandemia e quindi c'è spazio anche negli Ospedali e nelle ASL (dove però bisogna passare gli avvisi pubblici/concorsi con tutto ciò che ne deriva).
+
+In ogni caso molti colleghi non sono disposti a rinunciare alla flessibilità della Partita IVA, perché se va bene si guadagna molto di più del posto fisso. (Se va male ed è magari solo il primo anno di attività in proprio, in quel caso è perfettamente normale, ci vuole tempo). Se invece va okay si prende comunque uno stipendio dignitoso ma con molte più libertà (tipo la libertà di non dover lavorare in ospedale durante una pandemia, dove tocchiamola piano e diciamo che non è stato piacevolissimo).
+
 ## Conclusione
 
-Le difficoltà ci sono, inutile negarlo. Ma la situazione generalmente presenta meno difficoltà rispetto ad altri settori, dove le lauree sono molto teoriche e poco pratiche, i neolaureati non hanno esperienza e non bastano i corsi ad aumentare il proprio potere negoziale. 
+Le difficoltà ci sono, inutile negarlo. Ma le difficoltà ci sono per tutti i lavori, e per i fisioterapisti la situazione generalmente presenta un po' meno difficoltà rispetto ad altri settori, dove le lauree sono molto teoriche e poco pratiche, i neolaureati non hanno esperienza e non bastano i corsi di aggiornamento ad aumentare il proprio potere negoziale.
 
-Infine, non è detto che le difficoltà capitino, ma se capitano comunque sono fisiologiche e se ne esce con la pratica e l'esperienza. Poi è un lavoro pieno di soddisfazioni, e con dei pro secondo me molto rilevanti, [che spiego in quest'altro articolo](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perché fare il fisioterapista? ").
+Spero di averti dato qualche retroscena utile a comprendere come sarebbe davvero dopo la pandemia 
