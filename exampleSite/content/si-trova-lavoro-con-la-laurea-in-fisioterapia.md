@@ -131,4 +131,6 @@ In ogni caso molti colleghi non sono disposti a rinunciare alla flessibilità de
 
 Le difficoltà ci sono, inutile negarlo. Ma le difficoltà ci sono per tutti i lavori, e per i fisioterapisti la situazione generalmente presenta un po' meno difficoltà rispetto ad altri settori, dove le lauree sono molto teoriche e poco pratiche, i neolaureati non hanno esperienza e non bastano i corsi di aggiornamento ad aumentare il proprio potere negoziale.
 
-Spero di averti dato qualche retroscena utile a comprendere come sarebbe davvero dopo la pandemia 
+Spero di averti dato qualche retroscena utile a comprendere cosa aspettarti ragionevolmente dopo la laurea in fisioterapia.
+
+Grazie per aver letto fin qui, a presto!
