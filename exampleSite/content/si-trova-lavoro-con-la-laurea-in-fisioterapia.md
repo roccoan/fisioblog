@@ -96,8 +96,6 @@ E so che la sto facendo facile, perché chi ce li ha i soldi e il tempo per un c
 
 Dopo la laurea anche io non avevo una lira bucata. Ho fatto il primo corso dopo 6 mesi di lavoro con garanzia giovani e l'ho fatto solo perché durava poco (cioè due weekend) e costava poco rispetto ad altri corsi, ma comunque tanto per la me dell'epoca. Ho iniziato a fare corsi più seri solo dopo 3 anni di lavoro.
 
-Però alcuni datori di lavoro pagano i corsi ai propri dipendenti, e conosco diversi colleghi a cui è successo.
-
 Quindi in generale, se ti scontri con questo tipo di problema:
 
 * Se puoi permetterti un corso semplicemente fallo. Fai chiaramente il corso richiesto di più in quel periodo (perché come le mode vanno e vengono);
@@ -107,25 +105,19 @@ Quindi in generale, se ti scontri con questo tipo di problema:
 
 La mia impressione è che ce ne sia tanto, rispetto ad altri settori.
 
-Bisogna ricordare che i fisioterapisti non sono poi così tanti, ci sono barriere all'ingresso dettate dal numero chiuso all'università. 
+Bisogna ricordare che i fisioterapisti non sono poi così tanti, ci sono barriere all'ingresso dettate dal numero chiuso all'università.
 
 Anche se ogni anno le università sfornano nuovi fisioterapisti, già di per sè [l'Italia ha un numero di laureati molto basso](https://www.adnkronos.com/eurostat-in-italia-pochi-laureati_pTNwqOOB9V1NjlXmGou77 "Eurostat, in Italia pochi laureati"), quindi figuriamoci quanti possano essere i fisioterapisti. Dall'altro lato inoltre tanti fisioterapisti sono arrivati o stanno per arrivare all'età della pensione.
 
-Nel frattempo la popolazione invecchia, la gente tendenzialmente prova a fare più sport, a mangiare meglio e a vivere bene e generalmente ha una consapevolezza maggiore di cosa fa un fisioterapista. 
+Nel frattempo la popolazione invecchia, la gente tendenzialmente prova a fare più sport, a mangiare meglio e a vivere bene e generalmente ha una consapevolezza maggiore di cosa fa un fisioterapista.
 
 Tutti fattori che non fanno altro che aumentare la richiesta di fisioterapisti, [come dicevo in questo articolo](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perché diventare fisioterapisti").
 
 Un settore che va tanto è proprio quello della cura degli anziani. In ogni posto d'Italia spuntano RSA a destra e sinistra, dove assumono sia con contratti che in collaborazione a P.IVA e un fisioterapista neolaureato può aspettarsi ragionevolmente un guadagno di 1.200/1.400 euro netti al mese (a seconda della regione, degli orari, ecc.).
 
-Le cooperative sono sempre alla ricerca di professionisti per l'assistenza domiciliare. Può essere stancante e in pochi sono disposti a farla, ma se si è in città (quindi non bisogna ricoprire ampie distanze in giro per la provincia) e si chiedono pazienti nella stessa zona è assolutamente fattibile e come prima esperienza, a seconda di quanto si lavora, permette di guadagnare stipendi decenti anche con la P. IVA - cosa purtroppo mai scontata, come per neo Architetti o neo Avvocati.
-
-Inoltre si possono congiungere diverse fonti con la P.IVA. Io l'ho aperta quando mi sono trasferita a Milano un'annetto dopo l'università. Ad un certo punto mi sono trovata a collaborare con una RSA in reparto, con una cooperativa per le domiciliari e sporadicamente per qualche paziente privato, e riuscivo a mantenermi da sola.
-
-Anche ora che sono tornata in Puglia ho la P.IVA, collaboro sporadicamente con altre realtà della zona, e ho il mio giro di pazienti sia in studio che domiciliari. Per ora alcuni mesi guadagno anche più rispetto a Milano, altri mesi no, ma comunque mi reputo soddisfatta perché non era così scontato al sud.
+Le cooperative sono sempre alla ricerca di professionisti per l'assistenza domiciliare. Può essere stancante e in pochi sono disposti a farla, ma se si è in città (quindi non bisogna ricoprire ampie distanze in giro per la provincia) e si chiedono pazienti nella stessa zona è assolutamente fattibile e come prima esperienza, a seconda di quanto si lavora, permette di guadagnare stipendi decenti anche con la P. IVA - cosa purtroppo mai scontata, come si sente dire per i neo Architetti o i neo Avvocati.
 
 Per quanto riguarda il pubblico, il Servizio Sanitario Nazionale ha ricevuto parecchi fondi a seguito della pandemia e quindi c'è spazio anche negli Ospedali e nelle ASL (dove però bisogna passare gli avvisi pubblici/concorsi con tutto ciò che ne deriva).
-
-In ogni caso molti colleghi non sono disposti a rinunciare alla flessibilità della Partita IVA, perché se va bene si guadagna molto di più del posto fisso. (Se va male ed è magari solo il primo anno di attività in proprio, in quel caso è perfettamente normale, ci vuole tempo). Se invece va okay si prende comunque uno stipendio dignitoso ma con molte più libertà (tipo la libertà di non dover lavorare in ospedale durante una pandemia, dove tocchiamola piano e diciamo che non è stato piacevolissimo).
 
 ## Conclusione
 
