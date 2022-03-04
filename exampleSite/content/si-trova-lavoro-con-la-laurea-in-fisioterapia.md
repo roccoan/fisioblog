@@ -38,7 +38,7 @@ Quelli a destra invece sono così tanto ricchi grazie alla fisioterapia da fare 
 
 E indovina un po'? Questo discorso vale al nord, al sud, in Italia e all'estero.
 
-Non sarei sorpresa di scoprire che qualche fisioterapista con la barca in Molise o fisioterapisti che facciano la fame a Monaco di Baviera. Ma a prescindere dal posto, la maggior parte dei fisioterapisti ricade nella parte centrale della curva.
+Non sarei sorpresa di scoprire qualche fisioterapista con la barca in Molise o fisioterapisti che facciano la fame a Monaco di Baviera. Ma a prescindere dal posto, la maggior parte dei fisioterapisti ricade nella parte centrale della curva.
 
 Quindi voglio cercare di raccontarti meglio cosa c'è nel mezzo, dove è più probabile che ci finirai un giorno se decidi di intraprendere questa strada.
 
