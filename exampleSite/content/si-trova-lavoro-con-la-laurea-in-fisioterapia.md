@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Studio e carriera"]
 date = 2022-03-02T23:00:00Z
 description = "Si trova lavoro con la laurea in fisioterapia?"
-draft = true
 image = ""
 title = "Si trova lavoro con la laurea in fisioterapia?"
 type = "post"
