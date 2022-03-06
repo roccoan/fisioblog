@@ -78,7 +78,7 @@ Nel reparto di malattie respiratorie si occupa di pazienti che devono recuperare
 
 Discorso molto simile nelle ASL dove però l'attività non è di reparto (dove ci sono persone ricoverate) ma di ambulatorio (i pazienti dormono a casa loro per intenderci, non nel letto in un ospedale, e si presentano solo per fare la fisioterapia).
 
-A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà ospedaliere molto importanti (per lo più private, credo) dove ci sono a disposizione robot, esoscheletri e altri macchinari complessi (e costosi).
+A seconda della struttura in cui si lavora ci saranno strumenti diversi a disposizione, come palestre, attrezzi, fino ad arrivare in realtà ospedaliere molto importanti dove ci sono a disposizione robot, esoscheletri e altri macchinari complessi (e costosi).
 
 Anche nello stesso ospedale possono cambiare gli strumenti disponibili da reparto a reparto, per adattarli alle terapie richieste nel reparto stesso.
 
