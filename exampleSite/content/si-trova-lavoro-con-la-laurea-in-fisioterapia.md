@@ -20,7 +20,7 @@ Io purtroppo non posso darti nessun segno del destino, ma semplicemente posso di
 
 Non può esserlo, perché come in tutte le cose e in tutti i lavori la situazione, piaccia o no, è troppo complessa per essere riassunta così.
 
-Che disappunto vero? Ma veniamo a noi e cerchiamo di chiarire meglio la situazione. Vediamo questa immagine.
+Che disappunto vero? Ma veniamo a noi e cerchiamo di chiarire meglio la situazione.
 
 Credo che se consigliassi a tutti: "siii fai fisioterapia che si trova lavoro sempre e si guadagna sempre bene" sarebbe falso, come sarebbe lontano dalla realtà affermare che i fisioterapisti fanno la fame e non trovano lavoro. Sono false entrambe le cose. Ma sono anche vere.
 
