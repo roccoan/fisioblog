@@ -11,19 +11,21 @@ type = "post"
 +++
 Oggi vediamo un po' cosa ci si aspetta sul **futuro della professione**: potrebbe tornare utile a chi sta decidendo cosa fare nei prossimi anni.
 
+![](/images/drew-beamer-xu5mqq0chck-unsplash.jpg)
+
 ## Introduzione
 
 Nella storia recente della fisioterapia in Italia mi vengono in mente **due eventi** che hanno fatto da **spartiacque**: l'istituzione della **Laurea** prima e dell'**Albo** poi.
 
 Quando mi sono laureata ricordo che c'era nell'aria l'istituzione dell'Albo, arrivata effettivamente di lì a poco, e non capivamo bene quali implicazioni potesse avere. 
 
-Ricordo che dell'Albo quando facevo l'Università se ne parlava tanto e se ne discuteva tanto, le richieste di nuove leggi [andavano avanti da oltre 12 anni](https://www.ilsole24ore.com/art/dagli-infermieri-fisioterapisti-ordine-ogni-professione-sanitaria-AEkgkZWD "Dagli infermieri ai fisioterapisti, un Ordine per ogni professione sanitaria") e anche quando arrivò la legge nel 2017 ci volle ancora del tempo prima di venire effettivamente istituito.
+Ricordo che quando facevo l'Università dell'Albo se ne parlava tanto e se ne discuteva tanto, le richieste di nuove leggi [andavano avanti da oltre 12 anni](https://www.ilsole24ore.com/art/dagli-infermieri-fisioterapisti-ordine-ogni-professione-sanitaria-AEkgkZWD "Dagli infermieri ai fisioterapisti, un Ordine per ogni professione sanitaria") e anche quando arrivò la legge nel 2017 ci volle ancora del tempo prima di venire effettivamente istituito.
 
 Non ho dubbi che la stessa sensazione è stata provata da chi ci ha preceduto con l'istituzione del corso di laurea, che oggi prendiamo un po' per scontata.
 
 Quindi in questo articolo ci chiediamo: oggi si prendono per scontate quelle che sono state **due rivoluzioni** (almeno nella percezione di chi ha desiderato e vissuto il cambiamento), ma **quali altri eventi di questa portata possiamo aspettarci in futuro?**
 
-> Tutte le cose che vedremo tra poco non sono poi così tanto aleatorie, ma sono più concrete di quello che sembrano. Sono frutti di due Disegni di Legge (DDL) firmati da una donna (credo che la settimana della Giornata Internazionale della Donna sia un buon momento per specificarlo), la Senatrice Boldrini. 
+> Tutte le cose che vedremo tra poco non sono poi così tanto aleatorie, ma sono più concrete di quello che sembrano. Sono frutti di due Disegni di Legge (DDL) firmati da una donna (e credo che la settimana della Giornata Internazionale della Donna sia un buon momento per ricordarlo), la Senatrice Boldrini. 
 >
 > I due DDL sono già in esame al Parlamento. Non è garantito che diventino legge, però significa che qualcosa si sta muovendo in quella direzione.
 
@@ -59,7 +61,7 @@ I medici dipendenti di un Ospedale possono lavorare in tre modi:
 
 **Intramoenia** ed **extramoenia** (si leggono in latino _intra menia_ ed _extra menia_) significano rispettivamente _"all'interno delle mura"_ e _"all'esterno delle mura"._
 
-**Un medico può scegliere** di svolgere il suo lavoro **solo come dipendente pubblico**, oppure associare il lavoro in ospedale con le **visite private** (quelle che per intenderci prenotiamo quando non vogliamo aspettare i tempi biblici della mutua). Quindi ha la possibilità di associare al lavoro dipendente anche quello da libero professionista.
+**Un medico può scegliere** di svolgere il suo lavoro **solo come dipendente pubblico**, oppure associare il lavoro in ospedale con le **visite private** (quelle che per intenderci prenotiamo quando non vogliamo aspettare i tempi biblici della mutua). Quindi un medico ha la possibilità di associare al lavoro dipendente anche quello da libero professionista.
 
 #### Come può associare il lavoro dipendente e la libera professione? 
 
@@ -72,11 +74,13 @@ Nei due modi coi nomi strani, che ora saranno più chiari:
 
 Questo possiamo dirlo anche in altre parole, cioè che **per i medici non c'è incompatibilità** tra lavoro dipendente e libera professione.
 
-Perché specificarlo? Perché **per le professioni sanitarie** lavoro da dipendente pubblico e libera professione **sono incompatibili**.
+#### Ma dove vuoi andare a parare?
+
+Parlo di questo perché **per le professioni sanitarie** il lavoro da dipendente pubblico e la libera professione **sono incompatibili**.
 
 > In realtà per i Fisioterapisti so che c'è un'eccezione (non so se c'è anche per le altre professioni sanitarie). 
 >
-> Infatti, se un Fisioterapista - dipendente pubblico - volesse aprirsi la Partita IVA e lavorare anche privatamente (ovviamente dopo la fine del proprio turno) può farlo solo se si verificano contemporaneamente le seguenti condizioni:
+> Infatti, se un Fisioterapista - dipendente pubblico - volesse aprire la Partita IVA e lavorare anche privatamente (ovviamente dopo la fine del proprio turno) può farlo solo se si verificano contemporaneamente le seguenti condizioni:
 >
 > * Il contratto con l'ASL o l'Ospedale è Part-Time;
 > * La dirigenza dell'ASL/Ospedale rilascia un nulla osta (e da quello che so - quindi prendilo con le pinze perché è per sentito dire - non è affatto semplice).
@@ -93,6 +97,28 @@ L'intramoenia sembra essere piuttosto vicino, anche se ci sono le limitazioni di
 
 Le specializzazioni della fisioterapia sono tante, come ho cercato di raccontare in [questo articolo](https://fisioterapisti.org/che-fanno-veramente-i-fisioterapisti/ "Che fanno i fisioterapisti?"). 
 
-Siccome la scienza va avanti, se nel corso del tempo non si adeguano 
+La scienza va avanti, e c'è il rischio che i percorsi formativi non riescano a stare al passo.
 
-Sempre il DDL Boldrini (lo stesso del punto 2) ha individuato un limite nei corsi 
+Individuato questo limite, sempre il DDL Boldrini (lo stesso del punto 2) propone come soluzione quello di aggiornare i Corsi di Laurea delle Professioni Sanitarie (quindi anche quelle della riabilitazione, per cui la cosa ci riguarda).
+
+Quando ero all'Università e tra i colleghi si parlava di cosa fare dopo la laurea, era opinione diffusa non proseguire con gli studi "perché la triennale insegna il lavoro e la magistrale non aggiunge niente di nuovo per fare il fisioterapista, può essere utile per fare i coordinatori o insegnare all'Università". 
+
+> Altra particolarità: per insegnare all'Università bisogna avere un Dottorato di Ricerca e passare un concorso. Tranne a Professioni Sanitarie, dove invece molti professori sono professionisti con la Magistrale e senza Dottorato. Lo dico anche per rimarcare quello che dicevamo [in questo articolo](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?"), cioè che le Professioni Sanitarie sono meno teoriche e più pratiche della media nel panorama universitario italiano.
+
+A quanto pare la cosa è diffusa anche per le altre professioni sanitarie, al punto che il senato ha ricevuto il DDL con la proposta di riformare le Lauree Magistrali nelle Professioni Sanitarie perché troppo orientate al management, al coordinamento e alla didattica (perché il loro obiettivo attuale è formare potenziali coordinatori e professori universitari).
+
+Non è chiaro se vogliano rendere le lauree Magistrali più simili alle triennali (cioè che "insegnano il lavoro", ma su cose più specifiche) o un evoluzione delle attuali ma con competenze di coordinamento più al passo coi tempi. 
+
+In ogni caso, al momento il DDL rimanda in futuro al MIUR questa riorganizzazione e modernizzazione delle Lauree Magistrali, per cui scopriremo i dettagli e vedremo gli effetti nei prossimi anni.
+
+## Conclusione
+
+Il Sistema Sanitario Nazionale si sta riorganizzando, sia perché si cerca sempre di contenerne i costi, sia perché [i medici sono sempre meno](https://www.ilsole24ore.com/art/medici-base-allarme-carenza-15-milioni-italiani-sono-senza-AE9gWwg "Mancano i medici di base"), e infine perché con l'invecchiamento della popolazione bisogna prendere misure adeguate. 
+
+Tutti questi fattori sono collegati, e se si può trovare una soluzione che li risolva almeno in parte è nell'interesse dello Stato e di tutta la collettività. 
+
+Se dare l'intramoenia ai professionisti sanitari o istituire il fisioterapista di famiglia permetterà di ridurre costi per lo Stato e garantire o addirittura migliorare il livello delle cure ai cittadini, allora saranno soluzioni portate avanti - e i cambiamenti che ora ci sembrano epocali diventeranno la nuova normalità.
+
+Per il momento è tutto, ti ringrazio per aver letto fino a qui.
+
+A presto!
