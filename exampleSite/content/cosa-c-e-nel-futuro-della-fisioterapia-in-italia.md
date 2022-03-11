@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Libera Professione", "Studio e carriera"]
 date = 2022-03-10T23:00:00Z
 description = "Cambiamenti (forse) epocali nella storia della fisioterapia"
-draft = true
 image = "/images/thisisengineering-raeng-sbvu5zitzt0-unsplash.jpg"
 title = "Cosa c'è nel futuro della fisioterapia in Italia?"
 type = "post"
