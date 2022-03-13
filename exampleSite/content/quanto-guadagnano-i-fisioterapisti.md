@@ -39,11 +39,11 @@ In ogni caso, dopo la conclusione indico i migliori articoli che ho trovato cont
 
 ## La gavetta
 
-Partiamo da qui, da dove iniziano in molti (ma non tutti). 
+Partiamo da qui, da dove iniziano in molti (ma non tutti).
 
 Alcuni la saltano del tutto perché magari vincono un concorso subito dopo la laurea o iniziano a lavorare da subito a tempo indeterminato.
 
-Gli altri (che non sono meno fortunati, ma semplicemente è la normalità - io per esempio rientro tra questi) passano per questo periodo che è molto frustrante. Lo è perché dopo la laurea ci sentiamo "arrivati", ma in realtà ci stiamo ancora formando, a prescindere da dove riusciamo ad ottenere il primo lavoro. 
+Gli altri (che non sono meno fortunati, ma semplicemente è la normalità - io per esempio rientro tra questi) passano per questo periodo che è molto frustrante. Lo è perché dopo la laurea ci sentiamo "arrivati", ma in realtà ci stiamo ancora formando, a prescindere da dove riusciamo ad ottenere il primo lavoro.
 
 Inoltre è molto frustrante anche l'inevitabile confronto con chi poco dopo la laurea ha già una certa stabilità economica, e ci fa sentire come dei falliti. Nessuno ne parla, ma è il momento di sdoganarlo: è tutto perfettamente normale (non solo tra i fisioterapisti). Prendiamone atto, questa sensazione arriva e poi facendo esperienza se ne va (si spera).
 
@@ -57,7 +57,7 @@ Di solito lo offrono piccole realtà, centri di fisioterapia a carattere locale,
 
 Se invece si parte con contratti a termine, direttamente con una struttura privata o con agenzie interinali, da quello che ho potuto vedere le offerte sono solitamente part-time con uno stipendio tra gli €800 e i €1.000 netti al mese.
 
-Discorso a parte per le offerte a Partita IVA: ho sentito di centri privati con collaborazione fissa a €1.000-1.200 lordi, con un netto quindi sempre nel range iniziale tra i €500-1.000. 
+Discorso a parte per le offerte a Partita IVA: ho sentito di centri privati con collaborazione fissa a €1.000-1.200 lordi, con un netto quindi sempre nel range iniziale tra i €500-1.000.
 
 > Attenzione perché sebbene di solito questa situazione viene definita "falsa partita iva" e fa scattare l'obbligo di assunzione a tempo indeterminato, non è così per i professionisti iscritti ad un Albo o per chi collabora con società sportive - come per la nostra categoria. [Fonte](https://www.fiscozen.it/guide/partita-iva-unico-committente/#Partita_IVA_con_committente_unico_i_casi_di_esclusione " Partita IVA unico committente: cosa dice la normativa?")
 
@@ -68,3 +68,11 @@ Quindi può andar bene per pochi mesi, magari non abbiamo studiato fuori sede o 
 ## Dopo la gavetta
 
 Cercare di raccontare una realtà così complessa ci porta inevitabilmente a semplificazioni.
+
+Una di queste è mettere nel dopo-gavetta la collaborazione a Partita IVA con le cooperative, ma la verità è che possono essere fatte anche durante la gavetta.
+
+Queste collaborazioni in genere sono richiestissime, di solito perché implicano le terapie domiciliari. A mio avviso si lavora tanto, di solito a contatto con persone anziane o malattie irreversibili, quindi non è la più piacevole delle esperienze. Ma la retribuzione come uno dei primi lavori non è male, perché solitamente siamo sui €16-18 a terapia.
+
+La terapia di solito dura 30-40 minuti e se consideriamo 20-30 minuti di spostamenti tra un paziente e l'altro, diciamo che sono €16-18 lordi all'ora.
+
+Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18. Di solito oltre al compenso la cooperativa paga il 4% del totale per i contributi pensionistici e i €2 della marca da bollo, ma per quello bisogna mettersi d'accordo. 
