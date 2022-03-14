@@ -82,3 +82,5 @@ Siccome si pagano le tasse e i contributi, vi risparmio il calcolo (magari ci sc
 > **Regime Forfettario** con tasse al 15% - i primi 5 anni con la partita IVA sono al 5% per cui il netto reale è un po' più alto; **Versamento dei contributi** della pensione all'INPS minimo che in genere è sui €3.500;
 >
 > **Coefficiente di redditività** al 78%.
+
+## Lavoro da dipendente (sia pubblico che privato)
