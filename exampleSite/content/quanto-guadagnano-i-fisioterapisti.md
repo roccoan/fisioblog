@@ -31,7 +31,15 @@ E siccome penso che scopiazzare non apporti nessun valore aggiunto per chi mi le
 
 In ogni caso, dopo la conclusione indico i migliori articoli che ho trovato contenenti dati, se sei anche tu il tipo di persona a cui piace leggere le statistiche.
 
-## La gavetta
+## Sommario
+
+1. La Gavetta;
+2. Collaborazioni a P. IVA;
+3. Dipendente (pubblico o privato);
+4. Società e Associazioni Sportive;
+5. Libera Professione.
+
+## La Gavetta
 
 Partiamo da qui, da dove iniziano in molti (ma non tutti).
 
@@ -59,7 +67,7 @@ Parlando di cifre del genere, anche solo €100 netti al mese in più fanno la d
 
 Quindi può andar bene per pochi mesi, magari non abbiamo studiato fuori sede o comunque abbiamo la fortuna di non pagare l'affitto o sappiamo vivere con poco. Ma prima o poi (potrebbe volerci qualche mese, o qualche anno se dove siamo c'è poco lavoro) ci auguriamo arriva il momento di cambiare e passare ad altro.
 
-## Altre collaborazioni a P. IVA
+## Collaborazioni a P. IVA
 
 Queste collaborazioni sono richiestissime, di solito perché implicano le terapie domiciliari (dove c'è un alto turnover). Di lavoro ce n'è tanto, e si può scegliere quanti pazienti e dove. 
 
@@ -84,3 +92,9 @@ Siccome si pagano le tasse e i contributi, vi risparmio il calcolo (magari ci sc
 > **Coefficiente di redditività** al 78%.
 
 ## Lavoro da dipendente (sia pubblico che privato)
+
+Nel pubblico la maggior parte dei concorsi è cat. D 19k lordi
+
+## Collaborazione con Società e Associazioni Sportive
+
+## Libera Professione
