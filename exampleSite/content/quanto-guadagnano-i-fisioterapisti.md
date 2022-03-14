@@ -31,12 +31,6 @@ E siccome penso che scopiazzare non apporti nessun valore aggiunto per chi mi le
 
 In ogni caso, dopo la conclusione indico i migliori articoli che ho trovato contenenti dati, se sei anche tu il tipo di persona a cui piace leggere le statistiche.
 
-## Sommario: tre casi
-
-1. La gavetta
-2. Dopo la gavetta
-3. I ricchi
-
 ## La gavetta
 
 Partiamo da qui, da dove iniziano in molti (ma non tutti).
@@ -49,7 +43,7 @@ Inoltre è molto frustrante anche l'inevitabile confronto con chi poco dopo la l
 
 Ma veniamo a noi: quanto si guadagna durante la gavetta?
 
-Diamo un po' di cifre. In questa fase è realistico aspettarsi tra i €500 (soprattutto al sud) e i €1.000 (soprattutto al nord) netti al mese.
+Diamo un po' di cifre. In questa fase è realistico aspettarsi tra i €500 e gli €800 netti al mese, ma anche di più a seconda dei casi.
 
 Nella parte bassa ci troviamo se si parte con Garanzia Giovani, dove lo stipendio è €500 al mese. Siccome per le regole di questo programma non si possono i superare €3.000 per tutta la durata del "tirocinio retribuito" o quello che è, per forza di cose un contratto di Garanzia Giovani non può durare per più di 6 mesi.
 
@@ -61,18 +55,30 @@ Discorso a parte per le offerte a Partita IVA: ho sentito di centri privati con 
 
 > Attenzione perché sebbene di solito questa situazione viene definita "falsa partita iva" e fa scattare l'obbligo di assunzione a tempo indeterminato, non è così per i professionisti iscritti ad un Albo o per chi collabora con società sportive - come per la nostra categoria. [Fonte](https://www.fiscozen.it/guide/partita-iva-unico-committente/#Partita_IVA_con_committente_unico_i_casi_di_esclusione " Partita IVA unico committente: cosa dice la normativa?")
 
-Parlando di cifre così basse, anche solo €100 netti al mese in più fanno la differenza tra il poter vivere da soli e il dover chiedere supporto ai genitori, e dopo anni di studio magari è qualcosa che vogliamo evitare.
+Parlando di cifre del genere, anche solo €100 netti al mese in più fanno la differenza tra il poter vivere da soli e il dover chiedere supporto ai genitori, e dopo anni di studio magari è qualcosa che vogliamo evitare.
 
 Quindi può andar bene per pochi mesi, magari non abbiamo studiato fuori sede o comunque abbiamo la fortuna di non pagare l'affitto o sappiamo vivere con poco. Ma prima o poi (potrebbe volerci qualche mese, o qualche anno se dove siamo c'è poco lavoro) ci auguriamo arriva il momento di cambiare e passare ad altro.
 
-## Dopo la gavetta
+## Altre collaborazioni a P. IVA
 
-Cercare di raccontare una realtà così complessa ci porta inevitabilmente a semplificazioni.
+Queste collaborazioni sono richiestissime, di solito perché implicano le terapie domiciliari (dove c'è un alto turnover). Di lavoro ce n'è tanto, e si può scegliere quanti pazienti e dove. 
 
-Una di queste è mettere nel dopo-gavetta la collaborazione a Partita IVA con le cooperative, ma la verità è che possono essere fatte anche durante la gavetta.
+Non entro nel merito se siano belle o brutte, perché oggi parliamo dell'aspetto retributivo, in generale non possono fare al caso di tutti ed è chiaro che serve un mezzo per spostarsi.
 
-Queste collaborazioni in genere sono richiestissime, di solito perché implicano le terapie domiciliari. A mio avviso si lavora tanto, di solito a contatto con persone anziane o malattie irreversibili, quindi non è la più piacevole delle esperienze. Ma la retribuzione come uno dei primi lavori non è male, perché solitamente siamo sui €16-18 a terapia.
+La retribuzione come uno dei primi lavori non è male, perché solitamente siamo sui €16-18 a terapia.
 
-La terapia di solito dura 30-40 minuti e se consideriamo 20-30 minuti di spostamenti tra un paziente e l'altro, diciamo che sono €16-18 lordi all'ora.
+La terapia di solito dura 30-40 minuti e se consideriamo 20-30 minuti di spostamenti tra un paziente e l'altro, possiamo tranquillamente dire che quei €16-18 lordi sono all'ora.
 
-Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18. Di solito oltre al compenso la cooperativa paga il 4% del totale per i contributi pensionistici e i €2 della marca da bollo, ma per quello bisogna mettersi d'accordo. 
+Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18. Di solito oltre a questo compenso la cooperativa paga il 4% del totale per i contributi (quelli della pensione) e restituisce i €2 della marca da bollo, ma per quello bisogna mettersi d'accordo.
+
+Facciamo un esempio per rendere l'idea. 
+
+Con 6 pazienti al giorno, 5 giorni a settimana (considerando che si va dallo stesso paziente più volte a settimana non è affatto irrealistico raggiungere questi numeri nel giro di poco tempo, soprattutto se si è in città anche di medie dimensioni) a €16 per terapia (quindi nella parte bassa del range) al mese siamo a circa €2000 lordi.
+
+Siccome si pagano le tasse e i contributi, vi risparmio il calcolo (magari ci scrivo un articolo più avanti), ma con un guadagno annuo lordo di €24.000 siamo a circa €1.400 netti con 12 mensilità.
+
+> Ho considerato: 
+>
+> **Regime Forfettario** con tasse al 15% - i primi 5 anni con la partita IVA sono al 5% per cui il netto reale è un po' più alto; **Versamento dei contributi** della pensione all'INPS minimo che in genere è sui €3.500;
+>
+> **Coefficiente di redditività** al 78%.
