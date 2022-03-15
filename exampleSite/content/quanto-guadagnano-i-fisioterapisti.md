@@ -161,5 +161,3 @@ Inoltre, alcuni mesi si guadagna di più, altri mesi si guadagna meno di un dipe
 Ne vale la pena? Ai posteri (e magari ad un prossimo articolo) l'ardua sentenza.
 
 ## Conclusione
-
-Come promesso all'inizio ti riporto un po' di articoli con dei dati
