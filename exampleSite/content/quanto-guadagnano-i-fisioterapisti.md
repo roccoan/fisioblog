@@ -11,6 +11,15 @@ type = "post"
 +++
 Stai valutando fisioterapia come percorso di studi e come carriera, e sembra faccia davvero al tuo caso. Si, ma quanto si guadagna?
 
+## Sommario
+
+1. Introduzione
+2. La Gavetta
+3. Collaborazioni a P. IVA
+4. Dipendente (pubblico o privato)
+5. Società e Associazioni Sportive
+6. Libera Professione
+
 ## Introduzione
 
 Dopo aver visto [se si trova lavoro con la laurea in fisioterapia](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?"), oggi cerchiamo di capire quanto si guadagna.
@@ -30,14 +39,6 @@ E siccome penso che scopiazzare non apporti nessun valore aggiunto per chi mi le
 > In futuro magari potremo dar voce alla community di Fisioterapisti.org facendo piccoli sondaggi e aggiornando l'articolo con i vostri contributi.
 
 In ogni caso, dopo la conclusione indico i migliori articoli che ho trovato contenenti dati, se sei anche tu il tipo di persona a cui piace leggere le statistiche.
-
-## Sommario
-
-1. La Gavetta;
-2. Collaborazioni a P. IVA;
-3. Dipendente (pubblico o privato);
-4. Società e Associazioni Sportive;
-5. Libera Professione.
 
 ## La Gavetta
 
@@ -69,7 +70,7 @@ Quindi può andar bene per pochi mesi, magari non abbiamo studiato fuori sede o 
 
 ## Collaborazioni a P. IVA
 
-Queste collaborazioni sono richiestissime, di solito perché implicano le terapie domiciliari (dove c'è un alto turnover). Di lavoro ce n'è tanto, e si può scegliere quanti pazienti e dove. 
+Queste collaborazioni sono richiestissime, di solito perché implicano le terapie domiciliari (dove c'è un alto turnover). Di lavoro ce n'è tanto, e si può scegliere quanti pazienti e dove.
 
 Non entro nel merito se siano belle o brutte, perché oggi parliamo dell'aspetto retributivo, in generale non possono fare al caso di tutti ed è chiaro che serve un mezzo per spostarsi.
 
@@ -79,13 +80,13 @@ La terapia di solito dura 30-40 minuti e se consideriamo 20-30 minuti di spostam
 
 Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18. Di solito oltre a questo compenso la cooperativa paga il 4% del totale per i contributi (quelli della pensione) e restituisce i €2 della marca da bollo, ma per quello bisogna mettersi d'accordo.
 
-Facciamo un esempio per rendere l'idea. 
+Facciamo un esempio per rendere l'idea.
 
 Con 6 pazienti al giorno, 5 giorni a settimana (considerando che si va dallo stesso paziente più volte a settimana non è affatto irrealistico raggiungere questi numeri nel giro di poco tempo, soprattutto se si è in città anche di medie dimensioni) a €16 per terapia (quindi nella parte bassa del range) al mese siamo a circa €2000 lordi.
 
 Siccome si pagano le tasse e i contributi, vi risparmio il calcolo (magari ci scrivo un articolo più avanti), ma con un guadagno annuo lordo di €24.000 siamo a circa €1.400 netti con 12 mensilità.
 
-> Ho considerato: 
+> Ho considerato:
 >
 > **Regime Forfettario** con tasse al 15% - i primi 5 anni con la partita IVA sono al 5% per cui il netto reale è un po' più alto; **Versamento dei contributi** della pensione all'INPS minimo che in genere è sui €3.500;
 >
@@ -93,8 +94,57 @@ Siccome si pagano le tasse e i contributi, vi risparmio il calcolo (magari ci sc
 
 ## Lavoro da dipendente (sia pubblico che privato)
 
-Nel pubblico la maggior parte dei concorsi è cat. D 19k lordi
+### Dipendente Pubblico
+
+Partiamo dal pubblico, cioè il posto fisso. Per arrivarci serve passare un concorso, e questo è abbastanza banale. 
+
+Ogni concorso ha il suo bando, e da questo possiamo trarre una conclusione su quanto si guadagni realmente nel pubblico come fisioterapista dell'ASL o dell'ospedale.
+
+I bandi hanno come riferimento la tabella retributiva del Contratto Collettivo Nazionale del Lavoro (CCNL) della Sanità Pubblica.
+
+> In questa tabella ci sono i vari inquadramenti possibili e i relativi stipendi (lordi). Riporto la versione più aggiornata che ho trovato, cioè [quella del 2016-2018](https://www.uilfpl.it/fs/1/285/287/16_ccnl_sanita_del_21_maggio_2018_comparto_triennio_normativo_ed_economico_2016-2018_definitivo.pdf "CCNL Comparto Sanità 2016-2018") (ricordo che il CCNL [è in corso di rinnovo]()).
+
+Sulle tabelle delle retribuzioni del CCNL Sanità Pubblica c'è solo il lordo, ma **come facciamo a sapere il netto**? Non si può sapere in modo preciso: a parità di lordo, due persone possono prendere un netto diverso perché dipende da cose tipo:
+
+* Imposte comunali;
+* Detrazioni varie;
+* Familiari a carico;
+* E così via.
+
+> Detto ciò, proviamo a fare comunque una stima usando un [calcolatore online](https://www.pmi.it/servizi/292472/calcolo-stipendio-netto.html "Calcolo Stipendio Netto") aggiornato con le nuove aliquote IRPEF selezionando come regione Lazio, aliquota comunale 0,8%, niente familiari a carico, e lo stipendio lordo su 13 mensilità.
+
+#### Categoria D
+
+La maggior parte dei concorsi è per l'inquadramento nella **Categoria D**.
+
+Il CCNL Sanità Pubblica dice che la **Categoria D** equivale ad uno stipendio pari a circa **€1.900 lordi** al mese.
+
+Di che cifra netta parliamo? Siamo attorno ai **€1.400/1.500 netti** al mese (a seconda delle variabili di cui abbiamo parlato prima)
+
+Durante la carriera si può salire all'interno della Categoria D alle sotto-categorie D1, D2, fino a D6, con uno stipendio che sale leggermente di ogni scatto.
+
+#### Categoria DS
+
+Uno **scatto più importante** è quando si passa **dalla Categoria D alla DS**, cioè quella dei **Coordinatori** (posizione che richiede l'apposita magistrale o il master) che guadagnano mediamente tra i **€1.600 e i €1.750 netti** circa (anche qui, difficile dare un numero preciso).
+
+> I fisioterapisti dipendenti pubblici che guadagnano di più sono quelli che svolgono anche l'attività di professori universitari e i dirigenti. Su questo non so dirti altro onestamente, sicuramente siamo sui €3k/4k mensili a salire, e possono subentrare premi di risultato che facciano salire notevolmente lo stipendio reale.
+
+### Dipendente Privato
+
+Lo stipendio nel privato è tendenzialmente simile, sia per i fisioterapisti che per i coordinatori. In alcune realtà possono essere più alti.
+
+### Part-Time
+
+Col part-time si guadagna, a seconda del posto e delle ore, tra i €900 e i €1.200 netti al mese.
 
 ## Collaborazione con Società e Associazioni Sportive
 
 ## Libera Professione
+
+Dulcis in fundo, la libera professione. Nel paragrafo delle collaborazioni a Partita IVA abbiamo già parlato di uno scenario, a mio avviso molto più realistico per chi si è appena laureato, quindi per le cifre rimando a quello.
+
+Invece ora voglio fare una (banalissima, ma doverosa) considerazione: quando ci si mette in proprio la forbice di guadagno si allarga a dismisura. 
+
+Si può rasentare la fame o guadagnare cifre assurde per la gente comune. 
+
+Di solito chi guadagna poco è all'inizio, chi guadagna tanto ha fatto carriera, ha uno studio piuttosto strutturato, dei dipendenti, tanti pazienti (e anche lì non è detto perché i costi possono essere altrettanto alti).
