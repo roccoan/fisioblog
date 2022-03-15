@@ -1,10 +1,10 @@
 +++
 author = "Federica"
 categories = ["Università", "Studio e carriera"]
-date = ""
+date = 2022-03-16T23:00:00Z
 description = "Quanto guadagna un fisioterapista"
 draft = true
-image = ""
+image = "/images/undraw_make_it_rain_iwk4.png"
 title = "Quanto guadagnano i fisioterapisti?"
 type = "post"
 
@@ -13,12 +13,13 @@ Stai valutando fisioterapia come percorso di studi e come carriera, e sembra fac
 
 ## Sommario
 
-1. Introduzione
-2. La Gavetta
-3. Collaborazioni a P. IVA
-4. Dipendente (pubblico o privato)
-5. Società e Associazioni Sportive
-6. Libera Professione
+1. **Introduzione**
+2. **La Gavetta**
+3. **Collaborazioni a P. IVA**
+4. **Dipendente (pubblico o privato)**
+5. **Società e Associazioni Sportive**
+6. **Libera Professione**
+7. **Conclusione**
 
 ## Introduzione
 
@@ -38,7 +39,7 @@ E siccome penso che scopiazzare non apporti nessun valore aggiunto per chi mi le
 
 > In futuro magari potremo dar voce alla community di Fisioterapisti.org facendo piccoli sondaggi e aggiornando l'articolo con i vostri contributi.
 
-In ogni caso, dopo la conclusione indico i migliori articoli che ho trovato contenenti dati, se sei anche tu il tipo di persona a cui piace leggere le statistiche.
+In ogni caso, in conclusione indico i migliori articoli che ho trovato contenenti dati, se sei anche tu il tipo di persona a cui piace leggere le statistiche.
 
 ## La Gavetta
 
@@ -139,6 +140,12 @@ Col part-time si guadagna, a seconda del posto e delle ore, tra i €900 e i €
 
 ## Collaborazione con Società e Associazioni Sportive
 
+Qui è un po' discorso a parte. 
+
+Onestamente non conosco l'ambito nè fisioterapisti sportivi con cui confrontarmi. Se il tuo sogno è diventare fisioterapista di qualche club di serie A l'unico dato attendibile che ho trovato è questo, dal blog di [Indeed](https://it.indeed.com/guida-alla-carriera/retribuzione-stipendio/quanto-guadagna-un-fisioterapista "https://it.indeed.com/guida-alla-carriera/retribuzione-stipendio/quanto-guadagna-un-fisioterapista") (il sito per la ricerca di lavoro):
+
+> "Tra i fisioterapisti più pagati in Italia troviamo proprio quelli che lavorano con squadre di calcio e professionisti dello sport. Lo stipendio di un fisioterapista sportivo può raggiungere e superare i 2.000 €."
+
 ## Libera Professione
 
 Dulcis in fundo, la libera professione. Nel paragrafo delle collaborazioni a Partita IVA abbiamo già parlato di uno scenario, a mio avviso molto più realistico per chi si è appena laureato, quindi per le cifre rimando a quello.
@@ -148,3 +155,11 @@ Invece ora voglio fare una (banalissima, ma doverosa) considerazione: quando ci 
 Si può rasentare la fame o guadagnare cifre assurde per la gente comune. 
 
 Di solito chi guadagna poco è all'inizio, chi guadagna tanto ha fatto carriera, ha uno studio piuttosto strutturato, dei dipendenti, tanti pazienti (e anche lì non è detto perché i costi possono essere altrettanto alti).
+
+Inoltre, alcuni mesi si guadagna di più, altri mesi si guadagna meno di un dipendente.
+
+Ne vale la pena? Ai posteri (e magari ad un prossimo articolo) l'ardua sentenza.
+
+## Conclusione
+
+L'articolo
