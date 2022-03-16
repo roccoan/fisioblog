@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Università", "Studio e carriera"]
-date = 2022-03-16T23:00:00Z
+date = 2022-03-15T23:00:00Z
 description = "Quanto guadagna un fisioterapista"
 draft = true
 image = "/images/undraw_make_it_rain_iwk4.png"
@@ -25,7 +25,7 @@ Stai valutando fisioterapia come percorso di studi e come carriera, e sembra fac
 
 Dopo aver visto [se si trova lavoro con la laurea in fisioterapia](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?"), oggi cerchiamo di capire **quanto si guadagna**.
 
-Doverosa premessa: non ci può essere una risposta che vada bene per tutti i casi, per questo ne vedremo un po'.
+Doverosa premessa: non ci può essere una risposta che vada bene per tutti i casi, per questo ne vedremo un po', cercando di dare un po' di contesto e informazioni utili per chi si sta affacciando a questo mondo e sta cercando di capire cosa aspettarsi ragionevolmente dalla carriera del fisioterapista.
 
 ## La Gavetta
 
@@ -172,9 +172,11 @@ Invece ora voglio fare una (banalissima, ma doverosa) considerazione: quando ci 
 
 Si può rasentare la fame o guadagnare cifre assurde per la gente comune.
 
-Di solito chi guadagna poco è all'inizio, chi guadagna tanto ha fatto carriera, ha uno studio piuttosto strutturato, dei dipendenti, tanti pazienti (ma i costi possono essere altrettanto alti).
+Di solito chi guadagna poco è all'inizio, chi guadagna tanto ha fatto carriera la cui lunghezza si misura in decenni, ha uno studio piuttosto strutturato, dei dipendenti, tanti pazienti (ma i costi possono essere altrettanto alti).
 
-Ma quindi ne vale la pena svolgere la libera professione? Ai posteri (e magari ad un prossimo articolo) l'ardua sentenza.
+Ma quindi, ne vale la pena svolgere l'attività in libera professione?
+
+La risposta a questa domanda è troppo ampia per rientrare nell'argomento di oggi, per cui ai posteri (o meglio ad un prossimo articolo) l'ardua sentenza.
 
 ## Conclusione
 
@@ -182,9 +184,9 @@ Parlare di stipendi **è sempre spinoso**: ci sono troppe variabili in gioco, e 
 
 Consapevole che **generalizzando si perde di accuratezza**, il mio intento non è quello di fare un trattato di statistica sulle retribuzioni. 
 
-Il mio intento è quello di **ispirarmi alle conversazioni che si fanno a 20 anni** quando si cerca di capire cosa ne sarà del futuro, **di dare risposte agli stessi dubbi che mi ponevo all'Università** e alle superiori, alle domande che facevamo durante i tirocini ai fisioterapisti più grandi di noi che conoscevano meglio di noi questo fantastico mondo e che potessero darci uno spiraglio di luce su q
+Il mio intento è quello di **ispirarmi alle conversazioni che si fanno a 20 anni** quando si cerca di capire cosa ne sarà del futuro, **di dare risposte agli stessi dubbi che mi ponevo all'Università** e alle superiori, **alle domande che facevamo durante i tirocini ai fisioterapisti più grandi** di noi che conoscevano meglio questo fantastico mondo e che potessero aprirci uno spiraglio di luce su cosa aspettarci per il futuro.
 
-Spero quindi che quest'articolo ti sia stato utile per brancolare (almeno un po') meno nel buio. 
+Spero quindi che quest'articolo ti sia stato utile per brancolare almeno un po' meno nel buio.
 
 Grazie per essere passata/o di qui! 
 
