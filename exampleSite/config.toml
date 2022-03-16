@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [[menu.footer]]
-URL = "https://fisiodefilippis.it/"
+URL = "contact"
 name = "Contatti"
 weight = 1
 [[menu.main]]
