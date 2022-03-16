@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Studio e carriera"]
 date = 2022-03-15T23:00:00Z
 description = "Quanto guadagna un fisioterapista"
-draft = true
 image = "/images/undraw_make_it_rain_iwk4.png"
 title = "Quanto guadagnano i fisioterapisti?"
 type = "post"
