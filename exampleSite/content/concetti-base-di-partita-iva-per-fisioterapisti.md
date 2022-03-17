@@ -23,7 +23,7 @@ Quindi, partiamo!
 
 ## Partita IVA
 
-Quando si parla di lavoro autonomo, parliamo necessariamente di Partita IVA. 
+Quando si parla di lavoro autonomo, parliamo necessariamente di Partita IVA.
 
 ### Che cos'è la Partita IVA?
 
@@ -37,13 +37,13 @@ Ognuno di noi ha un Codice Fiscale, giusto?
 
 Il Codice Fiscale come sappiamo bene lo troviamo sulla Tessera Sanitaria, perché è molto utile per identificare le persone in ambito sanitario (per esempio per fare l'accettazione in ospedale).
 
-Ma notiamo una cosa: si chiama Codice "Fiscale" perché nasce nell'ambito fiscale. 
+Ma notiamo una cosa: si chiama Codice "Fiscale" perché nasce nell'ambito fiscale.
 
 In pratica serve a identificare univocamente un contribuente, così che lo stato sappia quanto ha versato quel soggetto in tasse.
 
-E ora vediamo anche con occhi diversi il gesto di dare al farmacista il codice fiscale per scaricare i farmaci che acquistiamo. 
+E ora vediamo anche con occhi diversi il gesto di dare al farmacista il codice fiscale per scaricare i farmaci che acquistiamo.
 
-Si, dare al farmacista la tessera sanitaria è certamente un discorso sanitario perché stiamo comprando farmaci. 
+Si, dare al farmacista la tessera sanitaria è certamente un discorso sanitario perché stiamo comprando farmaci.
 
 Ma dando il codice fiscale stiamo anche dicendo al fisco che nella prossima dichiarazione dei redditi dovremo pagare meno tasse perché le spese dei farmaci sono detraibili.
 
@@ -78,7 +78,7 @@ Si può restare nel forfettario se si guadagna meno di €60.000 lordi all'anno 
 
 #### 2) Partita IVA Ordinaria
 
-L'Ordinaria paga più tasse della Forfettaria, ma può anche "scaricare i costi" (e fare robe con l'IVA, ma su questo non ci addentriamo perché non è rilevante per chi inizia). 
+L'Ordinaria paga più tasse della Forfettaria, ma può anche "scaricare i costi" (e fare robe con l'IVA, ma su questo non ci addentriamo perché non è rilevante per chi inizia).
 
 Scaricare i costi, per fare un paragone, è come quando compriamo le medicine e diamo la tessera sanitaria al farmacista. Solo che al posto di scaricare col codice fiscale qui lo facciamo con la partita iva, e al posto di scaricare il costo dei medicinali scarichiamo per esempio il costo dell'affitto o di altre spese dell'attività.
 
@@ -90,17 +90,17 @@ Ora, per capire come funziona il meccanismo delle tasse, passiamo al prossimo ar
 
 ## Le fatture
 
-Partiamo col dire questo: le tasse si pagano su quello che si guadagna. 
+Partiamo col dire questo: le tasse si pagano su quello che si guadagna.
 
 Se non si guadagna niente, non si versano tasse.
 
 ### Come si fa a capire quante tasse bisogna pagare?
 
-Togliamo di mezzo ogni equivoco: è competenza del commercialista capire quante tasse dovete pagare, ma cerchiamo di capire almeno come funziona.
+Togliamo di mezzo ogni equivoco: è competenza del commercialista capire quante tasse devi pagare, ma cerchiamo di capire almeno come funziona. 
 
-In pratica questa valutazione va fatta l'anno successivo per l'anno precedente.
+> Prendiamo come riferimento **solo il forfettario**, perché tanto è quello che usa la stragrande maggioranza dei professionisti sanitari e non.
 
-Cioè io nel 2022 vado a vedere quanto ho guadagnato l'anno precedente, quindi nel 2021, e in base a quello ci dovrò pagare le tasse.
+Questa valutazione va fatta l'anno successivo per l'anno precedente. Cioè nel 2022 vado a vedere quanto ho guadagnato l'anno precedente (il 2021), e in base a quello ci dovrò pagare le tasse.
 
 Per capire quanto ho guadagnato nel 2021 devo semplicemente **sommare gli importi di tutte le fatture che ho emesso** nel corso del 2021.
 
@@ -114,11 +114,13 @@ Ecco, quando tu fornirai ad altri le prestazioni da fisioterapista, dovrai conse
 
 La fattura però non ha la forma di un nastro di carta con tutte le scritte minuscole e incomprensibili, ma deve presentare chiaramente tutte le informazioni:
 
-* Chi ha prestato il servizio (cioè tu, con tutti i tuoi dati inclusa la partita iva);
-* Chi ha richiesto il servizio (che può essere un paziente privato, o un'ente col quale hai collaborato);
-* Di che servizio si trattava (descrizione più o meno specifica, non è importante quanto lo sia, tipo: "ciclo di fisioterapia", "terapie domiciliari", "pacchetto terapie strumentali" ecc.);
-* Quanto è costato il servizio prestato.
+* **Chi ha prestato il servizio** (cioè tu, con tutti i tuoi dati inclusa la partita iva);
+* **Chi ha richiesto il servizio** (che può essere un paziente privato, o un'ente col quale hai collaborato);
+* **Di che servizio si tratta** (descrizione più o meno specifica, non è importante quanto lo sia, tipo: "ciclo di fisioterapia", "terapie domiciliari", "pacchetto terapie strumentali" ecc.);
+* **Quanto è costato** il servizio prestato.
 
-Dall'altro lato della medaglia, "quanto è costato" implica "quanto abbiamo intascato".
+Dall'altro lato della medaglia, "quanto è costato" implica "**quanto abbiamo intascato**".
 
 La somma di tutto quello che abbiamo intascato nel corso dell'anno è la base di partenza per il pagamento delle tasse.
+
+O per dirla con gli stessi termini di prima, **pago le tasse sommando gli importi di tutte le fatture che ho emesso** **l'anno scorso**.
