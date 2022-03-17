@@ -142,11 +142,9 @@ Mentre le tasse vanno all'Agenzia delle Entrate, i contributi per la pensione va
 >
 > Quindi questi contributi vengono versati all'INPS nella cosidetta "Gestione Separata". 
 >
-> Le regole della Gestione Separata prevedono un versamento annuale commisurato a quanto abbiamo guadagnato, con un minimo che si aggira attorno ai €3.500, ma la cui cifra esatta viene aggiornata ogni anno. 
+> Le regole della Gestione Separata prevedono un versamento annuale commisurato a quanto abbiamo guadagnato, con un minimo che si aggira attorno ai €3.500, ma la cui cifra esatta viene aggiornata ogni anno.
 >
-> Quindi ogni
->
-> Se il commercialista ve ne parla, ora sapete cos'è questa Gestione Separata.
+> Se il commercialista ve ne parla prendendo per scontato che sapete cosa sia, ora finalmente sapete cos'è questa famosa Gestione Separata.
 
 Ora, a noi non interessa a chi va cosa perché dobbiamo fare cose particolari, questo è tutto un discorso a carico del commercialista. Lo spieghiamo solo per capire meglio quando arriva l'addebito, cosa ci stanno togliendo effettivamente dal conto corrente.
 
