@@ -106,13 +106,13 @@ Per capire quanto ho guadagnato nel 2021 devo semplicemente **sommare gli import
 
 ### Piano, che sono le fatture? E che vuol dire che le hai "emesse"?
 
-Forse per spiegare le fatture è meglio fare un confronto, come abbiamo fatto per codice fiscale e partita iva.
+Forse **per spiegare le fatture** è meglio se **facciamo un confronto**, come abbiamo fatto per codice fiscale e partita iva.
 
 Hai presente che quando compri qualsiasi cosa, dallo shampoo al supermercato alla pizza il sabato sera, al momento del pagamento ti danno uno scontrino (si spera)?
 
-Ecco, quando tu fornirai ad altri le prestazioni da fisioterapista, dovrai consegnare la tua versione dello scontrino che prende il nome di fattura.
+Ecco, quando tu fornirai ad altri le tue prestazioni da fisioterapista, dovrai consegnare la tua versione dello scontrino, che prende il nome di fattura.
 
-La fattura però non ha la forma di un nastro di carta con tutte le scritte minuscole e incomprensibili, ma deve presentare chiaramente tutte le informazioni:
+La fattura però non ha la forma di un nastro di carta con tutte le scritte minuscole e incomprensibili, ma deve presentare chiaramente tutte le seguenti informazioni:
 
 * **Chi ha prestato il servizio** (cioè tu, con tutti i tuoi dati inclusa la partita iva);
 * **Chi ha richiesto il servizio** (che può essere un paziente privato, o un'ente col quale hai collaborato);
@@ -124,3 +124,15 @@ Dall'altro lato della medaglia, "quanto è costato" implica "**quanto abbiamo in
 La somma di tutto quello che abbiamo intascato nel corso dell'anno è la base di partenza per il pagamento delle tasse.
 
 O per dirla con gli stessi termini di prima, **pago le tasse sommando gli importi di tutte le fatture che ho emesso** **l'anno scorso**.
+
+## Un'importante distinzione
+
+Bene, ora siamo arrivato al punto che abbiamo una serie di fatture, un'importo che chiamiamo lordo perché su quello ci dobbiamo pagare "le tasse" e pochissima voglia di farlo.
+
+Ma almeno, cerchiamo di capire quanto sarà il netto.
+
+distinzione tra tasse e contributi
+
+calcolo
+
+pagamento con l'f24 conto e carte
