@@ -6,9 +6,9 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [[menu.footer]]
-URL = "contact"
-name = "Contatti"
-weight = 1
+URL = "https://fisioterapisti.org/author/federica/"
+name = "Chi sono"
+weight = "1"
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
