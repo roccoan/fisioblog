@@ -132,11 +132,23 @@ Bene, ora siamo arrivati al punto di ritrovarci con una serie di fatture e un'im
 Perché quello che dobbiamo togliere al lordo per capire il netto è composto da due cose:
 
 1. **Le tasse**, cioè quelle che poi vengono usate per far funzionare le pubbliche amministrazioni, il sistema sanitario nazionale, i corpi di polizia, le scuole e le università, eccetera;
-2. **I contributi**, cioè quei soldi che vanno a contribuire alla pensione (inserire battuta sul "non la vedremo mai!!!").
+2. **I contributi**, cioè quei soldi che vanno a contribuire alla pensione (inserire battuta sul _"non la vedremo mai!"_).
 
 Mentre le tasse vanno all'Agenzia delle Entrate, i contributi per la pensione vanno invece all'INPS, che è appunto l'ente che si occupa delle pensioni.
 
-Ora, a noi non interessa a chi va cosa perché dobbiamo fare cose particolari, questo è tutto un discorso a carico del commercialista. Lo spieghiamo solo per capire meglio quando arriva l'addebito, cosa ci stanno togliendo dal conto corrente.
+> Di solito le libere professioni con un Albo hanno anche una cassa previdenziale a parte. 
+>
+> Per i fisioterapisti è stato istituito l'Albo di recente, ma non esiste una cassa previdenziale di categoria dove versare i contributi. 
+>
+> Quindi questi contributi vengono versati all'INPS nella cosidetta "Gestione Separata". 
+>
+> Le regole della Gestione Separata prevedono un versamento annuale commisurato a quanto abbiamo guadagnato, con un minimo che si aggira attorno ai €3.500, ma la cui cifra esatta viene aggiornata ogni anno. 
+>
+> Quindi ogni
+>
+> Se il commercialista ve ne parla, ora sapete cos'è questa Gestione Separata.
+
+Ora, a noi non interessa a chi va cosa perché dobbiamo fare cose particolari, questo è tutto un discorso a carico del commercialista. Lo spieghiamo solo per capire meglio quando arriva l'addebito, cosa ci stanno togliendo effettivamente dal conto corrente.
 
 E con questo diamo un'anticipazione sul prossimo punto.
 
@@ -144,26 +156,28 @@ E con questo diamo un'anticipazione sul prossimo punto.
 
 Come dicevamo, tutto quello che c'è prima interessa al commercialista. A noi tocca il compito più ingrato, cioè quello di pagare.
 
-Ma come si fanno a pagare?
+Ma come si pagano?
 
-Il commercialista fa tutti i suoi bei calcoli, e alla fine il risultato di questi calcoli viene riportato nel "modulo F24" che conterrà quante tasse e quanti contributi dobbiamo pagare.
+Il commercialista fa tutti i suoi bei calcoli, e alla fine il risultato di questi calcoli viene riportato nel **modulo F24** che contiene quante tasse e quanti contributi dobbiamo pagare.
 
-### Che diamine è un F24?
+### Che diamine è un modulo F24?
 
 Usiamo ancora un paragone. 
 
-Hai presente quando non c'erano le email e a casa arrivava la bolletta della luce nella busta?
+Hai presente quando non c'erano le email e a casa arrivava la bolletta della luce nella busta delle lettere?
 
 Ecco, l'F24 è la bolletta delle tasse e dei contributi pensionistici all'INPS. 
 
 Ha proprio le fattezze di un foglio pieno di caselle tipo i bollettini postali, e si può pagare sia in banca che alle poste.
 
-Però noi paghiamo il commercialista, e di certo se spendiamo soldi per pagare le tasse, pretendiamo almeno di non dover fare la fila all'ufficio postale o in banca.
+Però noi oltre alle tasse paghiamo anche il commercialista, e di certo se spendiamo soldi per il privilegio di dover pagare le tasse, pretendiamo almeno di non dover fare la fila all'ufficio postale o in banca.
 
-Per questo, il commercialista può emettere l'F24, inserire l'IBAN del tuo conto corrente e il pagamento passa in automatico senza che ci sia il bisogno di perdere una giornata a fare la fila.
+Per questo, il commercialista può emettere l'F24, inserire l'IBAN del tuo conto corrente e il pagamento passa in automatico sul conto senza che ci sia il bisogno di perdere una giornata a fare la fila in banca.
 
-Questa cosa l'ho imparata nel modo peggiore: non avevo un conto corrente, ma una Genius Card. Davo l'IBAN della carta al commercialista e il pagamento tornava sempre indietro. Sulla banca via internet la mia carta non poteva pagare gli F24 ordinari e alla fine ho dovuto pagare l'F24 per conto mio senza l'aiuto del commercialista perché non avevo un conto.
+Questa cosa l'ho imparata nel modo peggiore: non avevo un conto corrente, ma una Genius Card. 
 
-Quindi il consiglio è lasciare perdere le carte prepagate con l'iban (che abbiamo tutti quando facciamo l'università), ma aprire direttamente un normale conto corrente anche di quelli online senza spese (io poi ho fatto BuddyBank sempre di Unicredit e ho risolto). 
+Davo l'IBAN della carta al commercialista e il pagamento veniva sempre respinto. Sulla banca via internet la mia carta non poteva pagare gli F24 ordinari e alla fine ho dovuto pagare l'F24 per conto mio senza l'aiuto del commercialista perché non avevo un conto.
 
-Basta un conto normale anche perché non è necessario avere un conto per le imprese se siamo liberi professionisti.
+Quindi il consiglio è lasciare perdere le carte prepagate con l'IBAN (quelle che abbiamo tutti quando facciamo l'università), ma aprire direttamente un normale conto corrente anche di quelli online senza spese (io poi ho fatto BuddyBank sempre di Unicredit e ho risolto).
+
+Basta un conto normale anche perché **non è necessario avere un conto per le imprese** se siamo liberi professionisti.
