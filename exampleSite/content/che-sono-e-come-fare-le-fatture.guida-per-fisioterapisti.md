@@ -158,9 +158,11 @@ Per un totale da pagare di €626.
 
 Puoi indicare in fattura il tuo IBAN per ricevere pagamento tramite bonifico, se il paziente invece ti paga in contanti (ricorda che in contanti non può scaricare la spesa medica nella dichiarazione) o carta, puoi _quietanzare_ la fattura: cioè scrivere a mano (o usando un timbro che si vende nei negozi specializzati) la scritta “quietanza” accompagnata dalla tua firma, e semplicemente tutto ciò significa che la fattura è stata saldata e che non avrai null’altro da chiedere. È un dettaglio che puoi anche omettere, non è obbligatorio, ma molti preferiscono farlo.
 
-## Bonus n.2: Se la fattura è intestata alla moglie, può pagare il marito?
+## Bonus n.2: Se la fattura del fisioterapista è intestata alla moglie, può pagare il marito?
 
-Si 
+Situazione: marito e moglie hanno il conto corrente cointestato. La moglie non ha una carta a suo nome, usano quella del marito. 
+
+Secondo [l'Agenzia delle Entrate si può fare](https://www.agenziaentrate.gov.it/portale/documents/20143/2707899/Risposta+n.+431+del+2+ottobre+2020.pdf/0893722f-ec9b-50ac-364e-d94f4ac8153c "Carta del marito, spese della moglie: salvo il diritto di detrazione") ed è anche detraibile la spesa. 
 
 ## Che programma uso per fare le fatture?
 
