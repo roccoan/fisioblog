@@ -83,7 +83,7 @@ Quella con cui iniziamo tutti, è la forma più semplice e agevolata.
 
 Ci basti sapere che **se non ne abbiamo mai avuta una** prima d'ora, **per i primi 5 anni dall'apertura si versano meno tasse** (il 5%), dopo i 5 anni si pagano un po' più di tasse (il 15%).
 
-Si può restare nel forfettario **se si guadagna meno di €60.000** lordi all'anno (o in media €5k lordi al mese), sopra quella soglia si passa automaticamente alla seconda tipologia, cioè quella Ordinaria.
+Si può restare nel forfettario **se si guadagna meno di €65.000** lordi all'anno (o in media circa €5k lordi al mese), sopra quella soglia si passa automaticamente alla seconda tipologia, cioè quella Ordinaria.
 
 #### 2) Partita IVA Ordinaria
 
