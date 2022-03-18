@@ -95,7 +95,7 @@ Solo che al posto di scaricare col codice fiscale qui **lo facciamo con la parti
 
 La Forfettaria non può scaricare i costi, ma paga meno tasse.
 
-Se siamo Forfettari, passiamo direttamente nell'Ordinario quando superiamo i €60.000 di guadagni all'anno (e quindi praticamente mai per noi comuni mortali - significa più di €5.000 lordi al mese), o se si hanno partecipazioni in società (se ne avete sentite pure il commercialista perché oltre questo non saprei approfondire).
+Se siamo Forfettari, passiamo direttamente nell'Ordinario quando superiamo i €65.000 di guadagni all'anno (e quindi praticamente mai per noi comuni mortali - significa più di €5.000 lordi al mese), o se si hanno partecipazioni in società (se ne avete sentite pure il commercialista perché oltre questo non saprei approfondire).
 
 Ora, per capire come funziona il meccanismo delle tasse, passiamo al prossimo argomento.
 
