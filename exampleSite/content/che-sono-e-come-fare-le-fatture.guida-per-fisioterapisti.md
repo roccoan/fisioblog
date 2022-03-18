@@ -8,36 +8,55 @@ title = "Che sono e come fare le fatture. Guida per fisioterapisti"
 type = "post"
 
 +++
-Questo articolo interesserà principalmente ai neo fisioterapisti che svolgono libera professione.
+Questo articolo è per aiutare coloro che stanno per aprire la Partita IVA e hanno bisogno di indicazioni sulle fatture.
 
-Inoltre è stato scritto da più persone, anche con l'aiuto del mio commercialista, e riassume tutte le cose che ho imparato nel corso del tempo. Ho aperto la P.IVA nel 2018 e ricordo che non ci capivo assolutamente niente, ma poi si entra nei meccanismi. Infine, siccome la legge cambia spesso, se ci saranno modifiche procederemo ad aggiornarlo.
+Quando ho aperto io la P. IVA ricordo che i primi mesi avevo tantissime difficoltà. Quindi voglio scrivere l'articolo che avrei letto volentieri qualche anno fa quando ero agli inizi.
 
-Prendiamo per scontato che si abbia la Partita IVA: magari è stata appena aperta (in caso contrario, basta rivolgersi ad un commercialista) e ci sono tanti dubbi su come funziona la fatturazione. Non prendiamo null'altro per scontato, e cerchiamo di descrivere nel modo più preciso e semplice possibile ogni elemento.
+Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo più preciso e semplice possibile.
 
 ## Introduzione
 
 Possiamo considerare la nostra professione come la vendita di un servizio (la fisioterapia) a pazienti privati o altri enti, come ospedali, cooperative, cliniche e centri.
 
-Oltre alla **vendita** di un servizio, l’attività del fisioterapista prevede anche l’**acquisto** di beni e prodotti che saranno utili per l’attività stessa. Pensa alla cartina per il lettino, alla crema per la tecar o le attrezzature varie.
+Oltre alla **vendita** di un servizio, l’attività del fisioterapista prevede anche l’**acquisto** di cose che saranno utili per l’attività stessa. Pensa alla carta per il lettino, alla crema per la tecar o attrezzi vari.
 
 Quindi durante la propria vita professionale, un fisioterapista effettua sia acquisti che vendite.
 
 ## Che sono le fatture?
 
-Questa introduzione era necessaria per capire meglio a che servono le fatture. Infatti, le fatture possono essere di due tipi: quelle di vendita (che quindi devi emettere ai pazienti, o in generale ogni qual volta che guadagni dei soldi dall’attività) e quelle di acquisto (che ricevi in quanto acquirente da chi ti ha venduto qualcosa, in generale ogni qual volta che spendi dei soldi per l’attività).
+Questa introduzione era necessaria per capire meglio a che servono le fatture. 
 
-Le fatture, sia quelle emesse che quelle ricevute vanno inviate al commercialista, il quale alla fine dell’anno calcolerà quanto abbiamo guadagnato e quanto abbiamo speso. In base a questi calcoli ci produrrà il Modello Unico – cioè la dichiarazione dei redditi di chi ha la P. IVA - e ci dirà quante tasse e contributi dobbiamo pagare. Eventualmente ci dirà anche se possiamo avere “sconti” sulle tasse dopo aver acquistato beni strumentali che possano essere oggetto di detrazioni.
+Infatti, le fatture possono essere **di due tipi**: 
 
-Quindi le fatture sono dei documenti che rendicontano una vendita o un acquisto e servono per tenere traccia dell’andamento di un'attività.
+* **Fatture di vendita** - le emetti ai pazienti, o in generale ogni qual volta che guadagni dei soldi dall’attività;
+* **Fatture di acquisto** - che ricevi come acquirente da chi ti ha venduto qualcosa, in generale tutte le volte che spendi dei soldi per l’attività.
+
+Quelle di cui ti devi preoccupare di più sono le prime, perchè sono quelle che dovrai compilare ed emettere.
+
+Le seconde le ricevi soltanto, quindi no problem.
+
+Tutte e due le tipologie però vanno inviate al commercialista. 
+
+Il commercialista alla fine dell’anno, sulle base delle fatture che gli abbiamo mandato, ricostruisce quello che è successo e calcola **quanto abbiamo guadagnato** e **quanto abbiamo speso**. 
+
+In base a questi calcoli fa la nostra bella **dichiarazione dei redditi** (che per le Partite IVA si chiama **Modello Unico**) e ci dice **quante tasse** e **quanti contributi** dobbiamo pagare. 
+
+> Se non sai qual'è la differenza tra le tasse e i contributi, o in generale vuoi avere un po' di concetti di base sulla Partita IVA per Fisioterapisti, leggi pure [quest'altro articolo](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti base di Partita IVA per Fisioterapisti").
+
+Il commercialista ci dirà anche se possiamo avere **“sconti” sulle tasse** dopo aver acquistato cose che possano essere oggetto di detrazioni.
+
+Quindi le fatture sono dei documenti che rendicontano una vendita o un acquisto e servono per tenere traccia dell’andamento della tua attività da Libero Professionista.
 
 ## Come si emette una fattura?
 
-Per fortuna per i professionisti sanitari il processo è molto semplificato (rispetto per esempio alle fatture che deve emettere un’azienda) soprattutto per chi rientra nel Regime Forfettario (ad oggi tutte le P. Iva che fatturano – cioè guadagnano - fino a €65k lordi all’anno).
+Per fortuna per i Professionisti Sanitari il processo è molto semplificato (rispetto per esempio alle fatture che deve emettere un’azienda).
+
+Questo è vero soprattutto per chi rientra nel Regime Forfettario (ad oggi tutte le P. IVA che fatturano – cioè guadagnano - fino a €65.000 lordi all’anno).
 
 In generale la struttura di base di una fattura deve contenere:
 
-* **Intestazione**, cioè chi sta emettendo la fattura e deve prendere i soldi;
-* **Dati di chi riceve la fattura**, cioè i dati di chi compra, di chi deve pagare;
+* **Intestazione**, cioè chi sta emettendo la fattura e _deve prendere i soldi_;
+* **Dati di chi riceve la fattura**, cioè i dati di chi compra, di chi deve pagare*;
 * **Data e numero** del documento;
 * **Descrizione del bene/servizio** che viene venduto (per esempio “prestazione fisioterapica”);
 * **Importi unitari, quantità e importo totale** (per esempio 4 terapie al prezzo di €35, totale €140).
@@ -139,6 +158,10 @@ Per un totale da pagare di €626.
 
 Puoi indicare in fattura il tuo IBAN per ricevere pagamento tramite bonifico, se il paziente invece ti paga in contanti (ricorda che in contanti non può scaricare la spesa medica nella dichiarazione) o carta, puoi _quietanzare_ la fattura: cioè scrivere a mano (o usando un timbro che si vende nei negozi specializzati) la scritta “quietanza” accompagnata dalla tua firma, e semplicemente tutto ciò significa che la fattura è stata saldata e che non avrai null’altro da chiedere. È un dettaglio che puoi anche omettere, non è obbligatorio, ma molti preferiscono farlo.
 
+## Bonus n.2: Se la fattura è intestata alla moglie, può pagare il marito?
+
+Si 
+
 ## Che programma uso per fare le fatture?
 
 Ora che hai capito il meccanismo di base per emettere fatture, ti spiego come farle operativamente.
@@ -157,6 +180,6 @@ Due volte all’anno devi caricare le informazioni delle fatture, nello specific
 
 L'articolo era bello lungo, e sei arrivata/o fin qui, ti spinge davvero tanta motivazione! Spero che la guida ti sia stata utile, e ti auguro tante tante fatture :D
 
-Se hai suggerimenti su come migliorarla ulteriormente, lascia pure un commento. 
+Se hai suggerimenti su come migliorarla ulteriormente, lascia pure un commento.
 
 Grazie ancora, e a presto!
