@@ -16,7 +16,7 @@ Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo p
 
 ## Introduzione
 
-Possiamo considerare la nostra professione come la vendita di un servizio (la fisioterapia) a pazienti privati o altri enti, come ospedali, cooperative, cliniche e centri.
+Possiamo **considerare la nostra professione come la vendita di un servizio** (la fisioterapia) a pazienti privati o altri enti, come ospedali, cooperative, cliniche e centri.
 
 Oltre alla **vendita** di un servizio, l’attività del fisioterapista prevede anche l’**acquisto** di cose che saranno utili per l’attività stessa. Pensa alla carta per il lettino, alla crema per la tecar o attrezzi vari.
 
