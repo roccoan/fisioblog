@@ -83,7 +83,7 @@ _Residente in Via Tiburtina 10, Roma_
 
 _Codice Fiscale_
 
-_Cellulare ed e-mail (opzionali)_
+_Cellulare ed e-mail (opzionali)_ 
 
 ## Data e numero del documento
 
