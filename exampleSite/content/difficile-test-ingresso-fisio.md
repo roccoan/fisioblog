@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2022-03-20T23:00:00Z
 description = "Oggi ci chiediamo: è difficile il test di ammissione a fisioterapia?"
-draft = true
 image = "/images/ben-mullins-oxv3bzr7jxi-unsplash.jpg"
 title = "È difficile il test d'ingresso a Fisioterapia?"
 type = "post"
