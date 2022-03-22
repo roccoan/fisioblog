@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Libera Professione", "Studio e carriera"]
 date = 2022-03-21T23:00:00Z
 description = "Concorsi per Fisioterapista, concorsi fisioterapisti in scadenza a marzo"
-draft = true
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
 title = "Concorsi per Fisioterapista in scadenza a fine Marzo 2022"
 type = "post"
