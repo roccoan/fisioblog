@@ -25,7 +25,7 @@ Per rendere l'idea di quanto differiscono il pubblico e il privato, vediamo le p
 
 ### Come si cerca il lavoro?
 
-#### Fase 1
+#### Fase 1 - La candidatura
 
 In una prima fase bisogna **candidarsi alle offerte di lavoro**.
 
@@ -39,7 +39,7 @@ La Gazzetta Ufficiale (GU) viene aggiornata due volte a settimana con i nuovi co
 
 Per fare prima però, ci sono [siti](https://www.concorsipubblici.com/concorsi-fisioterapista.htm "Concorsi per Fisioterapisti | ConcorsiPubblici.com") che raccolgono i concorsi dalle varie fonti che ci agevolano il lavoro e ci evitano di andare a controllare tutte le fonti.
 
-#### Fase 2
+#### Fase 2 - La Selezione
 
 Nella seconda fase bisogna **affrontare la selezione**.
 
