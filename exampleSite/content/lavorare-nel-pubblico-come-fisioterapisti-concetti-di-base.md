@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Studio e carriera"]
 date = 2022-04-01T22:00:00Z
 description = "Come si diventa dipendente pubblico da fisioterapista? Ci sono diversi modi, scopriamo quali."
-draft = true
 image = "/images/siora-photography-hgfy1mzy-y0-unsplash.jpg"
 title = "Lavorare nel pubblico come fisioterapisti - Concetti di base"
 type = "post"
