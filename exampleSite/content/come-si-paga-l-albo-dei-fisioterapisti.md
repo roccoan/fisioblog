@@ -138,13 +138,13 @@ Se per un motivo qualsiasi non possiamo inquadrare il codice QR (non abbiamo due
 
 E credetemi, è sempre meglio che diventare matti con la carta (ci sono meno numeri da scrivere).
 
-Come per il Codice QR, dobbiamo aprire l'app (o il sito), andare alla sezione dei pagamenti e scegliere CBILL/PagoPA. 
+Come per il Codice QR, dobbiamo aprire l'app (o il sito), andare alla sezione dei pagamenti e **scegliere CBILL/PagoPA**. 
 
 Alcune banche (come Unicredit) sul sito fanno una ulteriore specifica e bisogna scegliere Pubbliche Amministrazioni.
 
 > A quanto pare, CBILL e PagoPA sono la stessa cosa. L'unica differenza è che CBILL è per le società private, tipo per pagare le bollette della luce o del gas, mentre PagoPA è per le Pubbliche Amministrazioni (il cui acronimo è proprio PA) come l'Albo.
 
-Subito dopo il sito o l'app ci da un elenco di enti, dal quale dobbiamo scegliere quello che riceverà il nostro bel pagamento.
+Subito dopo il sito o l'app ci da un **elenco di enti**, dal quale dobbiamo scegliere quello che riceverà il nostro bel pagamento.
 
 Nella stragrande maggioranza dei casi dobbiamo scegliere dall'elenco **Federazione nazionale Ordini TSRM e PSTRP**. 
 
@@ -152,4 +152,16 @@ L'home banking di Unicredit restituisce altri enti cercando "TSRM":
 
 ![](/images/screenshot-2022-04-04-232000.jpg)
 
-In ogni caso è scritto sul bollettino (ma anche nella parte alta della pagina con il logo di Monte dei Paschi di Siena, se non siete sicuri tornate lì).
+Quindi di solito è il primo, ma in ogni caso quello giusto è **scritto sul bollettino** per cui controllate bene (ma c'è anche nella parte alta della pagina con il logo di Monte dei Paschi di Siena, se non siete sicuri tornate lì).
+
+Una volta scelto l'ente, ci fa scrivere il **codice avviso**: si tratta del Codice IUV di 17 cifre riportato sul bollettino (idem come prima anche sulla pagina con MPS).
+
+> Attenzione: una volta ho scritto il codice IUV a mano e prendendo la ricevuta alla fine mi sono accorta che mi aveva messo uno zero in più in avanti. Ho chiamato in banca e mi hanno spiegato che molto probabilmente non l'avevo messo io, ma il sistema in automatico. Ciò è normale perché CBILL, che è uguale a PagoPA, usa codici di 18 cifre. Non so se sono cambiate le cose, ma credo sia un'esperienza utile da documentare.
+
+Infine dobbiamo scrivere l'importo: anche questo lo troviamo sul bollettino o su quella pagina con il logo di Monte dei Paschi.
+
+Fatto ciò, andiamo al riepilogo, controlliamo i dati ed autorizziamo il pagamento.
+
+## Conclusione
+
+Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga con PagoPA. 
