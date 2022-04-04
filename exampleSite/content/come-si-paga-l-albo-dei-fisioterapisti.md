@@ -33,7 +33,7 @@ Dipende dall'Albo di competenza (quindi dalla provincia di appartenenza), e di s
 
 ## Come si fa a pagare l'iscrizione all'Albo dei Fisioterapisti
 
-L'Ordine Nazionale degli Albi TSRM-PSTRP mette a disposizione un [comodo vademecum](https://www.tsrm.org/wp-content/uploads/2020/07/VademecumPagoPA.pdf "Vademecum pagamenti albo") in PDF, il problema è che non è aggiornato, quindi cercherò di dare informazioni relative al 2022 e soprattutto di semplificarlo il più possibile.
+L'Ordine Nazionale degli Albi TSRM-PSTRP mette a disposizione un [comodo vademecum](https://www.tsrm.org/wp-content/uploads/2020/07/VademecumPagoPA.pdf "Vademecum pagamenti albo") in PDF, il problema è che **non è aggiornato**, quindi cercherò di dare informazioni relative al 2022 e soprattutto di semplificarlo il più possibile.
 
 Quindi, direi di partire.
 
