@@ -36,3 +36,15 @@ Fonte ([sito dell'ente](https://www.estar.toscana.it/index.php/4-2022-con-collab
 Per il **bando**, [qui è disponibile in formato PDF](https://www.estar.toscana.it/wp-content/plugins/download-attachments/includes/download.php?id=57799 "Bando concorso ESTAR Fisioterapisti").
 
 [Da qui](https://estar.concorsismart.it/ui/public-area/intro-card "Iscrizione concorsi ESTAR") puoi andare direttamente alla **pagina di iscrizione al concorso**.
+
+### AUSL Bologna
+
+**Scadenza:** 28/04/2022
+
+**Luogo:** Bologna
+
+**Occupazione:** fisioterapista
+
+**Posti:** 4
+
+_Concorso pubblico congiunto, per titoli ed esami, per la copertura di **quattro posti** di collaboratore professionale sanitario, fisioterapista, categoria D, per varie aziende sanitarie. (GU n.25 del 29-3-2022)_
