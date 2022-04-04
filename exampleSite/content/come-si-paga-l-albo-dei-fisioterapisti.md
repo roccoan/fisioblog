@@ -19,6 +19,12 @@ Per esercitare la professione, bisogna iscriversi all'Albo.
 
 Tra le cose previste nella procedura di iscrizione, c'è ovviamente il **pagamento** della **tassa di iscrizione annua**.
 
+### Come si paga la tassa di iscrizione annua?
+
+Lo vediamo oggi. Ti faccio una sintesi se hai poco tempo, altrimenti scorri per vedere nel dettaglio passo passo come si fa.
+
+> In sintesi possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice IUV e, per i più audaci, di persona in banca.
+
 ### Qual è l'importo della tassa di iscrizione annua?
 
 La risposta è un bel **dipende**.
@@ -164,4 +170,8 @@ Fatto ciò, andiamo al riepilogo, controlliamo i dati ed autorizziamo il pagamen
 
 ## Conclusione
 
-Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga con PagoPA. 
+Per riepilogare, possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice IUV e, per i più audaci, in banca.
+
+Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga l'Albo! 
+
+Spero ti possa tornare utile, a presto!
