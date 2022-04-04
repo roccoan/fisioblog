@@ -9,7 +9,7 @@ title = "Come si paga l'Albo dei Fisioterapisti? Guida 2022"
 type = "post"
 
 +++
-Oggi rispondiamo alla domanda: come si paga l'Albo TSRM PSTRP? Vediamolo insieme, perché la soluzione più semplice non è quella che credi.
+Oggi rispondiamo alla domanda: come si paga l'Albo TSRM PSTRP? Vediamolo insieme, perché la soluzione più semplice non è quella che credi. Oltre ad essere una guida su come si paga l'Albo dei Fisioterapisti, può essere utile per chi deve 
 
 ## Introduzione
 
