@@ -5,11 +5,11 @@ date = 2022-04-04T22:00:00Z
 description = "Come si fa a pagare l'albo dei fisioterapisti? Oggi vediamo come pagare l'albo tsrm pstrp"
 draft = true
 image = "/images/rupixen-com-q59hmzk38eq-unsplash.jpg"
-title = "Come si paga l'Albo dei Fisioterapisti? Guida 2022"
+title = "Come si paga l'Albo TSRM PSTRP? Guida 2022"
 type = "post"
 
 +++
-Oggi rispondiamo alla domanda: come si paga l'Albo TSRM PSTRP? Vediamolo insieme, perché la soluzione più semplice non è quella che credi. Oltre ad essere una guida su come si paga l'Albo dei Fisioterapisti, può essere utile per chi vuole capire come si pagano le tasse universitarie o in generale come funziona PagoPA.
+Oggi rispondiamo alla domanda: come si paga l'Albo dei Fisioterapisti? Vediamolo insieme, perché la soluzione più semplice non è quella che credi. Oltre ad essere una guida su come si paga l'Albo dei Fisioterapisti, può essere utile per chi vuole capire come si pagano le tasse universitarie o in generale come funziona PagoPA.
 
 ## Introduzione
 
@@ -23,7 +23,7 @@ Tra le cose previste nella procedura di iscrizione, c'è ovviamente il **pagamen
 
 Lo vediamo oggi. Ti faccio una sintesi se hai poco tempo, altrimenti scorri per vedere nel dettaglio passo passo come si fa.
 
-> In sintesi possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice IUV e, per i più audaci, di persona in banca.
+> In sintesi possiamo pagare con la carta o col bollettino. Il bollettino può essere pagato anche online con una semplice scansione del codice QR oppure con il codice IUV.
 
 ### Qual è l'importo della tassa di iscrizione annua?
 
@@ -57,17 +57,17 @@ Se invece procediamo da **smartphone**, dal menu con le tre righe ≡ dobbiamo s
 
 Da qui, vediamo **l'elenco dei pagamenti** degli anni scorsi (se è la prima volta che lo facciamo, vedremo solo una riga).
 
-Il primo dell'elenco è quello relativo **all'anno corrente** (al momento in cui scrivo, il 2022). 
+La prima riga dell'elenco è quella relativo **all'anno corrente** (al momento in cui scrivo, il 2022).
 
 Clicchiamo sul **simbolo dell'Euro €** a sinistra di TIA - TASSA ISCRIZIONE ANNUA e passiamo alla prossima fase.
 
 ### Parte III: Effettuare il pagamento
 
-Per il pagamento, si apre una **nuova pagina** con il logo di Monte dei Paschi di Siena (non fa niente se non siamo loro clienti) e di PagoPA (che è il metodo di pagamento che usano le Pubbliche Amministrazioni).
+Dopo aver cliccato il simbolo dell'Euro €, si apre una **nuova pagina** con il logo di Monte dei Paschi di Siena (non fa niente se non siamo loro clienti) e di PagoPA (che è il metodo di pagamento che usano le Pubbliche Amministrazioni).
 
 ![](/images/screencapture-pagopa-mps-it-gateway-pagamentoavvisi-do-2022-04-04-22_31_35.png)
 
-Nella parte alta abbiamo **quanto dobbiamo pagare**.
+Nella parte alta abbiamo **quanto dobbiamo pagare** e **a chi** (il creditore, cioè l'Albo).
 
 Poi c'è una **sezione da compilare** con:
 
@@ -75,18 +75,18 @@ Poi c'è una **sezione da compilare** con:
 * **Indirizzo email** - mettiamone uno di nostra preferenza (quello normale che usiamo tutti i giorni, non c'è bisogno di mettere la pec);
 * **Conferma indirizzo email** - semplicemente dobbiamo riscrivere la mail scritta un secondo fa.
 
-Infine quello che crea più confusione: i due pulsantoni PAGA ONLINE e PAGA PIU TARDI. Per capire in cosa differiscono, vediamo come funziona PagoPA e perché io preferisco sempre il secondo.
+Infine quello che crea più confusione: i due pulsantoni PAGA ONLINE e PAGA PIU TARDI. Per capire **in cosa differiscono**, vediamo come funziona PagoPA e perché io preferisco sempre il secondo.
 
 ## Come funziona PagoPA
 
-Se hai pagato le tasse universitarie sai già di cosa sto parlando, è esattamente lo stesso metodo (anche se forse non l'hai sfruttato in tutte le sue funzionalità).
+Se hai pagato le tasse universitarie sai già di cosa sto parlando, è esattamente lo stesso metodo (anche se forse non lo hai usato a pieno).
 
 PagoPA ti permette di pagare in **due modi** online:
 
 * Con la **carta**, come quando fai un acquisto su Amazon/eBay/Zalando/ecc.;
-* Con **l'app** della propria banca (o il sito, per chi preferisce).
+* Con **l'app** della banca (o il sito, per chi preferisce).
 
-Io onestamente **preferisco il secondo metodo**, perché è molto più semplice. 
+Io onestamente **preferisco il secondo metodo**, perché è molto più semplice.
 
 ### Il metodo più complesso: PAGA ONLINE
 
@@ -104,67 +104,69 @@ PAGA PIU TARDI sembra il cugino sfigato di PAGA ONLINE: si presenta con l'immagi
 
 Quindi dobbiamo scegliere quello di destra: PAGA PIU TARDI.
 
-Cliccando PAGA PIU TARDI a destra il sistema ci genera un bollettino in PDF. 
+Cliccando PAGA PIU TARDI il sistema ci genera un bollettino in PDF.
 
-_Ma come un bollettino? Quindi poi devo andare a pagarlo in banca?_ 
+_Ma come un bollettino? Quindi poi devo andare a pagarlo in banca?_
 
-No, **assolutamente no**. Ci andiamo in banca, ma **non di persona** (se poi ci vuoi andare di persona, con questo metodo puoi tranquillamente farlo, ma noi procediamo comunque online).
+No, **assolutamente no**. Ci andiamo in banca, solo **non di persona** (se poi ci vuoi andare di persona, con questo metodo puoi tranquillamente farlo, ma noi procediamo comunque online).
 
 Ora che abbiamo il nostro bel bollettino, che ci facciamo? Abbiamo due vie:
 
-* Usiamo il **Codice QR** (più veloce);
+* Scansioniamo il **Codice QR** (più veloce);
 * Usiamo il **Codice IUV** (quello di 17 cifre - meno veloce del Codice QR ma molto più veloce rispetto a pagare con la carta);
 
 Vediamo entrambi.
 
 #### 1) Codice QR
 
-Sul nostro bollettino abbiamo un Codice QR. Per pagare dobbiamo inquadrarlo con l'app della banca. 
+Sul nostro bollettino abbiamo un **Codice QR**. Per pagare dobbiamo inquadrarlo dall'app della banca.
 
-Dove vado nell'app della banca per inquadrare il Codice QR? Ti faccio due esempi, con Buddybank (la banca che uso come principale) e Unicredit (la banca che usavo prima).
+Dove vado nell'app della banca per inquadrare il Codice QR? 
 
-**Buddybank:** entri nell'app, scegli sotto "Paga" e poi "Bollettino CBILL e pagoPA". La prima cosa che ti propone è "Scansiona Bollettino". Cliccandoci sopra ti apre la fotocamera del cellulare e puoi inquadrare il codice QR.
+Ti faccio due esempi, con Buddybank (la banca che uso come principale) e Unicredit (la banca che usavo prima).
 
-**Unicredit:** entri nell'app, scegli sotto "Pagamenti" - "Fai un pagamento" e infine l'icona della fotocamera a destra di "Bollettino CBILL/PagoPA".
+**Buddybank:** entri nell'app, scegli in basso "Paga" e poi "Bollettino CBILL e pagoPA". La prima cosa che ti propone è "Scansiona Bollettino". Cliccandoci sopra ti apre la fotocamera del cellulare e puoi inquadrare il codice QR.
 
-La procedura è simile per l'app di altre banche, basta trovare la sezione giusta (di solito pagamenti e poi si sceglie PagoPA).
+**Unicredit:** entri nell'app, scegli in basso "Pagamenti" - "Fai un pagamento" e infine l'_icona della fotocamera_ a destra di "Bollettino CBILL/PagoPA".
+
+La procedura è **simile per l'app di altre banche**, basta trovare la sezione giusta (di solito si va nei pagamenti e poi si sceglie PagoPA).
 
 Quindi:
 
 * Sul cellulare apriamo l'app della banca e andiamo alla sezione del PagoPA che ci fa aprire la fotocamera con la quale scansioneremo il Codice QR;
-* Su un altro schermo (PC, tablet, un altro cellulare) apriamo il PDF del bollettino così che il Codice QR da inquadrare.
+* Su un altro schermo (PC, tablet, un altro cellulare) apriamo il PDF del bollettino così che abbiamo il Codice QR da inquadrare.
 
-Una volta scansionato il codice avremo **tutti i dati del bollettino riportati nell'app**. Da qui dobbiamo semplicemente **andare alla fine e autorizzare il pagamento** con il codice segreto o l'impronta o il riconoscimento facciale.
+Una volta scansionato il codice avremo **tutti i dati del bollettino riportati nell'app**. Da qui dobbiamo semplicemente **andare alla fine e autorizzare il pagamento** con il codice segreto (o l'impronta o il riconoscimento facciale).
 
 > Quindi: scarico il bollettino, vado sull'app, inquadro e pago. Semplice, no?
 
 #### 2) Codice IUV
 
-Se per un motivo qualsiasi non possiamo inquadrare il codice QR (non abbiamo due schermi, l'app della banca non scansiona i codici QR, non abbiamo l'app della banca e possiamo andare solo sul sito della banca) possiamo procedere scrivendo i dati a mano.
+Se per un motivo qualsiasi **non possiamo inquadrare il codice QR** (non abbiamo due schermi, l'app della banca non scansiona i codici QR, non abbiamo l'app della banca e possiamo andare solo sul sito della banca) possiamo procedere **scrivendo i dati a mano**.
 
 E credetemi, è sempre meglio che diventare matti con la carta (ci sono meno numeri da scrivere).
 
-Come per il Codice QR, dobbiamo aprire l'app (o il sito), andare alla sezione dei pagamenti e **scegliere CBILL/PagoPA**. 
+Come per il Codice QR, dobbiamo aprire l'app (o il sito), andare alla sezione dei pagamenti e **scegliere CBILL/PagoPA**.
 
-Alcune banche (come Unicredit) sul sito fanno una ulteriore specifica e bisogna scegliere Pubbliche Amministrazioni.
+Alcune banche (come Unicredit) sul sito fanno una ulteriore specifica e bisogna scegliere _Pubbliche Amministrazioni_.
 
-> A quanto pare, CBILL e PagoPA sono la stessa cosa. L'unica differenza è che CBILL è per le società private, tipo per pagare le bollette della luce o del gas, mentre PagoPA è per le Pubbliche Amministrazioni (il cui acronimo è proprio PA) come l'Albo.
+> A quanto pare, CBILL e PagoPA sono la stessa cosa. L'unica differenza è che CBILL è per le società private, tipo per pagare le bollette della luce o del gas, mentre PagoPA è per le Pubbliche Amministrazioni (il cui acronimo è proprio PA), come l'Albo.
 
-Subito dopo il sito o l'app ci da un **elenco di enti**, dal quale dobbiamo scegliere quello che riceverà il nostro bel pagamento.
+Subito dopo il sito o l'app ci dà un **elenco di enti**, dal quale dobbiamo scegliere quello che riceverà il nostro bel pagamento.
 
-Nella stragrande maggioranza dei casi dobbiamo scegliere dall'elenco **Federazione nazionale Ordini TSRM e PSTRP**. 
+Nella stragrande maggioranza dei casi dobbiamo scegliere dall'elenco **Federazione nazionale Ordini TSRM e PSTRP**.
 
 L'home banking di Unicredit restituisce altri enti cercando "TSRM":
 
 ![](/images/screenshot-2022-04-04-232000.jpg)
 
-Quindi di solito è il primo, ma in ogni caso quello giusto è **scritto sul bollettino** per cui controllate bene (ma c'è anche nella parte alta della pagina con il logo di Monte dei Paschi di Siena, se non siete sicuri tornate lì).
+Quindi di solito è il primo, ma in ogni caso quello giusto è **scritto sul bollettino,** per cui controllate bene (ma c'è anche nella parte alta della pagina con il logo di Monte dei Paschi di Siena, se non siete sicuri tornate lì).
 
 Una volta scelto l'ente, ci fa scrivere il **codice avviso**: si tratta del Codice IUV di 17 cifre riportato sul bollettino (idem come prima anche sulla pagina con MPS).
 
-> Attenzione: una volta ho scritto il codice IUV a mano e prendendo la ricevuta alla fine mi sono accorta che mi aveva messo uno zero in più in avanti. Ho chiamato in banca e mi hanno spiegato che molto probabilmente non l'avevo messo io, ma il sistema in automatico. Ciò è normale perché CBILL, che è uguale a PagoPA, usa codici di 18 cifre. Non so se sono cambiate le cose, ma credo sia un'esperienza utile da documentare.
+> Attenzione: una volta ho scritto il codice IUV a mano e prendendo la ricevuta alla fine mi sono accorta che mi aveva messo uno zero in più in avanti. Ho chiamato in banca e mi hanno spiegato che molto probabilmente non l'avevo messo io, ma il sistema in automatico. Ciò è normale perché CBILL, che è uguale a PagoPA, usa codici di 18 cifre. Non so se sono cambiate le cose, ma credo sia un riscontro utile da documentare.
 
-Infine dobbiamo scrivere l'importo: anche questo lo troviamo sul bollettino o su quella pagina con il logo di Monte dei Paschi.
+Infine dobbiamo scrivere **l'importo**: anche questo lo troviamo sul bollettino o su quella pagina con il logo di Monte dei Paschi.
 
 Fatto ciò, andiamo al riepilogo, controlliamo i dati ed autorizziamo il pagamento.
 
@@ -172,6 +174,6 @@ Fatto ciò, andiamo al riepilogo, controlliamo i dati ed autorizziamo il pagamen
 
 Per riepilogare, possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice IUV e, per i più audaci, in banca.
 
-Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga l'Albo! 
+Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga l'Albo!
 
 Spero ti possa tornare utile, a presto!
