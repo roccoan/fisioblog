@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e carriera", "Libera Professione"]
 date = 2022-04-04T22:00:00Z
 description = "Come si fa a pagare l'albo dei fisioterapisti? Oggi vediamo come pagare l'albo tsrm pstrp"
-draft = true
 image = "/images/rupixen-com-q59hmzk38eq-unsplash.jpg"
 title = "Come si paga l'Albo TSRM PSTRP? Guida 2022"
 type = "post"
