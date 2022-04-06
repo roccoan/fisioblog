@@ -22,7 +22,7 @@ Tra le cose previste nella procedura di iscrizione, c'è ovviamente il **pagamen
 
 Lo vediamo oggi. Ti faccio una sintesi se hai poco tempo, altrimenti scorri per vedere nel dettaglio passo passo come si fa.
 
-> In sintesi possiamo pagare con la carta o col bollettino. Il bollettino può essere pagato anche online con una semplice scansione del codice QR oppure con il codice IUV.
+> In sintesi possiamo pagare con la carta o col bollettino. Il bollettino può essere pagato anche online con una semplice scansione del codice QR oppure con il codice avviso.
 
 ### Qual è l'importo della tassa di iscrizione annua?
 
@@ -112,7 +112,7 @@ No, **assolutamente no**. Ci andiamo in banca, solo **non di persona** (se poi c
 Ora che abbiamo il nostro bel bollettino, che ci facciamo? Abbiamo due vie:
 
 * Scansioniamo il **Codice QR** (più veloce);
-* Usiamo il **Codice IUV** (quello di 17 cifre - meno veloce del Codice QR ma molto più veloce rispetto a pagare con la carta);
+* Usiamo il **Codice Avviso** (quello di 18 cifre - meno veloce del Codice QR ma molto più veloce rispetto a pagare con la carta);
 
 Vediamo entrambi.
 
@@ -120,7 +120,7 @@ Vediamo entrambi.
 
 Sul nostro bollettino abbiamo un **Codice QR**. Per pagare dobbiamo inquadrarlo dall'app della banca.
 
-Dove vado nell'app della banca per inquadrare il Codice QR? 
+Dove vado nell'app della banca per inquadrare il Codice QR?
 
 Ti faccio due esempi, con Buddybank (la banca che uso come principale) e Unicredit (la banca che usavo prima).
 
@@ -161,9 +161,7 @@ L'home banking di Unicredit restituisce altri enti cercando "TSRM":
 
 Quindi di solito è il primo, ma in ogni caso quello giusto è **scritto sul bollettino,** per cui controllate bene (ma c'è anche nella parte alta della pagina con il logo di Monte dei Paschi di Siena, se non siete sicuri tornate lì).
 
-Una volta scelto l'ente, ci fa scrivere il **codice avviso**: si tratta del Codice IUV di 17 cifre riportato sul bollettino (idem come prima anche sulla pagina con MPS).
-
-> Attenzione: una volta ho scritto il codice IUV a mano e prendendo la ricevuta alla fine mi sono accorta che mi aveva messo uno zero in più in avanti. Ho chiamato in banca e mi hanno spiegato che molto probabilmente non l'avevo messo io, ma il sistema in automatico. Ciò è normale perché CBILL, che è uguale a PagoPA, usa codici di 18 cifre. Non so se sono cambiate le cose, ma credo sia un riscontro utile da documentare.
+Una volta scelto l'ente, ci fa scrivere il **codice avviso**: si tratta del codice di 18 cifre riportato sul bollettino.
 
 Infine dobbiamo scrivere **l'importo**: anche questo lo troviamo sul bollettino o su quella pagina con il logo di Monte dei Paschi.
 
@@ -171,7 +169,7 @@ Fatto ciò, andiamo al riepilogo, controlliamo i dati ed autorizziamo il pagamen
 
 ## Conclusione
 
-Per riepilogare, possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice IUV e, per i più audaci, in banca.
+Per riepilogare, possiamo pagare con la carta (sconsigliato) o col bollettino (consigliato). Il bollettino può essere pagato con una semplice scansione del codice QR, scrivendo il codice avviso e, per i più audaci, in banca.
 
 Dopo tutto questo, sarai sicuramente diventata/o un esperto di come funziona PagoPA e di come si paga l'Albo!
 
