@@ -1,5 +1,5 @@
 +++
-author = "Federica"
+author = "Redazione"
 categories = ["Carriera", "Libera Professione"]
 date = 2022-01-27T23:00:00Z
 description = "Veloce guida all'apertura di uno studio professionale"
