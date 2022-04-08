@@ -5,10 +5,8 @@ paginate = "8"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
-[[menu.footer]]
-URL = "https://fisioterapisti.org/author/federica/"
-name = "Chi sono"
-weight = "1"
+[menu]
+footer = []
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
