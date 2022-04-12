@@ -9,7 +9,7 @@ title = "Si può far firmare il foglio privacy in pdf?"
 type = "post"
 
 +++
-Oggi ci chiediamo: è legale far firmare il foglio della privacy ai pazienti sul tablet o sulla tavoletta grafica? Se fosse possibile si risparmierebbe tempo, spazio e carta. 
+Oggi ci chiediamo: si può far firmare il foglio della privacy ai pazienti sul tablet o sulla tavoletta grafica? Se fosse possibile si risparmierebbe tempo, spazio e carta. 
 
 ## Introduzione
 
@@ -17,7 +17,7 @@ Quando abbiamo un nuovo paziente, sia in studio che domiciliare, inevitabilmente
 
 Per legge, i dati vanno trattati e conservati in un certo modo, nel rispetto della privacy.
 
-Quali sono le implicazioni di ciò per l'operatività di un fisioterapista (ma per i professionisti nella sanità in genere)?
+Quali sono le implicazioni per l'operatività di un fisioterapista (ma anche per i professionisti nella sanità in genere)?
 
 Bisogna far firmare un foglio per il trattamento dei dati per le finalità che desideriamo.
 
@@ -25,9 +25,9 @@ Per esempio, se vogliamo trattare i dati per ricontattare in futuro i pazienti e
 
 ## Il problema
 
-> Non entreremo nel merito su come ottenere il modello della privacy, ma spediamoci comunque due parole. Per fare le cose per bene bisognerebbe sentire un avvocato, perché è sempre meglio affidarsi ad un esperto. Se lo cerchiamo su internet, facciamo attenzione e almeno leggiamolo e modifichiamolo per quello che serve a noi: deve indicare il nostro nome e le finalità per cui effettivamente trattiamo i dati.
+> Non entreremo nel merito su come ottenere il modello della privacy, ma spediamoci comunque due parole. Per fare le cose per bene bisognerebbe sentire un avvocato, perché è sempre meglio affidarsi ad un esperto. Se lo cerchiamo su internet, è a nostro rischio e pericolo. Facciamo attenzione e almeno leggiamolo e modifichiamolo per quello che serve a noi: deve indicare il nostro nome e le finalità per cui effettivamente trattiamo i dati. 
 
-Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarla al paziente e trattenere una copia. Nel corso del tempo le scartoffie si accumulano, e ci serve spazio dove conservarle, e lo spazio non è di certo gratis. Senza considerare che si perde un sacco di tempo in modo improduttivo, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
+Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarla al paziente e trattenere una copia. Nel corso del tempo le scartoffie si accumulano, e **ci serve spazio dove conservarle**, e lo spazio non è di certo gratis. Senza considerare che **si perde un sacco di tempo in modo improduttivo**, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
 
 Quindi? C'è un modo per velocizzare questo processo ma comunque essere in regola?
 
@@ -35,9 +35,15 @@ Quindi? C'è un modo per velocizzare questo processo ma comunque essere in regol
 
 Non posso far firmare al paziente direttamente il pdf con una tavoletta grafica/tablet/iPad con Apple Pencil?
 
-Così facendo si risparmierebbe tempo, spazio e carta.
+Così facendo **si risparmierebbe tempo, spazio e carta**.
 
-La situazione è spinosa, chi dice che non è valida come la firma cartacea, chi dice che va bene e comunque non controlla nessuno, quindi ci è sembrato il caso di andare in fondo alla questione e vedere un po' di riferimenti normativi.
+La situazione **è spinosa**: chi dice che **non è valida come la firma cartacea**, chi dice che **va bene** e comunque non le controlla nessuno.
+
+Per curiosità personale ho cercato un po' di riferimenti normativi, e con questo articolo mi piacerebbe documentarli qui sul blog. 
+
+Quindi vi prego, non scambiate curiosità personali per consigli legali, perché non lo sono assolutamente (e inutile dirlo, declino ogni responsabilità per decisioni altrui prese in base a questo articolo). Se deve passare un messaggio, è questo: su molte problematiche ognuno dice la sua; a volte basta fare un po' di ricerche per smentire alcune voci, altre volte la situazione è così complessa che per andare sul sicuro dobbiamo affidarci ad esperti. Con la privacy non si scherza e ci sono tantissimi bravi avvocati che possono seguirci.
+
+Come vedremo tra poco, **alcune delle voci verranno smentite**.
 
 ### Cosa dice l'Agid (Agenzia per l'Italia Digitale)
 
@@ -57,9 +63,39 @@ Sempre il documento dell'Agid, a tal proposito al punto 4.1.2 recita:
 
 ## Un po' di considerazioni
 
-Sembra quindi che la firma con una tavoletta grafica/tablet/Apple Pencil sia prevista dalla legge e prende il nome di firma grafometrica, parte della più ampia categoria delle Firme Elettroniche Avanzate.
+Sembra quindi che la firma con una tavoletta grafica/tablet/Apple Pencil **sia prevista dalla legge** e prende il nome di firma grafometrica, parte della più ampia categoria delle Firme Elettroniche Avanzate.
 
-Deve però rispettare alcuni requisiti, cioè:
+Deve però **rispettare alcuni requisiti**, cioè:
 
-* Lo strumento che si usa deve essere in grado di raccogliere le caratteristiche tipiche della firma autografa (pressione, velocità, ecc.) - quindi servono strumenti con una certa precisione (per intenderci, non va bene disegnare la firma con il mouse);
-* La firma deve essere legata in maniera certa al documento. Questo è un po' meno scontato, rilevante in caso di controversie.
+* Lo strumento che si usa deve essere in grado di raccogliere le caratteristiche tipiche della firma autografa (pressione, velocità, ecc.) - quindi servono strumenti che abbiano **una certa precisione** (per intenderci, non va bene disegnare la firma con il mouse);
+* La firma deve essere **legata in maniera certa al documento**. C'è sempre il rischio che la firma sia falsificata e che sia stata aggiunta a posteriori, e questo secondo punto parla proprio di evitare questo. Il come è sicuramente meno scontato, ed è rilevante in caso di controversie.
+
+### Le controversie
+
+Siccome l'efficacia è la stessa dell'art.2709 del Codice Civile, questo ci dice **cosa succede in caso di controversie**.
+
+La firma autografa (e quindi anche quella grafometrica visto che sono equiparate) è valida fino a che il presunto autore non la disconosce.
+
+Se in tribunale viene disconosciuta, poi **tocca a chi l'ha raccolta dimostrare che la firma era autentica**.
+
+Questo accade anche per le firme con carta e penna, quindi occhio.
+
+### Esclusioni
+
+Nella tabella finale del documento dell'Agid c'è scritto che le Firme Elettroniche Avanzate (e quindi anche la grafometrica) non possono essere usate per gli atti da 1 a 12 dell'art.1350 del Codice Civile.
+
+Questi 12 atti sono cose del tipo contratti per aprire una società con godimento di beni immobili, per la compravendita di un immobile, affitti superiori ai 9 anni, insomma tutti atti che coinvolgono proprietà di immobili. 
+
+Quindi le esclusioni non hanno nulla a che fare con l'operatività quotidiana di un fisioterapista.
+
+## Conclusione
+
+La firma grafometrica (con tavoletta grafica, iPad o tablet) è prevista per legge, ma bisogna fare attenzione agli utilizzi e ai dettagli.
+
+L'analisi dell'Agid sembra smentire le voci sull'assenza di valore legale come la firma cartacea, infatti con **le giuste modalità** abbiamo visto che non è vero (e anzi, rientra addirittura tra quelle _avanzate_). 
+
+Siccome il diavolo è nei dettagli, rinnovo l'invito a farsi seguire in ogni caso da un professionista (sia per le firme e le modalità di conservazione, che per predisporre il foglio della privacy).
+
+Spero che questo articolo ti sia stato utile, anche per comprendere il discorso dell'accettazione e del trattamento dei dati dei pazienti.
+
+Grazie per aver letto, a presto!
