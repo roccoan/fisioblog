@@ -19,7 +19,7 @@ Per legge, i dati vanno trattati e conservati in un certo modo, nel rispetto del
 
 Quali sono le implicazioni per l'operatività di un fisioterapista (ma anche per i professionisti nella sanità in genere)?
 
-Bisogna far firmare un foglio per il trattamento dei dati per le finalità che desideriamo.
+Bisogna far firmare ai pazienti un foglio per il trattamento dei dati per specifiche finalità.
 
 Per esempio, se vogliamo trattare i dati per ricontattare in futuro i pazienti e offrire sconti sulle terapie o altro, nel foglio della privacy dovremo richiedere esplicito consenso per usare i dati del paziente per finalità di marketing.
 
@@ -27,7 +27,7 @@ Per esempio, se vogliamo trattare i dati per ricontattare in futuro i pazienti e
 
 > Non entreremo nel merito su come ottenere il modello della privacy, ma spediamoci comunque due parole. Per fare le cose per bene bisognerebbe sentire un avvocato, perché è sempre meglio affidarsi ad un esperto. Se lo cerchiamo su internet, è a nostro rischio e pericolo. Facciamo attenzione e almeno leggiamolo e modifichiamolo per quello che serve a noi: deve indicare il nostro nome e le finalità per cui effettivamente trattiamo i dati. 
 
-Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarla al paziente e trattenere una copia. Nel corso del tempo le scartoffie si accumulano, e **ci serve spazio dove conservarle**, e lo spazio non è di certo gratis. Senza considerare che **si perde un sacco di tempo in modo improduttivo**, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
+Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarne una al paziente. Nel corso del tempo le scartoffie si accumulano, e **ci serve spazio dove conservarle**, e lo spazio non è di certo gratis. Senza considerare che **si perde un sacco di tempo in modo improduttivo**, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
 
 Quindi? C'è un modo per velocizzare questo processo ma comunque essere in regola?
 
@@ -92,9 +92,11 @@ Quindi le esclusioni non hanno nulla a che fare con l'operatività quotidiana di
 
 La firma grafometrica (con tavoletta grafica, iPad o tablet) è prevista per legge, ma bisogna fare attenzione agli utilizzi e ai dettagli.
 
-L'analisi dell'Agid sembra smentire le voci sull'assenza di valore legale come la firma cartacea, infatti con **le giuste modalità** abbiamo visto che non è vero (e anzi, rientra addirittura tra quelle _avanzate_). 
+L'analisi dell'Agid sembra smentire le voci sull'assenza di valore legale come la firma cartacea, infatti con **le giuste modalità** abbiamo visto che non è vero (e anzi, rientra addirittura tra quelle _avanzate_).
 
-Siccome il diavolo è nei dettagli, rinnovo l'invito a farsi seguire in ogni caso da un professionista (sia per le firme e le modalità di conservazione, che per predisporre il foglio della privacy).
+Ma quindi, è possibile digitalizzare questo processo? 
+
+Oggi abbiamo visto solo un aspetto, cioè cosa succede dal lato della firma. Ma se firmiamo un documento in digitale, dopo la firma c'è anche tutto il discorso della conservazione dei documenti e dei file contenenti dati riservati, di come questi vengono utilizzati, dopo quanto vanno cancellati e altre mille implicazioni del GDPR. Quindi, per capire se è possibile digitalizzare e se è il caso di farlo, rinnovo l'invito a farsi seguire in ogni caso da un professionista (sia per le firme e le modalità di conservazione, che per predisporre il foglio della privacy).
 
 Spero che questo articolo ti sia stato utile, anche per comprendere il discorso dell'accettazione e del trattamento dei dati dei pazienti.
 
