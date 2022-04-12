@@ -62,4 +62,4 @@ Sembra quindi che la firma con una tavoletta grafica/tablet/Apple Pencil sia pre
 Deve però rispettare alcuni requisiti, cioè:
 
 * Lo strumento che si usa deve essere in grado di raccogliere le caratteristiche tipiche della firma autografa (pressione, velocità, ecc.) - quindi servono strumenti con una certa precisione (per intenderci, non va bene disegnare la firma con il mouse);
-* La firma deve essere legata in maniera certa al documento. Questo è un po' meno scontato, 
+* La firma deve essere legata in maniera certa al documento. Questo è un po' meno scontato, rilevante in caso di controversie.
