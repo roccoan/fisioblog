@@ -9,7 +9,7 @@ title = "Si può far firmare il foglio privacy in pdf?"
 type = "post"
 
 +++
-Oggi ci chiediamo: è legale far firmare il foglio della privacy ai pazienti sul tablet o sulla tavoletta grafica? Se fosse possibile si risparmierebbe tempo, spazio e carta.
+Oggi ci chiediamo: è legale far firmare il foglio della privacy ai pazienti sul tablet o sulla tavoletta grafica? Se fosse possibile si risparmierebbe tempo, spazio e carta. 
 
 ## Introduzione
 
@@ -17,7 +17,7 @@ Quando abbiamo un nuovo paziente, sia in studio che domiciliare, inevitabilmente
 
 Per legge, i dati vanno trattati e conservati in un certo modo, nel rispetto della privacy.
 
-Quali sono le implicazioni di ciò per l'operatività di un fisioterapista?
+Quali sono le implicazioni di ciò per l'operatività di un fisioterapista (ma per i professionisti nella sanità in genere)?
 
 Bisogna far firmare un foglio per il trattamento dei dati per le finalità che desideriamo.
 
@@ -33,4 +33,33 @@ Quindi? C'è un modo per velocizzare questo processo ma comunque essere in regol
 
 ## La possibile soluzione
 
-Non posso far firmare direttamente il pdf?
+Non posso far firmare al paziente direttamente il pdf con una tavoletta grafica/tablet/iPad con Apple Pencil?
+
+Così facendo si risparmierebbe tempo, spazio e carta.
+
+La situazione è spinosa, chi dice che non è valida come la firma cartacea, chi dice che va bene e comunque non controlla nessuno, quindi ci è sembrato il caso di andare in fondo alla questione e vedere un po' di riferimenti normativi.
+
+### Cosa dice l'Agid (Agenzia per l'Italia Digitale)
+
+L'Agenzia del Governo in questione ha pubblicato [un documento](https://www.agid.gov.it/sites/default/files/repository_files/tipologie_di_firme_e_sigilli_elettronici_v1_dicembre_2019.pdf "Firme e Sigilli Elettronici") per fornire a tutti i cittadini **le informazioni fondamentali sulle diverse tipologie di firma elettronica**.
+
+La parte che interessa a noi è quella sulla _firma grafometrica_, contenuta nel punto 3.1.2. Cito testualmente:
+
+> Buoni esempi di **firma elettronica avanzata** sono diverse implementazioni basate sulla cosiddetta **firma “grafometrica”**. Si tratta di soluzioni di firma che raccolgono le caratteristiche comportamentali e tipiche della firma autografa (attraverso l’uso di **tavolette molto evolute**) quali la velocità, l’inclinazione, la pressione, l’accelerazione (e rallentamenti), i tratti aerei. Tutte queste informazioni **legate in maniera certa al documento**, consentono di raggiungere il risultato voluto. Da notare che, ai sensi dell’art. 61 del DPCM 22 febbraio 2013, queste soluzioni possono essere utilizzabili **limitatamente per i rapporti giuridici intercorrenti tra il sottoscrittore e il soggetto che rende disponibile la soluzione**. Un tipico esempio è la struttura ospedaliera che rende disponibile presso i propri sportelli soluzioni di firma elettronica avanzata ai fruitori delle prestazioni sanitarie.
+
+### Quindi, è legale la firma grafometrica?
+
+Abbiamo letto che una firma grafometrica che si rispetti rientra nella categoria delle **Firme Elettroniche Avanzate**.
+
+Sempre il documento dell'Agid, a tal proposito al punto 4.1.2 recita:
+
+> I documenti sottoscritti con **firma elettronica avanzata** soddisfano il requisito della forma scritta e **hanno l’efficacia prevista dall’articolo 2702 del Codice Civile**. Il soggetto cui la firma elettronica avanzata afferisce può disconoscerla; è onere della parte che vuole avvalersi degli effetti giuridici di tale firma dimostrare la conformità con quanto prescritto al Titolo V del suddetto DPCM.
+
+## Un po' di considerazioni
+
+Sembra quindi che la firma con una tavoletta grafica/tablet/Apple Pencil sia prevista dalla legge e prende il nome di firma grafometrica, parte della più ampia categoria delle Firme Elettroniche Avanzate.
+
+Deve però rispettare alcuni requisiti, cioè:
+
+* Lo strumento che si usa deve essere in grado di raccogliere le caratteristiche tipiche della firma autografa (pressione, velocità, ecc.) - quindi servono strumenti con una certa precisione (per intenderci, non va bene disegnare la firma con il mouse);
+* La firma deve essere legata in maniera certa al documento. Questo è un po' meno scontato, 
