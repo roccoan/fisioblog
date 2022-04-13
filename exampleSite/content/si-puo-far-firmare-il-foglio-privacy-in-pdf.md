@@ -15,11 +15,11 @@ Oggi ci chiediamo: si può far firmare il foglio della privacy ai pazienti sul t
 
 Quando abbiamo un nuovo paziente, sia in studio che domiciliare, inevitabilmente ci troviamo a trattare i suoi dati (anche solo per la [fatturazione](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Che sono e come fare le fatture. Guida per Fisioterapisti")).
 
-Per legge, i dati vanno trattati e conservati in un certo modo, nel rispetto della privacy.
+Per legge, i dati vanno **trattati e conservati** in un certo modo, **nel rispetto della privacy**.
 
 Quali sono le implicazioni per l'operatività di un fisioterapista (ma anche per i professionisti nella sanità in genere)?
 
-Bisogna far firmare ai pazienti un foglio per il trattamento dei dati per specifiche finalità.
+Bisogna far firmare ai pazienti un **foglio per il trattamento dei dati** per specifiche finalità.
 
 Per esempio, se vogliamo trattare i dati per ricontattare in futuro i pazienti e offrire sconti sulle terapie o altro, nel foglio della privacy dovremo richiedere esplicito consenso per usare i dati del paziente per finalità di marketing.
 
@@ -27,7 +27,7 @@ Per esempio, se vogliamo trattare i dati per ricontattare in futuro i pazienti e
 
 > Non entreremo nel merito su come ottenere il modello della privacy, ma spediamoci comunque due parole. Per fare le cose per bene bisognerebbe sentire un avvocato, perché è sempre meglio affidarsi ad un esperto. Se lo cerchiamo su internet, è a nostro rischio e pericolo. Facciamo attenzione e almeno leggiamolo e modifichiamolo per quello che serve a noi: deve indicare il nostro nome e le finalità per cui effettivamente trattiamo i dati.
 
-Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarne una al paziente. Nel corso del tempo le scartoffie si accumulano, e **ci serve spazio dove conservarle**, e lo spazio non è di certo gratis. Senza considerare che **si perde un sacco di tempo in modo improduttivo**, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
+Far firmare il foglio della privacy implica: stampare più copie, farle firmare, consegnarne una al paziente e conservare l'altra. Nel corso del tempo le scartoffie si accumulano, e **ci serve spazio dove conservarle**, e lo spazio non è di certo gratis. Senza considerare che **si perde un sacco di tempo in modo improduttivo**, che potremmo usare invece in modo produttivo, per esempio trattando altri pazienti.
 
 Quindi? C'è un modo per velocizzare questo processo ma comunque essere in regola?
 
@@ -41,7 +41,7 @@ La situazione **è spinosa**: chi dice che **non è valida come la firma cartace
 
 Per curiosità personale ho cercato un po' di riferimenti normativi, e con questo articolo mi piacerebbe documentarli qui sul blog.
 
-Quindi vi prego, non scambiate curiosità personali per consigli legali, perché non lo sono assolutamente (e inutile dirlo, declino ogni responsabilità per decisioni altrui prese in base a questo articolo). Se deve passare un messaggio, è questo: su molte problematiche ognuno dice la sua; a volte basta fare un po' di ricerche per smentire alcune voci, altre volte la situazione è così complessa che per andare sul sicuro dobbiamo affidarci ad esperti. Con la privacy non si scherza e ci sono tantissimi bravi avvocati che possono seguirci.
+> Quindi vi prego, non scambiate curiosità personali per consigli legali, perché non lo sono assolutamente (e inutile dirlo, declino ogni responsabilità per decisioni altrui prese in base a questo articolo). Se deve passare un messaggio, è questo: su molte problematiche ognuno dice la sua; a volte basta fare un po' di ricerche per smentire alcune voci, altre volte la situazione è così complessa che per andare sul sicuro dobbiamo affidarci ad esperti. Con la privacy non si scherza e ci sono tantissimi bravi avvocati che possono seguirci.
 
 Come vedremo tra poco, **alcune delle voci verranno smentite**.
 
@@ -88,19 +88,25 @@ Questi 12 atti sono cose del tipo contratti per aprire una società con godiment
 
 Quindi le esclusioni non hanno nulla a che fare con l'operatività quotidiana di un fisioterapista.
 
+## Ma quindi, è possibile digitalizzare questo processo?
+
+Oggi abbiamo visto solo un aspetto, cioè cosa succede dal **lato della firma**.
+
+Il problema è che se firmiamo un documento in digitale, **dopo la firma c'è anche tutto il discorso della conservazione** dei documenti e dei file contenenti dati riservati, di come questi vengono utilizzati, dopo quanto vanno cancellati e altre mille implicazioni del GDPR.
+
+Quindi, la domanda giusta non è tanto relativa alle firme, ma **al processo preso globalmente**, e qui il punto è **più complicato**.
+
+Così complicato che rinnovo l'invito a farsi seguire in ogni caso da un professionista (sia per le firme e le modalità di conservazione, che per predisporre il foglio della privacy).
+
 ## Conclusione
 
-La firma grafometrica (con tavoletta grafica, iPad o tablet) è prevista per legge, ma bisogna fare attenzione agli utilizzi e ai dettagli.
+Cosa ho capito da queste ricerche?
+
+Anzitutto la firma grafometrica (con tavoletta grafica, iPad o tablet) è **sicuramente prevista dalla legge**, ma bisogna fare attenzione agli utilizzi e ai dettagli.
 
 L'analisi dell'Agid sembra smentire le voci sull'assenza di valore legale come la firma cartacea, infatti con **le giuste modalità** abbiamo visto che non è vero (e anzi, rientra addirittura tra quelle _avanzate_).
 
-Ma quindi, è possibile digitalizzare questo processo?
-
-Oggi abbiamo visto solo un aspetto, cioè cosa succede dal lato della firma. 
-
-Il problema è che se firmiamo un documento in digitale, dopo la firma c'è anche tutto il discorso della conservazione dei documenti e dei file contenenti dati riservati, di come questi vengono utilizzati, dopo quanto vanno cancellati e altre mille implicazioni del GDPR. 
-
-Quindi, rinnovo l'invito a farsi seguire in ogni caso da un professionista (sia per le firme e le modalità di conservazione, che per predisporre il foglio della privacy).
+Tuttavia, ho scoperto che il problema iniziale (risparmiare tempo, carta e spazio) richiede un'analisi **molto più approfondita**. Vederlo solo dal lato della firma **non porta a nessun beneficio tangibile** e se non abbiamo risorse per farci affiancare da un avvocato esperto in privacy per il resto del processo, magari si fa prima a comprare una stampante e procedere col cartaceo.
 
 Spero che questo articolo ti sia stato utile, anche per comprendere il discorso dell'accettazione e del trattamento dei dati dei pazienti.
 
