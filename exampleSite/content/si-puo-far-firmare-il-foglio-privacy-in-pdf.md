@@ -1,7 +1,7 @@
 +++
 author = "Redazione"
 categories = ["Professionisti"]
-date = 2022-04-13T22:00:00Z
+date = 2022-04-12T22:00:00Z
 description = "Si possono far firmare i pazienti con tavoletta grafica, tablet o apple pencil su ipad?"
 draft = true
 image = "/images/kelly-sikkema-lnlzd-y7orw-unsplash.jpg"
