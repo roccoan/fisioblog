@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Professionisti"]
 date = 2022-04-13T22:00:00Z
 description = "Fattura alla moglie, carta del marito: si può fare?"
-draft = true
 image = "/images/rupixen-com-q59hmzk38eq-unsplash.jpg"
 title = "Fattura alla moglie, carta del marito: si può fare?"
 type = "post"
