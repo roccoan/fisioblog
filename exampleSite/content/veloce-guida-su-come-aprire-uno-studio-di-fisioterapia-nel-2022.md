@@ -24,6 +24,8 @@ Siccome ogni regione ha le sue regole, non riuscirò ad entrare nel dettaglio di
 
 Tra poco vediamo in generale cosa viene richiesto, ma prima facciamo una importante distinzione.
 
+> Ha curiosità e dubbi su che sono come si fanno **le fatture**? [Leggi anche questo articolo](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Guida alle fatture per fisioterapisti").
+
 ## Distinzione tra **studio** e **centro** di fisioterapia
 
 Okay, i due termini non sono esattamente corretti e sarebbe più corretto parlare di **Studio Professionale** (che è lo studio di cui parliamo nell'articolo) e di **Ambulatorio di Fisiokinesiterapia** (che genericamente chiamiamo centro). Inoltre c'è una terza forma che si chiama _Società tra Professionisti_, che ignoreremo perchè è una forma più complessa - meno adatta ai fisioterapisti in erba a cui questo sito si rivolge - e soprattutto perché anche lo Studio Professionale permette a due professionisti di lavorare nello stesso posto. Quindi, se avete in mente di aprire uno studio con un amico/un'amica fisioterapista per dividere i costi, si può fare anche con lo Studio Professionale. Se si è in più di due, non basta più lo Studio Professionale e bisogna andare di Ambulatorio o Società tra Professionisti.
@@ -53,5 +55,13 @@ Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabi
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
 Dopo la comunicazione ed entro un tot di giorni (di solito novanta) l'ASL rilascia il nulla osta e lo studio è pronto per partire!
+
+> Cerchi consigli su come trovare i primi pazienti? [Dai un'occhiata a questo articolo](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/ "Come trovare pazienti, panoramica internet")!
+
+## Conclusione
+
+Se stai pensando di metterti in proprio e vuoi saperne di più su come funziona la Partita IVA, ho scritto anche un [articolo con i concetti base di Partita IVA](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti base di partita IVA per Fisioterapisti") per Fisioterapisti. 
+
+Se invece sai già come funziona la Partita IVA, ma hai dubbi sulle fatture, c'è una [guida](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Guida fatture per fisioterapisti") che potrà tornarti molto utile.
 
 Per oggi è tutto, a presto!
