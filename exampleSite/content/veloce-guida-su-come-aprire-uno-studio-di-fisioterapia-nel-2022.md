@@ -39,18 +39,18 @@ Quindi è chiaro che l'attività del centro è molto più complessa rispetto a q
 
 ## Apertura dello studio
 
-Per lo studio c'è solo bisogno di una comunicazione, mentre per i centri - oltre a tutta una serie di adempimenti burocratici e la nomina di un direttore sanitario - c'è bisogno di una autorizzazione (non basta la comunicazione) da parte dell'ASL territoriale.
+Per lo studio c'è solo bisogno di una comunicazione al comune o all'ASL (a seconda dei regolamenti regionali), mentre per i centri - oltre a tutta una serie di adempimenti burocratici e la nomina di un direttore sanitario - c'è bisogno di una autorizzazione (non basta la comunicazione) da parte dell'ASL territoriale.
 
 Nella comunicazione per aprire uno studio, come dicevamo prima, ogni regione è diversa e potrebbero essere richieste cose diverse. Ma in generale vanno presentati:
 
-* un foglio che fornisce l'ASL (si trova anche su internet di solito) da compilare con i dati anagrafici del professionista (nome, cognome, data di nascita, residenza, quando si è laureata/o, numero di Partita IVA e iscrizione all'Albo, ecc.);
+* un foglio che fornisce l'ASL o il comune (si trova anche su internet di solito) o redatto a mano (a seconda di quanto previsto dai regolamenti) da compilare con i dati anagrafici del professionista (nome, cognome, data di nascita, residenza, quando si è laureata/o, numero di Partita IVA e iscrizione all'Albo, ecc.);
 * la planimetria del locale dove si intende svolgere l'attività (che può essere anche in affitto) da chiedere ad un tecnico (tipo geometra o ingegnere);
 * la dichiarazione (sempre di un tecnico) che il locale sia agibile e che gli impianti (tipo quelli elettrici) siano a norma ed è okay per i pazienti mettere a caricare il cellulare senza far esplodere tutto;
 * la ricevuta di un pagamento a favore dell'ASL stessa (l'importo dipende dall'ASL, ma sono in genere tra i €100 e i €200 totali).
 
 Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri.
 
-In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
+In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
 Dopo la comunicazione ed entro un tot di giorni (di solito novanta) l'ASL rilascia il nulla osta e lo studio è pronto per partire!
 
