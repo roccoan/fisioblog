@@ -4,7 +4,7 @@ categories = ["Studio e Carriera", "Universitari"]
 date = 2022-04-18T22:00:00Z
 description = "Università"
 draft = true
-image = ""
+image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Conviene studiare fisioterapia? Ci sono troppi fisioterapisti!"
 type = "post"
 
@@ -18,9 +18,13 @@ Negli scorsi articoli abbiamo provato a rispondere alle domande:
 * [Perchè fare i fisioterapisti oggi?](https://fisioterapisti.org/perche-fare-il-fisioterapista-nel-2022/ "Perchè fare i fisioterapisti nel 2022")
 * [Si trova lavoro dopo la laurea in Fisioterapia?](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in Fisioterapia?")
 
-Però l'argomento è così ampio che si riempirebbero dei libri, e persistono i dubbi.
+Però l'argomento è così ampio che si riempirebbero dei libri, e i dubbi e le paure persistono.
 
-Uno di questi è sempre il solito: ci sono tropppi laureati, oggi tutti vogliono laurearsi e nessuno lavorare, dopo la laurea poi si va comunque a lavorare al McDonald's, oppure si guadagna talmente poco che non ne vale la pena, soprattutto se dobbiamo lasciare un lavoro per intraprendere altre strade.
+Uno di questi è sempre il solito: ci sono troppi laureati, oggi tutti vogliono laurearsi e ci chiediamo se ne vale la pena, soprattutto se per iniziare l'università dobbiamo lasciare un lavoro o non deludere i nostri genitori nelle nostre scelte da dopo il diploma.
+
+Noi ci sentiamo persi, non sappiamo che direzione prendere, pensiamo di sapere che ci piacerà fare i fisioterapisti, ma ci sono tante, troppe incognite.
+
+Magari siamo neodiplomati e iniziare l'univeristà implica un investimento da parte dei nostri genitori e fare una scelta giusta per il futuro, oppure dobbiamo lasciare il lavoro e [iniziare l'università ad un'età più avanzata](https://fisioterapisti.org/iniziare-tardi-l-universita/ "Iniziare tardi l'Università"), e nel prendere una decisione così importante dobbiamo davvero togliere di mezzo più incognite possibile.
 
 Quindi, vediamo insieme altre considerazioni sul tema.
 
@@ -69,6 +73,37 @@ A supporto di quest'ultimo punto, perfino [Confindustria ne parla](https://www.c
 
 Inoltre, in Italia siamo [mediamente molto longevi](https://www.infodata.ilsole24ore.com/2019/11/10/vecchio-continente-invecchia-leta-media-aumentata-43-anni/ "Infodata - Il Sole 24 Ore") quindi il bisogno di cure e riabilitazione dura più a lungo nel tempo rispetto ad altri paesi, tipo l'avanzata Germania dove tra l'altro la concorrenza è decisamente più alta con [225 fisioterapisti per 100.000 abitanti](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=69854 "Dati Eurostat - quotidianosanità.it"), rispetto a meno della metà in Italia, con una crescita molto più rapida del numero di fisioterapisti rispetto all'Italia (nonostante la popolazione tedesca sia meno longeva).
 
+> E come lo spieghi che ci sono fisioterapisti che lavorano poco?
+
+Come già dicevamo [in questo articolo](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?"), la fisioterapia è una professione, una carriera, e come tutte le carriere ci sono periodi migliori di altri, professionisti che lavorano più di altri, e gavette più o meno lunghe. Tendenzialmente si trovano meno pazienti e lavori meno interessanti i primi anni di carriera, poi con l'avanzare dell'età e dell'esperienza le cose cambiano. 
+
+Inoltre, almeno per chi svolge la libera professione, non c'è una regola anche a livello di "dove": in città magari ci sono più pazienti ma c'è anche più concorrenza e i costi sono più alti, e in provincia potrebbero esserci meno pazienti, ma pochissima concorrenza e costi bassi. 
+
+Credo sia più ragionevole inquadrare il problema sotto quest'ottica, piuttosto che tagliare corto dicendo che c'è poco lavoro per i fisioterapisti.
+
 ## L'importanza del movimento
 
-In questa analisi non abbiamo considerato poi che 
+In questa analisi non abbiamo ancora considerato un altro aspetto, ancora più determinante.
+
+Ci sono due tipi di persone:
+
+* Le persone con uno stile di vita attivo;
+* Le persone con uno stile di vita sedentario.
+
+Indovina un po'? Entrambe hanno bisogno del fisioterapista.
+
+La [sedentarietà](https://it.wikipedia.org/wiki/Stile_di_vita_sedentario "Stile di vita sedentario - Wikipedia.org") è causa di ogni tipo di problema fisico e di salute, dal mal di schiena agli attacchi cardiaci, tutte condizioni che ad un certo punto possono richiedere l'intervento di un fisioterapista.
+
+D'altro canto le persone che conducono uno stile di vita sano, pieno di movimento e attività all'aria aperta, prevengono tutti i problemi dello stile di vita sedentario, ma vedono incrementare la probabilità dell'occasionale stiramento, distorsione, contrattura, infortunio o trauma. Tutte condizioni che possono richiedere l'intervento del fisioterapista.
+
+## Conclusione
+
+Quindi, se il nostro sogno è fare la/il Fisioterapista e la nostra preoccupazione è se troveremo lavoro, di lavoro come abbiamo visto ce n'è tantissimo, e soprattutto ce ne sarà tantissimo ancora per molto tempo, tanto che stanno addirittura [nascendo nuove figure professionali](https://fisioterapisti.org/cosa-c-e-nel-futuro-della-fisioterapia-in-italia/ "Cosa c'è nel futuro della fisioterapia in Italia").
+
+Ce ne sarà talmente tanto che il fabbisogno (e quindi il numero) di Fisioterapisti sta aumentando sia in Italia che in paesi che consideriamo "migliori" come la Germania.
+
+Se il tuo sogno è fare la/il Fisioterapista, vedi anche[ cosa fanno davvero i fisioterapisti](https://fisioterapisti.org/che-fanno-veramente-i-fisioterapisti/ "Che fanno i fisioterapisti?").
+
+Se invece sei un fisioterapista e stai cercando lavoro, dai un'occhiata a [questi consigli](https://fisioterapisti.org/come-trovare-lavoro-dopo-la-laurea/ "Come cercare lavoro dopo la laurea in fisioterapia") specifici per i fisioterapisti.
+
+Per oggi è tutto, spero che questo articolo ti possa essere utile. Grazie per aver letto fin qui! 
