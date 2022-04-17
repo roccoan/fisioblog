@@ -56,13 +56,19 @@ Quindi ogni Fisioterapista in Italia può attingere a circa 1.000 potenziali paz
 
 Vero, ma è anche vero che il numero dei fisioterapisti viene deciso dallo Stato in base al fabbisogno di professionisti previsto per i prossimi anni. Inoltre, quando qualcuno afferma questo non tiene mai conto del fatto che se da un lato ci sono nuovi Fisioterapisti, dall'altro ce ne sono tanti che vanno in pensione.
 
-L'età media di questi potenziali pazienti aumenta, con alcune dirette conseguenze:
+Ma al netto delle uscite per i pensionamenti, è vero che il numero di fisioterapisti sta aumentando, e non sta aumentando solo in Italia ma in tutta Europa, perché appunto il fabbisogno di questa professione è in crescita.
+
+Dicevamo che in Italia c'è un fisioterapista per ogni mille persone. L'età media di questi potenziali pazienti sta aumentando, con alcune dirette conseguenze:
 
 * Più l'età avanza, maggiore è il bisogno di cure e riabilitazione;
-* Le persone adulte hanno più soldi da spendere, e più propensione a spendere in salute - fenomeno che prende il nome di Silver Economy (silver dal colore dei capelli che in età avanzata diventano argentei).
+* Le persone adulte hanno più soldi da spendere, e più propensione a spendere in salute - fenomeno che prende il nome di Silver Economy (silver dal colore dei capelli che in età avanzata diventano color argento).
 
 A supporto di quest'ultimo punto, perfino [Confindustria ne parla](https://www.confindustria.it/home/centro-studi/temi-di-ricerca/scenari-geoeconomici/tutti/dettaglio/silver-economy-l-economia-della-terza-eta-consumi-ricchezza-e-nuove-opportunita-per-le-imprese "L’ECONOMIA DELLA TERZA ETÀ: CONSUMI, RICCHEZZA E NUOVE OPPORTUNITÀ PER LE IMPRESE"):
 
 > "La Silver Economy offre importanti potenzialità, in termini di erogazione di servizi sanitari (la c.d. Long Term Care, ovvero le prestazioni per la non autosufficienza, dall’assistenza alle residenze per anziani)"
 
-Inoltre, in Italia siamo [mediamente molto longevi](https://www.infodata.ilsole24ore.com/2019/11/10/vecchio-continente-invecchia-leta-media-aumentata-43-anni/ "Infodata - Il Sole 24 Ore") quindi il bisogno di cure e riabilitazione dura più a lungo nel tempo rispetto ad altri paesi, tipo l'avanzata Germania dove tra l'altro ci sono [225 fisioterapisti per 100.000 abitanti](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=69854 "Dati Eurostat - quotidianosanità.it"), rispetto a meno della metà in Italia.
+Inoltre, in Italia siamo [mediamente molto longevi](https://www.infodata.ilsole24ore.com/2019/11/10/vecchio-continente-invecchia-leta-media-aumentata-43-anni/ "Infodata - Il Sole 24 Ore") quindi il bisogno di cure e riabilitazione dura più a lungo nel tempo rispetto ad altri paesi, tipo l'avanzata Germania dove tra l'altro la concorrenza è decisamente più alta con [225 fisioterapisti per 100.000 abitanti](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=69854 "Dati Eurostat - quotidianosanità.it"), rispetto a meno della metà in Italia, con una crescita molto più rapida del numero di fisioterapisti rispetto all'Italia (nonostante la popolazione tedesca sia meno longeva).
+
+## L'importanza del movimento
+
+In questa analisi non abbiamo considerato poi che 
