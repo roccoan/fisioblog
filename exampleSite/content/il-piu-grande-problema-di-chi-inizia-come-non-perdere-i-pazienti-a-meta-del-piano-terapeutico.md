@@ -13,7 +13,7 @@ Oggi vediamo un'argomento che forse è stata una delle scoperte involontarie pi�
 
 ## Introduzione
 
-Fare i fisioterapisti ovviamente è un lavoro. 
+Fare i fisioterapisti ovviamente è un lavoro.
 
 Un lavoro che implica aiutare le persone a [recuperare la qualità della vita](https://fisioterapisti.org/che-fanno-veramente-i-fisioterapisti/ "Che fanno veramente i fisioterapisti") persa e che dà parecchie soddisfazioni, soprattutto rispetto ad altre carriere.
 
@@ -42,7 +42,7 @@ Siccome di [come trovare pazienti ne abbiamo già parlato](https://fisioterapist
 
 All'inizio pensavo che il problema più grande che avrei affrontato sarebbe stato quello di trovare nuovi pazienti.
 
-Quando inizi non ti conosce nessuno, nessuno sa chi sei, come fanno ad affidarsi a te? 
+Quando inizi non ti conosce nessuno, nessuno sa chi sei, come fanno ad affidarsi a te?
 
 Però cercare nuovi pazienti, più che essere un problema di complicata risoluzione, è stato solo un processo che ha richiesto molta pazienza.
 
@@ -75,7 +75,7 @@ Certo, ma mi mancava un pezzo, e me ne accorgo solo ora col senno di poi.
 
 In pratica, quando ho iniziato a lavorare come autonoma, avevo paura di non essere pagata (c'era il covid, aperture, chiusure, insomma il caos).
 
-Questa paura mi portava a farmi pagare dai pazienti volta per volta. 
+Questa paura mi portava a farmi pagare dai pazienti volta per volta.
 
 Tra l'altro (a ripensarci sorrido) siccome [per le fatture con importi sopra ad €77,47 si paga la marca da bollo](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Che sono e come fare le fatture, guida per fisioterapisti"), cercavo sempre di evitare questa ulteriore spesa.
 
@@ -94,34 +94,44 @@ Io li chiamo "pacchetti", i più smart li chiameranno "bundle", i più tradizion
 
 Insomma, al posto di sbagliare come me e farti pagare volta per volta ti consiglio di farti pagare tutt'insieme, magari offrendo uno sconto per il pagamento anticipato.
 
-E stranamente... funziona! 
+E stranamente... funziona!
 
-Cioè, io ho iniziato a farlo in modo totalmente random, pensando "vabbè che ho da perdere, proviamoci" (complice il fatto che con l'esperienza e con un po' di pazienti in più stavo pian piano perdendo le insicurezze di cui parlavo prima). 
+Cioè, io ho iniziato a farlo in modo totalmente random, pensando "vabbè che ho da perdere, proviamoci" (complice il fatto che con l'esperienza e con un po' di pazienti in più stavo pian piano perdendo le insicurezze di cui parlavo prima).
 
 ### Quali sono i benefici?
 
 Da allora mi capita ad occhio e croce una volta ogni 15/20 pazienti, mentre prima credo capitasse un paziente si e uno no.
 
-Anche se offro uno sconto (di solito il 20%) per chi paga in un'unica soluzione, e quindi ci guadagno meno, il fatto che il paziente arriva fino alla fine del ciclo fa tutta la differenza. 
+Anche se offro uno sconto (di solito il 20%) per chi paga in un'unica soluzione, e quindi ci guadagno meno, il fatto che il paziente arriva fino alla fine del ciclo fa tutta la differenza.
 
 ### Quanto deve durare il ciclo?
 
-Questa è una valutazione che si impara a fare in modo preciso con l'esperienza, però in generale la stragrande maggioranza delle terapie che faccio io richiedono dalle 10 alle 15 sedute per ottenere risultati tangibili. 
+Questa è una valutazione che si impara a fare in modo preciso con l'esperienza, però in generale la stragrande maggioranza delle terapie che faccio io richiedono dalle 10 alle 15 sedute per ottenere risultati tangibili.
 
 Quindi se devi proporre un piano terapeutico ad un paziente, partire con un ciclo 10/12 terapie forse è una buona approssimazione.
 
 ## Ma che c'entra l'economia comportamentale?
 
-In pratica credo che sia come per l'abbonamento in palestra.
+In pratica è come per l'abbonamento in palestra.
 
-C'è chi inizia in palestra e non si vuole vincolare perché non sa se avrà il tempo di andarci e ha paura di pagare a vuoto.
+C'è chi inizia in palestra e non si vuole vincolare perché non sa se avrà il tempo di andarci e ha paura di pagare a vuoto, quindi paga il mensile.
 
-Altre persone invece pagano l'annuale così sono costrette ad andarci.
+Altre persone invece pagano l'annuale così si sentono costrette ad andarci e non trovano scuse.
 
 Accade la stessa identica cosa per i pazienti quando si approcciano ai tuoi servizi.
 
 Se gli dai la possibilità di non vincolarsi perché hai paura che si sentano legati e vadano da un'altro fisioterapista che gli dia più flessibilità... è probabile che lo facciano.
 
-Le persone non vanno dal fisioterapista per richiedere flessibilità. 
+Le persone non vanno dal fisioterapista per richiedere flessibilità.
 
-Per i pazienti il fisioterapista è una figura che deve fornire sicurezza, che deve guidarli in un momento difficile della loro vita, e guidarli significa dar loro la mappa di un percorso da seguire con precise tappe (tante quante sono i 
+Le persone vanno dal fisioterapista perché cercano una figura che deve fornire sicurezza, che deve guidarli in un momento difficile della loro vita, e guidarli significa dar loro la mappa di un percorso da seguire con precise tappe (tante quante sono i trattamenti del ciclo).
+
+Capire questo è importantissimo, e dare una "spintarella gentile" ai pazienti in questa direzione è nel loro interesse, perchè un ciclo di due settimane portato a termine per bene può fare davvero la differenza nella qualità della vita del paziente per mesi o addirittura anni.
+
+## Conclusione
+
+Spero che questo articolo ti possa tornare utile nel gestire la tua nuova (o la tua prossima) attività da fisioterapista nel migliore dei modi.
+
+Se posso consigliarti un altro articolo, non perderti i [concetti base di come funziona la Partita IVA](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti di base di P. IVA per Fisioterapisti"), se stai iniziando potrà sicuramente farti comodo.
+
+Grazie mille per aver letto fin qui, a presto!
