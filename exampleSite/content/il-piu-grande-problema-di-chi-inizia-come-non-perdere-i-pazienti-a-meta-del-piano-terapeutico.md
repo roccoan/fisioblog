@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Professionisti"]
 date = 2022-04-21T22:00:00Z
 description = "Come evitare che i pazienti si fermino a metà del ciclo"
-draft = true
 image = "/images/northfolk-ok76f6yw2ia-unsplash.jpg"
 title = "Il più grande problema di chi inizia | Come non perdere i pazienti a metà del piano terapeutico"
 type = "post"
