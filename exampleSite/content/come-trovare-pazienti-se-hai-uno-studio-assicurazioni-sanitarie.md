@@ -122,9 +122,9 @@ Negli altri casi, se ti vuoi convenzionare devi fare richiesta. I network più g
 
 * [Previmedical](https://www.previmedical.it/ "Previmedical");
 * [Pronto-Care](https://fisio.pronto-care.com/ "Fisio - Care");
-* [Unisalute](https://www.unisalute.it/medici-e-case-di-cura/perche-convenzionarsi "Unisalute - Perché convenzionarsi")
+* [Unisalute](https://www.unisalute.it/medici-e-case-di-cura/perche-convenzionarsi "Unisalute - Perché convenzionarsi").
 
-Ce ne sono tante altre (anche se la maggior parte fa parte di queste), ti invito comunque a cercare su internet o a commentare se ne conosci altre, magari va a beneficio di tutti.
+Ce ne sono tante altre (anche se la maggioranza fa parte di queste), ti invito comunque a cercare su internet o a commentare se ne conosci altre, magari va a beneficio di tutti.
 
 #### Come funziona la richiesta di convenzione?
 
@@ -152,8 +152,14 @@ Loro giustamente vogliono accertarsi che il nostro studio è affidabile e che la
 
 Fortunatamente, almeno se si viene scartati lo sappiamo subito al primo passaggio (quello del form).
 
-Guardando i vantaggi, se si vive in città e ci sono parecchie aziende importanti, la pubblicità è parecchia e arrivano parecchi pazienti.
+Guardando i vantaggi, se si vive in città e ci sono parecchie aziende importanti, la pubblicità è parecchia e arrivano tanti pazienti.
 
 Se invece sei in provincia o in città piccole o al sud dove ci sono poche aziende, non ci illudiamo. Il volume di pazienti proveniente dalle assicurazioni sanitarie non sarà altissimo.
 
 Tendenzialmente non sarà pari a zero, perché in quel caso l'assicurazione al momento della richiesta ti risponde che nella tua zona non c'è granchè domanda e quindi non fanno partire affatto la convenzione.
+
+Altro svantaggio, non tutte accettano le domiciliari.
+
+## Conclusione
+
+Oggi abbiamo visto una panoramica sul mondo delle assicurazioni sanitarie, perché stanno prendendo piede in Italia, e come può andare a vantaggio di noi fisioterapisti (soprattutto quelli che lavorano in proprio).
