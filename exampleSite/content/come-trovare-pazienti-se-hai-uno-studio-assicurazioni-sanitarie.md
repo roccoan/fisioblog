@@ -1,10 +1,10 @@
 +++
-author = ""
+author = "Redazione"
 categories = []
 date = 2022-04-25T22:00:00Z
-description = ""
+description = "Che sono e come trovare pazienti con le assicurazioni sanitarie"
 draft = true
-image = ""
+image = "/images/kaitlyn-baker-vzjdyl5jvxy-unsplash.jpg"
 title = "Come trovare pazienti se hai uno studio | Assicurazioni Sanitarie"
 type = "post"
 
@@ -162,4 +162,10 @@ Altro svantaggio, non tutte accettano le domiciliari.
 
 ## Conclusione
 
-Oggi abbiamo visto una panoramica sul mondo delle assicurazioni sanitarie, perché stanno prendendo piede in Italia, e come può andare a vantaggio di noi fisioterapisti (soprattutto quelli che lavorano in proprio).
+Oggi abbiamo visto una panoramica sul mondo delle assicurazioni sanitarie, perché stanno prendendo piede in Italia, e come può andare a vantaggio dei fisioterapisti.
+
+E tu, conoscevi questo mondo? Pensi che possa tornarti utile? Fammelo sapere nei commenti!
+
+Se stai pensando di iniziare a lavorare in proprio, dai pure un'occhiata ai [concetti base di Partita IVA per fisioterapisti](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti base di P. IVA per Fisioterapisti").
+
+Grazie per aver letto fin qui, a presto!
