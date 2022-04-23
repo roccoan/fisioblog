@@ -15,11 +15,13 @@ Interessata/o ad un posto nel pubblico? Vediamo insieme i concorsi per Fisiotera
 
 > Non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico? Allora ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
 
-Rispetto al mese scorso aggiungiamo anche gli avvisi pubblici per Fisioterapisti, perché sono molto utili per fare punteggio.
+Rispetto agli scorsi mesi aggiungiamo anche gli avvisi pubblici per Fisioterapisti.
 
-I concorsi e gli avvisi di questo mese sono tutti al nord, divisi tra Lombardia, Friuli Venezia Giulia, Trentino Alto Adige ed Emilia Romagna.
+Pubblichiamo l'articolo ad aprile perchè Google ci mette circa due settimane ad indicizzarlo. Così facendo speriamo di massimizzare l'utilità per chi deve iscriversi ai concorsi.
 
-Direi di partire!
+I concorsi e gli avvisi di questo mese sono tutti al nord, divisi tra Lombardia e Trentino Alto Adige.
+
+L'unico concorso è a Monza, mentre per quello in Trentino Alto Adige è richiesto il tedesco.
 
 ## ASST Lecco - Azienda Socio Sanitaria Territoriale di Lecco
 
@@ -73,5 +75,10 @@ Per il **bando**, [qui è disponibile in formato PDF](https://cdn2.onboard.org/u
 
 Per iscriversi, seguire la [procedura descritta sulla pagina web dell'ente](https://sabes.onboard.org/it/jobs/QgeybxmJ?from_career_page=true "Sabes - Fisioterapista - Graduatoria Permanente").
 
-* **AUSL Ferrara: AVVISO PUBBLICO DI PROCEDURA D’URGENZA**, per la raccolta di disponibilità per assunzioni a tempo determinato (scadenza: legato allo stato di emergenza epidemiologica) [Clicca qui](https://www.ausl.fe.it/azienda/dipartimenti/dipartimento-gestione-risorse-umane/concorsi-e-avvisi-folder/avvisi-pubblici-1/concorsi-pubblici)
-* **ARCS Friuli Venezia Giulia: AVVISO DI MANIFESTAZIONE DI INTERESSE**, per formazione di elenchi, conferimento **INCARICHI LIBERO PROFESSIONALI** o **Co.Co.Co** (scadenza: fino a copertura della necessità assistenziale) [Clicca qui](https://arcs.sanita.fvg.it/it/cittadini/concorsi/2020-manifestazione-di-interesse-per-personale-del/)
+## Conclusione
+
+Per questo mese è tutto, ci aggiorniamo al prossimo! 
+
+Nel frattempo, se non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
+
+Grazie per aver letto, a presto!
