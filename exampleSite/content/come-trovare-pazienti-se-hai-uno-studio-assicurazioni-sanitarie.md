@@ -20,7 +20,7 @@ Quello di oggi è un argomento parecchio specifico, ti interessa soltanto se hai
 
 ## Introduzione
 
-Se hai uno studio, magari già conosci l'argomento delle assicurazioni sanitarie. 
+Se hai uno studio, magari già conosci l'argomento delle assicurazioni sanitarie.
 
 Se invece [stai pensando di aprirne uno](https://fisioterapisti.org/veloce-guida-su-come-aprire-uno-studio-di-fisioterapia-nel-2022/ "Veloce guida su come aprire uno studio di fisioterapia nel 2022"), credo sia qualcosa da conoscere.
 
@@ -32,7 +32,7 @@ Ci sono solo vantaggi? Come ogni cosa, certo che no. Comportano anche degli svan
 
 ## L'argomento di oggi: le Assicurazioni Sanitarie
 
-### Ma che sono? 
+### Ma che sono?
 
 Per farla breve, anzi brevissima: l'assicurazione sanitaria è un benefit che viene dato dalle aziende ai propri dipendenti.
 
@@ -46,7 +46,7 @@ Se una persona ha l'assicurazione sanitaria, può fare visite mediche a pagament
 
 Per esempio, se devi fare una visita specialistica privatamente dall'endocrinologo o dal gastroenterologo, solitamente il medico ti fa pagare ipotizziamo €150.
 
-Se però hai l'assicurazione sanitaria e il medico è convenzionato con questa, fissando l'appuntamento tramite l'assicurazione paghi o nulla o una piccola somma, tipo €15, e il medico riceve comunque la somma intera. 
+Se però hai l'assicurazione sanitaria e il medico è convenzionato con questa, fissando l'appuntamento tramite l'assicurazione paghi o nulla o una piccola somma, tipo €15, e il medico riceve comunque la somma intera.
 
 Il resto è a carico dell'assicurazione.
 
@@ -68,18 +68,34 @@ Il dipendente non vede questi soldi in busta paga, per questo si chiamano benefi
 
 I benefit sono soldi sotto forma di benefici - e non dover pagare le spese sanitarie è sicuramente un beneficio.
 
-Le aziende hanno sgravi fiscali offrendo questi benefit. 
+### Perché lo fanno?
+
+Le aziende hanno sgravi fiscali offrendo questi benefit.
 
 In sostanza lo Stato (che prima della pandemia [voleva spendere di meno per la sanità](http://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=95007 "Def 2021. Boom spesa sanitaria nel 2020-2021 ma dal 2022 il rapporto spesa/Pil inizia a calare")) fa pagare meno tasse alle aziende se in cambio loro aiutano lo Stato a spendere meno in Sanità.
 
-Prima della pandemia infatti si pensava che veicolare più problematiche possibile nel privato fa accorciare le liste d'attesa nel pubblico, con meno bisogno di medici e meno spese da affrontare per Ospedali e ASL.
+Prima della pandemia infatti si pensava che veicolare più problematiche possibile nel privato fa accorciare le liste d'attesa nel pubblico, con meno bisogno di medici e personale sanitario e meno spese da affrontare per Ospedali e ASL.
 
 Sempre da [questo articolo](http://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=95007 "Def 2021. Boom spesa sanitaria nel 2020-2021 ma dal 2022 il rapporto spesa/Pil inizia a calare") vediamo che dopo la pandemia la situazione tornerà ad essere quella di prima, quindi se sei un fisioterapista nel privato sappi che questa situazione è tutta a tuo vantaggio.
 
 ### Okay, ma che ci faccio io come fisioterapista?
 
-Le assicurazioni sanitarie stanno ampliando sempre di più i servizi offerti e quindi la rete di professionisti convenzionati.
+Siccome ci sono tanti incentivi statali, le assicurazioni sanitarie stanno ampliando sempre di più i servizi offerti e quindi la rete di professionisti convenzionati.
 
 Oltre a visite mediche specialistiche e interventi chirurgici, possono includere anche le spese sostenute dal dentista o dal fisioterapista.
 
 Quindi se sei un fisioterapista, hai uno studio e sei convenzionato con delle assicurazioni sanitarie, gli assicurati possono venire da te senza spendere un euro (o comunque spendendo pochissimo).
+
+Questo porta i pazienti a fare cicli di terapia più lunghi, a fare fisioterapia più spesso e a non preoccuparsi per il prezzo.
+
+## Forma di pubblicità
+
+Essere convenzionati comporta anche un miglioramento nella visibilità del tuo studio.
+
+Le assicurazioni sanitarie hanno dei portali online dove i loro assistiti possono consultare le strutture convenzionate, e se il tuo studio è nell'elenco diventa un'altra forma di pubblicità - gratis.
+
+Oltre ad essere pubblicità gratuita, il pubblico di questa pubblicità è composto in generale da persone che:
+
+* Lavorano in grandi aziende e magari hanno stipendi di tutto rispetto;
+* Non si preoccupano di quanto costa perché il costo è a carico dell'assicurazione;
+* Hanno tendenzialmente bisogno di te, perché non vai sul sito dell'assicurazione sanitaria per divertimento o noia, ci vai se hai problemi di salute.
