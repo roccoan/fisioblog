@@ -21,7 +21,7 @@ Pubblichiamo l'articolo ad aprile perchè Google ci mette circa due settimane ad
 
 I concorsi e gli avvisi di questo mese sono tutti al nord, divisi tra Lombardia e Trentino Alto Adige.
 
-L'unico concorso è a Monza, mentre per quello in Trentino Alto Adige è richiesto il tedesco.
+L'unico concorso è a Monza, mentre per l'avviso in Trentino Alto Adige è richiesto il tedesco.
 
 ## ASST Lecco - Azienda Socio Sanitaria Territoriale di Lecco
 
