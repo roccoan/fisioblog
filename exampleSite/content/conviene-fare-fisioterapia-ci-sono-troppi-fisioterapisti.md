@@ -1,8 +1,8 @@
 +++
 author = "Federica"
-categories = ["Studio e Carriera", "Universitari"]
+categories = ["Università", "Studio e Carriera"]
 date = 2022-04-18T22:00:00Z
-description = "Università"
+description = "Ci sono troppi fisioterapisti in Italia? Quanti fisioterapisti ci sono in Italia?"
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Conviene studiare fisioterapia? Ci sono troppi fisioterapisti?"
 type = "post"
