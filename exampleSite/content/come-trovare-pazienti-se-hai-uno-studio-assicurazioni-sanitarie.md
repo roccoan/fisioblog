@@ -99,3 +99,61 @@ Oltre ad essere pubblicità gratuita, il pubblico di questa pubblicità è compo
 * Lavorano in grandi aziende e magari hanno stipendi di tutto rispetto;
 * Non si preoccupano di quanto costa perché il costo è a carico dell'assicurazione;
 * Hanno tendenzialmente bisogno di te, perché non vai sul sito dell'assicurazione sanitaria per divertimento o noia, ci vai se hai problemi di salute.
+
+Altre forme di pubblicità non hanno questi vantaggi: se fai volantinaggio chiunque riceve il tuo volantino, anche chi non ha bisogno di te.
+
+## Come si richiede la convenzione?
+
+### A volte non serve
+
+Premessa: a volte non c'è nemmeno bisogno di richiedere la convenzione con una assicurazione sanitaria.
+
+Può capitare infatti che un assistito chiami l'assicurazione sanitaria per prenotare nella sua zona, e nella sua zona non c'è ancora nessuno convenzionato per la specifica problematica del paziente.
+
+Per esempio, se il paziente ha un problema che richiede fisioterapia cardiologica, e nella zona l'unico fisioterapista che fa cardiologica sei tu e non sei nel loro network, il tipo dell'assicurazione cerca su internet, ti trova e ti contatta.
+
+Ti spiega la situazione e ti chiede se per te va bene convenzionarsi con loro, così ti girano il paziente.
+
+> Per questo è importantissimo [farsi trovare su internet](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/ "Come trovare pazienti | Panoramica Internet").
+
+### Altre volte basta chiedere
+
+Negli altri casi, se ti vuoi convenzionare devi fare richiesta. I network più grandi che conosco sono:
+
+* [Previmedical](https://www.previmedical.it/ "Previmedical");
+* [Pronto-Care](https://fisio.pronto-care.com/ "Fisio - Care");
+* [Unisalute](https://www.unisalute.it/medici-e-case-di-cura/perche-convenzionarsi "Unisalute - Perché convenzionarsi")
+
+Ce ne sono tante altre (anche se la maggior parte fa parte di queste), ti invito comunque a cercare su internet o a commentare se ne conosci altre, magari va a beneficio di tutti.
+
+#### Come funziona la richiesta di convenzione?
+
+Il primo passaggio è questo: sui siti delle assicurazioni sanitarie ci sono dei form da compilare per la richiesta.
+
+Dopo qualche giorno si riceve risposta positiva o negativa.
+
+La risposta è positiva quando nella zona in cui si opera non ci sono altri fisioterapisti convenzionati.
+
+Se la risposta è negativa, si può riprovare dopo un po' di tempo (magari l'anno successivo). 
+
+Le assicurazioni fanno sempre questa valutazione periodica sul territorio e se magari nell'ultimo anno la convenzione che c'era è scaduta o sono aumentati i loro assistiti, allora si è liberato un posto che possiamo occupare noi.
+
+Se la risposta è positiva si procede allo step successivo, che è un vero e proprio calvario.
+
+Vengono richiesti un sacco di documenti da compilare e firmare. Viene richiesto di tutto: dai dati anagrafici di tutti i professionisti che lavorano nello studio ai certificati di laurea, i dati dello studio, curriculum, documenti d'identità, insomma davvero tantissime cose.
+
+Alla fine di tutto, se tutti i documenti vengono accettati e la richiesta va a buon fine, si passa alla fase in cui ci mandano le istruzioni per accogliere i pazienti e su come utilizzare il loro portale.
+
+## Vantaggi e svantaggi
+
+Il primo svantaggio che mi viene in mente è proprio la mole di documentazione da produrre per richiedere la convenzione.
+
+Loro giustamente vogliono accertarsi che il nostro studio è affidabile e che la salute dei loro assistiti sia in buone mani, ma preparati a passare qualche ora a compilare documenti.
+
+Fortunatamente, almeno se si viene scartati lo sappiamo subito al primo passaggio (quello del form).
+
+Guardando i vantaggi, se si vive in città e ci sono parecchie aziende importanti, la pubblicità è parecchia e arrivano parecchi pazienti.
+
+Se invece sei in provincia o in città piccole o al sud dove ci sono poche aziende, non ci illudiamo. Il volume di pazienti proveniente dalle assicurazioni sanitarie non sarà altissimo.
+
+Tendenzialmente non sarà pari a zero, perché in quel caso l'assicurazione al momento della richiesta ti risponde che nella tua zona non c'è granchè domanda e quindi non fanno partire affatto la convenzione.
