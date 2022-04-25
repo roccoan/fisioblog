@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Universitari"]
 date = 2022-04-24T22:00:00Z
 description = "Concorsi per fisioterapisti e avvisi pubblici per fisioterapisti in scadenza a maggio 2022"
-draft = true
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
 title = "Concorsi per Fisioterapista in scadenza a Maggio 2022"
 type = "post"
