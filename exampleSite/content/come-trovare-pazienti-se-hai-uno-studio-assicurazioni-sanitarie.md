@@ -5,18 +5,11 @@ date = 2022-04-25T22:00:00Z
 description = "Che sono e come trovare pazienti con le assicurazioni sanitarie"
 draft = true
 image = "/images/kaitlyn-baker-vzjdyl5jvxy-unsplash.jpg"
-title = "Come trovare pazienti se hai uno studio | Assicurazioni Sanitarie"
+title = "Come trovare altri pazienti se hai uno studio | Assicurazioni Sanitarie"
 type = "post"
 
 +++
 Quello di oggi è un argomento parecchio specifico, ti interessa soltanto se hai già uno studio e vuoi aumentare il numero dei pazienti (magari per te o per i tuoi collaboratori).
-
-* Di cosa parliamo oggi: assicurazioni sanitarie
-* Il contesto: welfare aziendale e lo stato che riduce spesa pubblica in pensioni e sanità (almeno fino a prima della pandemia)
-* Come può tornare utile a chi ha uno studio
-* Come si diventa convenzionati
-* Quali sono le principali assicurazioni sanitarie in italia
-* Lo consiglio?
 
 ## Introduzione
 
@@ -134,7 +127,7 @@ Dopo qualche giorno si riceve risposta positiva o negativa.
 
 La risposta è positiva quando nella zona in cui si opera non ci sono altri fisioterapisti convenzionati.
 
-Se la risposta è negativa, si può riprovare dopo un po' di tempo (magari l'anno successivo). 
+Se la risposta è negativa, si può riprovare dopo un po' di tempo (magari l'anno successivo).
 
 Le assicurazioni fanno sempre questa valutazione periodica sul territorio e se magari nell'ultimo anno la convenzione che c'era è scaduta o sono aumentati i loro assistiti, allora si è liberato un posto che possiamo occupare noi.
 
