@@ -30,6 +30,8 @@ Per permettere la detrazione della spesa, c’è bisogno di rispettare due requi
 1. Il pagamento deve essere tracciabile;
 2. Devi registrare la fattura sul sito “Sistema Tessera Sanitaria”.
 
+Non c'è bisogno della prescrizione del medico.
+
 Io faccio così di solito: nella prima valutazione, quando il cliente vuole iniziare il ciclo di fisioterapia, gli spiego che se ha intenzione di detrarre la spesa dalla dichiarazione dei redditi non può pagare in contanti, ma deve pagare con strumento tracciabile. Per strumento tracciabile intendiamo ovviamente bonifico o carta, ma anche altri meno scontati come Satispay e PayPal ([fonte](https://www.ilsole24ore.com/art/da-satispay-paypal-ok-sconto-fiscale-le-spese-pagate-le-app-ACcCdCEB)).
 
 Per quanto riguarda il sistema Tessera Sanitaria, avrai pensato “Oh no! Altri adempimenti, e chi ce l’ha il tempo!”.
