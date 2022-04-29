@@ -3,7 +3,7 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2022-01-04T23:00:00Z
 description = "Guida a Sistema Tessera Sanitaria"
-image = ""
+image = "/images/screenshot-2022-04-29-114212.jpg"
 title = "Guida al Sistema Tessera Sanitaria per i Fisioterapisti 2022"
 type = "post"
 
