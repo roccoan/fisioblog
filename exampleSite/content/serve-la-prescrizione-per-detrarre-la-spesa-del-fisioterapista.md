@@ -45,8 +45,22 @@ Il fisioterapista può fare in modo che la dichiarazione precompilata del pazien
 
 Questo **si fa con una procedura obbligatoria** dal 2019, che prevede **pesanti sanzioni** se non viene completata. 
 
-La **procedura obbligatoria in questione** è il [caricamento dei dati delle fatture emesse ai pazienti su Sistema Tessera Sanitaria](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Guida a Sistema Tessera Sanitaria 2022 per Fisioterapisti")
+La **procedura obbligatoria in questione** **è l'Invio Telematico**, cioè il [caricamento dei dati delle fatture emesse ai pazienti su Sistema Tessera Sanitaria](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Guida a Sistema Tessera Sanitaria 2022 per Fisioterapisti")
 
 Questa procedura sembra essere [controversa per altri professionisti sanitari](https://www.odontoiatria33.it/didomenica/21830/invio-dei-dati-al-sistema-tessera-sanitaria-e-le-pesanti-sanzioni-difficili-da-applicare.html "Invio dei dati al Sistema Tessera Sanitaria e le (pesanti) sanzioni difficili da applicare"), molti non la attuano, e le sanzioni (sebbene siano elevate) sembrano di difficile applicazione perché pare che non ci siano controlli.
 
 A noi però piace fare le cose per bene, per questo ricordiamo quali sono le [scadenze di Sistema Tessera Sanitaria per il 2022](https://fisioterapisti.org/sistema-tessera-sanitaria-aggiornamenti-e-nuove-scadenze-per-il-2022/ "Sistema TS - Nuove Scadenze per il 2022") e invitiamo tutti a rispettarle.
+
+## Che succede se il professionista non fa l'invio telematico della spesa?
+
+In questo caso il paziente non troverà la spesa nella dichiarazione precompilata, ma viene comunque tutelato.
+
+Infatti nonostante non ci sia nella precompilata, può comunque mandare in detrazione la spesa **caricando manualmente la fattura** - o comunque facendola caricare al commercialista o al Caf che gli prepara la dichiarazione dei redditi - (il paziente deve ricevere la [copia originale con la marca da bollo](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Guida fatture per fisioterapisti")).
+
+Resta **l'obbligo di pagamento con strumento tracciabile**.
+
+Per il professionista invece **sono previste sanzioni nel caso di invio tardivo** (Quali? Al momento non abbiamo tempo di approfondire, ma è sicuramente un ottimo argomento per un prossimo articolo).
+
+## Conclusione
+
+Non serve prescrizione per scaricare la spesa del fisioterapista nella dichiarazione dei redditi, ma bisogna pagare con strumento tracciabile 
