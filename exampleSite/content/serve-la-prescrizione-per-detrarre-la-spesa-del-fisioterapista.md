@@ -27,15 +27,21 @@ Già ora il **fisioterapista è pienamente autonomo** nelle proprie attività (p
 
 Infatti, Il **fisioterapista** rientra tra le figure professionali elencate nel [D.M. n. 182 del 29 marzo 2001](https://www.gazzettaufficiale.it/eli/id/2001/05/19/001G0233/sg "(GU Serie Generale n.115 del 19-05-2001)"). Le spese sostenute per le prestazioni sanitarie rese dal **fisioterapista** sono quindi detraibili senza necessità di una specifica **prescrizione medica**.
 
+## Di cosa c'è bisogno per la detrazione
+
+Per la detrazione **non c'è bisogno della prescrizione del medico** (specialista o di famiglia), ma anzitutto **c'è bisogno di pagare con uno strumento tracciabile**.
+
+Quindi, **non sono ammessi pagamenti in contanti**, ma vanno bene sia quelli con carta o bonifico, che [altri meno scontati come Satispay e PayPal](https://www.ilsole24ore.com/art/da-satispay-paypal-ok-sconto-fiscale-le-spese-pagate-le-app-ACcCdCEB "Il Sole 24 Ore, Da Satispay a Paypal: ok allo sconto fiscale per le spese pagate con le App").
+
 ## Il problema: il paziente che vuole detrarre la spesa sanitaria nel 730
 
-In fase di **dichiarazione dei redditi**, i pazienti possono detrarre la spesa sostenuta dal fisioterapista.
+In fase di **dichiarazione dei redditi**, i pazienti possono detrarre la spesa sostenuta dal fisioterapista **se hanno pagano con strumento tracciabile**.
 
 Questo significa che è loro interesse riuscire effettivamente a detrarla, così da avere uno **sconto sul pagamento delle tasse** o meglio ancora andare a credito, ed è compito anche del fisioterapista fare in modo che ci riesca.
 
 Oggi rispetto a qualche anno fa c'è una novità, cioè la dichiarazione precompilata.
 
-Il fisioterapista può fare in modo che la dichiarazione precompilata del paziente presenterà la spesa che ha sostenuto il suo paziente.
+Il fisioterapista può fare in modo che la dichiarazione precompilata del paziente presenterà la spesa che ha sostenuto il paziente stesso.
 
 Questo **si fa con una procedura obbligatoria** dal 2019, che prevede **pesanti sanzioni** se non viene completata. 
 
