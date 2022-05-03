@@ -35,15 +35,15 @@ Quindi, **non sono ammessi pagamenti in contanti**, ma vanno bene sia quelli con
 
 ## Il problema: il paziente che vuole detrarre la spesa sanitaria nel 730
 
-In fase di **dichiarazione dei redditi**, i pazienti possono detrarre la spesa sostenuta dal fisioterapista **se hanno pagano con strumento tracciabile**.
+In fase di **dichiarazione dei redditi** quindi i pazienti possono detrarre la spesa sostenuta dal fisioterapista **se hanno pagano con strumento tracciabile**.
 
 Questo significa che è loro interesse riuscire effettivamente a detrarla, così da avere uno **sconto sul pagamento delle tasse** o meglio ancora andare a credito, ed è compito anche del fisioterapista fare in modo che ci riesca.
 
-Oggi rispetto a qualche anno fa c'è una novità, cioè la dichiarazione precompilata.
+Oggi rispetto a qualche anno fa c'è una novità, cioè la **dichiarazione precompilata**.
 
 Il fisioterapista può fare in modo che la dichiarazione precompilata del paziente presenterà la spesa che ha sostenuto il paziente stesso.
 
-Questo **si fa con una procedura obbligatoria** dal 2019, che prevede **pesanti sanzioni** se non viene completata. 
+Questo **si fa con una procedura obbligatoria** dal 2019, che prevede **sanzioni** se non viene portata a termine.
 
 La **procedura obbligatoria in questione** **è l'Invio Telematico**, cioè il [caricamento dei dati delle fatture emesse ai pazienti su Sistema Tessera Sanitaria](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Guida a Sistema Tessera Sanitaria 2022 per Fisioterapisti")
 
@@ -59,8 +59,19 @@ Infatti nonostante non ci sia nella precompilata, può comunque mandare in detra
 
 Resta **l'obbligo di pagamento con strumento tracciabile**.
 
-Per il professionista invece **sono previste sanzioni nel caso di invio tardivo** (Quali? Al momento non abbiamo tempo di approfondire, ma è sicuramente un ottimo argomento per un prossimo articolo).
+Per il professionista invece **sono previste sanzioni nel caso di invio tardivo** (Quali? [Qui un sito che le spiega bene](https://companysrl.it/sistema-tessera-sanitaria-omessa-comunicazione-delle-informazioni-da-trasmettere/ "Sistema Tessera Sanitaria: l’omessa comunicazione delle informazioni da trasmettere"). Al momento non abbiamo tempo di approfondire, ma è sicuramente un ottimo argomento per un prossimo articolo).
 
 ## Conclusione
 
-Non serve prescrizione per scaricare la spesa del fisioterapista nella dichiarazione dei redditi, ma bisogna pagare con strumento tracciabile 
+Per concludere, rivediamo in sintesi cosa serve per detrarre la spesa del fisioterapista.
+
+Non serve prescrizione per scaricare la spesa del fisioterapista nella dichiarazione dei redditi, ma bisogna pagare con strumento tracciabile.
+
+Inoltre bisogna effettuare l'invio telematico della fattura tramite Sistema TS. Ti lascio un po' di risorse a proposito di Sistema TS:
+
+* [Guida a Sistema TS per fisioterapisti](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Guida a Sistema TS per Fisioterapisti - 2022") - per capire come funziona;
+* [FAQ ufficiali di Sistema TS](https://sistemats1.sanita.finanze.it/portale/spese-sanitarie-faq "FAQ Sistema TS") - per altre curiosità.
+
+Per oggi è tutto, spero che questo articolo possa tornarti utile.
+
+Grazie per aver letto, a presto!
