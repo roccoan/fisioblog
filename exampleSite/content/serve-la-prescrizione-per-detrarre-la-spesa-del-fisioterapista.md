@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2022-05-02T22:00:00Z
 description = "Oggi ci chiediamo se è necessaria la prescrizione medica per scaricare la spesa del fisioterapista"
-draft = true
 image = "/images/national-cancer-institute-nfvdkihxylu-unsplash.jpg"
 title = "Serve la prescrizione per detrarre la spesa del fisioterapista?"
 type = "post"
