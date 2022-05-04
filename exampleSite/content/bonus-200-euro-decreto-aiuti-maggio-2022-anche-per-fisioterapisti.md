@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Studio e Carriera", "Libera Professione"]
 date = 2022-05-03T22:00:00Z
 description = "Bonus 200 euro maggio 2022 per fisioterapisti: possono richiederlo? fisioterapisti dipendenti o autonomi? come si richiede?"
-draft = true
 image = "/images/dmitry-demidko-ebwzfkaheau-unsplash.jpg"
 title = "Bonus 200 euro Decreto Aiuti - Maggio 2022: anche per Fisioterapisti?"
 type = "post"
