@@ -33,7 +33,7 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Vogliamo fornire aggiornamenti sulla nostra professione, ma le newsletter non ci piacciono: per chi con la mail ci lavora è necessario non perdersi le mail veramente importanti.\nSe ti va, abbiamo un bot che notifica in automatico i nuovi articoli sul nostro canale Telegram - con discrezione.\nIl tempo di creare contenuti esclusivi per Telegram per ora è poco, ma crediamo tanto nella qualità dei nostri articoli (e nella funzione \"Silenzia\" di Telegram, che le email non hanno).\nSe vuoi un modo non invasivo per aggiornarti sulla nostra professione quando lo decidi tu, passa pure a trovarci."
+description = "Vogliamo fornire aggiornamenti sulla nostra professione, ma le newsletter non ci piacciono: per chi con la mail ci lavora è necessario non perdersi le mail veramente importanti.\nSe ti va, abbiamo un bot che notifica in automatico i nuovi articoli sul nostro canale Telegram - con discrezione.\nSe vuoi un modo non invasivo per aggiornarti quando lo decidi tu, passa pure a trovarci."
 enable = true
 image = "/images/cta.jpg"
 title = "Detto molto francamente"
