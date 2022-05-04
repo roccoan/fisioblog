@@ -33,14 +33,14 @@ title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e 
 enable = true
 expire_days = 2
 [params.cta]
-description = "Si lo so, in banca le commissioni erano più basse, ma tra canone mensile di un nuovo conto e affitto del POS non mi conveniva.\nE tu, stavi pensando di prenderne uno?\nDì pure che ti mando io, così puoi avere fino a €30 di sconto :)"
+description = "Vogliamo fornire aggiornamenti sulla nostra professione, ma le newsletter non ci piacciono: per chi con la mail ci lavora è importante non perdersi le mail veramente importanti. Se ti va, abbiamo un bot che notifica in automatico i nuovi articoli sul nostro canale Telegram. Il tempo di creare contenuti esclusivi per Telegram per ora è poco, ma crediamo tanto nella qualità dei nostri articoli e nella funzione \"Silenzia\" di Telegram (che le email non hanno). Se vuoi un modo poco invasivo per aggiornarti sulla nostra professione quando scegli tu, ci trovi su Telegram."
 enable = false
 image = "/images/undraw_discount_d4bd.jpg"
-title = "Angolino Codice Amico: SumUp"
+title = "Detto molto francamente"
 [params.cta.button]
 enable = true
-label = "Sconto SumUp"
-link = "http://r.sumup.com/referrals/rprsw"
+label = "Passa a trovarci"
+link = "https://t.me/fisioterapisti_official"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
