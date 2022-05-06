@@ -49,6 +49,8 @@ Inoltre, è un’attività che molti commercialisti accettano in delega, quindi 
 
 In ogni caso la procedura è molto semplice (l'iscrizione va fatta una sola volta e dalla seconda/terza fattura sarai in grado di aggiungerne altre ad occhi chiusi), quindi provo a spiegartela nel modo più immediato possibile.
 
+> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
+
 ## La procedura
 
 Sistema Tessera Sanitaria è un sito web, si accede o cercando su Google o dal link [Sistema Tessera Sanitaria - Home (finanze.it)](https://sistemats1.sanita.finanze.it/portale/).
