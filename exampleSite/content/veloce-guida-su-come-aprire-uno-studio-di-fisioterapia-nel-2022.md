@@ -12,7 +12,7 @@ Veloce guida introduttiva sull'apertura di uno studio, per chi deve farlo a brev
 
 ## Introduzione
 
-Aprire uno studio è un **gran bel passo**. Sia chiaro però: non è necessario investire decine di migliaia di euro in strumenti sofisticati o costruire da zero un immobile. 
+Aprire uno studio è un **gran bel passo**. Sia chiaro però: non è necessario investire decine di migliaia di euro in strumenti sofisticati o costruire da zero un immobile.
 
 **Si può iniziare con pochi strumenti** (che si possono comprare su internet e la maggior parte anche da decathlon) e con un locale anche non grandissimo e in affitto.
 
@@ -30,7 +30,7 @@ Tra poco vediamo **in generale cosa viene richiesto**, ma prima facciamo una **i
 
 ## Distinzione tra **studio** e **centro** di fisioterapia
 
-Okay, i due termini non sono esattamente corretti e sarebbe più corretto parlare di **Studio Professionale** (che è lo studio di cui parliamo nell'articolo) e di **Ambulatorio di Fisiokinesiterapia** (che genericamente chiamiamo centro). 
+Okay, i due termini non sono esattamente corretti e sarebbe più corretto parlare di **Studio Professionale** (che è lo studio di cui parliamo nell'articolo) e di **Ambulatorio di Fisiokinesiterapia** (che genericamente chiamiamo centro).
 
 > Inoltre c'è una terza forma che si chiama _Società tra Professionisti_, che ignoreremo perchè è una forma più complessa - meno adatta ai fisioterapisti in erba a cui questo sito si rivolge - e soprattutto perché anche lo Studio Professionale permette a due professionisti di lavorare nello stesso posto. Quindi, se avete in mente di aprire uno studio con un amico/un'amica fisioterapista per dividere i costi, si può fare anche con lo Studio Professionale. Se si è in più di due, non basta più lo Studio Professionale e bisogna andare di Ambulatorio o Società tra Professionisti.
 
@@ -47,7 +47,7 @@ Quindi è chiaro che **l'attività del centro è molto più complessa rispetto a
 
 ## Apertura dello studio
 
-Per lo **studio** c'è solo bisogno di una **comunicazione** al comune o all'ASL (a seconda dei regolamenti regionali). 
+Per lo **studio** c'è solo bisogno di una **comunicazione** al comune o all'ASL (a seconda dei regolamenti regionali).
 
 Invece per i **centri** - oltre a tutta una serie di adempimenti burocratici e la nomina di un direttore sanitario - c'è bisogno di una **autorizzazione** (non basta la comunicazione) da parte dell'ASL.
 
@@ -62,7 +62,7 @@ Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabi
 
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
-> Cerchi consigli su come trovare i primi pazienti? [Dai un'occhiata a questo articolo](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/ "Come trovare pazienti, panoramica internet")!
+> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
 
 ## Conclusione
 
