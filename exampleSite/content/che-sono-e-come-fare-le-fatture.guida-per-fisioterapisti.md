@@ -14,7 +14,7 @@ Quando ho aperto io la P. IVA ricordo che i primi mesi avevo tantissime difficol
 
 Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo più preciso e semplice possibile.
 
-> Articolo aggiornato a Marzo 2022 con l'aggiunta dei template per avere un modello di fattura in Excel da scaricare e modificare. 
+> Articolo aggiornato a Marzo 2022 con l'aggiunta dei template per avere un modello di fattura in Excel da scaricare e modificare.
 >
 > Se ti interessano solo i template, li trovi appena prima della conclusione.
 
@@ -65,13 +65,14 @@ In generale la struttura di base di una fattura deve contenere:
 * **Descrizione del bene/servizio** che viene venduto (per esempio “prestazione fisioterapica”);
 * **Importi unitari, quantità e importo totale** (per esempio 4 terapie al prezzo di €30, totale €120).
 
+> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
+
 ## Intestazioni
 
 In ogni fattura **bisogna indicare i dati** di:
 
-1) **Chi sta _emettendo_** la fattura;
-
-2) **Chi sta _ricevendo_** la fattura;
+1. **Chi sta _emettendo_** la fattura;
+2. **Chi sta _ricevendo_** la fattura;
 
 In modo che sia chiaro chi è che sta _ricevendo soldi_ e chi è che sta _pagando_.
 
@@ -85,7 +86,7 @@ _P.IVA: 00000000000_
 
 _Cellulare ed e-mail (opzionali)_
 
-Diverso è per i dati dei pazienti/centri con cui collaboriamo, questi ogni volta possono variare e dobbiamo ricordare di chiederli al paziente, nello specifico il codice fiscale e l’indirizzo (io all’inizio me ne dimenticavo sempre). 
+Diverso è per i dati dei pazienti/centri con cui collaboriamo, questi ogni volta possono variare e dobbiamo ricordare di chiederli al paziente, nello specifico il codice fiscale e l’indirizzo (io all’inizio me ne dimenticavo sempre).
 
 Se fatturiamo ad un centro/clinica/ospedale l’intestazione sarà chiaramente la ragione sociale o i dati dei titolari. Nel caso di un paziente privato abbiamo per esempio:
 
@@ -99,7 +100,7 @@ _Cellulare ed e-mail (opzionali)_
 
 ## Data e numero del documento
 
-Le fatture devono rispettare **un certo ordine**, vanno numerate e bisogna indicare in che data sono state emesse. 
+Le fatture devono rispettare **un certo ordine**, vanno numerate e bisogna indicare in che data sono state emesse.
 
 Il numeratore dura un anno, quindi il 31 dicembre il numeratore termina e riparte dal numero uno il 1° gennaio.
 
@@ -150,7 +151,7 @@ Se hai appena aperto la P.IVA, al 99% dei casi sei nel Regime Forfettario, che �
 
 > Questa guida si rivolge a chi ha aperto da poco la P.IVA, quindi è abbastanza probabile che se ti interessa l'argomento ti trovi nel Regime Forfettario, per cui non ci addentriamo negli altri casi (dove bisogna proseguire aggiungendo agli importi l'IVA, specificando le aliquote ecc.).
 
-Quindi se sei in Regime Forfettario ai €500 dell'esempio di prima non dovrai aggiungerci l’IVA. 
+Quindi se sei in Regime Forfettario ai €500 dell'esempio di prima non dovrai aggiungerci l’IVA.
 
 Per questo nelle fatture che emettiamo **bisogna assolutamente indicare la seguente dicitura**:
 
@@ -160,19 +161,19 @@ Come dice l’ultima parte, se la fattura supera come importo totale €77,47 c�
 
 ### Che significa “l’originale”?
 
-Di ogni fattura dovrai produrre più copie. 
+Di ogni fattura dovrai produrre più copie.
 
 L’unica che deve essere cartacea è appunto l’originale (cioè quella che consegni al paziente/ente con cui collabori) che richiede marca da bollo.
 
-Quindi quella per il paziente la stampi, ci apponi la marca da bollo, e la scansioni/fotocopi per te e per il commercialista. 
+Quindi quella per il paziente la stampi, ci apponi la marca da bollo, e la scansioni/fotocopi per te e per il commercialista.
 
 Se invece è senza marca da bollo perché sotto €77,47 puoi anche non stamparla e mandarla direttamente per email.
 
 ### Accordi sul compenso
 
-**Se concordato** con il paziente o con l'ente con cui collabori, puoi aggiungere un **4% al totale** della fattura. 
+**Se concordato** con il paziente o con l'ente con cui collabori, puoi aggiungere un **4% al totale** della fattura.
 
-Questi **sono soldi in più**. 
+Questi **sono soldi in più**.
 
 A che servono questi soldi in più? Sono una sorta di aggiunta **per pagare i contributi** (quelli della pensione).
 
@@ -189,9 +190,9 @@ Per un totale da pagare di €626.
 
 ## Bonus: Pagamenti e quietanza
 
-Sulla fattura puoi **indicare il tuo IBAN** per ricevere **pagamento tramite bonifico**. 
+Sulla fattura puoi **indicare il tuo IBAN** per ricevere **pagamento tramite bonifico**.
 
-Se il paziente invece ti paga in contanti (ricorda che in contanti _non può scaricare la spesa medica*_ nella dichiarazione dei redditi) o carta, puoi _quietanzare_ la fattura: cioè scrivere a mano (o usando un timbro che si vende nei negozi specializzati) la scritta “quietanza” accompagnata dalla tua firma, e semplicemente tutto ciò significa che **la fattura è stata saldata** e che non avrai null’altro da chiedere. 
+Se il paziente invece ti paga in contanti (ricorda che in contanti _non può scaricare la spesa medica*_ nella dichiarazione dei redditi) o carta, puoi _quietanzare_ la fattura: cioè scrivere a mano (o usando un timbro che si vende nei negozi specializzati) la scritta “quietanza” accompagnata dalla tua firma, e semplicemente tutto ciò significa che **la fattura è stata saldata** e che non avrai null’altro da chiedere.
 
 È un dettaglio che puoi anche omettere perché non è obbligatorio, ma molti preferiscono farlo.
 
@@ -213,7 +214,7 @@ Quando sei all’inizio e magari non puoi spendere soldi per programmi gestional
 
 Ti lascio [dei template](https://drive.google.com/drive/folders/1v4Q52u6KiITZell6VbVBMGnBE_XQ6XsU?usp=sharing "Template Fatture - Google Drive") (che ho realizzato io) che di volta in volta dovrai modificare, salvare con nome (come ti ho spiegato nella sezione del numeratore) in una cartella apposita, e stampare se necessario.
 
-> I template sono formato A4 e ottimizzati per la stampa in bianco e nero (perché ho una stampante laser che stampa solo in bianco e nero). 
+> I template sono formato A4 e ottimizzati per la stampa in bianco e nero (perché ho una stampante laser che stampa solo in bianco e nero).
 >
 > Sentiti libera/o di personalizzare il modello con il tuo logo, con i caratteri e i colori che preferisci.
 >
@@ -221,7 +222,7 @@ Ti lascio [dei template](https://drive.google.com/drive/folders/1v4Q52u6KiITZell
 
 Ti consiglio di fare sempre il backup della tua cartella delle fatture (anche su servizi online tipo Google Drive, Dropbox, OneDrive, ecc.).
 
-Ricorda che il numeratore va rispettato alla perfezione. 
+Ricorda che il numeratore va rispettato alla perfezione.
 
 Se usi un gestionale il numeratore sarà gestito in automatico, ma se le fai a mano fai attenzione a non creare buchi nel numeratore saltando un numero o invertendo le date.
 
@@ -229,7 +230,7 @@ Due volte all’anno devi caricare le informazioni delle fatture, nello specific
 
 ## Conclusione
 
-L'articolo era bello lungo, e sei arrivata/o fin qui, ti spinge davvero tanta motivazione! 
+L'articolo era bello lungo, e sei arrivata/o fin qui, ti spinge davvero tanta motivazione!
 
 Spero che la guida ti sia stata utile, e ti auguro tante tante fatture :D
 
