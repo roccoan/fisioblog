@@ -32,11 +32,11 @@ Partiamo da qui, da **dove iniziano in molti** (ma non tutti).
 
 Alcuni la saltano del tutto perché magari vincono un concorso subito dopo la laurea o iniziano a lavorare da subito a tempo indeterminato.
 
-Gli altri (che non sono meno fortunati, ma **è semplicemente la normalità** - io per esempio rientro tra questi) passano per questo periodo che è **molto frustrante**. 
+Gli altri (che non sono meno fortunati, ma **è semplicemente la normalità** - io per esempio rientro tra questi) passano per questo periodo che è **molto frustrante**.
 
 Lo è perché dopo la laurea ci sentiamo "arrivati", ma in realtà **ci stiamo ancora formando**, a prescindere da dove riusciamo ad ottenere il primo lavoro.
 
-Inoltre è molto frustrante anche **l'inevitabile confronto** con chi poco dopo la laurea ha già **una certa stabilità economica**. 
+Inoltre è molto frustrante anche **l'inevitabile confronto** con chi poco dopo la laurea ha già **una certa stabilità economica**.
 
 Nessuno ne parla, ma è il momento di sdoganarlo: **è tutto perfettamente normale** (non solo tra i fisioterapisti), e succede perché in fondo tutti ambiamo a qualcosa di meglio.
 
@@ -64,7 +64,7 @@ Ma prima o poi (potrebbe volerci qualche mese, o qualche anno se dove viviamo c'
 
 ## Collaborazioni a P. IVA
 
-Queste collaborazioni sono richiestissime, di solito perché implicano le **terapie domiciliari** (dove c'è un alto turnover). 
+Queste collaborazioni sono richiestissime, di solito perché implicano le **terapie domiciliari** (dove c'è un alto turnover).
 
 Di lavoro ce n'è tanto, e solitamente si può scegliere quanti pazienti e dove.
 
@@ -74,7 +74,7 @@ La retribuzione come uno dei primi lavori non è male, perché solitamente siamo
 
 La terapia di solito dura 30-40 minuti e se consideriamo tra i 10 e i 30 minuti di spostamento tra un paziente e l'altro, possiamo tranquillamente dire che quei €16-18 lordi sono all'ora.
 
-Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18. 
+Di collaborazioni del genere ne ho fatte tante, sia al nord che al sud, la retribuzione è sempre stata nell'ordine dei €16-18.
 
 Di solito oltre a questo compenso la cooperativa paga un ulteriore 4% del totale per i contributi (quelli della pensione) e restituisce i €2 della marca da bollo, ma per questo bisogna mettersi d'accordo.
 
@@ -133,9 +133,9 @@ Durante la carriera si può salire all'interno della Categoria D alle sotto-cate
 
 Uno **scatto più importante** è quando si passa **dalla Categoria D alla DS**, cioè quella dei **Coordinatori** (posizione che richiede l'apposita magistrale o il master) che guadagnano mediamente tra i **€1.600 e i €1.750 netti** circa (anche qui, difficile dare un numero preciso).
 
-> I fisioterapisti dipendenti pubblici che guadagnano di più sono quelli che svolgono anche l'attività di **professori universitari** e i **dirigenti**. 
+> I fisioterapisti dipendenti pubblici che guadagnano di più sono quelli che svolgono anche l'attività di **professori universitari** e i **dirigenti**.
 >
-> Su questo non so dirti altro onestamente, perché le tabelle del CCNL si fermano alla categoria DS. 
+> Su questo non so dirti altro onestamente, perché le tabelle del CCNL si fermano alla categoria DS.
 >
 > Sicuramente ci aggiriamo dai €2.5k/3k al mese in su, e per i dirigenti possono subentrare premi di risultato che facciano salire notevolmente lo stipendio di partenza.
 
@@ -151,11 +151,13 @@ Di quanto si discostano se sono più alti? A parità di ruolo, di solito siamo n
 
 Col part-time si guadagna, a seconda del posto e delle ore previste da contratto, tra i €900 e i €1.200 netti al mese.
 
+> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
+
 ## Collaborazione con Società e Associazioni Sportive
 
 Qui è un po' discorso a parte.
 
-In tutta onestà **non conosco l'ambito nè fisioterapisti sportivi con cui confrontarmi**. 
+In tutta onestà **non conosco l'ambito nè fisioterapisti sportivi con cui confrontarmi**.
 
 Se il tuo sogno è diventare fisioterapista di qualche club di Serie A l'unico dato attendibile che ho trovato è questo, dal blog di [Indeed](https://it.indeed.com/guida-alla-carriera/retribuzione-stipendio/quanto-guadagna-un-fisioterapista "https://it.indeed.com/guida-alla-carriera/retribuzione-stipendio/quanto-guadagna-un-fisioterapista") (il sito per la ricerca di lavoro):
 
@@ -181,12 +183,12 @@ La risposta a questa domanda è troppo ampia per rientrare nell'argomento di ogg
 
 Parlare di stipendi **è sempre spinoso**: ci sono troppe variabili in gioco, e nel fare una generalizzazione si perdono inevitabilmente dettagli che per qualcuno sono fondamentali.
 
-Consapevole che **generalizzando si perde di accuratezza**, il mio intento non è quello di fare un trattato di statistica sulle retribuzioni. 
+Consapevole che **generalizzando si perde di accuratezza**, il mio intento non è quello di fare un trattato di statistica sulle retribuzioni.
 
 Il mio intento è quello di **ispirarmi alle conversazioni che si fanno a 20 anni** quando si cerca di capire cosa ne sarà del futuro, **di dare risposte agli stessi dubbi che mi ponevo all'Università** e alle superiori, **alle domande che facevamo durante i tirocini ai fisioterapisti più grandi** di noi che conoscevano meglio questo fantastico mondo e che potessero aprirci uno spiraglio di luce su cosa aspettarci per il futuro.
 
 Spero quindi che quest'articolo ti sia stato utile per brancolare almeno un po' meno nel buio.
 
-Grazie per essere passata/o di qui! 
+Grazie per essere passata/o di qui!
 
 A presto :)
