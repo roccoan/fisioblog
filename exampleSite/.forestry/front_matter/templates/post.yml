@@ -25,6 +25,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/3-errori-da-non-fare-marketing-per-fisioterapisti-2022.md
 - exampleSite/content/5-consigli-se-vuoi-studiare-all-universita-fisioterapia-ma-anche-altro.md
 - exampleSite/content/5-cose-da-fare-appena-dopo-la-laurea-in-fisioterapia.md
 - exampleSite/content/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia.md
