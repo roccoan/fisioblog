@@ -3,7 +3,7 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-05-10T22:00:00Z
 description = "Quando ho iniziato il mio percorso da libera professionista, non sapevo molte cose su una cosa fondamentale se lavori in autonomia: il marketing. Scopriamo insieme 3 errori da non fare"
-image = "/images/3-errori-da-non-fare.png"
+image = "/images/georgia-de-lotz-usjonxlano-unsplash.jpg"
 title = "3 Errori da non fare | Marketing per Fisioterapisti (2022)"
 type = "post"
 
