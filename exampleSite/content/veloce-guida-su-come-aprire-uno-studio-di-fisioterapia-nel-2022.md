@@ -18,6 +18,8 @@ Aprire uno studio è un **gran bel passo**. Sia chiaro però: non è necessario 
 
 L'ho fatto io, e altre persone che conosco, magari un giorno ci scriverò un articolo più dettagliato.
 
+> Per mettersi in proprio, è inutile: servono i pazienti. Dopo la lettura, torna qui e scopri i [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)").
+
 ## Cosa serve
 
 Per aprire uno studio di fisioterapia serve **l'abilitazione** (cioè la laurea), **l'iscrizione all'Albo**, **l'assicurazione professionale** e bisogna **effettuare una comunicazione** al comune o all'ASL territoriale competente.
