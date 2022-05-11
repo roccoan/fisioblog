@@ -10,6 +10,8 @@ type = "post"
 +++
 Interessata/o ad un posto nel pubblico? Vediamo insieme i concorsi per Fisioterapisti  e gli avvisi pubblici per fisioterapisti in scadenza questo mese.
 
+> Aggiornamento 11 maggio: aggiungiamo altre scadenze per metà mese.
+
 ## Introduzione
 
 > Non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico? Allora ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
@@ -74,9 +76,16 @@ Per il **bando**, [qui è disponibile in formato PDF](https://cdn2.onboard.org/u
 
 Per iscriversi, seguire la [procedura descritta sulla pagina web dell'ente](https://sabes.onboard.org/it/jobs/QgeybxmJ?from_career_page=true "Sabes - Fisioterapista - Graduatoria Permanente").
 
+## Aggiornamento
+
+Riportiamo qui di seguito altri due concorsi in scadenza questo mese!
+
+* **IPAB CENTRO ANZIANI Dueville (VI): AVVISO DI MOBILITA’** volontaria, per titoli e colloquio, per n. 2 posti (scadenza: 15/05/22) [**Clicca qui**](https://one69.robyone.net/1691/Documents/View/75757557536D68356969303D)
+* **CENTRO SERVIZI ANZIANI “MORETTI BONORA” Camposampiero (PD): CCONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 3 posti (scadenza: 16/05/22) [**Clicca qui**](https://www.csabonora.it/concorsi-e-selezioni/78-bando-di-concorso-pubblico-per-titoli-ed-esami-per-la-copertura-di-n%25C2%25B0-3-posti-a-tempo-indeterminato)
+
 ## Conclusione
 
-Per questo mese è tutto, ci aggiorniamo al prossimo! 
+Per questo mese è tutto, ci aggiorniamo al prossimo!
 
 Nel frattempo, se non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
 
