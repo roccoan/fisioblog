@@ -49,7 +49,7 @@ Un problema più complicato in cui mi sono imbattuta è stato proprio quello di 
 
 Chiaro, questo problema **non accadeva con tutti**, ma accadeva fin troppo spesso (e ora avendo capito come mai non accade più, quindi se ti capita spesso continua pure a leggere).
 
-Per capire meglio facciamo un esempio. 
+Per capire meglio facciamo un esempio.
 
 Per una determinata problematica fai una stima e per esempio ritieni che per vedere risultati con un determinato paziente ci vorranno dieci sedute.
 
@@ -109,10 +109,10 @@ Anche se offro uno sconto (di solito il 20%) per chi paga in un'unica soluzione,
 
 Il paziente si sente più seguito, ha un preciso obiettivo da raggiungere e una scaletta da seguire, vede risultati più consistenti e paga meno perchè riceve uno sconto.
 
-Tu hai **più tempo**: 
+Tu hai **più tempo**:
 
 * Per **raggiungere i risultati riabilitativi** - e quindi fa bene al tuo paziente e alla tua autostima;
-* Per **trovare altri pazienti** - perché se i cicli sono molto brevi devi trovarne di nuovi di continuo, rendendo l'esperienza molto frustrante; 
+* Per **trovare altri pazienti** - perché se i cicli sono molto brevi devi trovarne di nuovi di continuo, rendendo l'esperienza molto frustrante;
 * Per **organizzare l'agenda** - pazienti nuovi implicano nuove esigenze, mentre quando trovi il ritmo con un paziente già abituato l'organizzazione è più semplice;
 * **Riducendo il lavoro di fatturazione** - tempo che puoi spendere in modo produttivo trattando altri pazienti o riposandoti (ricorda, è molto produttivo anche il riposo).
 
@@ -121,6 +121,8 @@ Tu hai **più tempo**:
 Questa è una valutazione che si impara a fare in modo preciso **con l'esperienza**, però in generale la stragrande maggioranza delle terapie che faccio io richiedono dalle 10 alle 15 sedute per ottenere risultati tangibili.
 
 Quindi se devi proporre un piano terapeutico ad un paziente, partire con un ciclo 10/12 terapie **è una buona approssimazione**, ma dipende tanto anche da quello in cui sei specializzata/o (magari se sei all'inizio e non ti senti specializzato in niente, tranquillo che è normale).
+
+> Se il tema ti interessa, scopri i [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)").
 
 ## Ma che c'entra l'economia comportamentale?
 
