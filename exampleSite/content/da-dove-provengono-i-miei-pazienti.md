@@ -3,7 +3,7 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-01-29T23:00:00Z
 description = "Fonti nuovi pazienti"
-image = ""
+image = "/images/kaitlyn-baker-vzjdyl5jvxy-unsplash.jpg"
 title = "Da dove provengono i miei pazienti? Gennaio 2022"
 type = "post"
 
@@ -90,6 +90,8 @@ Internet e Passaparola immagino resteranno preponderanti.
 Infine ho intenzione di tenere altissima la qualità così che la soddisfazione dei pazienti arrivi il più possibile alle orecchie dei medici.
 
 ## Conclusione
+
+> Se posso consigliarti altri articoli, scopri i [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)").
 
 Per oggi è tutto, ci aggiorniamo sull'argomento a fine anno!
 
