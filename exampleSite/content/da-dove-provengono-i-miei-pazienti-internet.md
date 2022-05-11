@@ -14,7 +14,7 @@ Qualche tempo fa ho scritto un articolo su [dove provengono i miei pazienti](htt
 
 > Piccola premessa: il mio studio non è grande, nè ho collaboratori a cui riempire l'agenda in modo da giustificare una spesa (che di solito è abbastanza consistente) in agenzie pubblicitarie.
 >
-> La mia strategia è molto semplice, e credo che chiunque possa metterla in pratica, e per ora mi porta ad essere conosciuta a livello locale da un numero di pazienti che sicuramente non è elevato, ma che io reputo soddisfacente e ragionevole. 
+> La mia strategia è molto semplice, e credo che chiunque possa metterla in pratica, e per ora mi porta ad essere conosciuta a livello locale da un numero di pazienti che sicuramente non è elevato, ma che io reputo soddisfacente e ragionevole.
 >
 > Dico così perché anche solo 1-2 pazienti in più e non saprei più come organizzarmi (preferisco trattare meno pazienti ma bene, e come bonus avere anche un po' più di tempo libero quando possibile).
 
@@ -74,9 +74,9 @@ Google propone al potenziale paziente i professionisti più vicini a lei/lui. Co
 
 Il primo è in base a quello che il paziente specifica nella ricerca. Banalmente, se scrive su Google "fisioterapista Roma" allora Google restituisce i fisioterapisti su Roma.
 
-L'altro è quando il paziente sta cercando tramite cellulare (la maggior parte) e il cellulare ha la posizione attiva. La ricerca restituisce i professionisti più vicini e rilevanti possibile alla posizione del paziente. 
+L'altro è quando il paziente sta cercando tramite cellulare (la maggior parte) e il cellulare ha la posizione attiva. La ricerca restituisce i professionisti più vicini e rilevanti possibile alla posizione del paziente.
 
-Per vederla da un'altra angolazione, chiediamoci: che senso avrebbe mostrare professionisti dall'altra parte della città? 
+Per vederla da un'altra angolazione, chiediamoci: che senso avrebbe mostrare professionisti dall'altra parte della città?
 
 Proprio per come è progettato dunque è uno **strumento molto utile per pubblicizzarsi a livello locale**.
 
@@ -84,13 +84,13 @@ Proprio per come è progettato dunque è uno **strumento molto utile per pubblic
 
 La **reputazione** di un'attività o di un professionista **dipende da vari fattori**. Provo a fare un semplice elenco per rendere l'idea ma sicuramente ce ne sono altri di cui non sono a conoscenza:
 
-* Numero di recensioni e media delle valutazioni; 
+* Numero di recensioni e media delle valutazioni;
 * Quante volte viene visto e contattato il professionista;
 * Quante visite e menzioni ha su altri siti (e che reputazione hanno quei siti);
 * Quante visite ha il sito web;
 * Quante volte vengono richieste le indicazioni stradali.
 
-Mentre **sulla vicinanza non si può intervenire, sulla reputazione si**. 
+Mentre **sulla vicinanza non si può intervenire, sulla reputazione si**.
 
 Per migliorarla si può realizzare velocemente un sito web, magari sempre tramite Google col servizio [Google Sites](https://sites.google.com/ "Google Sites") che è facile da usare, gratuito e si integra con Google My Business.
 
@@ -104,10 +104,11 @@ Inoltre è importantissimo **aggiungere più informazioni** e foto possibile al 
 
 ## Conclusione
 
-Questa è stata una panoramica sullo strumento principale che uso per farmi conoscere su internet. 
+Questa è stata una panoramica sullo strumento principale che uso per farmi conoscere su internet.
 
-Voglio proseguire sul tema di **come trovare pazienti** per chi fa il libero professionista, sia con panoramiche su altri metodi che con vere e proprie guide più specifiche (la prossima che ho in mente è proprio su GMB).
+Se ti va di approfondire questo tema, scopri anche: 
 
-Quindi ci riaggiorniamo sicuramente sul tema, spero intanto che quest'articolo ti possa tornare utile in qualche modo. 
+* I [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)");
+* [Come trovare altri pazienti con le Assicurazioni Sanitarie](https://fisioterapisti.org/come-trovare-pazienti-se-hai-uno-studio-assicurazioni-sanitarie/ "Come trovare pazienti con le assicurazioni sanitarie").
 
-Grazie per aver letto, a presto!
+Spero intanto che quest'articolo ti possa tornare utile. Grazie per aver letto, a presto!
