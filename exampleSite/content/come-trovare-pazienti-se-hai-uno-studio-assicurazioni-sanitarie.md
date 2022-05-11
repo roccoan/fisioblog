@@ -1,6 +1,6 @@
 +++
 author = "Redazione"
-categories = []
+categories = ["Libera Professione"]
 date = 2022-04-25T22:00:00Z
 description = "Che sono e come trovare pazienti con le assicurazioni sanitarie"
 image = "/images/kaitlyn-baker-vzjdyl5jvxy-unsplash.jpg"
