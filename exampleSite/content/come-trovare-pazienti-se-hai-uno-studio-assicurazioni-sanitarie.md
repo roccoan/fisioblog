@@ -152,6 +152,8 @@ Tendenzialmente non sarà pari a zero, perché in quel caso l'assicurazione al m
 
 Altro svantaggio, non tutte accettano le domiciliari.
 
+> Se vuoi approfondire il tema, scopri anche i [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)").
+
 ## Conclusione
 
 Oggi abbiamo visto una panoramica sul mondo delle assicurazioni sanitarie, perché stanno prendendo piede in Italia, e come può andare a vantaggio dei fisioterapisti.
