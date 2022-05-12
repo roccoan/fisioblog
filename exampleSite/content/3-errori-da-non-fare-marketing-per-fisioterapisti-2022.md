@@ -119,9 +119,9 @@ Nel mio piccolo la sottocategoria che sto cercando di ritagliarmi è fisioterapi
 Così facendo aumenti le probabilità che tu ricopra i primi posti nella percezione del pubblico (se non addirittura il primo posto, a seconda di dove vivi), dando alle persone un motivo in più per sceglierti.
 
 > Pensandoci bene (e lo noto solo ora) lo faccio anche con questo sito. È vero che si chiama Fisioterapisti, ma nasce per dare risorse ai **Fisioterapisti che iniziano** (quelli che iniziano dai test di professioni sanitarie, iniziano l’università, iniziano a lavorare dopo la laurea, iniziano con la libera professione).
-
+>
 > Perché proprio quelli che iniziano? Perché iniziare è la parte più difficile, e a mio avviso nessuno ne parla tanto quanto se ne dovrebbe.
-
+>
 > Quindi, di siti dedicati alla fisioterapia ce ne sono tanti, ma qui siamo nella sottocategoria “fisioterapisti che iniziano” - un po’ perché non importa quanti anni hai, ma ti senti sempre un eterno principiante. Ma soprattutto per parlarti delle cose che avrei letto volentieri quando ho iniziato io e che ho imparato col tempo, per semplificarti il lavoro.
 
 ## Conclusione
