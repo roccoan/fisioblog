@@ -114,7 +114,9 @@ In città essere gli unici specializzati in una determinata sottocategoria è di
 
 Però, specializzarsi è sempre consigliato, e magari anche se vivi in città ti puoi ritagliare la tua fetta di clienti. L’altro consiglio (seppur banalissimo) è di specializzarti in qualcosa che ti piace: sai che noia trattare tutti i giorni pazienti o seguire corsi e approfondimenti su tematiche che non ti interessano?
 
-Nel mio piccolo la sottocategoria che sto cercando di ritagliarmi è fisioterapia neurocognitiva (leggerezza, lo so). Poi sia chiaro, ho anche pazienti per altre problematiche, e in quel caso vengono per altri motivi, tipo la vicinanza a casa/al luogo di lavoro.
+Nel mio piccolo la sottocategoria che sto cercando di ritagliarmi è fisioterapia neurocognitiva (leggerezza, lo so). Poi sia chiaro, ho anche pazienti per altre problematiche. 
+
+In quel caso, sebbene ci sia più concorrenza, la loro scelta è determinata anche da altri motivi (tipo la vicinanza a casa/al luogo di lavoro).
 
 Così facendo aumenti le probabilità che tu ricopra i primi posti nella percezione del pubblico (se non addirittura il primo posto, a seconda di dove vivi), dando alle persone un motivo in più per sceglierti.
 
