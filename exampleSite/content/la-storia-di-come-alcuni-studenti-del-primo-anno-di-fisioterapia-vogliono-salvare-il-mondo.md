@@ -9,7 +9,7 @@ title = "La storia di come alcuni studenti del primo anno di Fisioterapia voglio
 type = "post"
 
 +++
-Oggi ci prendiamo una pausa dai soliti argomenti e parliamo di una storia piuttosto interessante su come un'università scandinava si immagina il futuro dell'umanità, e di come al centro ci sia una rivoluzione portata avanti dai fisioterapisti.
+Oggi ci prendiamo una pausa dai soliti argomenti e parliamo di una storia molto interessante su come un'università scandinava si immagina il futuro dell'umanità, e di come al centro ci sia una rivoluzione portata avanti dai fisioterapisti.
 
 ## Introduzione
 
@@ -31,17 +31,21 @@ Questa storia inizia con tre professori della triennale di Fisioterapia dell'Uni
 
 Nei paesi scandinavi le tematiche ambientali e sociali sono notoriamente sentite (anche se spesso in modi [poco coerenti e parecchio discussi](https://www.ilsole24ore.com/art/petrolio-o-ambiente-paradosso-norvegese-prova-voto-AEvHr0h "Petrolio o ambiente? Il paradosso norvegese alla prova del voto")). Per fare un esempio superficiale ma abbastanza simbolico, Greta Thunberg è svedese.
 
-I tre professori non fanno eccezione e, di comune accordo, hanno assegnato dei compiti scritti agli studenti del primo anno durante un corso introduttivo sulla Salute Pubblica. 
+I tre professori non fanno eccezione e, di comune accordo, hanno assegnato dei compiti scritti agli studenti del primo anno durante un corso introduttivo sulla Salute Pubblica.
 
-La traccia era: "immagina il futuro della Fisioterapia e il ruolo dei professionisti sanitari nel futuro dell'umanità".
+La traccia era: "Immagina il futuro della Fisioterapia e il ruolo dei Professionisti Sanitari nel futuro dell'umanità".
 
 Gli studenti avevano carta bianca e potevano decidere liberamente le modalità (diari, articoli di giornali, saggi brevi) e i contenuti delle storie.
 
 Ora, io arrivata a questo punto dell'introduzione mi immaginavo già il risultato (e forse ti immagini la stessa cosa).
 
-Mi immaginavo studenti del primo anno costretti a scrivere un tema con una traccia sull'ambiente degna delle scuole medie, per quello che da noi sarebbe il corso per preparare un'idoneità - mentre da esami importanti come fisica, biochimica clinica e anatomia - 
+Mi immaginavo studenti del primo anno costretti a scrivere un tema con una traccia sull'ambiente degna delle scuole medie, per quello che da noi sarebbe un'idoneità e che non si filerebbe nessuno perché tutti presi da esami importanti come fisica, biochimica clinica e anatomia.
 
-E invece il risultato è stranamente bello.
+E invece il risultato è inaspettatamente bello. 
+
+Talmente bello che ne stanno facendo un seguito.
+
+## Physio Punk Vol. 1 
 
 ## Conclusione
 
@@ -49,12 +53,12 @@ Secondo me è importante notare che tutto ciò è successo appena l'anno scorso.
 
 Quest'esercizio di immaginazione inoltre ci apre gli occhi sul fatto che anche una categoria come la nostra - apparentemente innocua, a tratti noiosa e tipicamente lontana dai centri decisionali tradizionali - in realtà da un giorno all'altro potrebbe avere un impatto enorme sulla collettività e sul futuro dell'umanità, in modo del tutto inaspettato e positivo.
 
-E siccome a portare avanti una rivoluzione di questa portata potrebbe essere chiunque, parlarne anche in Italia può essere la scintilla che accende il fuoco in qualcuno di noi. 
+E siccome a portare avanti una rivoluzione di questa portata potrebbe essere chiunque, parlarne anche in Italia può essere la scintilla che accende il fuoco in qualcuno di noi.
 
 Qualcuno di noi che magari ad oggi non è ancora fisioterapista ed è alla ricerca della giusta ispirazione per fare la differenza, ma anche della giusta prospettiva che metta insieme salute pubblica, ambientalismo, nuove tecnologie e rottura con il passato.
 
 I problemi ambientali, di politiche pubbliche e sociali sono enormi. E per problemi enormi servono soluzioni che richiedono di pensare in grande, molto in grande.
 
-Se smettiamo di pensare in grande a livello collettivo, siamo spacciati. 
+Se smettiamo di pensare in grande a livello collettivo, siamo spacciati.
 
 Quindi l'errore più grande è lasciare che queste iniziative vengano relegate nelle aule universitarie e sminuite a stupidi esercizi di fantasia, al posto di ispirare professionisti vecchi e nuovi a fare la differenza.
