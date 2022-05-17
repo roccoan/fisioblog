@@ -21,7 +21,7 @@ Tutte le persone che conosco, anche quelle più intelligenti, all’università 
 
 Tutto negativo?
 
-No, avendo fatto l'università posso dire con assoluta certezza che **ne è valsa la pena** e le prospettive di vita dopo la laurea sono irrimediabilmente cambiate in meglio (anche se [la gavetta non è stata una passeggiata](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?")).
+No, avendo fatto l'università posso dire con assoluta certezza che **ne è valsa la pena** e le prospettive dopo la laurea sono irrimediabilmente cambiate in meglio (anche se [la gavetta non è stata una passeggiata](https://fisioterapisti.org/si-trova-lavoro-con-la-laurea-in-fisioterapia/ "Si trova lavoro con la laurea in fisioterapia?")).
 
 E come ha detto il comico Louis CK in risposta ad una intervista su Rolling Stones nel 2013:
 
@@ -100,7 +100,7 @@ Ma prima di pensare di dover essere iperproduttivo e disciplinatissimo come non 
 
 ## 2. Pratica
 
-La pratica **è importantissima**, ma **non è tutto**. 
+La pratica **è importantissima**, ma **non è tutto**.
 
 Ci sono milioni di libri e articoli su internet sul fatto che il talento non esiste, che possiamo diventare delle superstar in qualsiasi settore tramite la “pratica deliberata” per almeno diecimila ore, che ci suggeriscono che se lo vogliamo, possiamo diventare quello che vogliamo.
 
@@ -153,7 +153,7 @@ Ma il cervello crea le sinapsi solo se prima c’è stata una fase di concentraz
 
 Spero che questo articolo ti dia un po’ di consapevolezza e non ti faccia perdere le speranze se vuoi intraprendere questa strada.
 
-Ma **bisogna essere realisti**: se devi fare il test di ingresso non ti nego che sono difficili, e potrebbe essere necessario ripeterlo più di una volta.
+Ma **bisogna essere realisti**: se devi fare il test di ingresso a professioni sanitarie non ti nego che sono difficili, e potrebbe essere necessario ripeterlo più di una volta.
 
 Non possiamo farci nulla, se non **preparare un piano B** ([ti consiglio questo articolo](https://fisioterapisti.org/difficile-test-ingresso-fisio/ "è difficile il test d'ingresso a fisioterapia?")).
 
