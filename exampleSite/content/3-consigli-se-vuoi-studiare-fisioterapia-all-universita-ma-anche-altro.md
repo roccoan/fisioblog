@@ -4,7 +4,7 @@ categories = []
 date = 2022-05-16T22:00:00Z
 description = "Decidere di iscriversi all'Università porta con sé tantissime paure, e questo articolo è per chi ha bisogno di consapevolezza e di coraggio per intraprendere questa strada."
 image = "/images/green-chameleon-s9cc2skysjm-unsplash.jpg"
-title = "3 consigli se vuoi studiare Fisioterapia all’Università (ma anche altro)"
+title = "3 consigli se vuoi studiare Fisioterapia all’Università"
 type = "post"
 
 +++
