@@ -5,7 +5,7 @@ date = 2022-05-09T22:00:00Z
 description = ""
 draft = true
 image = ""
-title = "5 consigli se vuoi studiare all’Università Fisioterapia (ma anche altro)"
+title = "3 consigli se vuoi studiare all’Università Fisioterapia (ma anche altro)"
 type = "post"
 
 +++
