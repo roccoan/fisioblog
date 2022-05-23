@@ -1,6 +1,6 @@
 +++
 author = "Redazione"
-categories = []
+categories = ["Studio e Carriera", "Concorsi"]
 date = 2022-05-17T22:00:00Z
 description = "Torna il nostro appuntamento mensile con i concorsi per Fisioterapisti in tutta Italia. Concorso fisioterapista Torino, Concorso Fisioterapisti Ferrara"
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
