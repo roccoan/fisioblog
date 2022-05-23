@@ -10,6 +10,8 @@ type = "post"
 +++
 Interessata/o ad un posto nel pubblico? Vediamo insieme i concorsi per Fisioterapisti  e gli avvisi pubblici per fisioterapisti in scadenza questo mese.
 
+> Aggiornamento: aggiungiamo le nuove date di Milano
+
 ## Introduzione
 
 Nel nostro aggiornamento mensile di giugno sui concorsi per fisioterapisti abbiamo **due concorsi pubblici** (a **tempo indeterminato**).
@@ -62,6 +64,24 @@ Concorso Pubblico, per titoli ed esami, per la copertura di n. 2 posti di CPS - 
 Per il bando in PDF, [clicca qui](https://old.ausl.fe.it/azienda/dipartimenti/dipartimento-gestione-risorse-umane/concorsi-e-avvisi-folder/concorsi-pubblici-1/resolveuid/7dadac33cc0645d3ad3c1a3e81a0a917/at_download/file "Bando concorso Ferrara").
 
 Per inoltrare la domanda in forma telematica, [vai a questa pagina](https://ferrara-fisioterapista.ilmiotest.it/ "Domanda telematica concorso Ferrara").
+
+## ASST Santi Paolo e Carlo di Milano
+
+**Scadenza:** 12/06/2022
+
+**Luogo:** Milano
+
+**Occupazione:** Fisioterapista cat. D
+
+**Tipologia:** Concorso Pubblico
+
+**Posti:** 2
+
+E' indetto concorso pubblico, per titoli ed esami, per la copertura di due posti di  collaboratore professionale sanitario fisioterapista, categoria D, a tempo indeterminato a tempo pieno.
+
+Per la Gazzetta Ufficiale [clicca qui](https://www.gazzettaufficiale.it/atto/concorsi/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2022-05-13&atto.codiceRedazionale=22E05930 "AZIENDA SOCIO-SANITARIA TERRITORIALE SANTI PAOLO E CARLO DI MILANO").
+
+Per l'iscrizione [vai alla procedura telematica sul sito dell'ente](https://asst-santipaolocarlo.iscrizioneconcorsi.it/ "Iscrizioni Online").
 
 ## Conclusione
 
