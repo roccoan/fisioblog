@@ -14,7 +14,7 @@ Interessata/o ad un posto nel pubblico? Vediamo insieme i concorsi per Fisiotera
 
 ## Introduzione
 
-> Non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico? Allora ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
+> Per i concorsi in scadenza a Giugno 2022, [vai qui](https://fisioterapisti.org/concorsi-per-fisioterapista-in-scadenza-a-giugno-2022/ "Concorsi in scadenza a giugno 2022").
 
 Rispetto agli scorsi mesi aggiungiamo anche gli avvisi pubblici per Fisioterapisti.
 
@@ -76,6 +76,8 @@ Per il **bando**, [qui è disponibile in formato PDF](https://cdn2.onboard.org/u
 
 Per iscriversi, seguire la [procedura descritta sulla pagina web dell'ente](https://sabes.onboard.org/it/jobs/QgeybxmJ?from_career_page=true "Sabes - Fisioterapista - Graduatoria Permanente").
 
+> Non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico? Allora ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
+
 ## Aggiornamento
 
 Riportiamo qui di seguito altri due concorsi in scadenza questo mese!
@@ -86,6 +88,8 @@ Riportiamo qui di seguito altri due concorsi in scadenza questo mese!
 ## Conclusione
 
 Per questo mese è tutto, ci aggiorniamo al prossimo!
+
+> Per i concorsi in scadenza a Giugno 2022, [vai qui](https://fisioterapisti.org/concorsi-per-fisioterapista-in-scadenza-a-giugno-2022/ "Concorsi in scadenza a giugno 2022").
 
 Nel frattempo, se non ne sai assolutamente nulla di concorsi per fisioterapisti, e vuoi qualche informazione di base per capire come funzionano le selezioni nel settore pubblico ti consiglio [questo articolo](https://fisioterapisti.org/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base/ "Lavorare nel pubblico come fisioterapista").
 
