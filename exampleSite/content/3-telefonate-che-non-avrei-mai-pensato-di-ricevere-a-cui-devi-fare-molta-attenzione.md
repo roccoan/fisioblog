@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-05-23T22:00:00Z
 description = "Quando ti metti in proprio e inizi a pubblicizzarti su internet per ricevere più chiamate dai pazienti, una cosa che scopri presto è che ricevi anche tantissime attenzioni indesiderate. Voglio metterti in guardia dalle 3 principali tipologie di chiamate che puoi ricevere a cui devi fare attenzione."
-draft = true
 image = "/images/jae-park-9_saflgwfda-unsplash.jpg"
 title = "3 Telefonate che non avrei mai pensato di ricevere | A cui devi fare molta attenzione"
 type = "post"
