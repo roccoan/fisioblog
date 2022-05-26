@@ -92,6 +92,8 @@ E se lo fai solo per soldi, i pazienti **lo percepiscono e andranno da qualcun�
 
 Quindi, se devi portarti a casa un solo concetto da questo articolo, **fa’ sì che sia questo**.
 
+> Se non sai da dove partire e vuoi qualche idea semplice, veloce e gratuita per pubblicizzarti su internet, leggi anche [questo articolo](https://fisioterapisti.org/come-pubblicizzarti-su-internet/ "Come pubblicizzarti su internet se sei un fisioterapista"). Ti spiego altri concetti di base e ti dò anche alcune idee di post (perché all'inizio non sai mai cosa è il caso di postare e cosa no).
+
 ## 3) Arrivare primi
 
 Passiamo ad un altro punto fondamentale: **nella mente delle persone** in ogni categoria di prodotto o servizio in genere **restano impressi uno, massimo due concorrenti**.
@@ -114,7 +116,7 @@ In città essere gli unici specializzati in una determinata sottocategoria è di
 
 Però, specializzarsi è sempre consigliato, e magari anche se vivi in città ti puoi ritagliare la tua fetta di clienti. L’altro consiglio (seppur banalissimo) è di specializzarti in qualcosa che ti piace: sai che noia trattare tutti i giorni pazienti o seguire corsi e approfondimenti su tematiche che non ti interessano?
 
-Nel mio piccolo la sottocategoria che sto cercando di ritagliarmi è fisioterapia neurocognitiva (leggerezza, lo so). Poi sia chiaro, ho anche pazienti per altre problematiche. 
+Nel mio piccolo la sottocategoria che sto cercando di ritagliarmi è fisioterapia neurocognitiva (leggerezza, lo so). Poi sia chiaro, ho anche pazienti per altre problematiche.
 
 In quel caso, sebbene ci sia più concorrenza, la loro scelta è determinata anche da altri motivi (tipo la vicinanza a casa/al luogo di lavoro).
 
