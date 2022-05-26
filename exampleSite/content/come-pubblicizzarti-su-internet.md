@@ -5,7 +5,7 @@ date = 2022-05-25T22:00:00Z
 description = "Per trovare nuovi pazienti, internet è un ottimo strumento. Per usarlo però c'è bisogno di saperlo usare, e chi ce l’ha il tempo per pensarci o i soldi per pagare qualcuno che lo faccia al posto nostro?"
 draft = true
 image = "/images/austin-distel-tlzhfrlj6ny-unsplash.jpg"
-title = "Come pubblicizzarti su internet"
+title = "Come pubblicizzarti su internet se sei un Fisioterapista"
 type = "post"
 
 +++
