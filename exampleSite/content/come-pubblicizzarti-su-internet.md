@@ -21,7 +21,7 @@ Ho scritto un articolo sullo stesso tema (te lo linko nelle conclusioni), ma men
 * Come devi comunicare per non mandare via potenziali pazienti;
 * Alcune idee di post se non sai assolutamente da dove partire.
 
-Tutto ciò senza perderci troppo tempo, che devi dedicare ai pazienti, e senza spenderci soldi, che servono sempre (soprattutto se sei all’inizio).
+Tutto ciò **senza perderci troppo tempo**, che devi dedicare ai pazienti, e **senza spenderci soldi**, che servono sempre (soprattutto se sei all’inizio).
 
 Visto che ho scritto già due volte che non dobbiamo perdere tempo, partiamo.
 
@@ -61,7 +61,7 @@ Per esempio, a meno che tu sia un fisioterapista sportivo, non è molto attinent
 
 Lascia intendere che sei una persona che si prenderà carico della loro problematica.
 
-Dare dettagli irrilevanti non aiuta, quindi c’è bisogno di ragionare su cosa includere e cosa no nella tua descrizione. 
+Dare dettagli irrilevanti non aiuta, quindi c’è bisogno di ragionare su cosa includere e cosa no nella tua descrizione.
 
 Molto più semplice di quello che sembra, basta escludere quelle cose su cui non sei sicura/o.
 
@@ -85,9 +85,9 @@ Molto più semplice non scriverli, ed elencare i servizi genericamente per lasci
 
 Se posso **condividerti la mia esperienza**, io ho iniziato dando la prima visita gratuita per inquadrare meglio la problematica, fare una stima più precisa sulla durata e dare al paziente un prezzo più accurato.
 
-Dare la prima visita gratuita aiuta anche a non mettere ulteriori pressioni al paziente, che probabilmente ne ha già tante per via della sua problematica e fa percepire che non lavori solo per soldi*. 
+Dare la prima visita gratuita aiuta anche a non mettere ulteriori pressioni al paziente, che probabilmente ne ha già tante per via della sua problematica e fa percepire che non lavori solo per soldi*.
 
-Inoltre, **ti fai vedere di persona**, e la cosa aiuta parecchio: se il paziente ha sentito per telefono già altri 3 fisioterapisti per chiedere informazioni e tu sei l’unico che vede di persona, sceglie te al 100% a meno che non fai prezzi molto più alti. 
+Inoltre, **ti fai vedere di persona**, e la cosa aiuta parecchio: se il paziente ha sentito per telefono già altri 3 fisioterapisti per chiedere informazioni e tu sei l’unico che vede di persona, sceglie te al 100% a meno che non fai prezzi molto più alti.
 
 Infine semplicemente ti aiuta tantissimo nel prendere le decisioni e fare stime sul piano terapeutico quando sei poco esperto e sei ai primi pazienti.
 
@@ -95,7 +95,7 @@ Infine semplicemente ti aiuta tantissimo nel prendere le decisioni e fare stime 
 
 Magari offrire la prima visita gratuita **non è una strategia adatta a tutti** perché fa paura il rischio che il paziente non continui, però per me funziona, mi trovo bene e insieme a [quello che raccontavo qui](https://fisioterapisti.org/il-piu-grande-problema-di-chi-inizia-come-non-perdere-i-pazienti-a-meta-del-piano-terapeutico/ "Come non perdere i pazienti dopo poche sedute") mi ha aiutato a capire come scegliere e applicare i prezzi (che come avrai capito è stata una cosa che ha richiesto molti tentativi).
 
-In conclusione, non è necessario fare visite gratis, ma nella mia esperienza ha funzionato come strumento avere una strategia sui prezzi. 
+In conclusione, non è necessario fare visite gratis, ma nella mia esperienza ha funzionato come strumento avere una strategia sui prezzi.
 
 Torniamo a Facebook.
 
@@ -109,7 +109,7 @@ Dopo aver creato la pagina **bisogna postare, ma ogni quanto**? E cosa posto esa
 
 La cosa migliore è postare **più spesso possibile**, ma **se non abbiamo tempo, ogni occasione è buona (anche una volta ogni tanto)**.
 
-Come **idee di post**: 
+Come **idee di post**:
 
 * Foto o video prima e dopo di pazienti che sono migliorati (senza riprendere visi e chiedendo ovviamente il permesso);
 * Auguri per le feste (Natale/Pasqua/Festa della donna/della mamma/del papà/Festa patronale/ecc.);
@@ -130,7 +130,7 @@ Ovviamente il mondo non è tutto bianco o tutto nero.
 
 All'inizio poi, inutile dirlo, ma **va bene tutto**.
 
-Se fai fisioterapia respiratoria e arriva qualcuno con una distorsione di caviglia e hai l’agenda quasi vuota che fai, gli dici no? 
+Se fai fisioterapia respiratoria e arriva qualcuno con una distorsione di caviglia e hai l’agenda quasi vuota che fai, gli dici no?
 
 Ovviamente, quindi datti tempo, perché nel corso dei mesi ti troverai a relazionarti con diverse demografiche.
 
@@ -148,13 +148,13 @@ Invece la cosa **da fare il prima possibile, anche prima dei social**, è una so
 
 Google è trasversale: lo usa chiunque, a prescindere dal luogo e dall'età.
 
-Molte persone non conoscono il concetto di browser, ma se nomini Google sanno cosa fare. 
+Molte persone non conoscono il concetto di browser, ma se nomini Google sanno cosa fare.
 
-Anche chi è più avanti con l'età e chi ha un rapporto complicato con la tecnologia sa usare lo smartphone per cercare una ricetta su Google. 
+Anche chi è più avanti con l'età e chi ha un rapporto complicato con la tecnologia sa usare lo smartphone per cercare una ricetta su Google.
 
 [Google My Business](https://www.google.com/intl/it_it/business/ "Google My Business") secondo me è la prima cosa da fare quando apri la Partita IVA, tra l'altro è completamente gratuito e va benissimo anche per chi non ha una sede fisica e offre servizi a domicilio (come le terapie domiciliari).
 
-Ma a che serve? Cioè tutti sappiamo che fa Facebook o Whatsapp, ma che roba è sto Google My Business? 
+Ma a che serve? Cioè tutti sappiamo che fa Facebook o Whatsapp, ma che roba è sto Google My Business?
 
 Semplicemente un profilo di Google My Business **ti fa apparire nella ricerca su Google e su Google Maps**.
 
@@ -174,7 +174,7 @@ Quelli che crei così facendo **non saranno di certo i profili più belli in ass
 
 E quando ci sono i risultati, magari puoi permetterti di delegare totalmente la gestione dei profili ad un’agenzia o un social media manager.
 
-Come promesso all’inizio, ti linko un altro [articolo per approfondire questo tema](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 errori da non fare | Marketing per fisioterapisti"). 
+Come promesso all’inizio, ti linko un altro [articolo per approfondire questo tema](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 errori da non fare | Marketing per fisioterapisti").
 
 Se ti va di ricevere aggiornamenti, passa pure a trovarci sul nostro [canale Telegram](https://t.me/fisioterapisti_official "Telegram | fisioterapisti_official")!
 
