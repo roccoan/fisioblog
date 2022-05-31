@@ -8,7 +8,7 @@ title = "Perché i pazienti abbandonano la fisioterapia dopo poche sedute"
 type = "post"
 
 +++
-Quando un paziente scompare, c'è sempre un motivo. Ecco le principali cause di abbandono del paziente e cosa possono fare i fisioterapisti per prevenirlo.
+Quando un paziente non si fa più sentire, c'è sempre un motivo. Ecco le principali cause di abbandono del paziente e cosa possono fare i fisioterapisti per prevenirlo.
 
 ## Introduzione
 
