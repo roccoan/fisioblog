@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-05-30T22:00:00Z
 description = "Quando un paziente scompare, c'è sempre un motivo. Ecco le principali cause di abbandono del paziente e cosa possono fare i fisioterapisti per prevenirlo."
-draft = true
 image = "/images/ddp-g-u2xluqaxa-unsplash.jpg"
 title = "Perché i pazienti abbandonano la fisioterapia dopo poche sedute"
 type = "post"
