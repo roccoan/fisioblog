@@ -127,7 +127,7 @@ E anche se i risultati individuali dipendono fortemente dall'adesione di un pazi
 
 ## Conclusione
 
-I pazienti abbandonano la fisioterapia per una serie di motivi, ma i fisioterapisti esperti sanno come affrontare questi ostacoli in modo proattivo.
+I pazienti abbandonano la fisioterapia per una serie di motivi, ma **i fisioterapisti esperti sanno come affrontare questi ostacoli** in modo proattivo.
 
 Riconoscendo e risolvendo i fattori ambientali ed emotivi, puoi tenere i pazienti sulla buona strada non solo per raggiungere i loro obiettivi terapeutici, ma anche per vivere una vita più felice e più sana.
 
