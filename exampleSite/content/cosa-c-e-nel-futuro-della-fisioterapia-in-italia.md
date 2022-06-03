@@ -22,7 +22,7 @@ Non ho dubbi che la stessa sensazione è stata provata da chi ci ha preceduto co
 
 Quindi in questo articolo ci chiediamo: oggi si prendono per scontate quelle che sono state **due rivoluzioni** (almeno nella percezione di chi ha desiderato e vissuto il cambiamento), ma **quali altri eventi di questa portata possiamo aspettarci in futuro?**
 
-> Tutte le cose che vedremo tra poco non sono poi così tanto aleatorie, ma sono più concrete di quello che sembrano. 
+> Tutte le cose che vedremo tra poco non sono poi così tanto aleatorie, ma sono più concrete di quello che sembrano.
 >
 > Sono frutti di due Disegni di Legge (DDL) firmati da una donna (e credo che la settimana della Giornata Internazionale della Donna sia un buon momento per ricordarlo), la Senatrice Boldrini.
 >
@@ -40,9 +40,9 @@ Quindi questa figura, avendo carattere territoriale (perché deve servire una sp
 
 Perché prima di tutto c'è una sorta di **riconoscimento istituzionale dell'importanza della fisioterapia**, professione che fino a poco tempo fa non aveva neanche un Albo, e ora invece inizia ad assumere tratti simili alla figura del medico di famiglia.
 
-Per chi vuole fare il fisioterapista invece vuol dire che ci saranno **più sbocchi lavorativi nel settore pubblico**. 
+Per chi vuole fare il fisioterapista invece vuol dire che ci saranno **più sbocchi lavorativi nel settore pubblico**.
 
-Se [la proposta](https://www.quotidianosanita.it/allegati/allegato4460884.pdf "DDL n.2339") diventerà realtà, per diventare fisioterapisti di famiglia bisognerà passare un **concorso** al quale si accede avendo almeno **3 anni di esperienza**, integrabile anche con _formazione post laurea_. 
+Se [la proposta](https://www.quotidianosanita.it/allegati/allegato4460884.pdf "DDL n.2339") diventerà realtà, per diventare fisioterapisti di famiglia bisognerà passare un **concorso** al quale si accede avendo almeno **3 anni di esperienza**, integrabile anche con _formazione post laurea_.
 
 Quest'ultima immagino significhi che se si hanno meno di 3 anni di esperienza, si può compensare con la laurea magistrale o un master, ma non è ancora nulla di certo.
 
@@ -106,7 +106,7 @@ Individuato questo limite, sempre il DDL Boldrini ([lo stesso del punto 2](https
 
 Quando ero all'Università e tra colleghi si parlava di cosa fare dopo la laurea, era opinione diffusa **non proseguire con gli studi** perché "per trovare lavoro basta la triennale, invece **la magistrale** può essere utile **per fare i coordinatori o insegnare** all'Università".
 
-> Altra particolarità: per insegnare all'Università di solito bisogna avere un Dottorato di Ricerca e passare un concorso pubblico. 
+> Altra particolarità: per insegnare all'Università di solito bisogna avere un Dottorato di Ricerca e passare un concorso pubblico.
 >
 > Tranne a Professioni Sanitarie, dove molti professori sono professionisti con la Magistrale (non tutti, gli altri di solito sono medici e hanno il dottorato).
 >
@@ -131,6 +131,8 @@ Il Sistema Sanitario Nazionale si sta riorganizzando: si cerca sempre di contene
 Tutti questi fattori sono collegati, e se si può trovare una soluzione che li risolva almeno in parte è nell'interesse dello Stato e di tutta la collettività fare qualcosa.
 
 Se permettere l'intramoenia ai professionisti sanitari o istituire il fisioterapista di famiglia permetterà davvero di ridurre costi per lo Stato e garantire (o addirittura migliorare) il livello delle cure ai cittadini, allora saranno soluzioni portate avanti - e i cambiamenti che ora ci sembrano epocali diventeranno la nuova normalità.
+
+Se posso consigliarti un altro articolo sul tema, dai una lettura [a questo](https://fisioterapisti.org/abbandoniamo-l-albo-tsrm-pstrp/ "Abbandoniamo l'Albo?").
 
 Per il momento è tutto, ti ringrazio per aver letto fino a qui e spero che in qualche modo questo articolo possa tornarti utile.
 
