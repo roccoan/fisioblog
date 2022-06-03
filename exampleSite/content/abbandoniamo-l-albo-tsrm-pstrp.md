@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Studio e Carriera", "Libera Professione"]
 date = 2022-06-02T22:00:00Z
 description = "L'Albo è stato istituito pochissimo tempo fa, eppure si parla già di una possibile uscita dei fisioterapisti. Scopriamo insieme i retroscena."
-draft = true
 image = "/images/nick-fewings-0qdm8gbg6pe-unsplash.jpg"
 title = "Abbandoniamo l’Albo TSRM PSTRP?"
 type = "post"
