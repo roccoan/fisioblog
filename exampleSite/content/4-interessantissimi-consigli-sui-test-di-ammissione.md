@@ -4,7 +4,7 @@ categories = ["Università", "Studio e Carriera"]
 date = 2022-06-06T22:00:00Z
 description = "Affrontare la preparazione al test di ammissione è molto difficile, e allora perché non lasciarsi consigliare da chi l'ha passato prima di noi? Oggi facciamo proprio questo, raccogliendo 4 interessantissimi consigli di ragazze e ragazze che l'hanno superato "
 draft = true
-image = ""
+image = "/images/test-ammissione-fisioterapia.jpg"
 title = "4 Interessantissimi Consigli sui Test di Ammissione"
 type = "post"
 
@@ -52,9 +52,9 @@ Faccio un veloce elenco:
 * I libri delle superiori;
 * Internet.
 
-Quindi, devi usarli tutti? 
+Quindi, devi usarli tutti?
 
-A costo di ripetermi, ma secondo me è fondamentale: assolutamente no. 
+A costo di ripetermi, ma secondo me è fondamentale: assolutamente no.
 
 Scegline un paio dalla lista e concentrati su quelli. Più che da dove studi, preoccupati di **quanto** e di **come** (sul “come” alla fine c’è un punto molto interessante).
 
@@ -83,11 +83,11 @@ In sostanza è una guida al sito ministeriale di [Universitaly](https://www.univ
 
 ## 3) Ma non ho fatto lo scientifico!
 
-Problema di molti, ma non insormontabile.
+Problema che si pongono molti, ma non affatto insormontabile.
 
-Magari in passato era uno svantaggio maggiore, ma oggi larga parte del test è di cultura generale e logica.
+Magari in passato era uno svantaggio maggiore, ma oggi larga parte del test è fatto da domande di cultura generale e logica, che non sono tipici di nessuna scuola in particolare.
 
-u/hohner07 aveva fatto il classico e poi è entrata a medicina (ma i [suoi consigli](https://www.reddit.com/r/Universitaly/comments/ivatr7/comment/g6chu9p/?utm_source=share&utm_medium=web2x&context=3) sono applicabili anche per chi è interessato a professioni sanitarie):
+u/hohner07 ha fatto il classico e poi è entrata a medicina (ma i [suoi consigli](https://www.reddit.com/r/Universitaly/comments/ivatr7/comment/g6chu9p/?utm_source=share&utm_medium=web2x&context=3) sono applicabili anche per chi è interessato a professioni sanitarie):
 
 > Ex classico e ora studentessa di medicina. Fai un bel respiro e stai tranquilla: se hai fatto un buon classico, hai già affrontato quasi tutti gli argomenti necessari per passare il test. Altrimenti, io consiglio di studiare/ripassare chimica e biologia dai testi delle superiori (io avevo usato gli Zanichelli) piuttosto che dai manuali perché sono completi e (per me) piú adatti all'apprendimento. Sono le due materie piú importanti, se le studi bene (e ti eserciti sui quiz) il piú é fatto. Matematica e fisica: io le avevo proprio balzate, ma avevo il vantaggio di avere un test che dava molto piú peso alla logica rispetto ad ora, quindi non penso che la mia stretegia sia ancora attuabile. Mi sembra molto sensato il consiglio che ti ha dato chi ti ha risposto prima di me: compara i test vecchi agli esercizi che svolgi in classe e magari beccati a studiare con qualche amico particolarmente ferrato. Logica: il mio consiglio é di fare tanti quiz e esercizi. Raramente il test presenta quesiti molto complessi, quindi l'allenamento é tutto, specie per imparare a non impallarsi. Una volta che ci prendi la mano iniziano ad essere tutti uguali e il tempo per risolverli si riduce drasticamente, permettendoti di concentrarti su altro. Cultura generale: assurdo che abbia cosí tante domande. Non puoi prepararti davvero, va a culo: stai attenta all'attualità nei mesi prima del test, riguardati due cose sull'impianto politico del nostro stato e sulla costituzione e poi anche qui fai tanti quiz. In generale fai delle simulazioni complete, cronometrandoti: la gestione del tempo é uno degli aspetti piú importanti di qualsiasi test. Segnati gli argomenti che sbagli e il giorno dopo la simulazione inizia il ripasso da quelli, in modo tale che il tuo studio sia mirato sulle tue debolezze. Hai un sacco di tempo prima di arrivare al test, quindi non é il momento di demoralizzarsi, ma di fare una strategia e di seguirla con determinazione. Buona fortuna e buono studio :)
 
