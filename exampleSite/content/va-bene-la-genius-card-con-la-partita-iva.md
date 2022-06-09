@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-06-08T22:00:00Z
 description = "Quando passiamo dall'Università al lavoro, magari ci troviamo a dover aprire la Partita IVA. Uno degli aspetti che generano più confusione quando si inizia è: devo aprire un conto o posso usare quello che ho già? Scopriamolo insieme."
-draft = true
 image = "/images/conto-fisioterapista-banca.jpg"
 title = "Va bene la Genius Card con la Partita IVA?"
 type = "post"
