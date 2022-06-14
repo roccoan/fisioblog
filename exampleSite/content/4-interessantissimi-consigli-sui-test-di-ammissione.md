@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = ["Università", "Studio e Carriera"]
+categories = ["Test Ingresso", "Università", "Studio e Carriera"]
 date = 2022-06-06T22:00:00Z
 description = "Affrontare la preparazione al test di ammissione è molto difficile, e allora perché non lasciarsi consigliare da chi l'ha passato prima di noi? Oggi facciamo proprio questo, raccogliendo 4 interessantissimi consigli di ragazze e ragazze che l'hanno superato "
 image = "/images/test-ammissione-fisioterapia.jpg"
