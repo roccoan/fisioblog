@@ -14,9 +14,11 @@ Quando ho aperto io la P. IVA ricordo che i primi mesi avevo tantissime difficol
 
 Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo più preciso e semplice possibile.
 
-> Articolo aggiornato a Marzo 2022 con l'aggiunta dei template per avere un modello di fattura in Excel da scaricare e modificare.
+> Aggiornamento: dal 1° luglio 2022 ci sono delle novità sulle fatture anche per i Fisioterapisti. 
 >
-> Se ti interessano solo i template, li trovi appena prima della conclusione.
+> Alcuni di noi hanno l'**obbligo di emettere fatture elettroniche** sin da ora (e altri saranno obbligati tra qualche tempo), ma questa guida resta ancora valida per le fatture cartacee.
+>
+> A prescindere dalla tua situazione, ti consiglio di leggere [l'articolo completo da qui](https://fisioterapisti.org/2-novita-per-i-fisioterapisti-dal-1-luglio-2022/).
 
 ## Introduzione
 
