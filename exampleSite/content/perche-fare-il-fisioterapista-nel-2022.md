@@ -1,6 +1,6 @@
 +++
 author = "Redazione"
-categories = ["Carriera", "Studio"]
+categories = ["Test Ingresso", "Carriera", "Studio"]
 date = 2022-01-04T23:00:00Z
 description = ""
 image = ""
