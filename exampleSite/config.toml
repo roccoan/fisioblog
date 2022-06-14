@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
-footer = []
+footer = ["Dott.ssa Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"]
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
