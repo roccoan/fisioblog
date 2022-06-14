@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = ["Università", "Studio e carriera"]
+categories = ["Test Ingresso", "Università", "Studio e carriera"]
 date = 2022-03-03T23:00:00Z
 description = "Si trova lavoro con la laurea in fisioterapia?"
 image = ""
