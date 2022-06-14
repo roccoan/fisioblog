@@ -8,13 +8,17 @@ title = "Fisioterapisti | Blog"
 [menu]
 footer = []
 [[menu.main]]
+URL = "https://fisioterapisti.org/categories/test-ingresso/"
+name = "Test Ingresso"
+weight = "1"
+[[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
-weight = 1
+weight = "2"
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/libera-professione/"
 name = "Professionisti"
-weight = 2
+weight = "3"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
