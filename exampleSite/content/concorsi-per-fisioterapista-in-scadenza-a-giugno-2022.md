@@ -22,6 +22,19 @@ Questo mese sono tutti al nord (Torino e Ferrara) e sono **particolarmente inter
 >
 > Altrimenti, procedi pure con la lettura dei concorsi per fisioterapisti in scadenza a giugno.
 
+## Aggiornamento metà mese:
+
+> Aggiungiamo nuove date di concorsi, avvisi e incarichi libero-professionali.
+
+* **ASST OSPEDALE NIGUARDA Milano: PROCEDURA COMPARATIVA**, per titoli ed eventuale colloquio, conferimento **INCARICHI LIBERO** **PROFESSIONALI**, per n. 1 posto (scadenza: 13/06/22) [Clicca qui](https://www.ospedaleniguarda.it/professionisti-e-aziende/lavora-con-noi-concorsi/info/5351)
+* **AUSL Bologna: AVVISO PUBBLICO**, per titoli e colloquio, conferimento **BORSA DI STUDIO**, per n. 1 posto (scadenza: 16/06/22) [Clicca qui](https://www.ausl.bologna.it/per-i-cittadini/bandi-di-concorso/current/auslbandoconcorso.2022-06-01.1142640694)
+* **AUSL Reggio Emilia: PROCEDURA COMPARATIVA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto (scadenza: 16/06/22) [Clicca qui](https://apps.ausl.re.it/BandiConcorsieIncarichi/#/bandi-di-gara/%7B%22parentUniqueId%22:%225960a071-f051-4a07-9fb5-9ebcae76a42f%22,%22childUniqueId%22:%22a6b591f2-e207-4f0e-9fe4-34bb46bc94d9%22%7D/82c22ad0-7da2-44a8-a106-2af5f2adbfc7)
+* **AOUI Verona: AVVISO PUBBLICO**, per titoli ed eventuale colloquio, conferimento **BORSA DI STUDIO**, per n. 1 posto (scadenza: 17/06/22) [Clicca qui](https://www.aovr.veneto.it/lavoro/concorsi/bandi-avviso-borse-di-studio/attivi?p_p_id=2_WAR_contestsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=2&p_p_col_count=3&_2_WAR_contestsportlet_contestId=6600&_2_WAR_contes)
+* **AS Friuli Occidentale: AVVISO PUBBLICO**, per titoli ed eventuale colloquio, formulazione **GRADUATORIA**, per incarichi a tempo determinato (scadenza: 21/06/22) [Clicca qui](https://asfo.sanita.fvg.it/it/concorsi/2022/2022_06_06-01.html)
+* **IPAB Dueville (VI): CONCORSO PUBBLICO**, per soli esami, a tempo indeterminato, per n. 2 posti (scadenza: 27/06/22) [Clicca qui](https://one33.robyone.net/CompetitionNotice.aspx?sid=53&cid=3345&id=561412)
+* **ASS. LA NOSTRA FAMIGLIA Veneto: AVVISO PUBBLICO**, per colloquio, assunzione a tempo determinato, per n. 1 posto (scadenza: 30/06/22) [Clicca qui](https://bur.regione.veneto.it/BurvServices/pubblica/DettaglioConcorso.aspx?id=477735)
+* **ASP Basilicata: AVVISO DI MOBILITA’** volontaria compartimentale, per titoli e colloquio, per n.1 posto (scadenza: 30/06/22) [Clicca qui](https://www.aspbasilicata.it/avvisi-e-concorsi/avviso-di-mobilita-volontaria-compartimentale-ex-art-30-comma-1-d-lgs-165-2001-e-ss-mm-ii-per-titoli-e-colloquio-per-la-copertura-a-tempo-indeterminato-di-n-1-uno-posto-di-collaboratore/)
+
 ## ASL Torino 3
 
 **Scadenza:** 02/06/2022
