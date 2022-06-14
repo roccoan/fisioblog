@@ -5,7 +5,7 @@ date = 2022-06-13T22:00:00Z
 description = "Oggi vediamo le novità del 1 luglio 2022 per i fisioterapisti con partita iva ordinaria o forfettaria: obbligo di fatture elettroniche e sanzioni pos."
 draft = true
 image = "/images/gabrielle-henderson-hjckknwcxxq-unsplash.jpg"
-title = "2 Novità per i Fisioterapisti dal 1° luglio 2022 | P. IVA Forfettarie"
+title = "2 Novità per i Fisioterapisti dal 1° luglio 2022 | Fatture Elettroniche e POS"
 type = "post"
 
 +++
