@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = ["Università", "Studio e carriera"]
+categories = ["Test Ingresso", "Università", "Studio e carriera"]
 date = 2022-03-15T23:00:00Z
 description = "Quanto guadagna un fisioterapista"
 image = "/images/dmitry-demidko-ebwzfkaheau-unsplash.jpg"
