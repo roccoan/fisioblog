@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
-footer = ["Dott.ssa Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"]
+footer = []
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
@@ -20,7 +20,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Fisioterapisti"
 contact_form_action = "#"
-copyright = "&copy; 2022 Fisioterapisti.org"
+copyright = "&copy; 2022 Fisioterapisti.org | Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
