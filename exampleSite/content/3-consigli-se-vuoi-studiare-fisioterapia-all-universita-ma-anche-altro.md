@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = []
+categories = ["Test Ingresso"]
 date = 2022-05-16T22:00:00Z
 description = "Decidere di iscriversi all'Università porta con sé tantissime paure, e questo articolo è per chi ha bisogno di consapevolezza e di coraggio per intraprendere questa strada."
 image = "/images/green-chameleon-s9cc2skysjm-unsplash.jpg"
