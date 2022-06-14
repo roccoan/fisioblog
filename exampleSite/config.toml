@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
-footer = []
+footer = ["Chi sono"]
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
 name = "Universitari"
