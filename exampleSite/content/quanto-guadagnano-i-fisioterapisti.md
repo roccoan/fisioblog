@@ -183,6 +183,8 @@ La risposta a questa domanda è troppo ampia per rientrare nell'argomento di ogg
 
 ## Conclusione
 
+> Aggiornamento: a giugno 2022 è stato confermato il rinnovo del CCNL, e ci sono [un po' di novità anche sullo stipendio](https://fisioterapisti.org/quanto-guadagna-un-fisioterapista-stipendio-fisioterapista-pubblico/ "Aggiornamenti CCNL Giugno 2022") dei dipendenti pubblici.
+
 Parlare di stipendi **è sempre spinoso**: ci sono troppe variabili in gioco, e nel fare una generalizzazione si perdono inevitabilmente dettagli che per qualcuno sono fondamentali.
 
 Consapevole che **generalizzando si perde di accuratezza**, il mio intento non è quello di fare un trattato di statistica sulle retribuzioni.
