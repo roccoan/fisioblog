@@ -58,7 +58,7 @@ Per noi Fisioterapisti bisogna fare un distinguo tra le fatture:
 * Fatture che emetti ai **pazienti privati**;
 * Fatture che emetti agli **enti con cui collabori** (RSA, ospedali privati, centri, cooperative, ecc.).
 
-Nel **primo caso**, le fatture sono intestate ad un Codice Fiscale (quello del paziente) e sono **fatture di spese sanitarie**. 
+Nel **primo caso**, le fatture sono intestate ad un Codice Fiscale (quello del paziente) e sono **fatture di spese sanitarie**.
 
 Questa tipologia di fattura **resta cartacea** perché [per permettere la detrazione al paziente](https://fisioterapisti.org/serve-la-prescrizione-per-detrarre-la-spesa-del-fisioterapista/ "Serve la prescrizione per detrarre la spesa del fisioterapista?") devono continuare a transitare per [Sistema Tessera Sanitaria](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Sistema Tessera Sanitaria - Guida per Fisioterapisti").
 
@@ -82,7 +82,7 @@ L'[Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/web/guest/ar
 * Un [sito web](https://ivaservizi.agenziaentrate.gov.it/portale/ "Fatture e Corrispettivi");
 * Un'app per mobile/tablet (sia per [dispositivi Android](https://play.google.com/store/apps/details?id=it.gov.agenziaentrate.fatturae&hl=it&gl=US "FAtturae - Google Play Store") che per [dispositivi Apple](https://apps.apple.com/it/app/fatturae/id1263953799 "FatturAE | App Store")).
 
-Entrambi permettono di predisporre, inviare, conservare e consultare le fatture elettroniche in modo del tutto gratuito. 
+Entrambi permettono di predisporre, inviare, conservare e consultare le fatture elettroniche in modo del tutto gratuito.
 
 Per accedere basta entrare con SPID.
 
@@ -94,11 +94,11 @@ Quali sono le sanzioni? Non ancora lo sappiamo, ma prima c'è da dire che dal 1�
 
 Infatti, in questo periodo di tre mesi non scattano sanzioni se invii tardivamente una fattura elettronica, a patto che non fai più di 12 giorni di ritardo e comunque sempre entro la fine del mese.
 
-## 2) Obbligo di utilizzo del POS
+## Novità n.2: Obbligo di utilizzo del POS
 
-Un'altra novità è l'[obbligo di avere il POS]() e accettare i pagamenti con le carte. 
+Un'altra novità è l'[obbligo di avere il POS]() e accettare i pagamenti con le carte.
 
-### Chi è obbligato? 
+### Chi è obbligato?
 
 Chi effettua l’attività di vendita di prodotti e di **prestazioni di servizi, anche professionali**, dovrà dotarsi già dal 30 giugno 2022, e non più dal 1° gennaio 2023, del Pos e accettare pagamenti elettronici.
 
@@ -106,13 +106,13 @@ Chi effettua l’attività di vendita di prodotti e di **prestazioni di servizi,
 
 Anche qui ci sono delle sanzioni.
 
-La sanzione amministrativa pecuniaria per chi non accetta bancomat o carte di credito è in misura fissa di **30 euro** a cui si aggiunge una quota pari al **4% del valore della transazione rifiutata**. 
+La sanzione amministrativa pecuniaria per chi non accetta bancomat o carte di credito è in misura fissa di **30 euro** a cui si aggiunge una quota pari al **4% del valore della transazione rifiutata**.
 
 Non è previsto che si paghi in forma ridotta entro un certo numero di giorni.
 
 ### Ma se il POS non mi funziona - per davvero?
 
-L'unico esonero dall’obbligo di POS c'è solo «nei casi di oggettiva impossibilità tecnica». 
+L'unico esonero dall’obbligo di POS c'è solo «nei casi di oggettiva impossibilità tecnica».
 
 Per tutti gli altri casi non basta dire "non mi funziona il POS" come fanno molti negozianti. Inoltre, anche Satispay e PayPal oltre al classico bonifico sono considerati strumenti tracciabili, considera anche quelli come alternative.
 
@@ -122,15 +122,15 @@ Se non hai il POS, e vuoi procurartene uno, qui c'è il [link con codice amico](
 
 Questo non è assolutamente un contenuto sponsorizzato, ma è semplicemente un modo per averlo scontato tramite un codice sconto SumUp (il **modello base tascabile**, che puoi portare a casa dei pazienti se fai le domiciliari, **scende da €29 a €19**).
 
-> Ribadisco per trasparenza: non c'è assolutamente nessuna partnership commerciale. Dove possiamo, indichiamo risorse gratuite, come prima per le fatture elettroniche. POS gratuiti purtroppo non ce ne sono, e questa **è la cosa che più si avvicina all'essere gratis**. 
+> Ribadisco per trasparenza: non c'è assolutamente nessuna partnership commerciale. Dove possiamo, indichiamo risorse gratuite, come prima per le fatture elettroniche. POS gratuiti purtroppo non ce ne sono, e questa **è la cosa che più si avvicina all'essere gratis**.
 >
-> Il link è solo l'iniziativa porta un amico - **come quelle che faceva la TIM negli anni 2000**, dove se portavi qualcuno **ti regalavano una ricarica** (nel caso di SumUp massimo €15, quindi se prendi la versione base penso che regalino giusto i soldi per un gelato) e **l'amico riceve uno sconto** (in questo caso molto interessante anche per la versione base - di solito scontano solo quelli più costosi). Tutti gli utenti di SumUp hanno il link porta un amico, quindi a tua volta potrai girarlo ad altri amici. 
+> Il link è solo l'iniziativa porta un amico - **come quelle che faceva la TIM negli anni 2000**, dove se portavi qualcuno **ti regalavano una ricarica** (nel caso di SumUp massimo €15, quindi se prendi la versione base penso che regalino giusto i soldi per un gelato) e **l'amico riceve uno sconto** (in questo caso molto interessante anche per la versione base - di solito scontano solo quelli più costosi). Tutti gli utenti di SumUp hanno il link porta un amico, quindi a tua volta potrai girarlo ad altri amici.
 
 Come ti dicevo, io da oltre due anni uso [quello piccolo con la basetta per la ricarica](https://store.sumup.com/it-IT/product-selection/card_reader.air_bundle?prc=CRPRt2AEUR-s-CRPRt2ABEUR-s-CRPRt23GBEUR-s-CRPRt2SOEUR&product-id=card_reader.air_bundle&website_source=landing_page&referrer=MD6GTRT7&fbuy_ref_code=rprsw&nextInternalLocale=it-IT "SumUp Air+Base di Ricarica").
 
-### Quanto costa? 
+### Quanto costa?
 
-Mensilmente **non si paga nulla**, ma c'è una commissione del 1,95% sui pagamenti che ricevi. È tanto, è poco? 
+Mensilmente **non si paga nulla**, ma c'è una commissione del 1,95% sui pagamenti che ricevi. È tanto, è poco?
 
 Dipende, se sei un forfettario che fa relativamente poche operazioni, meglio questo che il canone di un nuovo conto aziendale a cui collegare un POS, che ha a sua volta un canone mensile, per il privilegio di una commissione leggermente più bassa.
 
