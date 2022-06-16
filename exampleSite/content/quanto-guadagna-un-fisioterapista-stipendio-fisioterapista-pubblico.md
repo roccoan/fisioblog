@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2022-06-15T22:00:00Z
 description = "Abbiamo già parlato di quanto guadagnano i fisioterapisti qualche tempo fa. In quell’occasione però abbiamo fatto una panoramica. Oggi invece vediamo più nello specifico quanto guadagna un fisioterapista nel pubblico analizzando il contratto collettivo nazionale."
-draft = true
 image = "/images/dmitry-demidko-ebwzfkaheau-unsplash.jpg"
 title = "Quanto guadagna un fisioterapista? | Stipendio fisioterapista pubblico"
 type = "post"
