@@ -102,6 +102,8 @@ Di solito le ore in una struttura sono pagate con la **stessa tariffa** ma non c
 
 ### Dipendente Pubblico
 
+> Aggiornamento: a giugno 2022 è stato confermato il rinnovo del CCNL, e ci sono [un po' di novità anche sullo stipendio](https://fisioterapisti.org/quanto-guadagna-un-fisioterapista-stipendio-fisioterapista-pubblico/ "Aggiornamenti CCNL Giugno 2022").
+
 Partiamo dal **pubblico**, cioè il posto fisso. Per arrivarci serve passare un concorso, e questo è abbastanza banale.
 
 Ogni concorso ha il suo bando, e da questo possiamo trarre una conclusione su **quanto si guadagni realmente nel pubblico** come fisioterapista dell'ASL o dell'ospedale.
