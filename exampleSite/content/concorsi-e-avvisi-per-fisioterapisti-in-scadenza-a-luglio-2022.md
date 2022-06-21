@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Concorsi", "Studio e Carriera"]
 date = 2022-06-20T22:00:00Z
 description = "Vediamo insieme i concorsi per fisioterapisti in scadenza a Luglio 2022."
-draft = true
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
 title = "Concorsi fisioterapista in scadenza a Luglio 2022"
 type = "post"
