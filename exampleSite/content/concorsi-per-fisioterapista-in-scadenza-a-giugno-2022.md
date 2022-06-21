@@ -10,7 +10,9 @@ type = "post"
 +++
 Interessata/o ad un posto nel pubblico? Vediamo insieme i concorsi per Fisioterapisti  e gli avvisi pubblici per fisioterapisti in scadenza questo mese.
 
-> Aggiornamento: aggiungiamo le nuove date di Milano
+> Aggiornamento: aggiungiamo le nuove date di Milano. 
+>
+> Inoltre puoi vedere e [i concorsi in scadenza a luglio 2022 da qui](https://fisioterapisti.org/concorsi-e-avvisi-per-fisioterapisti-in-scadenza-a-luglio-2022/ "Concorsi fisioterapista luglio 2022").
 
 ## Introduzione
 
