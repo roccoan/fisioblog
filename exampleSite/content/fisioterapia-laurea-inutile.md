@@ -13,7 +13,7 @@ Prendere una decisione per il nostro futuro non è semplice. Il presente non ci 
 
 # Introduzione
 
-Avevamo già parlato di questo argomento in passato. Però oggi cerchiamo di riassumere tutta una serie di dubbi, preoccupazioni e paure in unica domanda: fisioterapia è una laurea inutile?
+Avevamo già [parlato di questo argomento in passato](https://fisioterapisti.org/conviene-fare-fisioterapia-ci-sono-troppi-fisioterapisti/ "Conviene studiare fisioterapia? Ci sono troppi fisioterapisti?"). Però oggi cerchiamo di riassumere tutta una serie di dubbi, preoccupazioni e paure in unica domanda: fisioterapia è una laurea inutile?
 
 Oggi cerchiamo di rispondere, ma come domanda è un po’ generica, quindi cercheremo di definirla ulteriormente.
 
