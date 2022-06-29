@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Test Ingresso", "Università"]
 date = 2022-06-28T22:00:00Z
 description = "Stiamo pensando di iscriverci all'università, e cerchiamo di capire se la scelta che stiamo per fare è giusta oppure no. Il corso di laurea a cui pensiamo è utile oppure no? Si trova lavoro, si impara tanto? Infatti è pur sempre un investimento, e dobbiamo capire se lo recupereremo (e quanto velocemente). Scopriamolo insieme."
-draft = true
 image = "/images/fisioterapia-laurea-inutile.jpg"
 title = "Fisioterapia: laurea inutile?"
 type = "post"
