@@ -10,7 +10,13 @@ type = "post"
 +++
 A maggio 2022 il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come funziona per i fisioterapisti? Possono richiederlo anche loro? E se si, come?
 
-**_Aggiornamento:_** _a quanto pare_ [_è ufficiale_](https://www.ansa.it/sito/notizie/politica/2022/05/05/bonus-di-200-euro-anche-ai-disoccupati-e-alle-colf_32186c01-484b-4c1e-96c7-e208bfe050c3.html "Bonus di 200 euro anche ai disoccupati e alle colf") _che il bonus verrà erogato a **luglio 2022**. Al momento non abbiamo ancora aggiornamenti sugli altri punti._
+> **Aggiornamento (30 giugno 2022):** Rispetto a quando è stato scritto questo articolo, sono cambiate molte cose. Ti consiglio [questo articolo de Il Post](https://www.ilpost.it/2022/06/29/richiesta-bonus-200-euro/ "Come viene erogato il bonus da 200 euro"), che riassume molto bene le novità. Se non hai il tempo di leggerlo, ti elenco i cambiamenti:
+>
+> \- Se sei dipendente, va consegnata l'autocertificazione al datore di lavoro;
+>
+> \- In tanti altri casi (che c'entrano poco con noi fisioterapisti), si presenta una domanda all'INPS;
+>
+> \- Se sei autonomo con la Partita IVA, c'è da aspettare (non è stato ancora approvato il decreto attuativo che ne regolamenta le modalità di erogazione).
 
 ## Introduzione
 
