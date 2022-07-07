@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione", "Università", "Studio e Carriera"]
 date = 2022-07-06T22:00:00Z
 description = "Negli ultimi mesi abbiamo parlato di tutte le novità per la professione del fisioterapista: riforme sull’università, nuove figure professionali, possibili aumenti di stipendio nel pubblico. Tutte buone notizie, ma ci sono dei punti aperti, che molti di noi chiedono a gran voce, di cui non abbiamo ancora parlato. Vediamo insieme quali."
-draft = true
 image = "/images/siora-photography-hgfy1mzy-y0-unsplash.jpg"
 title = "3 cose che non vanno della Fisioterapia in Italia (secondo i Fisioterapisti)"
 type = "post"
