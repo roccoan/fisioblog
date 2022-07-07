@@ -44,9 +44,17 @@ Hai tempo per presentarla fino alle ore 12:00 del 5 luglio 2022.
 
 Tutti i dettagli [sul sito dell'ente](https://www.ipab.vicenza.it/concorsi-ricerca-personale/bandi-di-concorso.html "Concorso IPAB Vicenza").
 
+## Aggiornamento 7 luglio 2022
+
+Aggiungiamo nuove date per concorsi e avvisi in scadenza a luglio:
+
+* **ISTITUTO GASLINI Genova: PUBBLICA SELEZIONE**, per soli titoli, assegnazione **BORSA DI STUDIO**, per n. 1 posto (scadenza: 08/07/22) [Clicca qui](https://amministrazione-trasparente.gaslini.org/amministrazione-trasparente/bandi-di-concorso-bis/borsa-di-studio/publiccompetition/31-2-borse-di-studio-fisioterapista-uoc-di-medicina-fisica-e-riabilitazione.html?view=publiccompetition&id=31:2-borse-di-stu)
+* **AUSL della ROMAGNA: AVVISO DI MOBILITA’** volontaria, per titoli e colloquio, per n.1 posto (scadenza: 20/07/22) [Clicca qui](https://amministrazionetrasparente.auslromagna.it/pubblicita-legale/selezioni-del-personale/concorsi-selezioni-romagna/mobilita-in-entrata/2307-collaboratore-professionale-sanitario-fisioterapista-202206201303)
+* **OSPEDALE GRADENIGO Torino: CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 1 posto (scadenza: 21/07/22) [Clicca qui](https://www.gradenigo.it/concorsi/fisioterapista-06-22/)
+
 ## Conclusione
 
-Per questo mese è tutto! 
+Per questo mese è tutto!
 
 Se ci sono aggiornamenti o nuovi concorsi, corriamo ad aggiungerli sia qui che [sul nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti | Telegram").
 
