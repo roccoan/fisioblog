@@ -1,6 +1,6 @@
 ---
 title: Contattaci
-description: Procedi da qui o scrivi una mail a redazione@fisioterapisti.blog
+description: Procedi da qui o scrivi una mail a fisioterapistiorg@gmail.com
 image: "/images/contatti.svg"
 
 ---
