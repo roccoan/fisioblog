@@ -6,7 +6,7 @@
       <div class="col-lg-5">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
-        <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL}}" class="row">
+        <!--<form method="POST" action="{{ .Site.Params.contact_form_action | safeURL}}" class="row">
           <div class="col-md-6">
             <input type="text" class="form-control mb-4" placeholder="Name" name="name" id="name">
           </div>
@@ -23,7 +23,7 @@
           <div class="col-12">
             <button class="btn btn-primary btn-block" type="submit">Send</button>
           </div>
-        </form>
+        </form>-->
       </div>
       <div class="col-lg-6 text-md-right">
         <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="">
