@@ -5,6 +5,10 @@ paginate = "8"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
+[[menu.footer]]
+URL = "contact/"
+name = "Contatti"
+weight = 1
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/test-ingresso/"
 name = "Test Ingresso"
@@ -17,15 +21,11 @@ weight = "2"
 URL = "https://fisioterapisti.org/categories/libera-professione/"
 name = "Professionisti"
 weight = "3"
-[[menu.footer]]
-URL = "contact/"
-name = "Contatti"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Fisioterapisti"
-contact_form_action = "#"
+contact_form_action = "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfh5RlIB7gMZ8Dw6fH9yjbLs5wpENmgbOs_7W8YJwK3x_Q3ag/formResponse"
 copyright = "&copy; 2022 Fisioterapisti.org | Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
