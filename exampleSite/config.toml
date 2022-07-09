@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab-light"
 title = "Fisioterapisti | Blog"
 [menu]
-footer = []
+footer = ["Contatti"]
 [[menu.main]]
 URL = "https://fisioterapisti.org/categories/test-ingresso/"
 name = "Test Ingresso"
