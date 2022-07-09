@@ -17,6 +17,10 @@ weight = "2"
 URL = "https://fisioterapisti.org/categories/libera-professione/"
 name = "Professionisti"
 weight = "3"
+[[menu.footer]]
+URL = "contact/"
+name = "Contatti"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
