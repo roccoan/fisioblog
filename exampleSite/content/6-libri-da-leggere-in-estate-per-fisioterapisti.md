@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libri"]
 date = 2022-07-14T22:00:00Z
 description = "Siamo arrivati al 50esimo articolo! Per festeggiare andiamoci piano, rilassiamoci, e vediamo cosa portare da leggere di piacevole sotto l’ombrellone, in tenda o sull’amaca all’ombra di due alberi in montagna."
-draft = true
 image = "/images/ben-white-1mhu3zptvro-unsplash.jpg"
 title = "6 libri da leggere in estate | Per Fisioterapisti"
 type = "post"
