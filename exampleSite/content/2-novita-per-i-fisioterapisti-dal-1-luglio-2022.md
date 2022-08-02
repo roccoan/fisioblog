@@ -136,6 +136,20 @@ Dipende, se sei un forfettario che fa relativamente poche operazioni, meglio que
 
 Puoi collegarlo anche [alla tua carta con IBAN o al conto corrente che hai già](https://fisioterapisti.org/va-bene-la-genius-card-con-la-partita-iva/ "Va bene la Genius Card con la Partita IVA?"), **senza aprire nuovi conti**.
 
+### Se non ho nessun rapporto bancario, dove lo collego?
+
+Se hai la P. IVA, con un conto corrente rendi la vita più comoda a te e al tuo commercialista con il [pagamento automatico degli F24](https://fisioterapisti.org/va-bene-la-genius-card-con-la-partita-iva/ "Va bene la Genius Card con la Partita IVA?") (che sulle prepagate non si può fare) e ci colleghi tranquillamente un POS.
+
+Se sei alla ricerca di un **conto affidabile e a zero spese**, con Buddybank hai: conto, carta, bonifici, prelievi e versamenti da sportelli UniCredit, tutto gratis (ma molto probabilmente lo sai già, la pubblicizzano ovunque).
+
+La filiale è sempre a disposizione h24 via chat, e non devi mai fare file allo sportello togliendo tempo ai pazienti.
+
+> Se può esserti utile, riscatta i tuoi **€25 in regalo** aprendo il conto buddybank entro il **26 agosto 2022** e inserendo il codice amico:
+>
+> **2D1455**
+
+Per aprirlo basta scaricare l'app (sia per [Android](https://play.google.com/store/apps/details?id=eu.unicredit.internet.buddybank&hl=it&gl=US "Google Play Store") che per [iPhone](https://apps.apple.com/it/app/buddybank-conto-e-carta/id1254438272 "Apple App Store")), e **se procedi con SPID l'apertura del conto è velocissima** (perché non devono identificarti nuovamente), quindi niente procedure noiosissime!
+
 ## Conclusione
 
 Ogni novità all'inizio ci spaventa un po', e quindi spero che questo articolo ti sia utile per arrivare preparata/o al 1° luglio.
