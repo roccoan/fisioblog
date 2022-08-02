@@ -54,7 +54,7 @@ Forse ancora non sei arrivato alla prima **dichiarazione dei redditi**, e quindi
 
 ### Come funziona?
 
-Lavorando mese dopo mese, nel corso dell’anno emetti un certo numero di fatture. 
+Lavorando mese dopo mese, nel corso dell’anno emetti un certo numero di fatture.
 
 Se sommi l'importo di tutte le fatture dell'anno ottieni il tuo fatturato annuale (cioè quello che hai guadagnato - lordo - nel corso dell’anno).
 
@@ -94,7 +94,7 @@ Siamo nel 2022 e tutti pretendiamo che i pagamenti siano più semplici.
 
 Se sono un libero professionista, magari l’ultima cosa che voglio fare è passare la mattinata in banca o in posta a pagare un bollettino, quindi voglio una soluzione più veloce.
 
-Ecco, tra i soldi che dai al commercialista c’è il **velocizzarti il pagamento dell’F24**. 
+Ecco, tra i soldi che dai al commercialista c’è il **velocizzarti il pagamento dell’F24**.
 
 Come?
 
@@ -124,7 +124,7 @@ Gli F24 semplificati sono quelli per pagare le tasse al comune, come la tassa su
 
 Quindi, come si può pagare un F24 ordinario su internet se la mia banca permette di pagare solo gli F24 semplificati?
 
-Bisogna farli pagare a qualcuno che ha un conto corrente e girargli poi i soldi magari tramite bonifico (che con le carte conto di solito si paga). 
+Bisogna farli pagare a qualcuno che ha un conto corrente e girargli poi i soldi magari tramite bonifico (che con le carte conto di solito si paga).
 
 E quindi veniamo alla soluzione comoda che è proprio quella di aprire un conto corrente.
 
@@ -138,7 +138,7 @@ Io sono passata dalla Genius Card a BuddyBank e ora:
 * Non pago i bonifici e i versamenti che prima invece pagavo;
 * Non pago il canone mensile che avrei iniziato a pagare di lì a poco.
 
-BuddyBank la sponsorizzano a destra e sinistra, ma sia chiaro: non ci sponsorizza nessuno, sto semplicemente documentando la mia esperienza raccontando come ho risolto un problema che ho incontrato dopo aver aperto la Partita IVA. 
+BuddyBank la sponsorizzano a destra e sinistra, ma sia chiaro: non ci sponsorizza nessuno, sto semplicemente documentando la mia esperienza raccontando come ho risolto un problema che ho incontrato dopo aver aperto la Partita IVA.
 
 Se si vuole intraprende la soluzione del conto corrente (cosa che comunque prima o poi bisognerà fare, per esempio per chiedere un mutuo - si spera), non ci interessa particolarmente la banca presso la quale aprirlo, ma a mio avviso bisogna considerare un po' di aspetti:
 
@@ -155,6 +155,16 @@ Ci sono molti conti correnti gratuiti, non ne ho da consigliarti uno in particol
 * **Intesa Sanpaolo**: sempre aprendolo da Internet e c'è anche la convenzione della [Carta Nazionale Giovani]() (se hai l’[app IO](https://io.italia.it/ "App IO") - quella del Green Pass - puoi vedere da lì i dettagli);
 
 Queste sono le più grandi e ovviamente sono presenti in tutta Italia, ma cercando su Google anche altre banche periodicamente hanno iniziative del genere per ottenere più clienti, soprattutto per i giovani sotto i 30-35 anni e aprendo il conto online senza andare in banca.
+
+> **Aggiornamento agosto 2022:** 
+>
+> Buddybank ha dato la possibilità ai correntisti di invitare un amico, che dopo l'apertura e una prima transazione riceve in regalo €25 (oltre ad avere gratis conto corrente, carta di debito, bonifici SEPA e prelievi e versamenti presso sportelli UniCredit).
+>
+> Se può esserti utile, procedi aprendo il conto entro il 26 agosto 2022 e inserendo il codice amico:
+>
+> **2D1455**
+>
+> 📲 Per aprirlo basta scaricare l'app, e se procedi con SPID l'apertura del conto è velocissima (perché non devono identificarti nuovamente), quindi niente procedure noiosissime!
 
 ## Conclusione
 
