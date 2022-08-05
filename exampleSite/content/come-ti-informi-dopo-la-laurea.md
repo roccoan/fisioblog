@@ -165,7 +165,7 @@ Inoltre, l’ambiente della formazione per fisioterapisti fa molta leva sull’o
 
 In Italia tra le figure più seguite (e che fa divulgazione/formazione da più tempo) è il fisioterapista romagnolo [Filippo Zanella](https://www.studiozanellafisioterapia.com/chi-siamo/).
 
-Chi è nell’ambiente (magari da qualche anno) sicuramente lo conosce perché è impossibile non imbattersi in una delle sue risorse sui social. Io ho avuto il piacere di frequentare uno dei suoi corsi e di conoscerlo di persona, e a parte che ha mille progetti (tipo un app per [permettere ai pazienti di cercare fisioterapisti](https://www.trovaunfisioterapista.it/)), spesso mi trovo ad ascoltare il suo podcast [su Spotify](https://open.spotify.com/show/7tXEX8VYKcbqzDAW0oZEy0) (c’è anche su [Apple podcast](https://podcasts.apple.com/it/podcast/streamed-podcast/id1533660566)) per approfondire qualche argomento.
+Chi è nell’ambiente (magari da qualche anno) sicuramente lo conosce perché è impossibile **non imbattersi in una delle sue risorse sui social**. Io ho avuto il piacere di frequentare uno dei suoi corsi e di conoscerlo di persona, e a parte che ha mille progetti (tipo un app per [permettere ai pazienti di cercare fisioterapisti](https://www.trovaunfisioterapista.it/)), spesso mi trovo ad ascoltare il suo podcast [su Spotify](https://open.spotify.com/show/7tXEX8VYKcbqzDAW0oZEy0) (c’è anche su [Apple podcast](https://podcasts.apple.com/it/podcast/streamed-podcast/id1533660566)) per approfondire qualche argomento.
 
 Quando inizi ad ascoltarlo, ti accorgi che le cose di cui abbiamo parlato oggi vengono considerate e quindi **sentirai citare le fonti** e **sentirai parlare tanto di meta-analisi** (che è sicuramente meglio rispetto a non farlo).
 
