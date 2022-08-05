@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2022-08-04T22:00:00Z
 description = "Si parla tanto di EBP, ma esattamente che vuol dire? E come si colloca nell’ambito delle ricerche scientifiche? E come può un fisioterapista trarne utilità senza perdersi nei meandri di milioni di articoli scientifici? Scopriamolo insieme"
-draft = true
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Come ti informi dopo la laurea?"
 type = "post"
