@@ -12,6 +12,8 @@ Qualche tempo fa [parlavamo delle novità](https://fisioterapisti.org/cosa-c-e-n
 
 ## Introduzione
 
+> Aggiornamento Agosto 2022: sembra che siamo molto vicini con la produzione di un documento finale di accordo, cioè una bozza definitiva che verrà ufficializzata dal Ministero. Per i dettagli leggi pure [questo documento](https://drive.google.com/file/d/1ewqXcOp8khujfXjie7YEWnJqxbuZ0cwx/view?ts=62f1673f "Verso l'ordine Autonomo dei Fisioterapisti").
+
 La Fisioterapia in Italia sta assumendo sempre più importanza e sta cambiando sempre di più. Restano le contraddizioni, i problemi, i nodi da sciogliere sulle condizioni lavorative, le retribuzioni e la formazione.
 
 Con [fisioterapisti.org](http://fisioterapisti.org) nel nostro piccolo stiamo cercando di **ridurre quanto più possibile le difficoltà per i fisioterapisti che iniziano**, ma nel grande schema delle cose c’è bisogno di fare di più, e secondo alcuni la risposta è **più autonomia e più coordinazione**.
