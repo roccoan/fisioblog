@@ -12,7 +12,9 @@ Interessata/o ad un posto pubblico? Vediamo insieme i concorsi per Fisioterapist
 
 ## Introduzione
 
-Nel nostro aggiornamento mensile di agosto sui concorsi per fisioterapisti abbiamo **un solo concorso pubblico** per fisioterapisti in Veneto (part-time e a **tempo indeterminato**). 
+> Aggiornamento: aggiungiamo nuove date! Inoltre per tutti i Siciliani in ascolto, si [riaprono i termini per il concorso a Catania](https://www.policlinicovittorioemanuele.it/node/4748 "Concorso Catania"), che scade il 1 settembre.
+
+Nel nostro aggiornamento mensile di agosto sui concorsi per fisioterapisti abbiamo **un solo concorso pubblico** per fisioterapisti in Veneto (part-time e a **tempo indeterminato**).
 
 Invece abbiamo diversi **avvisi pubblici** in diverse parti d'Italia.
 
@@ -93,6 +95,54 @@ CONCORSO PUBBLICO, per soli esami, a tempo parziale ed indeterminato, per n. 1 p
 Per il **bando**, puoi [consultarlo da qui](https://one33.robyone.net/Document.aspx?sid=53&cid=3341&download=568243 "Bando Concorso Portogruaro").
 
 Tutti i dettagli [sul sito dell'ente](https://one33.robyone.net/CompetitionNotice.aspx?sid=53&cid=3341&id=568242 "Concorso Pubblico Portogruaro").
+
+## AUSL della Romagna
+
+**Scadenza:** 25/08/2022
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 1
+
+Concorso pubblico per titoli ed esami a n. 1 posto di Collaboratore Professionale Sanitario - FISIOTERAPISTA cat. D.
+
+Tutti i dettagli [sul sito dell'ente](https://amministrazionetrasparente.auslromagna.it/pubblicita-legale/selezioni-del-personale/concorsi-selezioni-romagna/concorsi-pubblici-assunzioni-tempo-indeterminato/2351-collaboratore-professionale-sanitario-fisioterapista-202207271026 "AUSL Romagna Concorso").
+
+Per il bando, [clicca qui](https://amministrazionetrasparente.auslromagna.it/documenti/E00/1213/bando/BANDO_cps_fisioterapista.pdf "Bando Concorso Romagna").
+
+Per iscriverti [clicca qui](https://concorsi-gru.progetto-sole.it/exec/htmls/static/whrpx/login-concorsiweb/pxloginconc_grurer11401.html "Portale Concorsi").
+
+## AORN SANTOBONO PAUSILIPON - Napoli
+
+**Scadenza:** 31/08/2022
+
+**Luogo:** Napoli (NA)
+
+**Tipologia:** Avviso Pubblico per Fisioterapisti
+
+**Posti:** 1
+
+AVVISO PUBBLICO, per titoli e colloquio, assegnazione BORSA DI STUDIO, per n. 1 posto (scadenza: 31/08/22)
+
+Tutti i dettagli [sul sito dell'ente](http://www.santobonopausilipon.it/bandi-di-concorso "Avviso Napoli").
+
+> Il prossimo lo mettiamo comunque anche se tecnicamente scade a settembre, ma preferiamo segnalarlo da subito perché può tornare utile a molti colleghi siciliani essendo ben 8 posti a Catania.
+
+## AOU POLICLINICO Catania
+
+**Scadenza:** 01/09/2022
+
+**Luogo:** Catania
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 8
+
+RIAPERTURA TERMINI CONCORSO PUBBLICO, per titoli ed esami, per n. 8 posti.
+
+Per il bando, [clicca qui](https://www.policlinicovittorioemanuele.it/sites/default/files/concorsi/pagine/4748/Bando%20di%20riapertura%20termini%20-%20concorso%20Fisioterapisti.pdf "Bando Riapertura Termini Concorso Catania").
+
+Tutti i dettagli [sul sito dell'ente](https://www.policlinicovittorioemanuele.it/node/4748 "Concorso Catania").
 
 ## Conclusione
 
