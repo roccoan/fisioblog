@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2022-08-11T22:00:00Z
 description = "Assicurazione professionale, bisogna farla? Che cos’è, dove si fa e quale conviene? "
-draft = true
 image = "/images/gabrielle-henderson-hjckknwcxxq-unsplash.jpg"
 title = "Parliamo di assicurazione professionale per fisioterapisti"
 type = "post"
