@@ -7,5 +7,3 @@ image: "/images/contatti.svg"
 Hai suggerimenti, richieste o correzioni da proporci? Scrivici pure all'indirizzo:
 
 **fisioterapistiorg@gmail.com**
-
-_{{% newsletterForm %}}_
