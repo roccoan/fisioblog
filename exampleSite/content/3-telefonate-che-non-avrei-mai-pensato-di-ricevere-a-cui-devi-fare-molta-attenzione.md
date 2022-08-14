@@ -114,6 +114,8 @@ So che per molti non è nulla di nuovo, ma è bene ribadirlo: se questi schemi e
 
 Quindi, lascia perdere le promesse di guadagni e piuttosto concentrati su [come trovare più pazienti](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/) e [come trattenerli più a lungo](https://fisioterapisti.org/il-piu-grande-problema-di-chi-inizia-come-non-perdere-i-pazienti-a-meta-del-piano-terapeutico/).
 
+> Aggiornamento Luglio 2022: è diventato operativo il Registro Pubblico per le Opposizioni. Segui [questa guida](https://www.ilpost.it/2022/07/27/come-iscriversi-registro-pubblico-opposizioni-chiamate-telemarketing/ "Come ci si iscrive al Registro pubblico delle opposizioni per non ricevere più le chiamate di telemarketing") per ridurre le chiamate moleste.
+
 ## Conclusione
 
 Spero questo articolo ti possa tornare utile a non perdere tempo e soldi.
