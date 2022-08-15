@@ -12,7 +12,9 @@ Qualche tempo fa [parlavamo delle novità](https://fisioterapisti.org/cosa-c-e-n
 
 ## Introduzione
 
-> Aggiornamento Agosto 2022: sembra che siamo molto vicini con la produzione di un documento finale di accordo, cioè una bozza definitiva che verrà ufficializzata dal Ministero. Per i dettagli leggi pure [questo documento](https://drive.google.com/file/d/1ewqXcOp8khujfXjie7YEWnJqxbuZ0cwx/view?ts=62f1673f "Verso l'ordine Autonomo dei Fisioterapisti").
+> **Aggiornamento Agosto 2022:** sembra che siamo molto vicini con la produzione di un documento finale di accordo, cioè una bozza definitiva che verrà ufficializzata dal Ministero. Per i dettagli leggi pure [questo documento](https://drive.google.com/file/d/1ewqXcOp8khujfXjie7YEWnJqxbuZ0cwx/view?ts=62f1673f "Verso l'ordine Autonomo dei Fisioterapisti").
+>
+> **Aggiornamento n.2:** la bozza è stata approvata dal Consiglio di Stato e si aspetta il decreto istitutivo ([fonte](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=106769 "Fisioterapisti. Consiglio di Stato dice sì all’Ordine che rappresenterà quasi 70mila professionisti. L’annuncio di Sandra Zampa"))
 
 La Fisioterapia in Italia sta assumendo sempre più importanza e sta cambiando sempre di più. Restano le contraddizioni, i problemi, i nodi da sciogliere sulle condizioni lavorative, le retribuzioni e la formazione.
 
