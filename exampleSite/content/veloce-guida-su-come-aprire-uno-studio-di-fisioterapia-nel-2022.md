@@ -18,7 +18,7 @@ Aprire uno studio è un **gran bel passo**. Sia chiaro però: non è necessario 
 
 L'ho fatto io, e altre persone che conosco, magari un giorno ci scriverò un articolo più dettagliato.
 
-> Per mettersi in proprio, è inutile: servono i pazienti. Dopo la lettura, torna qui e scopri i [3 errori che un fisioterapista non deve fare a livello di marketing](https://fisioterapisti.org/3-errori-da-non-fare-marketing-per-fisioterapisti-2022/ "3 Errori da non fare | Marketing per Fisioterapisti (2022)").
+> Questa guida, come dice il titolo, è veloce - quindi introduttiva-, però contiene le basi da conoscere necessariamente. Per qualcosa di più dettagliato abbiamo realizzato un approfondimento che puoi trovare più giù alla sezione "Approfondimento". Se oggi non hai tempo puoi anche scaricare l'approfondimento in PDF e consultarlo in seguito.
 
 ## Cosa serve
 
@@ -27,8 +27,6 @@ Per aprire uno studio di fisioterapia serve **l'abilitazione** (cioè la laurea)
 Siccome ogni regione ha le sue regole, non riuscirò ad entrare nel dettaglio di cosa viene richiesto, perché appunto **può variare da regione a regione**.
 
 Tra poco vediamo **in generale cosa viene richiesto**, ma prima facciamo una **importante distinzione**.
-
-> Ha curiosità e dubbi su che sono come si fanno **le fatture**? [Leggi anche questo articolo](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Guida alle fatture per fisioterapisti").
 
 ## Distinzione tra **studio** e **centro** di fisioterapia
 
@@ -51,20 +49,49 @@ Quindi è chiaro che **l'attività del centro è molto più complessa rispetto a
 
 Per lo **studio** c'è solo bisogno di una **comunicazione** al comune o all'ASL (a seconda dei regolamenti regionali).
 
-Invece per i **centri** - oltre a tutta una serie di adempimenti burocratici e la nomina di un direttore sanitario - c'è bisogno di una **autorizzazione** (non basta la comunicazione) da parte dell'ASL.
+> Invece per i **centri** - oltre a tutta una serie di adempimenti burocratici e la nomina di un direttore sanitario - c'è bisogno di una **autorizzazione** (non basta la comunicazione) da parte dell'ASL.
 
 Nella comunicazione per aprire uno studio, come dicevamo prima, ogni regione è diversa e potrebbero essere richieste cose diverse. Ma in generale vanno presentati:
 
-* un foglio che fornisce l'ASL o il comune (si trova anche su internet di solito) o redatto a mano (a seconda di quanto previsto dai regolamenti) da compilare con i dati anagrafici del professionista (nome, cognome, data di nascita, residenza, quando si è laureata/o, numero di Partita IVA e iscrizione all'Albo, ecc.);
-* la planimetria del locale dove si intende svolgere l'attività (che può essere anche in affitto) da chiedere ad un tecnico (tipo geometra o ingegnere);
-* la dichiarazione (sempre di un tecnico) che il locale sia agibile e che gli impianti (tipo quelli elettrici) siano a norma ed è okay per i pazienti mettere a caricare il cellulare senza far esplodere tutto;
-* la ricevuta di un pagamento a favore dell'ASL stessa (l'importo dipende dall'ASL, ma sono in genere tra i €100 e i €200 totali).
+* la **comunicazione** vera e propria cartacea o in forma digitale da compilare con i dati anagrafici del professionista (nome, cognome, data di nascita, residenza, quando si è laureata/o, numero di Partita IVA e iscrizione all'Albo, ecc.);
+* la **planimetria del locale** dove si intende svolgere l'attività (che può essere anche in affitto) da chiedere ad un tecnico (tipo geometra o ingegnere);
+* la **dichiarazione** (sempre di un tecnico) che il locale sia agibile e che gli impianti (tipo quelli elettrici) siano a norma ed è okay per i pazienti mettere a caricare il cellulare senza far esplodere tutto;
+* la **ricevuta di un pagamento** a titolo di diritti (come già detto dipende - per gli importi esatti bisogna chiedere al Comune o all'ASL).
 
 Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri.
 
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
-> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
+## Approfondimento
+
+Questa guida, come dice il titolo, è "veloce". 
+
+Essendo un po' introduttiva, nel corso del tempo abbiamo ricevuto tante domande - sia per email che in direct su Instagram (@fisioterapisti_org). 
+
+Collezionando le esperienze di molti di noi abbiamo deciso di **realizzare un approfondimento** per rispondere alle domande che ti saranno sorte leggendo.
+
+### Cosa contiene l'approfondimento?
+
+Contiene **4 rischi su cui vogliamo metterti in guardia** quando apri uno studio di fisioterapia:
+
+* Problemi che possono verificarsi **con le istituzioni per la poca chiarezza sulla procedura di apertura** - e come risolverli;
+* Come evitare possibili **sanzioni sulla gestione dei rifiuti**;
+* Come evitare possibili **multe sulla gestione dei pagamenti** elettronici;
+* Capire se la somma che hai in mente come **investimento iniziale è abbastanza** oppure no.
+
+Anche se aprire uno studio richiede meno adempimenti rispetto ad un centro o ad un ambulatorio, comunque non significa che non richieda affatto adempimenti.
+
+Per cui, sapere bene **cosa ti può aspettare** toglie parecchia ansia e preoccupazione dal processo.
+
+### Dove trovo l'approfondimento?
+
+L'approfondimento è un **PDF** che puoi scaricare e leggere quando vuoi, anche offline.
+
+È [scaricabile gratis direttamente da qui](https://t.me/fisioterapisti_official/119 "Approfondimento PDF Apertura Studio"), sul nostro canale Telegram.
+
+Non è assolutamente richiesto far parte del canale e **puoi scaricarlo e condividerlo liberamente**. 
+
+Ma se ti va di ricevere aggiornamenti, notizie e altro materiale gratuito utile per la nostra professione ti accogliamo con molto piacere!
 
 ## Conclusione
 
