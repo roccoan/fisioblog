@@ -80,7 +80,7 @@ I massimali di solito **sono cifre molto alte** (parliamo di milioni o decine di
 
 Ma come fanno a mettere a disposizione tutti questi soldi?
 
-Perché (fortunatamente) questi eventi sono abbastanza rari, e non accadono quasi mai. 
+Perché (fortunatamente) questi eventi sono abbastanza rari, e non accadono quasi mai.
 
 Quindi le assicurazioni prendono soldi ogni anno da tutti i professionisti, ma si trovano a sborsare solo per pochi (e la stragrande maggioranza delle volte per cifre ben al di sotto del massimale).
 
@@ -134,7 +134,9 @@ Avere una copertura così a lungo termine fa stare molto tranquilli. E sia chiar
 
 Per sottoscriverla basta procedere [dall’area riservata dell’Albo](https://amministrazione.alboweb.net/login) (quindi devi iscriverti anche all’Albo, perché il prezzo è in convenzione solo per gli iscritti).
 
-Qui puoi trovare [la pagina delle FAQ](https://www.spepa.it/faq/#*) dell’assicurazione dell’Albo per tutte le curiosità che ti vengono in mente.
+Qui puoi trovare [la pagina delle FAQ](https://www.spepa.it/faq/#*) dell’assicurazione dell’Albo per tutte le curiosità che ti vengono in mente e [qui la guida operativa in pdf](https://www.tsrm.oneaffinity.aon.it/documents/13751918/0/Tutorial+Preventivazione+TSRM+e+PSTRP.pdf/12f8801c-2d99-0e72-188c-3fc167d75cd4?t=1642690760441 "AON TSRM") per capire come si sottoscrive.
+
+> Una precisazione: l'assicurazione sanitaria dell'Albo scade ogni anno il 31 dicembre. Quindi, se viene sottoscritta per la prima volta a giugno, il 1° gennaio comunque bisogna rifarla. Poi da lì in poi si rinnova ogni anno.
 
 Vediamo ora cosa è incluso nella mia.
 
@@ -160,7 +162,7 @@ Difficile capirlo ora (molto probabilmente ci saranno convenzioni simili), quind
 
 ## Conclusione
 
-Spero che questa panoramica sull’assicurazione professionale fisioterapisti possa tornarti utile. 
+Spero che questa panoramica sull’assicurazione professionale fisioterapisti possa tornarti utile.
 
 E se non sapevi da dove partire, l'assicurazione dell'Albo **è ottima per quello che costa**.
 
