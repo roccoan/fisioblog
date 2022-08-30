@@ -10,6 +10,8 @@ type = "post"
 +++
 Interessata/o ad un posto pubblico? Vediamo insieme i concorsi per Fisioterapisti e gli avvisi pubblici per fisioterapisti in scadenza questo mese.
 
+Per i concorsi [in scadenza a settembre, vai qui](https://fisioterapisti.org/concorsi-e-avvisi-pubblici-per-fisioterapisti-in-scadenza-ad-agosto-2022-1/ "Concorsi e Avvisi in Scadenza a Settembre").
+
 ## Introduzione
 
 > Aggiornamento: aggiungiamo nuove date! Inoltre per tutti i Siciliani in ascolto, si [riaprono i termini per il concorso a Catania](https://www.policlinicovittorioemanuele.it/node/4748 "Concorso Catania"), che scade il 1 settembre.
