@@ -63,19 +63,23 @@ Secondo me però la cosa più rilevante è **l'obiettivo dei professori** che ha
 
 > Physio Punk è un nuovo approccio nelle ricerche future in fisioterapia. Ci invita a lasciarci dietro le convenzioni e a **mettere in dubbio che cos'è la fisioterapia, cosa è stata e cosa protrebbe essere in futuro**, in un modo pieno di creatività e di una sincera voglia di aver cura di tutte le persone con cui condividiamo questo pianeta.
 
-Nessuno ci pensa, ma se l'homo sapiens vivrà a lungo come la specie mammifera media (cioè circa un milione di anni), il nostro futuro (700 mila anni) sarà più del doppio della nostra storia passata (finora 300 mila anni).
+Nessuno ci pensa, ma se l'homo sapiens vivrà a lungo come la specie mammifera media (cioè circa un milione di anni), il nostro futuro (700 mila anni) sarà lungo più del doppio della nostra storia passata (finora 300 mila anni).
 
-Se stai pensando la stessa cosa a cui sto pensando io, e cioè che 10 mila anni fa abbiamo iniziato a modificare l'ambiente a nostro vantaggio e quindi non siamo la specie mammifera media e che la cosa ci porterà all'estinzione... **non possiamo esserne certi**.
+Se stai pensando la stessa cosa a cui sto pensando io, e cioè che 10 mila anni fa abbiamo iniziato a modificare l'ambiente a nostro vantaggio e quindi non siamo la specie mammifera media e questa cosa ci porterà all'estinzione... **non possiamo esserne certi**.
 
 Magari questa capacità ci permetterà di sopravvivere (come specie, non come individui) **addirittura più a lungo** di un milione di anni.
 
-Quindi? I problemi ci sono, e bisognerà pur trovare una soluzione. 
+Quindi? I problemi ci sono, e bisognerà pur trovare una soluzione.
 
-E siccome sono problemi grandi, **bisogna davvero pensare in grande**, e questa iniziativa punta proprio a questo: e se la soluzione fosse una rivoluzione portata avanti da fisioterapisti?
+E siccome sono problemi molto grandi, **bisogna davvero pensare in grande**, e questa iniziativa punta proprio a questo:
+
+> E se la soluzione fosse una rivoluzione portata avanti da fisioterapisti che hanno avuto il coraggio di pensare davvero in grande?
 
 ## Conclusione
 
-Secondo me è importante notare che tutto ciò è stato realizzato appena l'anno scorso. Segno dei tempi che stanno cambiando? Sicuramente.
+Secondo me è importante notare che tutto ciò è stato realizzato appena l'anno scorso. 
+
+Segno dei tempi che stanno cambiando? Sicuramente.
 
 Quest'esercizio di immaginazione inoltre ci apre gli occhi sul fatto che anche una categoria come la nostra - apparentemente innocua, a tratti noiosa e tipicamente lontana dai centri decisionali - in realtà da un giorno all'altro **potrebbe avere un impatto enorme sulla collettività e sul futuro dell'umanità**, in modo del tutto inaspettato e positivo.
 
