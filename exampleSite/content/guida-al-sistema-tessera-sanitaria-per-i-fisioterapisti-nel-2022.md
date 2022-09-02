@@ -110,7 +110,40 @@ Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il r
 
 Hai finito! Ricorda che hai la possibilità di vedere e modificare le spese inserite andando in “Gestione Spese Sanitarie” sempre dalla barra blu in alto.
 
-### Conclusione
+## Se hai già uno studio, salta pure alle conclusioni. Altrimenti, leggi qui.
+
+Se devi eseguire questa procedura perché inizi ad avere pazienti privati, magari con le domiciliari, immagino che **non escludi l'idea di aprire uno studio** in futuro. 
+
+Per te c'è [anche questa guida](https://fisioterapisti.org/veloce-guida-su-come-aprire-uno-studio-di-fisioterapia-nel-2022/ "Aprire uno studio di fisioterapia nel 2022"), che però come dice il titolo, è "veloce".
+
+Essendo un po' introduttiva, nel corso del tempo **abbiamo ricevuto tante domande** - sia per email che in direct su Instagram (@fisioterapisti_org).
+
+Collezionando le esperienze di molti di noi abbiamo deciso di **realizzare un approfondimento** per rispondere alle domande che ti saranno sorte leggendo.
+
+### Cosa contiene l'approfondimento?
+
+Contiene **4 rischi su cui vogliamo metterti in guardia** quando apri uno studio di fisioterapia:
+
+* Problemi che possono verificarsi **con le istituzioni per la poca chiarezza sulla procedura di apertura** - e come risolverli;
+* Come evitare possibili **sanzioni sulla gestione dei rifiuti**;
+* Come evitare possibili **multe sulla gestione dei pagamenti** elettronici;
+* Capire se la somma che hai in mente come **investimento iniziale è abbastanza** oppure no.
+
+Anche se aprire uno studio richiede meno adempimenti rispetto ad un centro o ad un ambulatorio, comunque non significa che non richieda affatto adempimenti.
+
+Per cui, sapere bene **cosa ti può aspettare** toglie parecchia ansia e preoccupazione dal processo.
+
+### Dove trovo l'approfondimento?
+
+L'approfondimento è un **PDF** che puoi scaricare e leggere quando vuoi, anche offline.
+
+È [scaricabile gratis direttamente da qui](https://t.me/fisioterapisti_official/119 "Approfondimento PDF Apertura Studio"), sul nostro canale Telegram.
+
+Non è assolutamente richiesto far parte del canale e **puoi scaricarlo e condividerlo liberamente**.
+
+Ma se ti va di ricevere aggiornamenti, notizie e altro materiale gratuito utile per la nostra professione ti accogliamo con molto piacere!
+
+## Conclusione
 
 È una procedura relativamente nuova, quindi spero ti sarà utile almeno per evitare una figuraccia con il paziente che si aspettava il rimborso della spesa – e ancora meglio per fare sì che il paziente si senta di interfacciarsi con un vero professionista.
 
