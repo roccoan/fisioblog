@@ -15,7 +15,7 @@ Oggi ci prendiamo una pausa dai soliti argomenti e raccontiamo una storia molto 
 
 In un precedente articolo avevamo visto un po' di [cose che ci aspettiamo dal futuro della fisioterapia in Italia](https://fisioterapisti.org/cosa-c-e-nel-futuro-della-fisioterapia-in-italia/ "Cosa c'è nel futuro della fisioterapia in Italia?").
 
-Però mentre in quell'articolo parlavamo di cose molto più vicine a noi nel tempo e nello spazio, qui siamo a livelli che rasentano la fantascienza (e se anche non ti piace il genere, credimi perché qui il risultato è sorprendente).
+Però mentre in quell'articolo parlavamo di cose molto più vicine a noi nel tempo e nello spazio, qui siamo a livelli che rasentano la fantascienza (e se anche non ti piace il genere, continua a leggere perché qui il risultato è sorprendente).
 
 Si rasenta la fantascienza sia nei contenuti del paper che negli approcci adottati, che nonostante la loro semplicità hanno portato a **risultati che onestamente non mi aspettavo**.
 
