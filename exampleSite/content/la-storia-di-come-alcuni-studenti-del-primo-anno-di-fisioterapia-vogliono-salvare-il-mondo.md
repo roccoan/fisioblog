@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2022-09-01T22:00:00Z
 description = "Oggi ci prendiamo una pausa dai soliti argomenti e raccontiamo una storia molto interessante su come un'università scandinava si immagina il futuro dell'umanità, e di come al centro ci sia una rivoluzione portata avanti dai fisioterapisti."
-draft = true
 image = "/images/raimond-klavins-kvvcdvd1_t0-unsplash.jpg"
 title = "L'affascinante storia di come alcuni studenti del primo anno di Fisioterapia vogliono salvare il mondo"
 type = "post"
