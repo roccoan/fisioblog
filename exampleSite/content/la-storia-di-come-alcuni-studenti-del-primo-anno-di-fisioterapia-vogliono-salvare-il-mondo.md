@@ -39,7 +39,7 @@ I tre professori non fanno eccezione, e hanno assegnato di comune accordo dei co
 
 La traccia era: 
 
-> _"Immagina il futuro della Fisioterapia e il ruolo dei Professionisti Sanitari nel futuro dell'umanità"_
+> "Immagina il futuro della Fisioterapia e il ruolo dei Professionisti Sanitari nel futuro dell'umanità"
 
 Gli studenti avevano **carta bianca** e potevano decidere liberamente sia le modalità (diari, articoli di giornali, saggi brevi) che i contenuti delle storie.
 
