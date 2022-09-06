@@ -20,7 +20,7 @@ Anzi, soprattutto quando diventi un professionista sanitario, diciamo che non ha
 
 Esatto, proprio come i crediti all’università, ma questi si chiamano crediti ECM (sigla che sta per [Educazione Continua in Medicina](https://ape.agenas.it/home.aspx "Agenas ECM")).
 
-L’articolo di oggi **non è sugli ECM** (arriverà una guida più avanti), ma è su quel tipo di studio che non ti obbliga nessuno a fare.
+L’articolo di oggi **non è sugli ECM** (arriverà una guida più avanti - Aggiornamento: [eccola qui](https://fisioterapisti.org/guida-agli-ecm-per-fisioterapisti-e-che-succede-se-non-hai-ecm/ "Guida agli ECM per fisioterapisti (e che succede se non hai ECM)")), ma è su quel tipo di studio che non ti obbliga nessuno a fare.
 
 In che senso?
 
@@ -195,3 +195,5 @@ Per oggi è tutto, e spero che questa guida veloce su **come muoversi nel mondo 
 Se ti va, unisciti al [nostro canale Telegram](https://t.me/fisioterapisti_official) per sapere quando viene pubblicato un nuovo articolo, per notizie veloci e aggiornamenti dell’ultimo minuto su concorsi e avvisi pubblici.
 
 Grazie per aver letto fin qui!
+
+Leggi anche: [Guida agli ECM per fisioterapisti (e che succede se non hai ECM)](https://fisioterapisti.org/guida-agli-ecm-per-fisioterapisti-e-che-succede-se-non-hai-ecm/ "Guida agli ECM per fisioterapisti (e che succede se non hai ECM)")
