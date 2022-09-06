@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università", "Libera Professione"]
 date = 2022-09-05T22:00:00Z
 description = "Su internet ci sono tante guide sugli ECM: che sono, come si prendono, come si controllano. Ma il mio dubbio è sempre stato “che succede se non ho crediti ECM?”. Ecco, dopo tante ricerche abbiamo una risposta anche a questo."
-draft = true
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Guida agli ECM per fisioterapisti (e che succede se non hai ECM)"
 type = "post"
