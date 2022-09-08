@@ -4,12 +4,38 @@ categories = ["Studio e Carriera", "Libera Professione"]
 date = 2022-05-03T22:00:00Z
 description = "Bonus 200 euro maggio 2022 per fisioterapisti: possono richiederlo? fisioterapisti dipendenti o autonomi? come si richiede?"
 image = "/images/dmitry-demidko-ebwzfkaheau-unsplash.jpg"
-title = "Bonus €200 Decreto Aiuti: anche per Fisioterapisti? | Maggio 2022"
+title = "Bonus €200 Decreto Aiuti: anche per Fisioterapisti? | Agg. Settembre 2022 per Liberi Professionisti"
 type = "post"
 
 +++
-A maggio 2022 il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come funziona per i fisioterapisti? Possono richiederlo anche loro? E se si, come?
+Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come funziona per i fisioterapisti? Possono richiederlo anche loro? E se si, come?
 
+> **Aggiornamento (6 Settembre 2022):** ufficiale la data per i Liberi Professionisti, il 15 settembre.
+>
+> ⚠️ Siccome non ci sono fondi per tutti, purtroppo c'è il rischio "click-day" (cioè si affrettano tutti insieme mandando in tilt il sito)
+>
+> \~
+>
+> ✅ Come si richiede?
+>
+> Si va sul sito dell’INPS e si segue il percorso:
+>
+> 1⃣ “Prestazioni e servizi“;
+>
+> 2⃣ “Servizi”;
+>
+> 3⃣ “Punto d’accesso alle prestazioni non pensionistiche”;
+>
+> 4⃣ Entrare con il proprio SPID;
+>
+> 5⃣ Selezionare la categoria di appartenenza.
+>
+> ✅ Siccome serve SPID, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
+
+> ✅ Inoltre, è riservato solo a coloro che nel 2021 hanno guadagnato meno di €35.000 lordi.
+>
+> Spero possa tornarti utile, grazie per aver letto e a presto con nuovi aggiornamenti!
+>
 > **Aggiornamento (30 giugno 2022):** Rispetto a quando è stato scritto questo articolo, sono cambiate molte cose. Ti consiglio [questo articolo de Il Post](https://www.ilpost.it/2022/06/29/richiesta-bonus-200-euro/ "Come viene erogato il bonus da 200 euro"), che riassume molto bene le novità. Se non hai il tempo di leggerlo, ti elenco i cambiamenti:
 >
 > \- Se sei dipendente, va consegnata l'autocertificazione al datore di lavoro;
