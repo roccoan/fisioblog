@@ -81,9 +81,31 @@ Per i dipendenti non importa il tempo determinato o indeterminato, apprendistato
 
 Per contratti ancora più atipici tipo stage, Garanzia Giovani, o altro di particolare **non abbiamo ancora notizie in merito**.
 
-> Adesso la misura è solo prevista, ma con i decreti attuativi verranno resi più chiari alcuni aspetti (tipo questo) che al momento non sono stati ancora resi noti.
+> **Aggiornamento (6 Settembre 2022):** ufficiale la data per i Liberi Professionisti, il 15 settembre.
 >
-> **Aggiornamento:** sembra [sia stato esteso](https://www.ansa.it/sito/notizie/politica/2022/05/05/bonus-di-200-euro-anche-ai-disoccupati-e-alle-colf_32186c01-484b-4c1e-96c7-e208bfe050c3.html "Bonus di 200 euro anche ai disoccupati e alle colf") anche a disoccupati, stagionali, e percettori di RdC e Naspi. Quindi dovrebbero essere inclusi anche i contratti atipici, ma vale quello che ci dicevamo originariamente e cioè che bisogna aspettare. Avvicinandoci a luglio (il mese in cui verrà erogato) avremo sicuramente più notizie.
+> ⚠️ Siccome non ci sono fondi per tutti, purtroppo c'è il rischio "click-day" (cioè si affrettano tutti insieme mandando in tilt il sito)
+>
+> \~
+>
+> ✅ Come si richiede?
+>
+> Si va sul sito dell’INPS e si segue il percorso:
+>
+> 1⃣ “Prestazioni e servizi“;
+>
+> 2⃣ “Servizi”;
+>
+> 3⃣ “Punto d’accesso alle prestazioni non pensionistiche”;
+>
+> 4⃣ Entrare con il proprio SPID;
+>
+> 5⃣ Selezionare la categoria di appartenenza.
+>
+> ✅ Siccome serve SPID, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
+
+> ✅ Inoltre, è riservato solo a coloro che nel 2021 hanno guadagnato meno di €35.000 lordi.
+>
+> Spero possa tornarti utile, grazie per aver letto e a presto con nuovi aggiornamenti!
 
 Quindi, **vale sia per i fisioterapisti dipendenti che per quelli autonomi**. Ancora una volta, a prescindere dalla tipologia di lavoro **per questo bonus l'importante è avere un reddito annuo inferiore a €35.000 lordi all'anno**.
 
