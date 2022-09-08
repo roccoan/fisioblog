@@ -10,6 +10,10 @@ type = "post"
 +++
 Qualche tempo fa [parlavamo delle novità](https://fisioterapisti.org/cosa-c-e-nel-futuro-della-fisioterapia-in-italia/ "Cosa c’è nel futuro della fisioterapia in Italia?") che possiamo aspettarci dal futuro della Fisioterapia in Italia, ma in realtà non erano le uniche e di recente si sono aggiunte nuove ipotesi, forse ancora più vicine e particolari. Vediamole insieme.
 
+## Nuntio Vobis
+
+> Oggi è 8 settembre 2022, la _Giornata Mondiale della Fisioterapia_, in Italia per la prima volta in presenza a Roma dopo gli anni del Covid... ed è ufficiale! [Il Ministro Speranza ha firmato il decreto istitutivo](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=107057 "Fisioterapisti. Nasce il nuovo Ordine per 70mila professionisti: il ministro Speranza ha firmato oggi il decreto istitutivo") e **nasce il nuovo Albo Autonomo dei Fisioterapisti**!
+
 ## Introduzione
 
 > **Aggiornamento Agosto 2022:** sembra che siamo molto vicini con la produzione di un documento finale di accordo, cioè una bozza definitiva che verrà ufficializzata dal Ministero. Per i dettagli leggi pure [questo documento](https://drive.google.com/file/d/1ewqXcOp8khujfXjie7YEWnJqxbuZ0cwx/view?ts=62f1673f "Verso l'ordine Autonomo dei Fisioterapisti").
