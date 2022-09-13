@@ -10,9 +10,9 @@ type = "post"
 +++
 Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come funziona per i fisioterapisti? Possono richiederlo anche loro? E se si, come?
 
-> **Aggiornamento (6 Settembre 2022):** ufficiale la data per i Liberi Professionisti, il 15 settembre.
+> **Aggiornamento (12 Settembre 2022):** Il giorno previsto per la richiesta era inizialmente giovedì 15, ma poi è stato posticipato a "non prima del 20 (settembre)".
 >
-> ⚠️ Siccome non ci sono fondi per tutti, purtroppo c'è il rischio "click-day" (cioè si affrettano tutti insieme mandando in tilt il sito)
+> Positivo perché forse aumentano i fondi per questa richiesta e non si correrà più il rischio "click day".
 >
 > \~
 >
@@ -20,15 +20,15 @@ Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come fu
 >
 > Si va sul sito dell’INPS e si segue il percorso:
 >
-> 1⃣ “Prestazioni e servizi“;
+> 1) “Prestazioni e servizi“;
 >
-> 2⃣ “Servizi”;
+> 2) “Servizi”;
 >
-> 3⃣ “Punto d’accesso alle prestazioni non pensionistiche”;
+> 3) “Punto d’accesso alle prestazioni non pensionistiche”;
 >
-> 4⃣ Entrare con il proprio SPID;
+> 4) Entrare con il proprio SPID;
 >
-> 5⃣ Selezionare la categoria di appartenenza.
+> 5) Selezionare la categoria di appartenenza.
 >
 > ✅ Siccome serve SPID, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
 
