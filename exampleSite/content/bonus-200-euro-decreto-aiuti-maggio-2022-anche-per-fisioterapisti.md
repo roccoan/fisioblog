@@ -10,9 +10,27 @@ type = "post"
 +++
 Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come funziona per i fisioterapisti? Possono richiederlo anche loro? E se si, come?
 
+## Aggiornamenti
+
+Siccome il bonus €200 per i liberi professionisti sta avendo più colpi di scena di Prison Break, riporto qui gli aggiornamenti man mano che li pubblichiamo sul nostro [Canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official") (unisciti a noi per riceverli prima di tutti!)
+
+> **Aggiornamento (15 Settembre 2022):** Confermato il giorno 20 settembre come inizio delle domande. (Fonte: [Il Sole 24 Ore](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre")) 
+>
+> Ci sarà tempo fino al 30 novembre, e [non c'è più bisogno di affrettarsi perché l'Adepp ha riferito che ci sono fondi per tutte le domande attese](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre"). 
+>
+> Quindi il rischio click-day non c'è più. Per fare la richiesta, leggi l'aggiornamento del 12 settembre qui in basso o la sezione "Come fare richiesta" prima delle conclusioni.
+>
+> \~
+>
 > **Aggiornamento (12 Settembre 2022):** Il giorno previsto per la richiesta era inizialmente giovedì 15, ma poi è stato posticipato a "non prima del 20 (settembre)".
 >
 > Positivo perché forse aumentano i fondi per questa richiesta e non si correrà più il rischio "click day".
+>
+> \~
+>
+> **Aggiornamento (6 Settembre 2022):** ufficiale la data per i Liberi Professionisti, il 15 settembre.
+>
+> ⚠️ Siccome non ci sono fondi per tutti, purtroppo c'è il rischio "click-day" (cioè si affrettano tutti insieme mandando in tilt il sito)
 >
 > \~
 >
@@ -20,15 +38,11 @@ Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come fu
 >
 > Si va sul sito dell’INPS e si segue il percorso:
 >
-> 1) “Prestazioni e servizi“;
->
-> 2) “Servizi”;
->
-> 3) “Punto d’accesso alle prestazioni non pensionistiche”;
->
-> 4) Entrare con il proprio SPID;
->
-> 5) Selezionare la categoria di appartenenza.
+> 1. “Prestazioni e servizi“;
+> 2. “Servizi”;
+> 3. “Punto d’accesso alle prestazioni non pensionistiche”;
+> 4. Entrare con il proprio SPID;
+> 5. Selezionare la categoria di appartenenza.
 >
 > ✅ Siccome serve SPID, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
 
@@ -81,47 +95,27 @@ Per i dipendenti non importa il tempo determinato o indeterminato, apprendistato
 
 Per contratti ancora più atipici tipo stage, Garanzia Giovani, o altro di particolare **non abbiamo ancora notizie in merito**.
 
-> **Aggiornamento (6 Settembre 2022):** ufficiale la data per i Liberi Professionisti, il 15 settembre.
->
-> ⚠️ Siccome non ci sono fondi per tutti, purtroppo c'è il rischio "click-day" (cioè si affrettano tutti insieme mandando in tilt il sito)
->
-> \~
->
-> ✅ Come si richiede?
->
-> Si va sul sito dell’INPS e si segue il percorso:
->
-> 1⃣ “Prestazioni e servizi“;
->
-> 2⃣ “Servizi”;
->
-> 3⃣ “Punto d’accesso alle prestazioni non pensionistiche”;
->
-> 4⃣ Entrare con il proprio SPID;
->
-> 5⃣ Selezionare la categoria di appartenenza.
->
-> ✅ Siccome serve SPID, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
-
-> ✅ Inoltre, è riservato solo a coloro che nel 2021 hanno guadagnato meno di €35.000 lordi.
->
-> Spero possa tornarti utile, grazie per aver letto e a presto con nuovi aggiornamenti!
-
-Quindi, **vale sia per i fisioterapisti dipendenti che per quelli autonomi**. Ancora una volta, a prescindere dalla tipologia di lavoro **per questo bonus l'importante è avere un reddito annuo inferiore a €35.000 lordi all'anno**.
-
 ## Visto che i fisioterapisti possono richiederlo, come si fa?
 
 Se sei un fisioterapista con contratto da **dipendente, non devi richiederlo**: ci penserà il tuo datore di lavoro e semplicemente riceverai la somma di €200 in busta paga.
 
 Se invece non sei un dipendente ma hai **Partita IVA** o comunque autonomo con ritenuta d'acconto, **bisogna richiederlo**.
 
-**Come si fa per richiederlo**?
+### Come richiedere il Bonus €200 per Partite IVA:
 
-Non è ancora stato specificato il modo per richiederlo, **molto probabilmente verrà istituita una apposita procedura** come accaduto nel 2020, ma ancora **nulla di certo**.
+Se sei un fisioterapista libero professionista e vuoi richiedere il bonus, vai [sul sito dell’INPS](www.inps.it "INPS") e segui il percorso:
 
-Come dicevamo prima infatti, adesso la misura è solo prevista, ma con i decreti attuativi verranno resi più chiari alcuni aspetti (tipo la procedura per gli autonomi e i contratti atipici) che al momento non sono stati ancora resi noti.
+1. “Prestazioni e servizi“;
+2. “Servizi”;
+3. “Punto d’accesso alle prestazioni non pensionistiche”;
+4. Entrare con il proprio SPID;
+5. Selezionare la categoria di appartenenza.
 
-Non appena sarà pubblicata la procedura esatta per gli autonomi, arriva una guida per noi fisioterapisti.
+Siccome **serve SPID**, per chi ne è sprovvisto, c'è ancora qualche giorno per andare alle Poste e crearlo.
+
+Ricordo che ufficialmente la domanda si potrà fare **dal 20 settembre al 30 novembre 2022** e non c'è bisogno di affrettarsi perché **non c'è più il rischio click-day**.
+
+Inoltre, è riservato solo a **coloro che nel 2021 hanno guadagnato meno di €35.000 lordi**.
 
 ## Conclusione
 
