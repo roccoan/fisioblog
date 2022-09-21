@@ -117,12 +117,10 @@ Un ottimo modo per tenere traccia dei risultati - oltre alle misurazioni - è sc
 
 Per molte problematiche puoi girare video di spalle oppure oscurare i visi (così non appare il viso del paziente), ma **chiedi sempre il consenso** di scattare foto, girare video e se puoi pubblicarli (che è anche un modo per mostrare i risultati ad altri potenziali pazienti con le stesse problematiche).
 
-## Quali sono le implicazioni pratiche?
-
-Le 5 caratteristiche riportate delle partecipanti in questo studio, implementando il risultati di altre ricerche precedenti, forniscono comunque un quadro di come dovrebbe essere un buon fisioterapista, sebbene la comunicazione sia considerata un elemento basilare nella relazione professionale, è importante integrare tutte le altre dimensioni.Per ottenere una crescente fiducia, motivazione e dunque migliorare soprattutto gli out dell'intervento riabilitativo. In conclusione, i fisioterapisti farebbero bene a considerare il valore che i pazienti attribuiscono ai vari aspetti della relazione terapeutica. In particolare, sono state giudicate positive le interazioni in cui il fisioterapista dimostrato.Capacità di comunicazione, sicurezza di sé, conoscenza, competenza e professionalità, comprensione delle persone, capacità relazionali e trasparenza dei risultati. Secondo lo studio di Martino Kidd e colleghi del 2011, un clinico che soddisfa una combinazione di queste caratteristiche o nel paziente al centro.L'esperienza di cura, stimolando una partecipazione attiva i rinforzando così l'alleanza terapeutica.
-
 ## Conclusione
 
 Essere un bravo fisioterapista, sia a livello tecnico che a livello umano, è un prerequisito per questa professione.
 
 Soprattutto [se vuoi aprire uno studio](https://fisioterapisti.org/veloce-guida-su-come-aprire-uno-studio-di-fisioterapia-nel-2022/ "Veloce guida su come aprire uno studio di fisioterapia nel 2022") e se vuoi [trovare pazienti](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/ "Come trovare pazienti | Panoramica Internet").
+
+Spero che questo argomento abbia stuzzicato la tua curiosità, grazie per aver letto! 
