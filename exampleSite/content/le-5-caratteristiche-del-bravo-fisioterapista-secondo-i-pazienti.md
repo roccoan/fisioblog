@@ -87,11 +87,11 @@ Anche per questo punto, sentiamo cosa ha detto uno degli intervistati:
 
 ### 4. Comprensione delle persone e capacità relazionali
 
-I pazienti hanno ritenuto importante che il fisioterapista fosse amichevole, dimostrasse empatia (specialmente in relazione al dolore), incoraggiamento e capacità di relazionarsi con le persone. 
+I pazienti hanno ritenuto importante che il fisioterapista fosse **amichevole**, dimostrasse **empatia** (specialmente in relazione al dolore), **incoraggiamento** e **capacità di relazionarsi con le persone**. 
 
-Il fisioterapista dovrebbe dunque avere tali caratteristiche per collocare il paziente sempre al centro dell'incontro terapeutico e fallo sentire, soprattutto compreso i rispettato:
+Il fisioterapista dovrebbe dunque avere tali caratteristiche per collocare il paziente sempre al centro dell'incontro terapeutico, facendolo sentire compreso e rispettato:
 
-> "Ciò che conta per me è l'empatia, una compressione del dolore e la sensazione di essere importante e di essere una persona (e non un numero o un cliente, aggiungo io)." 
+> "Ciò che conta per me è l'empatia, qualcuno che comprenda il mio dolore e la sensazione di essere importante, di essere considerato una persona (e non un numero o un cliente, aggiungo io)."
 
 E anche:
 
@@ -99,7 +99,23 @@ E anche:
 
 ### 5. Trasparenza dei progressi e dei risultati
 
-Beh, secondo i partecipanti un fisioterapista dovrebbe comunicare il risultato ottenuti al paziente in modo che possa rispettare con sicurezza il programma RIABILITATIVO, infatti, sono stati segnalati maggiori out laddove il progressi erano stati misurati e comunicati. Dunque il fisioterapista dovrebbe raccogliere dati sugli obiettivi conseguiti, utilizzarli per dimostrare la pazienti i traguardi raggiunti.E per motivarlo nel continuare il percorso di cura. E allora vediamo di nuovo cosa hanno detto i pazienti in merito a quest'ultimo aspetto. Per me è stato importante dirmi i progressi che stavo facendo, ad esempio, fino a che punto potevo piegare il dito? Nella prima settimana avrei pregato di 20 ° e la settimana dopo l'avrei pregato di 40 ° e COSI via. E ancora, dicono?Mi hanno fatto sentire come se stessi andando davvero bene, che stavo facendo progressi. E stato bello essere motivato da un professionista di incoraggia a continuare a seguire il trattamento.E ancora, il fisioterapista era davvero interessato al mio miglioramento settimana dopo settimana e ha persino ripreso le misurazioni passate per dire, guarda tre o quattro settimane fa facevi solo questo, facendomi notare come le prime volte e qual era la differenza? Oggi mi ha rassicurato e fatto capire che stavo davvero migliorando.Beh,
+Secondo i partecipanti, **un fisioterapista dovrebbe comunicare i risultati ottenuti al paziente** in modo che possa rispettare il programma riabilitativo. 
+
+Infatti, sono stati segnalati maggiori progressi e maggiore soddisfazione quando sono stati misurati e comunicati i risultati. 
+
+Dunque il fisioterapista dovrebbe raccogliere dati sugli obiettivi conseguiti e utilizzarli per dimostrare ai pazienti i traguardi raggiunti. 
+
+Vedere i risultati è qualcosa di molto motivante (lo è anche per noi, in altri ambiti della nostra vita), e quindi è anche un modo per motivare il paziente e [ridurre le probabilità che non si presenti più](https://fisioterapisti.org/il-piu-grande-problema-di-chi-inizia-come-non-perdere-i-pazienti-a-meta-del-piano-terapeutico/ "Il più grande problema di chi inizia | Come non perdere i pazienti a metà del piano terapeutico") e abbandoni la riabilitazione a metà del ciclo (che è qualosa che interessa molto a chi fa il libero professionista).
+
+> "Per me è stato importante sentirmi dire i progressi che stavo facendo. Ad esempio, fino a che punto potevo piegare il dito? Nella prima settimana avrei pregato di 20° e la settimana dopo l'avrei pregato di 40° e così via." 
+
+Oppure:
+
+> "Il fisioterapista era davvero interessato al mio miglioramento settimana dopo settimana. Ha persino tirato fuori le misurazioni passate per dirmi: <<Guarda, tre o quattro settimane fa facevi solo questo!>>, facendomi notare la differenza, rassicurandomi e facendomi capire che stavo davvero migliorando".
+
+Un ottimo modo per tenere traccia dei risultati - oltre alle misurazioni - è scattare foto o girare video in momenti diversi della raibilitazione, un po' come fanno i nutrizionisti con i pazienti che perdono peso. 
+
+Per molte problematiche puoi girare video di spalle oppure oscurare i visi (così non appare il viso del paziente), ma **chiedi sempre il consenso** di scattare foto, girare video e se puoi pubblicarli (che è anche un modo per mostrare i risultati ad altri potenziali pazienti con le stesse problematiche).
 
 ## Quali sono le implicazioni pratiche?
 
