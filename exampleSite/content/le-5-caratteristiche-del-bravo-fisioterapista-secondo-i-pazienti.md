@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione", "Studio e Carriera"]
 date = 2022-09-20T22:00:00Z
 description = "Come si diventa un Fisioterapista migliore, secondo i pazienti? E quale miglior modo di scoprirlo, se non chiedendolo a loro?"
-draft = true
 image = "/images/guerrillabuzz-crypto-pr-pb5w9wu1goa-unsplash.jpg"
 title = "Le 5 caratteristiche del bravo Fisioterapista (secondo i pazienti)"
 type = "post"
