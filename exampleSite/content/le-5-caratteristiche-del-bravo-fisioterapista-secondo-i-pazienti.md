@@ -41,19 +41,61 @@ In uno [studio di Martin O' Kidd del 2011](https://pubmed.ncbi.nlm.nih.gov/21497
 
 ### 1. Capacità di comunicazione
 
-un primo risultato supportato anche dalla letteratura precedente, è stato l'importanza della capacità di comunicazione intesa come uno scambio reciproco di informazioni. Nello specifico, le componenti inclusi dai pazienti all'interno di questa categoria sono state, buona capacità di ascolto, linguaggio chiaro ed esplicativo, spiegazione e rassicurazione sul dolore. Pertanto è stato ritenuto importante che i fisioterapisti fossero in grado di interpretare il racconto del paziente, comprendere e gestire la sua condizione e rassicurarlo in merito ai sintomi.Riguardo questi aspetti, ecco cosa è stato detto dai partecipanti dello studio, per esempio dicono il fisioterapista dovrebbe ascoltare quello che dici noi pazienti. Non conosciamo la terminologia da usare, possiamo solo dire il dolore qui quando faccio questo accade questo. Ecco, questo è importante.Comunicare sullo stesso registro del nostro paziente e in merito al rassicurare il paziente, i pazienti hanno Detto questo, i terapista mi dovrebbe dire cosa stava succedendo. Cosa posso non posso fare rassicurarmi sul fatto che sto facendo la cosa giusta e il fisioterapista mi dovrebbe dire fallo fin dove diventa doloroso, spinge un po, ma senza esagerare.E poi sottolineare l'importanza di fare gli esercizi e questo dice il paziente mi ha fatto capire quanto fosse importante assicurarsi di mantenere il movimento in quel braccio, anche se era un po doloroso e viene. Tutte queste sono informazioni molto importanti.
+La prima cosa venuta fuori intervistando i pazienti è stata **l'importanza della capacità di comunicazione** - intesa come uno **scambio reciproco di informazioni**. 
+
+Nello specifico, i componenti inclusi dai pazienti all'interno di questa categoria sono stati 3: 
+
+* Buona **capacità di ascolto**;
+* **Linguaggio chiaro** ed esplicativo;
+* Spiegazione e **rassicurazione sul dolore**. 
+
+La cosa importante è che il fisioterapista sia in grado di interpretare il racconto del paziente, comprendere e gestire la sua condizione e rassicurarlo in merito ai sintomi.
+
+Riguardo a questi aspetti, ecco cosa è stato detto dai partecipanti dello studio: 
+
+> "Il fisioterapista dovrebbe ascoltare quello che diciamo noi pazienti. Non conosciamo la terminologia esatta da usare, possiamo dire quando faccio così ho dolore, quando faccio così no".
+
+E qui si apre un'altra parentesi, perché **comunicare usando lo stesso registro del nostro paziente** aiuta a rassicurarlo su cosa sta succedendo e a sentirsi compreso. 
+
+Altra cosa fondamentale è spiegare che è okay spingere un po' (senza esagerare) se c'è dolore durante gli esercizi.
+
+E a proposito di esercizi, **non basta comunicare che è importante farli**. 
+
+Conta anche il modo in cui viene comunicato (che è personale e si sviluppa con il tempo, anche se i pazienti che proprio non vogliono farli esistono eccome).
 
 ### 2. Sicurezza di sé e confidenza del professionista
 
-Il fisioterapista dovrebbe essere sicuro nelle spiegazioni e anche nell'atteggiamento. I partecipanti hanno infatti preferito fisioterapisti che, oltre alla capacità di comunicazione dimostrassero sicurezza in merito alle proprie conoscenze, competenze e che avessero un'attitudine tale da supportare il paziente durante il percorso di riabilitazione.Anche in questo secondo punto, vediamo cosa hanno detto i pazienti. Lo studio, per esempio dicono è importante per me percepire che il terapista sappia di cosa sta parlando, che è sicuro di ciò che sta dicendo, che si sente fiducioso ed è importante sapere che lì con me c'era qualcuno che sapeva davvero cosa stava facendo. E un'altro paziente dice.Avevo fiducia perché quando ho chiesto qualsiasi cosa ho avuto risposte buone e chiare. Molto bene questa importante punto.
+Il fisioterapista dovrebbe essere **sicuro nelle spiegazioni e anche nell'atteggiamento**.
+
+I partecipanti hanno infatti preferito fisioterapisti che, oltre alla capacità di comunicazione **dimostrassero sicurezza** in merito alle proprie conoscenze, competenze e che avessero un'**attitudine tale da supportare il paziente** durante il percorso di riabilitazione.
+
+Anche in questo secondo punto, vediamo **cosa hanno detto i pazienti** intervistati:
+
+> "È importante per me percepire che il terapista sappia di cosa sta parlando, che è sicuro di ciò che sta dicendo, che si sente fiducioso ed è importante sapere che lì con me c'era qualcuno che sapeva davvero cosa stava facendo."
 
 ### 3. Conoscenza, competenza e professionalità
 
-La conoscenza e le competenze sono state considerate requisiti essenziali, i partecipanti hanno infatti riportato una maggior fiducia nei confronti di un fisioterapista.Che fosse in grado di spiegare il problema, rispondere alle domande e condurre la seduta di riabilitazione con professionalità. Dai dati è emerso inoltre che i pazienti preferiscono essere partecipi nella discussione sulle opzioni di trattamento, esprimendo dubbi e sensazioni in merito alle cure ricevute. Ecco che cosa ha detto un paziente in merito a questa.Aspetto, il terapista sapeva cosa stava facendo, sapeva quali erano gli esercizi giusti, come dovevo farli, a cosa servivano e ne ho sperimentati il beneficio in modo in cui sono stato trattato, il modo in cui sono stato incoraggiato. Ecco l'esperienza, ero fiducioso che la cosa migliore mi stesse succedendo. Ascoltate bene quello che dicono questi pazienti, perché sono.Informazioni essenziali, vediamo il
+La conoscenza e le competenze sono state considerate requisiti essenziali. 
+
+I pazienti intervistati hanno infatti riportato una maggior fiducia nei confronti di un fisioterapista che fosse in grado di spiegare il problema, rispondere alle domande e **condurre la seduta di riabilitazione con professionalità**.
+
+Dai dati è emerso che i pazienti preferiscono **essere partecipi nella discussione** sulle opzioni di trattamento, esprimendo dubbi e sensazioni in merito alle cure ricevute. 
+
+Anche per questo punto, sentiamo cosa ha detto uno degli intervistati: 
+
+> "Il terapista sapeva cosa stava facendo, sapeva quali erano gli esercizi giusti, come dovevo farli, a cosa servivano."
 
 ### 4. Comprensione delle persone e capacità relazionali
 
-I pazienti hanno ritenuto importante che il fisioterapista, forse amichevole, dimostrasse empatia, specialmente in relazione al dolore, incoraggiamento e capacità di relazionarsi con le persone, il fisioterapista.Dovrebbe dunque avere tali caratteristiche per collocare il paziente sempre al centro dell'incontro terapeutico e fallo sentire, soprattutto compreso i rispettato. Sentite bene. Cosa ha detto? Quindi alcuni pazienti in merito?Ciò che conta per me è l'empatia, una compressione del dolore e la sensazione di essere importante e di essere una persona reale. E ancora, dicono, il fisioterapista dovrebbe essere capace di relazionarsi con i pazienti per metterli a loro agio. Mi hanno fatto sentire importante come una persona reale a cui tenevano veniamo all'ultimo punto.
+I pazienti hanno ritenuto importante che il fisioterapista fosse amichevole, dimostrasse empatia (specialmente in relazione al dolore), incoraggiamento e capacità di relazionarsi con le persone. 
+
+Il fisioterapista dovrebbe dunque avere tali caratteristiche per collocare il paziente sempre al centro dell'incontro terapeutico e fallo sentire, soprattutto compreso i rispettato:
+
+> "Ciò che conta per me è l'empatia, una compressione del dolore e la sensazione di essere importante e di essere una persona (e non un numero o un cliente, aggiungo io)." 
+
+E anche:
+
+> "I fisioterapisti dovrebbero essere capaci di relazionarsi con i pazienti per metterli a loro agio. Mi hanno fatto sentire importante, come una persona a cui tenevano per davvero."
 
 ### 5. Trasparenza dei progressi e dei risultati
 
