@@ -78,3 +78,9 @@ Tutti i dettagli [sul sito dell'ente](https://www.inrca.it/INRCA/MODTRASP/ "IRCC
 **Tipologia:** Concorso Pubblico per Fisioterapisti
 
 **Posti:** 1
+
+Bando di concorso pubblico per esami per l’assunzione a tempo indeterminato e a tempo parziale 18 ore settimanali pari al 50% del tempo pieno di una unità con profilo professionale di “FISIOTERAPISTA” cat. C1 CCNL Comparto Funzioni Locali.
+
+Termine presentazione domande: ore 12.00 del 14 ottobre 2022.
+
+Per il bando, [clicca qui](https://one69.robyone.net/1337?single=626E71556E335A384773413D "IPAB Emilio Biazzi Concorso Fisioterapista").
