@@ -128,6 +128,34 @@ CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 5 POSTI A TEMPO INDETERMINATO
 
 Tutti i dettagli [sul sito dell'ente](https://one33.robyone.net/CompetitionNotice.aspx?sid=53&cid=120&id=570482 "Concorso pubblico fisioterapisti IPAB Valdagno").
 
+## CASA DI RIPOSO Cartigliano
+
+**Scadenza:** 26/09/2022
+
+**Luogo:** Cartigliano (VI)
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 1
+
+Concorso pubblico, per esami, per la formazione di una graduatoria per la copertura di un posto di fisioterapista, categoria C1, a tempo pieno ed indeterminato. (GU n.71 del 06-09-2022)
+
+Tutti i dettagli [sul sito dell'ente](https://one33.robyone.net/CompetitionNotice.aspx?sid=53&cid=75&id=575472 "Concorso pubblico fisioterapisti CDR Carigliano").
+
+## CASA DI RIPOSO Cartigliano
+
+**Scadenza:** 26/09/2022
+
+**Luogo:** Cartigliano (VI)
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 1
+
+Concorso pubblico, per esami, per la formazione di una graduatoria per la copertura di un posto di fisioterapista, categoria C1, a tempo pieno ed indeterminato. (GU n.71 del 06-09-2022)
+
+Tutti i dettagli [sul sito dell'ente](https://one33.robyone.net/CompetitionNotice.aspx?sid=53&cid=75&id=575472 "Concorso pubblico fisioterapisti CDR Carigliano").
+
 ## Conclusione
 
 Per questo mese è tutto!
