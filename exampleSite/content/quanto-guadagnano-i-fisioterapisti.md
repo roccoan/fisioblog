@@ -131,6 +131,8 @@ Di che cifra netta parliamo? Siamo attorno ai **€1.400/1.500 netti** al mese (
 
 Durante la carriera si può salire all'interno della Categoria D alle sotto-categorie D1, D2, fino a D6, con uno stipendio che sale leggermente di ogni scatto.
 
+> Abbiamo una rubrica mensile per i concorsi che aggiorniamo sempre con tutte le date. Unisciti a noi al [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per non perderti gli aggiornamenti dell'ultimo minuto sui concorsi.
+
 #### Categoria DS
 
 Uno **scatto più importante** è quando si passa **dalla Categoria D alla DS**, cioè quella dei **Coordinatori** (posizione che richiede l'apposita magistrale o il master) che guadagnano mediamente tra i **€1.600 e i €1.750 netti** circa (anche qui, difficile dare un numero preciso).
