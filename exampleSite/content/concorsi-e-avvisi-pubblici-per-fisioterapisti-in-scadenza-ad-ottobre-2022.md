@@ -84,3 +84,11 @@ Bando di concorso pubblico per esami per l’assunzione a tempo indeterminato e 
 Termine presentazione domande: ore 12.00 del 14 ottobre 2022.
 
 Per il bando, [clicca qui](https://one69.robyone.net/1337?single=626E71556E335A384773413D "IPAB Emilio Biazzi Concorso Fisioterapista").
+
+## Conclusione
+
+Per questo mese è tutto!
+
+Se ci saranno aggiornamenti correremo ad aggiungerli sia qui che [sul nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti | Telegram").
+
+Buona fortuna a tutti i partecipanti, a presto!
