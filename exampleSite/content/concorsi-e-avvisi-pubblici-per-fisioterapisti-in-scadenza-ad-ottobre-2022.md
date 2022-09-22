@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Concorsi"]
 date = 2022-09-21T22:00:00Z
 description = "Concorsi per fisioterapisti e avvisi pubblici per fisioterapisti in scadenza ad ottobre 2022"
-draft = true
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
 title = "Concorsi e Avvisi Pubblici per Fisioterapisti in scadenza ad Ottobre 2022"
 type = "post"
