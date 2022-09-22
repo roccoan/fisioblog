@@ -37,14 +37,16 @@ Tutti i dettagli [sul sito dell'ente](https://www.ospedalesanmartino.it/bandi-e-
 
 ## CENTRO REGIONALE S. ALESSIO Roma
 
-**Scadenza:** 03/10/2022
+**Scadenza:** 09/10/2022
 
-**Luogo:** Genova
+**Luogo:** Roma
 
-**Tipologia:** Assegnazione Borsa di Studio per Fisioterapisti
+**Tipologia:** Concorso Pubblico per Fisioterapisti
 
-**Posti:** 2
+**Posti:** 1
 
-Pubblica selezione, per titoli e colloquio, per l’assegnazione di due borse di studio, della durata di 12 mesi ciascuna, per collaborare al progetto _“Development and implementation of common strategy to the management of community dwelling older subjects with multimorbidity and polypharmacy: integration with a multicomponent intervention platform by using domotic, robotic and telecare systems"_ (NET) (M311A), da svolgersi presso U.O. Clinica di Neuroriabilitazione (22B_2B_FISIOTER_NEURO)
+CONCORSO PUBBLICO, per titoli ed esami, assunzione a tempo pieno ed indeterminato, per n. 1 posto (scadenza: 09/10/22)
 
-Tutti i dettagli [sul sito dell'ente](https://www.ospedalesanmartino.it/bandi-e-gare/borse-di-studio/publiccompetition/1458594-22b_2b_fisioter_neuro.html?view=publiccompetition&id=1458594:22b_2b_fisioter_neuro "Borse di Studio Fisioterapia Genova OSpedale San Martino").
+Per il bando, [visita il sito dell'ente](https://www.santalessio.org/?vw=ricercaDettaglio&testo=&idn=2241&tblId=BANDI_GARA "Bandi Gara Concorso Sant'Assio Roma").
+
+Per iscriverti al concorso, [procedi da questa pagina](https://santalessio.intellitronika.com/ "Sant'Alessio Roma Concorsi").
