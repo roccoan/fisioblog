@@ -50,3 +50,31 @@ CONCORSO PUBBLICO, per titoli ed esami, assunzione a tempo pieno ed indeterminat
 Per il bando, [visita il sito dell'ente](https://www.santalessio.org/?vw=ricercaDettaglio&testo=&idn=2241&tblId=BANDI_GARA "Bandi Gara Concorso Sant'Assio Roma").
 
 Per iscriverti al concorso, [procedi da questa pagina](https://santalessio.intellitronika.com/ "Sant'Alessio Roma Concorsi").
+
+## IRCCS INRCA Ancona
+
+**Scadenza:** 10/10/2022
+
+**Luogo:** Ancona
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 16
+
+I 16 posti sono così suddivisi:
+
+* 12 per il concorso unificato (a tempo indeterminato);
+* 2 per l'area ricerca sanitaria di carattere clinico ed epidemiologico (tempo determinato 5 anni);
+* 2 all’area di supporto alla ricerca clinica e alle attività del comitato etico (tempo determinato 5 anni).
+
+Tutti i dettagli [sul sito dell'ente](https://www.inrca.it/INRCA/MODTRASP/ "IRCCS INRCA Ancona ").
+
+## IPAB “EMILIO BIAZZI” Castelvetro Piacentino (PC)
+
+**Scadenza:** 14/10/2022
+
+**Luogo:** Castelvetro Piacentino
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 1
