@@ -14,6 +14,36 @@ Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come fu
 
 Siccome il bonus €200 per i liberi professionisti sta avendo più colpi di scena di Prison Break, riporto qui gli aggiornamenti man mano che li pubblichiamo sul nostro [Canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official") (unisciti a noi per riceverli prima di tutti!)
 
+> **Aggiornamento (26 Settembre 2022):** Dopo tanta confusione, da oggi fino al 30 novembre 2022 è finalmente possibile richiedere il bonus €200 bonus €200 per chi: 
+>
+> 1) Ha la Partita IVA;
+>
+> 2) Nel 2021 ha guadagnato meno di €35.000 lordi;
+>
+> 3) Non l'ha già percepito a luglio (magari in altri lavori da dipendente).
+>
+> Chiedi al tuo commercialista quanto hai guadagnato l'anno scorso, perché se sei al di sotto dei €20.000, il bonus diventa da €350 (in fase di richiesta te lo fa selezionare, ma accertati prima che il dato sia giusto).
+>
+> \~
+>
+> **Come si fa la richiesta?**
+>
+> Serve SPID e si va sul sito dell'Inps (www.inps.it). 
+>
+> Dopo aver fatto l'accesso si torna alla home e si sceglie il bonus dei €200. 
+>
+> Sulla nuova pagina scegliamo la categoria a cui apparteniamo. Nel nostro caso la categoria è la prima, quella dei lavoratori autonomi.
+>
+> Basta mettere qualche spunta, il proprio IBAN per indicare dove far accreditare i soldi, e il gioco è fatto.
+>
+> Visto che siamo in tema bonus, ricordo anche l'iniziativa di buddybank by Unicredit: se apri un nuovo conto usando il codice BF5CAB hai: carta, bonifici e prelievi presso ATM Unicredit tutto gratis + €25 in regalo (che puoi sommare ai €350 di prima).
+>
+> Intanto [ti lascio il documento ufficiale dell'Inps](https://servizi2.inps.it/servizi/ComunicatiStampa/DownloadCS.aspx?ID_COMUNICATO=3161 "Comunicato INPS Bonus Fisioterapisti") per tutti i riferimenti su come fare la richiesta del bonus €200.
+>
+> Grazie per aver letto, a presto! 😉
+>
+> \~
+>
 > **Aggiornamento (20 Settembre 2022):** L'ennesimo colpo di scena: la domanda per il bonus agli autonomi è stata nuovamente rimandata (e non saranno più €200 ma €350 per chi ha guadagnato meno di €20k nel 2021)
 >
 > \~
