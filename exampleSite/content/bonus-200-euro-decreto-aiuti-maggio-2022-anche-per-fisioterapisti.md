@@ -14,9 +14,13 @@ Il Decreto Aiuti prevede un bonus di €200 per lavoratori e pensionati. Come fu
 
 Siccome il bonus €200 per i liberi professionisti sta avendo più colpi di scena di Prison Break, riporto qui gli aggiornamenti man mano che li pubblichiamo sul nostro [Canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official") (unisciti a noi per riceverli prima di tutti!)
 
-> **Aggiornamento (15 Settembre 2022):** Confermato il giorno 20 settembre come inizio delle domande. (Fonte: [Il Sole 24 Ore](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre")) 
+> **Aggiornamento (20 Settembre 2022):** L'ennesimo colpo di scena: la domanda per il bonus agli autonomi è stata nuovamente rimandata (e non saranno più €200 ma €350 per chi ha guadagnato meno di €20k nel 2021)
 >
-> Ci sarà tempo fino al 30 novembre, e [non c'è più bisogno di affrettarsi perché l'Adepp ha riferito che ci sono fondi per tutte le domande attese](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre"). 
+> \~
+>
+> **Aggiornamento (15 Settembre 2022):** Confermato il giorno 20 settembre come inizio delle domande. (Fonte: [Il Sole 24 Ore](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre"))
+>
+> Ci sarà tempo fino al 30 novembre, e [non c'è più bisogno di affrettarsi perché l'Adepp ha riferito che ci sono fondi per tutte le domande attese](https://amp24.ilsole24ore.com/pagina/AEisCX0B "Bonus 200 euro ai professionisti, confermata la partenza al 20 settembre").
 >
 > Quindi il rischio click-day non c'è più. Per fare la richiesta, leggi l'aggiornamento del 12 settembre qui in basso o la sezione "Come fare richiesta" prima delle conclusioni.
 >
