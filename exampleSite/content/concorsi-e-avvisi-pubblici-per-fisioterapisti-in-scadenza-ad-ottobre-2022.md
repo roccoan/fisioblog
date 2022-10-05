@@ -84,6 +84,14 @@ Termine presentazione domande: ore 12.00 del 14 ottobre 2022.
 
 Per il bando, [clicca qui](https://one69.robyone.net/1337?single=626E71556E335A384773413D "IPAB Emilio Biazzi Concorso Fisioterapista").
 
+## Aggiornamento
+
+Aggiungiamo due date:
+
+**ASST Bergamo Ovest: CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 4 posti (scadenza: 06/10/22) [Clicca qui](https://www.asst-bgovest.it/457.asp)
+
+**ESTAR Toscana: SELEZIONE PUBBLICA UNIFICATA**, per soli titoli, assunzione a tempo determinato (scadenza: 11/10/22) [Clicca qui](https://www.estar.toscana.it/index.php/72-2022-sel-collaboratore-professionale-sanitario-fisioterapista-cat-d-scadenza-ore-1200-del-11-10-2022/)
+
 ## Conclusione
 
 Per questo mese è tutto!
