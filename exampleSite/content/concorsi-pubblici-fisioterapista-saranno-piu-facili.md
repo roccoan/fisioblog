@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2022-10-10T22:00:00Z
 description = "Se ti stavi chiedendo: ma sono difficili i concorsi pubblici? Sappi che tutto il panorama dei concorsi pubblici in Italia sta cambiando radicalmente, e oggi vediamo come."
-draft = true
 image = "/images/blank-smartphone-screen-with-design-space.jpg"
 title = "Concorsi Pubblici Fisioterapista: saranno più facili? 3 Novità Interessantissime"
 type = "post"
