@@ -86,11 +86,23 @@ Per il bando, [clicca qui](https://one69.robyone.net/1337?single=626E71556E335A3
 
 ## Aggiornamento
 
-Aggiungiamo due date:
+Aggiungiamo man mano nuove date:
 
-**ASST Bergamo Ovest: CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 4 posti (scadenza: 06/10/22) [Clicca qui](https://www.asst-bgovest.it/457.asp)
+* **ASST Bergamo Ovest: CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 4 posti (scadenza: 06/10/22) [Clicca qui](https://www.asst-bgovest.it/457.asp)
 
-**ESTAR Toscana: SELEZIONE PUBBLICA UNIFICATA**, per soli titoli, assunzione a tempo determinato (scadenza: 11/10/22) [Clicca qui](https://www.estar.toscana.it/index.php/72-2022-sel-collaboratore-professionale-sanitario-fisioterapista-cat-d-scadenza-ore-1200-del-11-10-2022/)
+
+* **ESTAR Toscana: SELEZIONE PUBBLICA UNIFICATA**, per soli titoli, assunzione a tempo determinato (scadenza: 11/10/22) [Clicca qui](https://www.estar.toscana.it/index.php/72-2022-sel-collaboratore-professionale-sanitario-fisioterapista-cat-d-scadenza-ore-1200-del-11-10-2022/)
+
+
+* **IPAB “EMILIO BIAZZI” Castelvetro Piacentino (PC): CONCORSO PUBBLICO**, per esami, assunzione a tempo parziale ed indeterminato, per n. 1 posto (scadenza: 14/10/22) [Clicca qui](https://www.istitutoemiliobiazzi.it/)
+* **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto _bando UOC PNEUMOLOGIA_ (scadenza: 14/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1505)
+* **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto _bando_ _UOC MEDICINA GENERALE borsa n. 1_ (scadenza: 14/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1505)
+* **AUSL Reggio Emilia: AVVISO PUBBLICO**, per titoli e colloquio, conferimento **INCARICHI LIBERO PROFESSIONALI**, per n. 1 posto (scadenza: 20/10/22) [Clicca qui](https://apps.ausl.re.it/BandiConcorsieIncarichi/#/bandi-di-gara/%7B%22parentUniqueId%22:%225960a071-f051-4a07-9fb5-9ebcae76a42f%22,%22childUniqueId%22:%22a6b591f2-e207-4f0e-9fe4-34bb46bc94d9%22%7D/9abef51a-2945-49ee-9fd8-89b1974631ab)
+* **OSPEDALI GALLIERA Genova: AVVISO PUBBLICO**, per titoli e colloquio, conferimento **INCARICHI LIBERO PROFESSIONALI**, per n. 1 posto (scadenza: 21/10/22) [Clicca qui](https://www.galliera.it/bandi/bandi-di-concorso/contratti-di-collaborazione/incarico-libero-professionale-ad-un-fisioterapista-per-la-realizzazione-del-progetto-multiplat_age_pro_home)
+* **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto (scadenza: 24/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1517)
+* **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto (scadenza: 24/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1518)
+* **IPAB “F. BOTTONI” Papozze (RO): CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo pieno ed indeterminato, per n. 1 posto (scadenza: 27/10/22) [Clicca qui](https://www.operapiabottoni.com/amministrazione/trasparenza/bandi-di-concorso/)
+* **ASM Basilicata: AVVISO PUBBLICO**, per soli titoli, per incarichi in regime di **LAVORO AUTONOMO o** **Co.Co.Co.** (scadenza: fino a copertura delle necessità assistenziali) [Clicca qui](https://www.asmbasilicata.it/servizi/bandi_concorsi/bandi_fase02.aspx?ID=6116)
 
 ## Conclusione
 
