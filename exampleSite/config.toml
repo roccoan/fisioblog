@@ -1,5 +1,5 @@
 baseURL = "fisioterapisti.org"
-disqusShortname = "fisioterapisti"
+disqusShortname = ""
 languageCode = "it-it"
 paginate = "8"
 summaryLength = "10"
