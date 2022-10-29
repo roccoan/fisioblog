@@ -10,6 +10,8 @@ type = "post"
 +++
 Interessata/o ad un posto pubblico? Vediamo insieme i concorsi per Fisioterapisti e gli avvisi pubblici per fisioterapisti in scadenza questo mese.
 
+> Per i concorsi in scadenza a Novembre 2022 [vai al nuovo articolo](https://fisioterapisti.org/concorsi-e-avvisi-per-fisioterapisti-in-scadenza-a-novembre-2022/ "Concorsi e Avvisi Pubblici per Fisioterapisti in scadenza a Novembre 2022 | Fisioterapisti.org").
+
 ## Introduzione
 
 Questo mese abbiamo in scadenza diversi concorsi e avvisi al centro e al nord.
@@ -89,11 +91,7 @@ Per il bando, [clicca qui](https://one69.robyone.net/1337?single=626E71556E335A3
 Aggiungiamo man mano nuove date:
 
 * **ASST Bergamo Ovest: CONCORSO PUBBLICO**, per titoli ed esami, copertura a tempo indeterminato, per n. 4 posti (scadenza: 06/10/22) [Clicca qui](https://www.asst-bgovest.it/457.asp)
-
-
 * **ESTAR Toscana: SELEZIONE PUBBLICA UNIFICATA**, per soli titoli, assunzione a tempo determinato (scadenza: 11/10/22) [Clicca qui](https://www.estar.toscana.it/index.php/72-2022-sel-collaboratore-professionale-sanitario-fisioterapista-cat-d-scadenza-ore-1200-del-11-10-2022/)
-
-
 * **IPAB “EMILIO BIAZZI” Castelvetro Piacentino (PC): CONCORSO PUBBLICO**, per esami, assunzione a tempo parziale ed indeterminato, per n. 1 posto (scadenza: 14/10/22) [Clicca qui](https://www.istitutoemiliobiazzi.it/)
 * **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto _bando UOC PNEUMOLOGIA_ (scadenza: 14/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1505)
 * **IRCCS POLICLINICO Milano: SELEZIONE PUBBLICA**, per titoli e colloquio, assegnazione **BORSA DI** **STUDIO**, per n. 1 posto _bando_ _UOC MEDICINA GENERALE borsa n. 1_ (scadenza: 14/10/22) [Clicca qui](https://www.policlinico.mi.it/lavora-con-noi/info/1505)
