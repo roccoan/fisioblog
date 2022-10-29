@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Concorsi"]
 date = 2022-10-28T22:00:00Z
 description = "Concorsi per fisioterapisti e avvisi pubblici per fisioterapisti in scadenza a novembre 2022"
-draft = true
 image = "/images/test-ammissione-fisioterapia.jpg"
 title = "Concorsi e Avvisi Pubblici per Fisioterapisti in scadenza a Novembre 2022"
 type = "post"
