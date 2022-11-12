@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2022-11-11T23:00:00Z
 description = "Le domande sul tirocinio sono diverse: Come funziona? Che si fa? Come ci si veste?  Oggi cerchiamo di dare una risposta, sperando possa tornare utile a chi inizia l’università e non vuole sorprese."
-draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "Tirocinio Fisioterapia: Come funziona? Che si fa? Come vestirsi?"
 type = "post"
