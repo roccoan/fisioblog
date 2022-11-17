@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2022-11-16T23:00:00Z
 description = "Come trovare pazienti? Questa volta parliamo di come puoi fare leva su tutti quei fenomeni che si diffondono tra il grande pubblico - come il Padel."
-draft = true
 image = "/images/oliver-sjostrom-szklku0ynfm-unsplash.jpg"
 title = "Come trovare nuovi pazienti grazie al Padel"
 type = "post"
