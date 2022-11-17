@@ -129,11 +129,11 @@ Qui vediamo come siano **cambiate le abitudini della società** (in modo decisam
 
 E tolto il Covid che come fenomeno non possiamo di certo definirlo una “moda”, ma tutti gli altri si, a molti **questi cambiamenti possono non interessare**.
 
-Perché il punto è questo: **non c’è scritto da nessuna parte che bisogna partecipare attivamente ad ogni singola moda che va e viene**. 
+Perché il punto è questo: **non c’è scritto da nessuna parte che bisogna partecipare attivamente ad ogni singola moda che va e viene**.
 
 In fondo siamo persone, e ad alcuni interesseranno delle cose che ad altri non interessano.
 
-E il Padel - che secondo me è la moda attuale - non fa eccezione. 
+E il Padel - che secondo me è la moda attuale - non fa eccezione.
 
 Non andrà sicuramente **bene per tutti**.
 
@@ -263,3 +263,5 @@ Ti ringrazio per aver letto fin qui e ti auguro buona fortuna con la tua ricerca
 Se non l’hai già fatto, leggi anche l’articolo - a mio avviso il più importante della serie su come trovare pazienti - che parla della prima cosa da fare quando devi trovare pazienti, e cioè [aprire e curare il profilo Google My Business](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/).
 
 A presto con nuovi articoli!
+
+_Photo Credits: Photo by Oliver Sjöström via Unsplash_
