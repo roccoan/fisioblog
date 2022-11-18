@@ -30,7 +30,7 @@ Quindi, quando si diventa fisioterapisti, per mantenere l’abilitazione bisogna
 
 ## Come si ottengono gli ECM?
 
-Si ottengono **seguendo dei corsi**. Ce ne sono gratuiti e a pagamento, alcuni danno più crediti di altri e possono essere in presenza o a distanza. Il numero degli ECM che rilascia il corso è sempre segnalato, e dipende da quante ore dura il corso stesso. 
+Si ottengono **seguendo dei corsi**. Ce ne sono gratuiti e a pagamento, alcuni danno più crediti di altri e possono essere in presenza o a distanza. Il numero degli ECM che rilascia il corso è sempre segnalato, e dipende da quante ore dura il corso stesso.
 
 > Ovvio che non tutti i corsi rilasciano ECM, quindi fai attenzione soprattutto se sono a pagamento.
 
@@ -110,6 +110,8 @@ Però, considera anche questo: esiste una legge che impone **almeno il 70% dei c
 E ricordiamolo: se non hai l’assicurazione professionale, **di fatto non puoi più esercitare** perché è obbligatoria.
 
 Quindi occhio. Se non hai raggiunto i crediti e hai comunque sottoscritto l’assicurazione professionale, alla denuncia di un sinistro dopo che un paziente si è fatto male da te **potrebbero non risarcirti**.
+
+> Aggiornamento: [da questa intervista](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=108997 "Ecm. Gagliano (Opi Genova): “Lettera Cogeaps una doccia fredda. Solo il 47% in regola”") viene fuori che se non ha ECM qualcuno all'interno di una equipe, manca la copertura anche al resto dei professionisti che ne fanno parte.
 
 Ciò che conta però è che il fabbisogno è stato ridotto a 100 ECM e comunque c’è tempo fino al 31 dicembre 2022 per mettersi in regola.
 
