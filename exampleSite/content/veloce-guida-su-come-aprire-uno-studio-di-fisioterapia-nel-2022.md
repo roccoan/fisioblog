@@ -64,9 +64,9 @@ In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la 
 
 ## Approfondimento
 
-Questa guida, come dice il titolo, è "veloce". 
+Questa guida, come dice il titolo, è "veloce".
 
-Essendo un po' introduttiva, nel corso del tempo abbiamo ricevuto tante domande - sia per email che in direct su Instagram (@fisioterapisti_org). 
+Essendo un po' introduttiva, nel corso del tempo abbiamo ricevuto tante domande - sia per email che in direct su Instagram (@fisioterapisti_org).
 
 Collezionando le esperienze di molti di noi abbiamo deciso di **realizzare un approfondimento** per rispondere alle domande che ti saranno sorte leggendo.
 
@@ -89,9 +89,11 @@ L'approfondimento è un **PDF** che puoi scaricare e leggere quando vuoi, anche 
 
 È [scaricabile gratis direttamente da qui](https://t.me/fisioterapisti_official/119 "Approfondimento PDF Apertura Studio"), sul nostro canale Telegram.
 
-Non è assolutamente richiesto far parte del canale e **puoi scaricarlo e condividerlo liberamente**. 
+Non è assolutamente richiesto far parte del canale e **puoi scaricarlo e condividerlo liberamente**.
 
 Ma se ti va di ricevere aggiornamenti, notizie e altro materiale gratuito utile per la nostra professione ti accogliamo con molto piacere!
+
+> Se devi aprire uno studio ti servirà anche un POS. Scopri [grazie al nostro nuovo articolo come puoi averlo gratis](https://fisioterapisti.org/come-avere-un-pos-gratis-con-conto-corrente-a-zero-spese-incluso/ "Come avere un POS Gratis | Con conto corrente a zero spese incluso") fino al 15 gennaio 2023.
 
 ## Conclusione
 
