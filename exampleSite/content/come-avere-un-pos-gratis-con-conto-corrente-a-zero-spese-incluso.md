@@ -3,7 +3,6 @@ author = "Federica"
 categories = []
 date = 2022-11-17T23:00:00Z
 description = "Ti sei mai chiesto se c'è un modo di avere il POS gratis? Ecco, vediamo come sfruttare offerte varie per ottenere un pos gratuitamente"
-draft = true
 image = "/images/21683828_hand-holding-debit-or-credit-card-near-scanner-2.jpeg"
 title = "Come avere un POS Gratis | Con conto corrente a zero spese incluso"
 type = "post"
