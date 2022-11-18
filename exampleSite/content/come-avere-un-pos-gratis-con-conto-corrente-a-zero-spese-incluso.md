@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = []
+categories = ["Libera Professione"]
 date = 2022-11-17T23:00:00Z
 description = "Ti sei mai chiesto se c'è un modo di avere il POS gratis? Ecco, vediamo come sfruttare offerte varie per ottenere un pos gratuitamente"
 image = "/images/21683828_hand-holding-debit-or-credit-card-near-scanner-2.jpeg"
@@ -24,7 +24,7 @@ La logica è molto semplice: aprendo per la prima volta un conto corrente BuddyB
 
 > Codice Buddybank per avere €40 sul conto: **2D10C5**
 
-Una volta aperto il conto, con parte del tuo bonus di €40 ci compri [il POS di SumUp in sconto](http://r.sumup.com/referrals/rprsw "POS SumUp in sconto") del 25% - e ti avanzano anche €10. 
+Una volta aperto il conto, con parte del tuo bonus di €40 ci compri [il POS di SumUp in sconto](http://r.sumup.com/referrals/rprsw "POS SumUp in sconto") del 25% - e ti avanzano anche €10.
 
 Se vuoi **capire come collegare conto e POS quando ti arrivano**, continua pure a leggere.
 
@@ -41,7 +41,7 @@ Però una cosa è certa: **la legge dice che devi avere un POS, ma non che devi 
 
 Se ci leggi molto probabilmente sei un Fisioterapista (ma ripeto: è un discorso valido anche per altre categorie), e al termine di un ciclo riabilitativo puoi comunque farti pagare con bonifico e non avere commissioni.
 
-Perché oggi parliamo di come avere il POS gratis, e cioè **senza pagare il costo di acquisto iniziale e nessuna spesa mensile ricorrente**. 
+Perché oggi parliamo di come avere il POS gratis, e cioè **senza pagare il costo di acquisto iniziale e nessuna spesa mensile ricorrente**.
 
 Ma sulle commissioni dei singoli pagamenti che accetti con carta non ci possiamo fare niente.
 
@@ -111,8 +111,8 @@ Con la carta potrai acquistare il POS [dal sito ufficiale di SumUp](http://r.sum
 
 Nel budget rientrano:
 
-* La **versione base** (SumUp Air, **€29,99**) 
-* La versione **con la basetta di ricarica** (**€34,99**) 
+* La **versione base** (SumUp Air, **€29,99**)
+* La versione **con la basetta di ricarica** (**€34,99**)
 
 Senza sconto costano rispettivamente €39,99 e €44,99, quindi il mio consiglio è di [acquistarlo da qui per avere lo sconto del 25%](http://r.sumup.com/referrals/rprsw "SumUp Sconto 25%").
 
@@ -123,7 +123,7 @@ Dopo tutto ciò avrai:
 * Il **conto corrente** a zero spese con l'app sul cellulare e la carta ricevuta per posta;
 * Il **POS** ricevuto per posta.
 
-Bisogna collegare i due tra: sul sito di SumUp avrai già messo **l'IBAN del tuo nuovo conto** (o del conto corrente che preferisci se ne hai più di uno) - non dovrai fare altro. **Ci pensano a tutto loro**.
+Bisogna collegare i due: sul sito di SumUp avrai già messo **l'IBAN del tuo nuovo conto** (o del conto corrente che preferisci se ne hai più di uno) - non dovrai fare altro. **Ci pensano a tutto loro**.
 
 Quando ricevi un pagamento con carta i soldi ti arriveranno sull'IBAN indicato.
 
@@ -134,7 +134,7 @@ Ricapitolando i passaggi sono:
 1. **Apri un conto Buddybank** per avere €40 sul conto con il codice: **2D10C5**;
 2. Quando ti arriva la carta, [acquista il POS sul sito ufficiale di SumUp](http://r.sumup.com/referrals/rprsw "SumUp Gratis") e indica l'IBAN del tuo nuovo conto (o comunque di uno che preferisci) per collegarli e dire a SumUp dove ti deve accreditare i pagamenti che ricevi con le carte.
 
-Questo è tutto! 
+Questo è tutto!
 
 PS: Se sei un Fisioterapista, passa pure a trovarci sul nostro [Canale Telegram Ufficiale](https://t.me/fisioterapisti_official "Fisioterapisti Official")
 
