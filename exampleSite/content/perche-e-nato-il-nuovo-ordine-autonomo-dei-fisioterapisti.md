@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = []
+categories = ["Libera Professione", "Università"]
 date = 2022-11-21T23:00:00Z
 description = "A settembre è stato annunciato il nuovo Albo dei Fisioterapisti. Ma a che punto siamo?"
 draft = true
@@ -56,21 +56,21 @@ No ovviamente non si vuole e non si può fare a meno dei medici.
 
 L'idea di base è molto semplice: lasciare ai pochi medici che ci sono le cose che possono fare solo i medici - e lasciare il resto a tutte le altre figure.
 
-Perché chiaramente un fisioterapista non potrà operare al posto di un ortopedico, ma magari arrivare un giorno a fare diagnosi "primarie" si.
+Perché chiaramente un fisioterapista non potrà operare al posto di un ortopedico, ma magari arrivare un giorno a [fare diagnosi "primarie" ](https://fisioterapisti.org/3-cose-che-non-vanno-della-fisioterapia-in-italia/ "3 cose che non vanno della Fisioterapia in Italia (secondo i Fisioterapisti)")si.
 
-Svincolare il medico da attività che possono fare benissimo altre figure specializzate distribuisce il carico su più persone.
+Svincolare il medico da attività che possono fare benissimo altre figure specializzate **distribuisce il carico su più persone**.
 
-> Da sola come soluzione non basta. Funzionerebbe da sola se ci fossero tanti altri professionisti sanitari. Ma c'è carenza di tantissime figure. Anche noi Fisioterapisti non siamo poi tanti come si crede. E inoltre, figure come gli infermieri sono talmente oberate di lavoro che è folle proporre di dar loro ancora più lavoro.
+> Da sola come soluzione non basta. Funzionerebbe da sola se ci fossero tanti altri professionisti sanitari. Ma c'è carenza di tantissime figure. Anche noi Fisioterapisti [non siamo poi tanti come si crede](https://www.instagram.com/p/Cch1pNBMsox/?utm_source=ig_web_copy_link "Quanti Fisioterapisti ci sono in Italia?"). E inoltre, figure come gli infermieri sono talmente oberate di lavoro che è folle proporre di dar loro ancora più lavoro.
 
 ### Quindi perché nasce l'Albo Autonomo dei Fisioterapisti?
 
 Perché nonostante la carenza di medici si vuole comunque garantire un presidio assistenziale territoriale.
 
-Facendo un esempio banalissimo, pensiamo di andare dal medico di base: fila interminabile, gente che tossisce, dopo una mattinata persa il medico deve chiudere lo studio e andare via.
+Facendo un **esempio banalissimo**, pensiamo di andare dal medico di base: fila interminabile, gente che tossisce, dopo una mattinata persa il medico deve chiudere lo studio e andare via.
 
 Se un paziente ha mal di schiena e va dal medico di base, dopo una breve visita per escludere qualcosa ai polmoni gli prescrive due antinfiammatori e dopo qualche settimana il dolore torna.
 
-Cambiare paradigma - e andare per una problematica del genere dal fisioterapista -  permetterebbe di ridurre di una certa percentuale le richieste di questo tipo al medico di base.
+**Cambiare paradigma** - e andare per una problematica del genere dal fisioterapista -  permetterebbe di ridurre di una certa percentuale le richieste di questo tipo al medico di base.
 
 La fila in sala d'attesa sarebbe un po' meno folta, il paziente non avrebbe perso la mattinata e magari il dolore non sarebbe ritornato.
 
@@ -80,7 +80,7 @@ Per tutti questi motivi, **allo Stato i Fisioterapisti tornano molto utili**: pe
 
 Questo è ben noto ai vertici del coordinamento nazionale dei Fisioterapisti, che hanno deciso di separarsi dal TSRM-PSTRP e istituire un Albo Autonomo anche per **creare un canale preferenziale per interagire con lo Stato**.
 
-Infatti, un conto è presentare al Governo una richiesta che viene da 19 Professioni Sanitarie, un altro conto è avere talmente tanto potere negoziale da presentarsi da soli.
+Infatti, un conto è presentare al Governo una richiesta che viene da 19 Professioni Sanitarie, un altro conto è **avere talmente tanto potere negoziale da presentarsi da soli**.
 
 ## Questa autonomia renderà più importanti i fisioterapisti nel futuro?
 
@@ -90,16 +90,16 @@ E questa cosa può tornare utile a chi sta decidendo cosa fare nella propria vit
 
 Il rischio che si corre **non sapendo di essere soluzione di un problema enorme**, è quello di _venire sfruttati_.
 
-Non sapere di avere valore porta a svalutarsi, ma il nostro obiettivo è l'opposto. 
+Non sapere di avere valore porta a svalutarsi, ma **il nostro obiettivo è l'opposto**. 
 
 E non stiamo idealizzando un futuro roseo.
 
-**Qui parliamo del presente**, di oggi: questa è un'ottima posizione in cui trovarsi e un'opportunità da sfruttare. 
+**Qui parliamo del presente**, di oggi: questa è un'ottima posizione in cui trovarsi e un'incredibile **opportunità da sfruttare**. 
 
 Se nemmeno sappiamo di avere qualcosa su cui fare leva, come possiamo pretendere di elevarci?
 
-Se c'è una consapevolezza collettiva sul valore della nostra categoria - da parte dei fisioterapisti, di tutti i cittadini, delle forze politiche - magari le cose non cambiano da un giorno all'altro, però pian piano migliorano. 
+Se c'è una consapevolezza collettiva sul valore della nostra categoria - da parte dei fisioterapisti, di tutti i cittadini, delle forze politiche - magari le cose non cambiano da un giorno all'altro, però **pian piano migliorano**. 
 
-Dopo 5-10 anni di piccoli miglioramenti le cose sono ben diverse, e siccome tra 5 anni ci arriverai comunque, meglio che fino ad allora siano avvenuti tanti piccoli miglioramenti che nel tempo si compongono a formarne uno grande, no?
+Dopo 5-10 anni di piccoli miglioramenti _le cose sono ben diverse_, e siccome tra 5 anni ci arriverai comunque, meglio che fino ad allora siano avvenuti tanti piccoli miglioramenti che nel tempo si compongono a formarne uno grande, no?
 
-In conclusione, sfruttiamo tutti questa consapevolezza per portare avanti tanti piccoli miglioramenti, anche nel nostro piccolo - e tra 5 o 10 anni i nuovi fisioterapisti e pazienti ci ringrazieranno per le scelte che abbiamo preso oggi.
+In conclusione, **sfruttiamo tutti questa consapevolezza per portare avanti tanti piccoli miglioramenti, anche nel nostro piccolo** - e tra 5 o 10 anni i nuovi fisioterapisti e i futuri pazienti ci ringrazieranno per le scelte che abbiamo preso oggi.
