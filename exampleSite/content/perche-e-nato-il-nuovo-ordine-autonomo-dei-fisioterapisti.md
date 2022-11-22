@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione", "Università"]
 date = 2022-11-21T23:00:00Z
 description = "A settembre è stato annunciato il nuovo Albo dei Fisioterapisti. Ma a che punto siamo?"
-draft = true
 image = "/images/ddp-g-u2xluqaxa-unsplash.jpg"
 title = "Perché è nato il nuovo Ordine Autonomo dei Fisioterapisti?"
 type = "post"
