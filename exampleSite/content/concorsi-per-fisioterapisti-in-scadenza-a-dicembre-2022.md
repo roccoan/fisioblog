@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Concorsi"]
 date = 2022-11-24T23:00:00Z
 description = "Concorsi per fisioterapista Dicembre 2022"
-draft = true
 image = "/images/patrick-perkins-etrpjvb0km0-unsplash.jpg"
 title = "Concorsi per Fisioterapisti in scadenza a Dicembre 2022"
 type = "post"
