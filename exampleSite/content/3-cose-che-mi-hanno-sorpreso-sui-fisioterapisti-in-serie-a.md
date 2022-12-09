@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione", "Carriera"]
 date = 2022-12-08T23:00:00Z
 description = "Da Fisioterapista specializzata in altro, ho scoperto un po' 3 cose sui Fisioterapisti sportivi delle squadre di Serie A che mi hanno davvero sorpreso. Quali? Scopriamolo insieme!"
-draft = true
 image = "/images/thomas-serer-r-xkiemql34-unsplash.jpg"
 title = "3 cose che mi hanno sorpreso sui Fisioterapisti della Serie A"
 type = "post"
