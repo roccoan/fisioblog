@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Carriera", "Libera Professione"]
 date = 2022-12-20T23:00:00Z
 description = "Prime novità sull'ordine autonomo fisioterapisti 2022"
-draft = true
 image = "/images/nuovo-ordine-fisioterapisti-2023.png"
 title = "3 Prime Novità sul nuovo Ordine Autonomo dei Fisioterapisti | Dicembre 2022"
 type = "post"
