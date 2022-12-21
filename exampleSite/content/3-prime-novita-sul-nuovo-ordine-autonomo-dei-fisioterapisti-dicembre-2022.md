@@ -27,25 +27,36 @@ Facciamo una breve carrellata di cose che NON sappiamo sul nuovo Albo dei Fisiot
 
 ### Iscrizione
 
-Molto probabilmente **non ci si dovrà iscrivere nuovamente**, ma si verrà trasferiti in automatico (quindi se tutto va bene non dovremmo rivivere il trauma vissuto nel 2018). 
+Confermato che **non ci si dovrà iscrivere nuovamente**, ma si verrà trasferiti in automatico (quindi non dovremmo rivivere il trauma vissuto nel 2018).
+
+> La migrazione degli Albi degli iscritti Fisioterapisti presso i precedenti Ordini TSRM PSTRP ai nuovi Ordini dei Fisioterapisti è avvenuto automaticamente. Non è dunque richiesta alcuna azione da parte degli iscritti.
+>
+> Fonte: fnofi.it
 
 Non sappiamo però ancora **quando e quanto si pagherà la prima iscrizione**.
 
 Sarà uguale, più alta o più bassa [rispetto a quello che paghiamo ora](https://fisioterapisti.org/come-si-paga-l-albo-dei-fisioterapisti/ "Come si paga l’Albo TSRM PSTRP? Guida 2022")? Per ora non abbiamo modo di saperlo.
 
+Ad oggi l'ultimo aggiornamento che abbiamo infatti è questo:
+
+> – **NUOVE ISCRIZIONI 2022 e 2023**: non appena definiti gli importi delle Tasse di iscrizione da ciascun Ordine territoriale, sarà attivata la funzione iscrizioni fruibile direttamente dalla home page del sito [www.fnofi.it](https://www.fnofi.it/)  
+> – **RINNOVI ISCRIZIONI 2023** saranno possibili da gennaio 2023 sempre direttamente dal sito [www.fnofi.it](https://www.fnofi.it/)
+>
+> Fonte: fnofi.it
+
 ### Assicurazione professionale
 
-Su questo punto mi viene da sorridere. 
+Su questo punto mi viene da sorridere.
 
-Dopo anni di assicurazione professionale stipulata privatamente, [nel 2022 sono finalmente passata all'assicurazione dell'Albo](https://fisioterapisti.org/parliamo-di-assicurazione-professionale-per-fisioterapisti/ "Parliamo di assicurazione professionale per fisioterapisti"), e a questo punto non so dal 1 gennaio 2023 se potrò rinnovarla. 
+Dopo anni di assicurazione professionale stipulata privatamente, [nel 2022 sono finalmente passata all'assicurazione dell'Albo](https://fisioterapisti.org/parliamo-di-assicurazione-professionale-per-fisioterapisti/ "Parliamo di assicurazione professionale per fisioterapisti"), e a questo punto non so dal 1 gennaio 2023 se potrò rinnovarla.
 
 Spero che ci sia continuità con il vecchio ordine TSRM-PSTRP, e immagino di sì, però finché non ne abbiamo la certezza c'è bisogno di aspettare.
 
 ### Tempistiche
 
-Non sappiamo ancora le tempistiche sulla effettiva variazione. 
+Non sappiamo ancora le tempistiche sulla effettiva variazione.
 
-Che intendo? 
+Che intendo?
 
 Intendo proprio il giorno a partire dal quale non andiamo più sul sito dell'ordine TSRM-PSTRP e per vedere la nostra posizione ci logghiamo al sito del nuovo albo.
 
@@ -59,7 +70,7 @@ Passiamo ora alle cose interessanti, cioè a cosa sappiamo.
 
 ### Il nome
 
-Il nome sarà **FNOFI: Federazione Nazionale Ordini FIsioterapisti**. 
+Il nome sarà **FNOFI: Federazione Nazionale Ordini FIsioterapisti**.
 
 Questo nuovo nome è molto simile a quello degli infermieri (FNOPI) e infinitamente meglio di "FNO TSRM-PSTRP".
 
@@ -81,7 +92,7 @@ A quanto pare è già presente un sito per il nuovo ordine autonomo con una **pa
 
     https://albo.alboweb-fnofi.net/registry/search
 
-Da qui puoi cercarti e **conoscere il tuo nuovo numero di iscrizione**. 
+Da qui puoi cercarti e **conoscere il tuo nuovo numero di iscrizione**.
 
 La ricerca è esattamente uguale a quella del vecchio Albo TSRM.
 
@@ -89,7 +100,7 @@ La ricerca è esattamente uguale a quella del vecchio Albo TSRM.
 
 Al momento in cui scrivo **il sito non è ancora presente cercando su Google**, infatti cercando FNOFI Google crede che tu stia cercando "FNOPI" (che è quello degli Infermieri).
 
-Molte funzioni del sito sono disattivate, infatti non si riesce a fare il Login, per cui al momento in cui scrivo l'unica funzione disponibile sembra essere solo la Ricerca Professionista. 
+Molte funzioni del sito sono disattivate, infatti non si riesce a fare il Login, per cui al momento in cui scrivo l'unica funzione disponibile sembra essere solo la Ricerca Professionista.
 
 Quindi è chiaro che è ancora in divenire, e anche abbastanza recente perché dalla pubblicazione le pagine su Google vengono mostrate dopo circa 10-15 giorni (per cui deduciamo che è stato pubblicato meno di 10 giorni fa).
 
@@ -104,7 +115,7 @@ Per cui la struttura è:
 * Federazione Nazionale al vertice (FNOFI);
 * Ordini Provinciali che fanno capo alla Federazione Nazionale.
 
-Per comprendere meglio la struttura, pensa alla tua iscrizione. 
+Per comprendere meglio la struttura, pensa alla tua iscrizione.
 
 Quando vai a controllare la tua iscrizione, ti indicano:
 
