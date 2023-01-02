@@ -62,13 +62,13 @@ Ci sono anche altre differenze, relativamente allo svolgimento della selezione:
 
 > Disclaimer: non sono la persona più indicata per dare consigli su come passare i concorsi perché non ne ho mai passato uno, avendo intrapreso altre strade. Per questo i consigli che sto per riportare provengono da due amici - N. e M., entrambi laureati in economia e ora dipendenti pubblici, in settori con più competizione rispetto ai concorsi per fisioterapisti - che dopo un paio d'anni di tentativi hanno finalmente vinto un concorso. Hanno affrontato tutto ciò con così tanta dedizione e ne hanno fatti talmente tanti che verso la fine ne hanno addirittura vinto più di uno, e sono stati addirittura in grado di scegliere quale posto pubblico accettare. Detto ciò, vediamo i loro consigli, tra quelli applicabili anche ai concorsi per fisioterapisti. Ne approfitto per ringraziare i miei amici per i consigli e augurare buona guarigione ad N. che al momento in cui scrivo è positivo al covid.
 
-La risposta (decisamente banale, ma è un articolo molto introduttivo sul tema) a come prepararsi ad un concorso è: **studiando, esercitandosi sui test e facendo più concorsi possibile**. 
+La risposta (decisamente banale, ma è un articolo molto introduttivo sul tema) a come prepararsi ad un concorso è: **studiando, esercitandosi sui test e facendo più concorsi possibile**.
 
 Le **materie da studiare** di solito sono elencate **all'interno dei bandi**, e questo basta a darci un indirizzo.
 
-Per quanto riguarda il materiale da studiare, volendo **si possono usare i libri o gli appunti dell'università**. 
+Per quanto riguarda il materiale da studiare, volendo **si possono usare i libri o gli appunti dell'università**.
 
-A questi si possono aggiungere i **libri per la preparazione ai concorsi** (basta cercare su Amazon), che contengono sia le parti teoriche che i quiz (di solito mettono a disposizione un sito per esercitarsi più agevolmente).
+A questi si possono aggiungere i **libri per la preparazione ai concorsi** (se non sai dove iniziare, [inizia da questo](https://amzn.to/3vyhFny "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it") - io ho la versione precedente ed è davvero completo), che contengono sia le parti teoriche che i quiz (di solito mettono anche a disposizione un sito per esercitarsi più agevolmente).
 
 Per passare un concorso c'è bisogno di **provare, provare e ancora provare**. Passare un concorso la prima volta è abbastanza irrealistico, perché ci si ritrova a **competere per pochi posti con persone agguerrite** e con più esperienza nello svolgere i concorsi.
 
@@ -115,3 +115,5 @@ Spero che questo articolo sia stato utile a dare una panoramica su come funziona
 Un grande in bocca al lupo a coloro che stanno preparando un concorso, che la perseveranza, l'insistenza e la fortuna siano con voi!
 
 Grazie mille per essere passata/o di qui, a presto :)
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
