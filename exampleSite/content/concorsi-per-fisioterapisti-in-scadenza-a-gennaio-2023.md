@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Concorsi"]
 date = 2023-01-01T23:00:00Z
 description = "Concorsi e avvisi pubblici per fisioterapisti in scadenza a Gennaio 2023. Scopri anche cosa studiare per concorso Fisioterapista."
-draft = true
 image = "/images/concorso-fisioterapista.jpg"
 title = "Concorsi per Fisioterapisti in scadenza a Gennaio 2023"
 type = "post"
