@@ -12,17 +12,16 @@ Il 2023 è arrivato: vediamo le novità sui concorsi pubblici per fisioterapisti
 
 Come al solito, elenchiamo le date dei concorsi che scadono a Gennaio 2023.
 
-Ci sono **parecchie assunzioni previste**, soprattutto in Lazio, ma anche in Sardegna e non solo. 
+Ci sono **parecchie assunzioni previste**, soprattutto in Lazio, ma anche in Sardegna e non solo.
 
-In Lazio sono in corso **parecchie procedure di stabilizzazione**. Su queste _non entriamo nel dettaglio_, perché molto probabilmente i diretti interessati ne sono già a conoscenza. 
+In Lazio sono in corso **parecchie procedure di stabilizzazione**. Su queste _non entriamo nel dettaglio_, perché molto probabilmente i diretti interessati ne sono già a conoscenza.
 
 Per cui procediamo ad elencare i concorsi e gli avvisi pubblici **in ordine di scadenza**. Vediamo quali.
 
 > Se non sai da dove iniziare a studiare, e il tempo per studiare è poco, ti consiglio di partire da questi due libri:
 >
-> 1) [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
->
-> 2) [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
+> 1. [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
+> 2. [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
 >
 > Con questi due copri praticamente tutti gli argomenti, che puoi sempre approfondire con gli appunti dell'università, con internet o con altri libri che hai già.
 
@@ -73,9 +72,8 @@ Concorso Pubblico, per Titoli ed Esami, per la copertura a tempo pieno ed indete
 
 Se non sai da dove iniziare a studiare, e **il tempo per studiare è poco**, ti consiglio di partire da questi due libri:
 
-1) [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
-
-2) [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
+1. [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
+2. [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
 
 Con questi due **copri la teoria e i quiz di tutti gli argomenti**, che puoi sempre approfondire con gli appunti dell'università, con internet o con altri libri che hai già.
 
@@ -84,3 +82,5 @@ Con questi due **copri la teoria e i quiz di tutti gli argomenti**, che puoi sem
 Per oggi è tutto!
 
 Se ci saranno aggiornamenti corriamo a comunicarli [sul nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti") - unisciti a noi per non perderti le date più interessanti!
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
