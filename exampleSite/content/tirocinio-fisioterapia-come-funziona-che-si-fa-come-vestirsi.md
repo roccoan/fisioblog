@@ -20,8 +20,6 @@ Oggi cerchiamo di dare una risposta, sperando possa tornare utile a chi inizia l
 
 Quindi, direi di partire.
 
-> Se non vuoi sorprese in generale per il resto della tua carriera, continua a seguirci [sul nostro canale Telegram ufficiale](https://t.me/fisioterapisti_official)!
-
 ## Come funziona il tirocinio a Fisioterapia?
 
 Non ci dilunghiamo troppo nei dettagli per non annoiare, però il succo è che il tirocinio **serve a fare pratica** e ad applicare nel mondo reale le nozioni teoriche che ti spiegano a lezione.
@@ -50,7 +48,7 @@ Premessa: durante la laurea devi conseguire 180 CFU (cioè i crediti universitar
 
 Ai miei tempi, i tre esami di tirocinio - uno per ogni anno - ammontavano alla metà dei CFU di tutto il corso di laurea.
 
-Infatti, ogni esame di tirocinio era da 30 CFU. 
+Infatti, ogni esame di tirocinio era da 30 CFU.
 
 Visto che se ne faceva uno ogni anno, in totale erano 90 CFU (la metà dei 180 totali).
 
@@ -233,6 +231,8 @@ Inoltre, a seconda dei periodi dell’anno, il camice riscalda (quindi tieni anc
 Di solito l’una o l’altra si ritirano direttamente in ospedale (poi quando inizi avrai tutte le indicazioni).
 
 Discorso scarpe: se ti forniscono anche le ciabatte dovrai usare quelle, come tutti gli altri professionisti sanitari, altrimenti usa scarpe da ginnastica comode e morbide.
+
+> Leggi anche: [3 cose necessarie per iniziare a lavorare come Fisioterapista](https://fisioterapisti.org/3-cose-necessarie-per-iniziare-a-lavorare-come-fisioterapista-bonus/ "3 cose necessarie per iniziare a lavorare come Fisioterapista ")
 
 ## Conclusione
 
