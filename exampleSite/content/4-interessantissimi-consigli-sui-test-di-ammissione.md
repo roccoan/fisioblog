@@ -46,8 +46,8 @@ La cosa importante da ricordare è questa: non importa tanto da dove studi, l’
 
 Faccio un veloce elenco:
 
-* Il classico Alphatest;
-* Artquiz;
+* Il [classico Alphatest](https://amzn.to/3GCKSnD "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato");
+* [Artquiz](https://amzn.to/3ia4oyF "Artquiz Studio. XIV Edizione A.A. 2022-23. Test di ammissione per Medicina, Odontoiatria, Veterinaria, Professioni Sanitarie e Biotecnologie");
 * I libri delle superiori;
 * Internet.
 
@@ -131,3 +131,5 @@ Quindi, grazie davvero tanto a tutte le persone che tutti i giorni contribuiscon
 E soprattutto, grazie ancora agli autori dei post e a te che hai letto fin qui!
 
 Se posso consigliarti altri articoli sul tema, dai un'occhiata [a questo con altri consigli](https://fisioterapisti.org/3-consigli-se-vuoi-studiare-fisioterapia-all-universita-ma-anche-altro/https://fisioterapisti.org/3-consigli-se-vuoi-studiare-fisioterapia-all-universita-ma-anche-altro/ "3 consigli se vuoi studiare Fisioterapia all’Università") oppure a [quest'altro dove si parla sempre del test d'ingresso](https://fisioterapisti.org/difficile-test-ingresso-fisio/ "è difficile il test d'ingresso a fisioterapia?").
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
