@@ -107,3 +107,5 @@ Per ogni evenienza ti consiglio anche [un mini kit di Pronto Soccorso](https://a
 Spero di averti dato un’idea di com’è la giornata quando inizi a lavorare come fisioterapista, e qualche strumento utile ad affrontarla meglio.
 
 Grazie per aver letto, [passa a trovarci sul nostro canale Telegram](https://t.me/fisioterapisti_official) per aggiornamenti utili sulla nostra professione!
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
