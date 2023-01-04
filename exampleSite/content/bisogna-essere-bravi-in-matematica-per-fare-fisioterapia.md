@@ -45,7 +45,7 @@ Quindi, possono capitare un po' di argomenti di matematica, ma fortunatamente **
 
 Per vederla da un altro punto di vista, siccome siamo in tema, facciamo due calcoli e notiamo che sono solo 4 domande di matematica su 60 totali.
 
-In percentuale quindi **le domande di matematica sono solo il 6,7% di tutto il test**. 
+In percentuale quindi **le domande di matematica sono solo il 6,7% di tutto il test**.
 
 ## E durante il corso di studi?
 
@@ -59,11 +59,11 @@ Con questo e altri articoli voglio rassicurare sulle varie preoccupazioni di chi
 
 Ma sia chiaro, l'Università e il test d'ingresso non sono facili e il mio rassicurare non vuole essere un "ma va, andrà tutto bene!" fine a sé stesso.
 
-L'atteggiamento giusto è quello di volersi mettere in gioco, di volersi spingere oltre, di andare oltre quello che pensiamo di valere e di andare oltre quello che pensiamo di essere in grado di fare. 
+L'atteggiamento giusto è quello di volersi mettere in gioco, di volersi spingere oltre, di andare oltre quello che pensiamo di valere e di andare oltre quello che pensiamo di essere in grado di fare.
 
 Se pensiamo "non ho fatto lo scientifico allora non posso fare materie scientifiche", stiamo perdendo il punto dell'università.
 
-Se pensiamo: "non sono bravo in matematica, in biologia, in chimica, in fisica (o qualsiasi altra cosa)" e in base a questo non facciamo cose, ci perdiamo un sacco di opportunità! Se non siamo bravi in qualcosa, l'Università serve a superare questo limite. 
+Se pensiamo: "non sono bravo in matematica, in biologia, in chimica, in fisica (o qualsiasi altra cosa)" e in base a questo non facciamo cose, ci perdiamo un sacco di opportunità! Se non siamo bravi in qualcosa, l'Università serve a superare questo limite.
 
 Ci fa paura? Certo, ma per quanto difficile ti assicuro che all'Università:
 
@@ -74,4 +74,8 @@ Quindi, se non vai bene in una materia semplicemente è perché magari in vita t
 
 Quindi, difficile è difficile, ma io dico che ne vale la pena!
 
+> Se non sai da dove iniziare a studiare, [parti con il classico Alphatest di Professioni Sanitarie](https://amzn.to/3Zcpm0k "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato"). C'è tutto: teoria, quiz e approfondimenti online. A me è bastato questo (e un'intera estate di studio disperato).
+
 Grazie per essere passata/o di qui, alla prossima :)
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.

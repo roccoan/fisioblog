@@ -97,6 +97,8 @@ La **pratica** è una di questi.
 
 Ma prima di pensare di dover essere iperproduttivo e disciplinatissimo come non riuscirai nemmeno in un’altra vita, continua a leggere.
 
+> Se non sai da dove iniziare a studiare, [parti con il classico Alphatest di Professioni Sanitarie](https://amzn.to/3Zcpm0k "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato"). C'è tutto: teoria, quiz e approfondimenti online. A me è bastato questo (e un'intera estate di studio disperato).
+
 ## 2. Pratica
 
 La pratica **è importantissima**, ma **non è tutto**.
@@ -162,8 +164,10 @@ Un bambino che cade mentre impara a camminare non inizia a pensare “forse mi s
 
 Ridicolo se ci pensi, vero? E allora perché farlo quando impari a passare i test d’ingresso?
 
-In ogni caso, siamo a maggio, e fino a settembre c’è tempo per prepararsi (col classico AlphaTest o con i corsi su YouTube e le simulazioni online).
+In ogni caso, siamo a maggio, e fino a settembre c’è tempo per prepararsi ([col classico AlphaTest](https://amzn.to/3Zcpm0k "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato") o con i corsi su YouTube e le simulazioni online).
 
 Se vuoi leggere un altro articolo sul tema, [ti consiglio questo](https://fisioterapisti.org/conviene-fare-fisioterapia-ci-sono-troppi-fisioterapisti/ "Conviene studiare fisioterapia? Ci sono troppi fisioterapisti?").
 
 Ti auguro buona fortuna, e grazie per aver letto fino a qui! A presto!
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
