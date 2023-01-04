@@ -118,6 +118,8 @@ Le cooperative sono sempre alla ricerca di professionisti per l'assistenza domic
 
 Per quanto riguarda il pubblico, il Servizio Sanitario Nazionale ha ricevuto parecchi fondi a seguito della pandemia e quindi c'è spazio anche negli Ospedali e nelle ASL (dove però bisogna passare gli avvisi pubblici/concorsi con tutto ciò che ne deriva).
 
+> Leggi anche: [3 cose necessarie per iniziare a lavorare come Fisioterapista](https://fisioterapisti.org/3-cose-necessarie-per-iniziare-a-lavorare-come-fisioterapista-bonus/ "3 cose necessarie per iniziare a lavorare come Fisioterapista ")
+
 ## Conclusione
 
 Le difficoltà ci sono, inutile negarlo. Ma le difficoltà ci sono per tutti i lavori, e per i fisioterapisti la situazione generalmente presenta un po' meno difficoltà rispetto ad altri settori, dove le lauree sono molto teoriche e poco pratiche, i neolaureati non hanno esperienza e non bastano i corsi di aggiornamento ad aumentare il proprio potere negoziale.
