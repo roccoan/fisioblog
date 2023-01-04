@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2023-01-03T23:00:00Z
 description = "3 cose necessarie per iniziare a lavorare come Fisioterapista "
-draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "3 cose necessarie per iniziare a lavorare come Fisioterapista | + Bonus"
 type = "post"
