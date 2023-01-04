@@ -14,7 +14,7 @@ Finito gli esami e stai per laurearti? Vediamo insieme cosa c'è da fare, così 
 
 ## 1) Questionario Almalaurea
 
-Questo questionario si fa prima di laurearsi, è per i laureandi e se non ricordo male a me chiesero di allegarlo alla domanda di laurea. 
+Questo questionario si fa prima di laurearsi, è per i laureandi e se non ricordo male a me chiesero di allegarlo alla domanda di laurea.
 
 Nel frattempo può essere cambiata la procedura o è una procedura che può dipendere da ateneo ad ateneo, e nel dubbio ti consiglio sempre di leggere il regolamento sul sito della tua università.
 
@@ -24,7 +24,7 @@ Tutta la procedura si fa tramite il [sito di Almalaurea](), dove puoi trovare le
 
 > In sintesi serve per statistica, se vuoi approfondire leggi qui altrimenti salta al punto **2) Iscrizione all'Albo**.
 
-Semba un altro adempimento inutile, ma vediamo cosa ci dice Almalaurea stessa a proposito dell'utilità del questionario. 
+Semba un altro adempimento inutile, ma vediamo cosa ci dice Almalaurea stessa a proposito dell'utilità del questionario.
 
 #### Serve al laureato
 
@@ -42,7 +42,7 @@ E’ uno strumento veloce, economico e affidabile per selezionare neolaureati e 
 
 Quando mi sono laureata io l'Albo ancora non esisteva, l'hanno introdotto dopo circa un anno. Oggi è obbligatorio, vediamo come funziona.
 
-L'Albo dei Fisioterapisti è condiviso con altre Professioni Sanitarie e si chiama **Federazione nazionale Ordini TSRM e PSTRP**. 
+L'Albo dei Fisioterapisti è condiviso con altre Professioni Sanitarie e si chiama **Federazione nazionale Ordini TSRM e PSTRP**.
 
 Serve tra le altre cose a difendere sia i pazienti che i professionisti da chi opera abusivamente, garantendo un certo standard (perché banalmente se sei iscritto all'albo vuol dire che hai fatto un determinato percorso che certifica le tue competenze).
 
@@ -52,7 +52,7 @@ Il **sito ufficiale dell'Albo** è [questo qui]().
 
 Per la registrazione e la contestuale **richiesta di iscrizione all'Albo** (da fare dopo la sessione di laurea che include l'esame di abilitazione alla professione di fisioterapista) bisogna procedere da [questa pagina](https://iscritto.alboweb.net/registry/create "Registrazione").
 
-Una volta completata l'iscrizione, ti viene assegnato un **numero di iscrizione** all'Albo della tua provincia. 
+Una volta completata l'iscrizione, ti viene assegnato un **numero di iscrizione** all'Albo della tua provincia.
 
 ### Si paga?
 
@@ -72,11 +72,9 @@ In sostanza è **obbligatoria** sia per i **liberi professionisti** (che rispond
 
 Facciamo una premessa e poi un distinguo. Per "massimali" si intendono i soldi massimi che l'assicurazione sborsa in caso di danno. Per capire quanto costa l'assicurazione vediamo due casi:
 
-* C'è l'**assicurazione in convenzione con l'Albo** che costa 
+* C'è l'**assicurazione in convenzione con l'Albo** che costa
   * **€30 all'anno** per i massimali di €2.000.000 o
   * **€35 all'anno** per i massimali a €5.000.000. Per fare l'una o l'altra bisogna essere iscritti all'Albo;
-
-
 * Altre assicurazioni con **agenzie/broker assicurativi** che se ne occupino. Chiaramente non ha senso andare su queste se a parità di massimali costano di più, ma per stare più tranquilli a circa €50 se ne trovano con massimali a €10-20 milioni.
 
 In buona sostanza, per iniziare va benissimo quella dell'Albo (soprattutto quella da €35 all'anno), più avanti puoi pensare di cambiare.
@@ -91,24 +89,30 @@ Il senso è che siccome la scienza va avanti, e **i professionisti devono restar
 
 L'ottenimento di questi ECM è **obbligatorio** per i fisioterapisti a partire dal 1° gennaio successivo alla data di iscrizione all’Ordine (quindi a partire dall'anno dopo la laurea).
 
-L'ente che si occupa di tenere traccia di quanti crediti hai si chiama [Agenas](https://ape.agenas.it/Home.aspx "Agenas"). 
+L'ente che si occupa di tenere traccia di quanti crediti hai si chiama [Agenas](https://ape.agenas.it/Home.aspx "Agenas").
 
 #### Come funziona e quanti ECM servono?
 
 Per farla molto breve ci si registra sul sito di Agenas alla sezione di [MyECM](https://ape.agenas.it/professionisti/myecm.aspx "myECM"), poi nell'area riservata man mano che facciamo i nostri corsi aggiungiamo gli ECM ottenuti.
 
-Il conteggio degli ECM è per triennio. 
+Il conteggio degli ECM è per triennio.
 
 Per i Fisioterapisti ad oggi occorre maturare **150 crediti ECM** **nel corso del triennio**. Questo significa 50 crediti ogni anno (non devono essere precisi ma _in media_, da un minimo di 25 ad un massimo di 75 ogni anno).
 
 ## 5) Ricerca lavoro
 
-Bene, siamo arrivati all'ultimo punto. Su questo ti rimando ad [un altro articolo](https://fisioterapisti.org/come-trovare-lavoro-dopo-la-laurea/ "Come cercare lavoro dopo la laurea per fisioterapisti") che ho già scritto a proposito, che verte principalmente sulla creazione del CV. 
+Bene, siamo arrivati all'ultimo punto. Su questo ti rimando ad [un altro articolo](https://fisioterapisti.org/come-trovare-lavoro-dopo-la-laurea/ "Come cercare lavoro dopo la laurea per fisioterapisti") che ho già scritto a proposito, che verte principalmente sulla creazione del CV.
 
-Nella mia esperienza ho notato che ci sono differenze rispetto ad altre professioni e magari puoi trovare qualche spunto interessante, soprattutto se hai letto già altri articoli in giro per il web su come scrivere un Curriculum e come cercare lavoro. 
+Nella mia esperienza ho notato che ci sono differenze rispetto ad altre professioni e magari puoi trovare qualche spunto interessante, soprattutto se hai letto già altri articoli in giro per il web su come scrivere un Curriculum e come cercare lavoro.
 
 Ci sono alcune peculiarità per i fisioterapisti che in altri lavori non si presentano, e le principali hanno a che fare proprio con il CV.
 
+> Leggi anche: [3 cose necessarie per iniziare a lavorare come Fisioterapista](https://fisioterapisti.org/3-cose-necessarie-per-iniziare-a-lavorare-come-fisioterapista-bonus/ "3 cose necessarie per iniziare a lavorare come Fisioterapista ")
+
 ## Conclusione
 
-Per oggi è tutto, spero ti possa tornare utile! Grazie per aver letto, a presto :)
+Per oggi è tutto, spero ti possa tornare utile.
+
+Passa a trovarci [sul nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Telegram") per aggiornamenti sulla nostra professione!
+
+Grazie per aver letto, a presto :)
