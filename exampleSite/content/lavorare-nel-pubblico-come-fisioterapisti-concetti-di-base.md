@@ -108,6 +108,13 @@ Può accadere per diverse motivazioni: nel frattempo possono essere stati assunt
 
 Quindi, anche se non lo si passa subito c'è speranza! Detto ciò, passiamo alle conclusioni.
 
+> Se non sai da dove iniziare a studiare, e il tempo per studiare è poco, ti consiglio di partire da questi due libri:
+>
+> 1. [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
+> 2. [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
+>
+> Con questi due copri praticamente tutti gli argomenti, che puoi sempre approfondire con gli appunti dell'università, con internet o con altri libri che hai già.
+
 ## Conclusione
 
 Spero che questo articolo sia stato utile a dare una panoramica su come funzionano i concorsi per fisioterapisti, e magari anche qualche consiglio utile a passarne uno se il tuo sogno è lavorare nel pubblico.
