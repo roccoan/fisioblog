@@ -115,3 +115,5 @@ Se ti vanno altri articoli sul tema leggi pure gli altri che ho scritto fino ad 
 
 * [Bisogna essere bravi in Inglese per fare Fisioterapia?](https://fisioterapisti.org/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia/ "Bisogna essere bravi in Inglese per fare Fisioterapia?")
 * [Bisogna essere bravi in Matematica per fare Fisioterapia?](https://fisioterapisti.org/bisogna-essere-bravi-in-matematica-per-fare-fisioterapia/ "Bisogna essere bravi in Matematica per fare Fisioterapia?")
+
+> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
