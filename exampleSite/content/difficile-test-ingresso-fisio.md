@@ -97,6 +97,8 @@ Pertanto seguendo questa strada ci ritroveremo con:
 * Degli **esami già fatti** che non dovremo ripetere al primo anno di Fisioterapia (nelle modalità previste dall'Università);
 * Una conoscenza più approfondita del **mondo universitario** e delle sue dinamiche.
 
+> Se non hai ancora idea di dove iniziare a studiare, parti con [la versione completa del classico Alphatest di Professioni Sanitarie](https://amzn.to/3vA0cLx "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato"). Qui c'è tutto quello che ti serve: teoria, quiz e approfondimenti online. Per me è bastato questo per passarlo al primo tentativo (oltre ad un'estate di studio e disperazione).
+
 ## Conclusione
 
 Non c'è altro modo di dirlo, il test è duro e non ci sono scorciatoie.
