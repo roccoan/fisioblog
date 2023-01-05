@@ -12,11 +12,11 @@ Oggi ci chiediamo: se siamo in libera professione e un paziente viene a fare fis
 
 ## Introduzione
 
-Questa è una guida per i fisioterapisti che si affacciano alla libera professione, ma può far comodo anche ai pazienti per conoscerne i retroscena.
+Questa è una guida per i fisioterapisti che si affacciano alla libera professione, ma serve anche ai pazienti per conoscerne i retroscena.
 
 Per entrambi, se c'è poco tempo a disposizione, **la risposta è no, non serve la prescrizione per detrarre la spesa sostenuta dal fisioterapista**, nè tantomento serve per fare fisioterapia in generale.
 
-> **Se sei fisioterapista** però c'è una precisazione da fare: **è richiesta una procedura obbligatoria**. Continua pure a leggere per ulteriori dettagli.
+> Però c'è una precisazione da fare: **è richiesta una procedura obbligatoria**. Continua pure a leggere per ulteriori dettagli.
 
 ## La figura del fisioterapista
 
@@ -24,13 +24,15 @@ Nel corso degli anni, **la figura del fisioterapista** ha acquisito sempre più 
 
 Già ora il **fisioterapista è pienamente autonomo** nelle proprie attività (per questo non serve prescrizione per andare dal fisioterapista, è il professionista che può scegliere in autonomia la terapia migliore per la situazione del paziente), e questa autonomia si riflette anche a livello **burocratico e fiscale**.
 
-Infatti, Il **fisioterapista** rientra tra le figure professionali elencate nel [D.M. n. 182 del 29 marzo 2001](https://www.gazzettaufficiale.it/eli/id/2001/05/19/001G0233/sg "(GU Serie Generale n.115 del 19-05-2001)"). Le spese sostenute per le prestazioni sanitarie rese dal **fisioterapista** sono quindi detraibili senza necessità di una specifica **prescrizione medica**.
+Infatti, Il **fisioterapista** rientra tra le figure professionali elencate nel [D.M. n. 182 del 29 marzo 2001](https://www.gazzettaufficiale.it/eli/id/2001/05/19/001G0233/sg "(GU Serie Generale n.115 del 19-05-2001)"). Le spese sostenute per le prestazioni sanitarie rese dal **fisioterapista** sono quindi **detraibili senza necessità di una specifica prescrizione medica**.
 
 ## Di cosa c'è bisogno per la detrazione
 
 Per la detrazione **non c'è bisogno della prescrizione del medico** (specialista o di famiglia), ma anzitutto **c'è bisogno di pagare con uno strumento tracciabile**.
 
 Quindi, **non sono ammessi pagamenti in contanti**, ma vanno bene sia quelli con carta o bonifico, che [altri meno scontati come Satispay e PayPal](https://www.ilsole24ore.com/art/da-satispay-paypal-ok-sconto-fiscale-le-spese-pagate-le-app-ACcCdCEB "Il Sole 24 Ore, Da Satispay a Paypal: ok allo sconto fiscale per le spese pagate con le App").
+
+> Piccola nota a margine: **se sei un paziente**, e il mal di schiena o alla cervicale è un problema, [considera anche il cambio del materasso](https://www.awin1.com/awclick.php?gid=422253&mid=25709&awinaffid=1226758&linkid=2978323&clickref= "Angolo degli Affari | Materassi e Doghe"). I materassi certificati come Presidio Medico dal Ministero della Salute **possono essere detratti del 19% come spesa sanitaria**. Per detrarli va richiesta la fattura al momento dell’acquisto, fornendo il codice fiscale della persona a cui è intestata la fattura, e presentare la fattura nella dichiarazione dei redditi.
 
 ## Il problema: il paziente che vuole detrarre la spesa sanitaria nel 730
 
@@ -60,6 +62,8 @@ Resta **l'obbligo di pagamento con strumento tracciabile**.
 
 Per il professionista invece **sono previste sanzioni nel caso di invio tardivo** (Quali? [Qui un sito che le spiega bene](https://companysrl.it/sistema-tessera-sanitaria-omessa-comunicazione-delle-informazioni-da-trasmettere/ "Sistema Tessera Sanitaria: l’omessa comunicazione delle informazioni da trasmettere"). Al momento non abbiamo tempo di approfondire, ma è sicuramente un ottimo argomento per un prossimo articolo).
 
+> Se sei un fisioterapista e hai imparato qualcosa di utile con questo articolo, è perché proviamo a spiegare cose che all'Università non ci hanno insegnato per bene e in modo chiaro. Facciamo lo stesso anche con gli aggiornamenti [sul canale Telegram ufficiale di Fisioterapisti](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram"): passa pure a trovarci per non perderteli!
+
 ## Conclusione
 
 Per concludere, rivediamo in sintesi cosa serve per detrarre la spesa del fisioterapista.
@@ -74,3 +78,5 @@ Inoltre bisogna effettuare l'invio telematico della fattura tramite Sistema TS. 
 Per oggi è tutto, spero che questo articolo possa tornarti utile.
 
 Grazie per aver letto, a presto!
+
+> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, proviamo a garantire una pubblicazione regolare di risorse utili e gratuite.
