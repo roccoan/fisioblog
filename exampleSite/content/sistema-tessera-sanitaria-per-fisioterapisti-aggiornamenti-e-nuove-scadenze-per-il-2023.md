@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2023-01-04T23:00:00Z
 description = "Sono ufficiali le novità per il 2023 di Sistema Tessera Sanitaria. Tra le altre cose, ci sono novità che riguardano i fisioterapisti."
-draft = true
 image = "/images/kelly-sikkema-xou52juvuxa-unsplash.jpg"
 title = "Sistema Tessera Sanitaria per Fisioterapisti | Aggiornamenti e nuove scadenze per il 2023"
 type = "post"
