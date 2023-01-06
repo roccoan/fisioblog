@@ -4,11 +4,15 @@ categories = ["Università", "Libera Professione"]
 date = 2022-09-05T22:00:00Z
 description = "Su internet ci sono tante guide sugli ECM: che sono, come si prendono, come si controllano. Ma il mio dubbio è sempre stato “che succede se non ho crediti ECM?”. Ecco, dopo tante ricerche abbiamo una risposta anche a questo."
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
-title = "Guida agli ECM per fisioterapisti (e che succede se non hai ECM)"
+title = "Guida agli ECM per fisioterapisti (e che succede se non hai ECM) | Agg. 2023"
 type = "post"
 
 +++
 Su internet ci sono tante guide sugli ECM: che sono, come si ottengono, come si controllano. Ma il mio dubbio è sempre stato “che succede se non ho crediti ECM?”. Ecco, dopo tante ricerche abbiamo una risposta anche a questo.
+
+## Aggiornamento: proroga ECM 2023
+
+Come [annunciato in anticipo sul nostro canale Telegram](https://t.me/fisioterapisti_official/158 "Aggiornamento 3 gennaio") (unisciti a noi per non perderti gli aggiornamenti più importanti!), sono stati prorogati i crediti ECM dello scorso triennio ancora per un anno - rendendolo a tutti gli effetti un quadriennio. Quindi, se non avevi abbastanza ECM non è più un problema: [hai ancora un anno per conseguirli, c'è tempo fino al 31 dicembre 2023](https://www.assocarenews.it/infermieri/ecm-proroga-di-un-anno-lobbligo-formativo-per-medici-infermieri-professioni-sanitarie-e-ostetriche "ECM. Proroga di un anno obbligo formativo per Medici, Infermieri, Professioni Sanitarie e Ostetriche."). 
 
 ## Introduzione
 
