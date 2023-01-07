@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2023-01-06T23:00:00Z
 description = "Oggi parliamo di lavoro dopo la laurea: meglio le certezze del posto fisso o i guadagni della Partita IVA?"
-draft = true
 image = "/images/siora-photography-hgfy1mzy-y0-unsplash.jpg"
 title = "Fisioterapista: meglio da dipendente o a Partita IVA?"
 type = "post"
