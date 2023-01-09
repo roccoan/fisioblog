@@ -4,7 +4,7 @@ categories = ["Carriera", "Libera Professione"]
 date = 2022-01-27T23:00:00Z
 description = "Veloce guida all'apertura di uno studio professionale"
 image = "/images/gabrielle-henderson-hjckknwcxxq-unsplash.jpg"
-title = "Veloce guida su come aprire uno studio di fisioterapia nel 2022"
+title = "Veloce guida su come aprire uno studio di fisioterapia nel 2023"
 type = "post"
 
 +++
@@ -20,7 +20,7 @@ L'ho fatto io, e altre persone che conosco, magari un giorno ci scriverò un art
 
 ## Cosa serve
 
-Per aprire uno studio di fisioterapia serve **l'abilitazione** (cioè la laurea), **l'iscrizione all'Albo**, **l'assicurazione professionale** e bisogna **effettuare una comunicazione** al comune o all'ASL territoriale competente.
+Per aprire uno studio di fisioterapia serve **l'abilitazione** (cioè la laurea), **l'iscrizione all'Albo** (che nel 2023 non è più l'Albo TSRM-PSTRP, ma il nuovo Albo Autonomo dei Fisioterapisti), **l'assicurazione professionale** e bisogna **effettuare una comunicazione** al comune o all'ASL territoriale competente.
 
 Siccome ogni regione ha le sue regole, non riuscirò ad entrare nel dettaglio di cosa viene richiesto, perché appunto **può variare da regione a regione**.
 
@@ -56,9 +56,30 @@ Nella comunicazione per aprire uno studio, come dicevamo prima, ogni regione è 
 * la **dichiarazione** (sempre di un tecnico) che il locale sia agibile e che gli impianti (tipo quelli elettrici) siano a norma ed è okay per i pazienti mettere a caricare il cellulare senza far esplodere tutto;
 * la **ricevuta di un pagamento** a titolo di diritti (come già detto dipende - per gli importi esatti bisogna chiedere al Comune o all'ASL).
 
-Il locale deve avere determinate caratteristiche (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri.
+Il locale **deve avere determinate caratteristiche** (tipo pavimenti e pareti lavabili per garantire condizioni igienico sanitarie di un certo standard ai pazienti), ma i requisiti non sono stringenti come quelli dei centri.
+
+### Che requisiti strutturali deve soddisfare?
+
+Le normative sono regionali, quindi dipende in buona sostanza da regione a regione.
+
+Il consiglio è cercare su Google: "rquisiti strutturali studio Fisioterapia" + il nome della tua regione. 
+
+Cerca tra i risultati anche i file PDF (quelli che hanno il bollino PDF per intenderci), di solito sono la **documentazione ufficiale pubblicata dall'azienda sanitaria locale della tua regione con i requisiti strutturali degli studi di fisioterapia**. 
+
+Te ne elenco alcuni che ho trovato (quando ne trovo altri li aggiungo):
+
+* [Regione Sardegna](https://omceoss.org/wp/wp-content/uploads/2013/01/Requisiti-apertura-Studio-Professionale-di-Fisioterapia.pdf "Requisiti apertura studio di fisioterapia");
+* [Regione Sicilia](https://pti.regione.sicilia.it/portalSSU/servlet/FileDownload?allegato=true&id=18612 "Requisiti strutturali, tecnologici e organizzativi");
+* [Regione Piemonte](http://www.regione.piemonte.it/governo/bollettino/abbonati/2009/15/siste/00000051.htm "Regione Piemonte | Bollettino Ufficiale n. 15 del 16 / 04 / 2009");
+* [Regione Lombardia](https://www.ats-brianza.it/images/documenti/igiene/02676_0_ID%202676%20informativa%20studi%20professionali.pdf "Informativa Studi Professional");
+* [ASL Roma 1](https://www.regione.lazio.it/sites/default/files/2021-10/SAN_MOD_2_Comunicazione_inizio_attivit%C3%A0_studio_professionale.pdf "ASL Roma 1 - Comunicazione inizio attività studio medico o odontoiatrico singolo o associato (L.R. n. 4/2003; art. 1 comma 2 R.R. n. 20/2019; D.G.R. 447/2015)") (è direttamente il modulo per la comunicazione apertura Studio Professionale, vengono citati i requisiti);
+* [Regione Puglia](http://www.espositomario.altervista.org/norme/Sanitarie/Comunicazione_studio.pdf "Comunicazione di apertura studio (medico, odontoiatra, delle professioni sanitarie) (art. 5, comma 5, L.R. Puglia 02.05.2017, n. 9)") (anche questo è il modulo di comunicazione all'ASL - che tra l'altro è quello che ho usato io. [C'è anche un allegato da compilare](http://www.espositomario.altervista.org/norme/Sanitarie/Allegato_studio.pdf "Dichiarazione Sostitutiva dell'atto di notorietà"))
+
+Alcune regioni entrano più nel dettaglio, altre meno, altre ancora non pubblicano nulla, ma in generale è una buona tattica per capire cosa ci serve.
 
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
+
+Per oggi abbiamo finito: se hai altre domande, continua a leggere, abbiamo quasi finito.
 
 > Se vuoi idee su [come allestire per bene lo studio spendendo poco, leggi qui](https://amzn.to/3WUXFrk "Allestire Studio Fisioterapia | Fisioterapisti | Amazon.it").
 
