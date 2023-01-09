@@ -31,6 +31,7 @@ description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
 logo = "/images/logo.png"
+social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/doctors.svg"
@@ -66,12 +67,3 @@ enable = false
 preloader = ""
 [params.search]
 enable = true
-[[params.social]]
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/company/fisioterapisti/"
-[[params.social]]
-icon = "ti-instagram"
-link = "https://www.instagram.com/fisioterapisti_official/"
-[[params.social]]
-icon = "ti-reddit"
-link = "https://www.reddit.com/r/fisioterapisti/"
