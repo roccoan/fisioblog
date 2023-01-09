@@ -29,8 +29,6 @@ Ad oggi credo sia il libro per prepararsi ai concorsi di fisioterapia più compl
 >
 > Copertina flessibile – 2 settembre 2021
 >
-> Copertina flessibile – 2 settembre 2021
->
 > ![Copertina libro Dove Studiare Concorsi Fisioterapia](https://m.media-amazon.com/images/I/515d1RkXr1L._SX352_BO1,204,203,200_.jpg "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame Copertina flessibile – 2 settembre 2021")
 
 ## Da chi è stato scritto?
@@ -90,7 +88,7 @@ Per forza di cose un singolo libro non può contenere tutto lo scibile umano (co
 
 Per cui deve contenere le cose necessarie, senza essere troppo superficiale né entrare eccessivamente nei dettagli, e questo libro è esattamente così.
 
-E se poi ti va di approfondire qualcosa - perché magari in un concorso hai notato che un’argomento era particolarmente rilevante o in qualche modo sai che nella commissione c’è un docente esperto in quella materia - , **puoi sempre approfondire.** 
+E se poi ti va di approfondire qualcosa - perché magari in un concorso hai notato che un’argomento era particolarmente rilevante o in qualche modo sai che nella commissione c’è un docente esperto in quella materia - , **puoi sempre approfondire.**
 
 Dove?
 
