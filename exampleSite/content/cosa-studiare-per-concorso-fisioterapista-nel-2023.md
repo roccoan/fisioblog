@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2023-01-08T23:00:00Z
 description = "Oggi vediamo qualcosa che mi viene chiesta molto spesso: dove studio per passare i concorsi pubblici per fisioterapisti? Scopriamolo insieme!"
-draft = true
 image = "/images/concorso-fisioterapista.jpg"
 title = "Cosa studiare per concorso Fisioterapista nel 2023?"
 type = "post"
