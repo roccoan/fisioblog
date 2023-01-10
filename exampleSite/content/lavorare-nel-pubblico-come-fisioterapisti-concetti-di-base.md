@@ -60,7 +60,7 @@ Ci sono anche altre differenze, relativamente allo svolgimento della selezione:
 
 ## Come prepararsi ad un concorso?
 
-> Disclaimer: non sono la persona più indicata per dare consigli su come passare i concorsi perché non ne ho mai passato uno, avendo intrapreso altre strade. Per questo i consigli che sto per riportare provengono da due amici - N. e M., entrambi laureati in economia e ora dipendenti pubblici, in settori con più competizione rispetto ai concorsi per fisioterapisti - che dopo un paio d'anni di tentativi hanno finalmente vinto un concorso. Hanno affrontato tutto ciò con così tanta dedizione e ne hanno fatti talmente tanti che verso la fine ne hanno addirittura vinto più di uno, e sono stati addirittura in grado di scegliere quale posto pubblico accettare. Detto ciò, vediamo i loro consigli, tra quelli applicabili anche ai concorsi per fisioterapisti. Ne approfitto per ringraziare i miei amici per i consigli e augurare buona guarigione ad N. che al momento in cui scrivo è positivo al covid.
+> Leggi anche: [Cosa studiare per concorso Fisioterapista nel 2023?](https://fisioterapisti.org/cosa-studiare-per-concorso-fisioterapista-nel-2023/ "Cosa studiare per concorso Fisioterapista nel 2023?")
 
 La risposta (decisamente banale, ma è un articolo molto introduttivo sul tema) a come prepararsi ad un concorso è: **studiando, esercitandosi sui test e facendo più concorsi possibile**.
 
