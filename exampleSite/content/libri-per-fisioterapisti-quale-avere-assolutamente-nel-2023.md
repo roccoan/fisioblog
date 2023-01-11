@@ -165,3 +165,7 @@ Sperando tu abbia trovato l'argomento di oggi interessante, ti ringrazio per ess
 Se ti va di unirti a noi, [passa a trovarci sul nostro canale ufficiale su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official").
 
 Grazie per aver letto, a presto!
+
+\-
+
+> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, abbiamo la possibilità di pubblicare regolarmente risorse utili e gratuite per tutti i Fisioterapisti.
