@@ -126,7 +126,7 @@ Per ora **parti dal primo volume**: “Clinical Sports Medicine: Injuries“ è 
 >
 > [BRUKNER & KHANS  Copertina rigida – 19 giugno 2018](https://amzn.to/3ZtETsJ "Clinical Sports Medicine: Injuries Vol. 1")
 >
-> ![CLINICAL SPORTS MEDICINE INJURIES VOL 1](https://m.media-amazon.com/images/I/61NTEFEVDAL.jpg "CLINICAL SPORTS MEDICINE INJURIES VOL 1")
+> [![CLINICAL SPORTS MEDICINE INJURIES VOL 1](https://m.media-amazon.com/images/I/61NTEFEVDAL.jpg "CLINICAL SPORTS MEDICINE INJURIES VOL 1")](https://amzn.to/3ZtETsJ "Clinical Sports Medicine: Injuries")
 
 \-
 
@@ -148,7 +148,7 @@ Quindi, inutile cercare altrove:
 >
 > [di Fabrizio Benedetti](https://amzn.to/3vVLwqd "Il cervello del paziente - Fabrizio Benedetti")
 >
-> ![Il cervello del paziente - Fabrizio Benedetti](https://m.media-amazon.com/images/I/71P2wXkjUnL.jpg "Il cervello del paziente - Fabrizio Benedetti")
+> [![Il cervello del paziente - Fabrizio Benedetti](https://m.media-amazon.com/images/I/71P2wXkjUnL.jpg "Il cervello del paziente - Fabrizio Benedetti")](https://amzn.to/3vVLwqd "Il cervello del paziente")
 
 ## Bonus: quello Gratis
 
