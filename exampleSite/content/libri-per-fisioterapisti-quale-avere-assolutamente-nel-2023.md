@@ -13,19 +13,19 @@ Libri per il fisioterapista: quali avere assolutamente nel 2023? Oggi ne elenchi
 
 ## Introduzione
 
-Su Fisioterapisti.org parliamo molto spesso dell'aspetto gestionale e meno dell'aspetto scientifico.
+Su Fisioterapisti.org tendiamo a parlare più spesso dell'aspetto gestionale e meno di quello scientifico.
 
-Oggi vediamo un elenco di libri davvero notevoli, che non dovrebbero mai mancare nella biblioteca di un fisioterapista.
+Oggi per rimediare stiliamo un elenco di libri davvero notevoli, che non dovrebbero mai mancare nella biblioteca di un fisioterapista.
 
-> Mi piace mettere la copertina dopo aver descritto il libro, così non ti fai influenzare!
+> Mi piace mettere la copertina dopo aver descritto il libro, così non ti fai influenzare dalla grafica!
 
-Alla fine, **te ne indico anche uno gratuito che puoi scaricare in PDF** e iniziare a consultare subito (e non pensare che non sia meritevole, sono 753 pagine!). 
+Alla fine, **te ne indico anche uno gratuito che puoi scaricare in PDF** e iniziare a consultare subito (e non pensare che non sia meritevole, sono ben 753 pagine!).
 
-Direi di partire!
+Direi di partire.
 
 ## 1) Chinesiologia del sistema muscoloscheletrico
 
-L'edizione in lingua originale di [Chinesiologia del Sistema Muscoloscheletrico](https://amzn.to/3CIThUj "Chinesiologia del sistema muscolo scheletrico. Fondamenti per la riabilitazione") è edita da **Elsevier** (che se non vi dice niente, è la casa editrice di The Lancet, la rivista scientifica [con l'Impact Factor più alto](https://fisioterapisti.org/come-ti-informi-dopo-la-laurea/ "Come ti informi dopo la laurea?") nelle scienze mediche). 
+L'edizione in lingua originale di [Chinesiologia del Sistema Muscoloscheletrico](https://amzn.to/3CIThUj "Chinesiologia del sistema muscolo scheletrico. Fondamenti per la riabilitazione") è edita da **Elsevier** (che se non vi dice niente, è la casa editrice di The Lancet, la rivista scientifica [con l'Impact Factor più alto](https://fisioterapisti.org/come-ti-informi-dopo-la-laurea/ "Come ti informi dopo la laurea?") nelle scienze mediche).
 
 E già così, iniziamo a capire il **livello qualitativo altissimo di questo libro**.
 
@@ -69,7 +69,7 @@ Solo che lo fa per ogni branca della fisioterapia e per tantissime situazioni.
 
 Inoltre la **settima edizione**, che è acquistabile da ottobre 2022, contiene anche un capitolo tutto dedicato allo _Screening per le Condizioni Neurologiche_.
 
-Unico contro, è tutto in inglese, ma in quasi 800 pagine hai qualcosa che ti accompagnerà per tutta la tua carriera. 
+Unico contro, è tutto in inglese, ma in quasi 800 pagine hai qualcosa che ti accompagnerà per tutta la tua carriera.
 
 In Italiano, della stessa autrice, [trovi questo che è una versione mini di Differential Diagnosis e incentrata sulle red flag](https://amzn.to/3GWLYeh "Linee guida per l'intervento fisioterapico. Riconoscere e segnalare le «bandiere rosse»").
 
@@ -95,9 +95,9 @@ Ha un molto analitico che, allo stesso tempo, riesce a **spiegare argomenti comp
 
 Perché dovrebbe leggerlo un fisioterapista?
 
-Perché il placebo non è soltanto una pillola di zucchero, ma è qualsiasi cosa con il potere di **agire sulle aspettative del paziente**. 
+Perché il placebo non è soltanto una pillola di zucchero, ma è qualsiasi cosa con il potere di **agire sulle aspettative del paziente**.
 
-I placebo sono fatti di parole, simboli, rituali, significati. 
+I placebo sono fatti di parole, simboli, rituali, significati.
 
 La cosa importante non è il mezzo usato **ma i cambiamenti che induce nell’attività neurale** e come questi cambiamenti si ripercuotono sulle funzioni psicologiche e corporee, portando un **vantaggio anche durante la riabilitazione**.
 
@@ -119,7 +119,7 @@ Un volumone di **1100 pagine** con **tutto quello che ti serve sapere** - nella 
 
 L'ultima edizione accoglie centinaia di nuove evidenze scientifiche, con tutto quello di cui hai bisogno per **far tornare a gareggiare il prima possibile i tuoi pazienti**.
 
-Per accogliere tutti gli argomenti, questa quinta edizione è stata ampliata in due volumi. 
+Per accogliere tutti gli argomenti, questa quinta edizione è stata ampliata in due volumi.
 
 Per ora **parti dal primo volume**: “Clinical Sports Medicine: Injuries“ è la guida essenziale a tutti gli aspetti della prevenzione, diagnosi e trattamento degli infortuni legati allo sport.
 
@@ -161,7 +161,7 @@ Si può [scaricare senza problemi dal suo sito internet](https://www.santillival
 
 ## Conclusione
 
-Sperando tu abbia trovato l'argomento di oggi interessante, ti ringrazio per essere passata/o di qui! 
+Sperando tu abbia trovato l'argomento di oggi interessante, ti ringrazio per essere passata/o di qui!
 
 Se ti va di unirti a noi, [passa a trovarci sul nostro canale ufficiale su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official").
 
