@@ -1,8 +1,8 @@
 +++
-author = ""
-categories = []
+author = "Federica"
+categories = ["Lavoro e Carriera", "Libri"]
 date = 2023-01-10T23:00:00Z
-description = ""
+description = "Libri per il fisioterapista: quali avere assolutamente nel 2023? Oggi ne elenchiamo 5 importantissimi, più uno (non meno importante) totalmente gratuito!"
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Libri per fisioterapisti: quale avere assolutamente nel 2023?"
 type = "post"
