@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = 2023-01-10T23:00:00Z
 description = ""
-draft = true
 image = "/images/windows-v94mlgvsza4-unsplash-1.jpg"
 title = "Libri per fisioterapisti: quale avere assolutamente nel 2023?"
 type = "post"
