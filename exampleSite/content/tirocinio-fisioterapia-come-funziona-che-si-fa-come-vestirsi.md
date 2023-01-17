@@ -234,7 +234,7 @@ Discorso scarpe: se ti forniscono anche le ciabatte dovrai usare quelle, come tu
 
 > Essere studenti **ha anche i suoi vantaggi**. 
 >
-> Quando studi per la sessione o sei in giro tutto il giorno e hai davvero bisogno di qualcosa ma non hai tempo di scendere, le consegne gratuite entro 24h sono molto comode.
+> Quando studi per la sessione o sei in giro tutto il giorno e hai davvero bisogno di qualcosa ma **non hai tempo di scendere**, le consegne gratuite entro 24h sono molto comode.
 >
 >   
 > Se oltre a questo, hai pure:
@@ -243,9 +243,9 @@ Discorso scarpe: se ti forniscono anche le ciabatte dovrai usare quelle, come tu
 > * 90 giorni per provarlo gratis;
 > * Sconto del 50% dopo la prova di 90 giorni (solo €24,90 all'anno);
 >
-> Allora [Amazon Prime Student](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student") diventa davvero conveniente.
+> Allora [Amazon Prime Student](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student") diventa **davvero conveniente**.
 >
-> [Provalo gratis per 90 giorni da qui, se non ti piace lo disattivi e non hai pagano neanche un euro](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student").
+> [Provalo gratis per 90 giorni da qui.](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student") Se non ti piace lo disattivi e **non hai pagato neanche un euro**.
 
 ## Conclusione
 
