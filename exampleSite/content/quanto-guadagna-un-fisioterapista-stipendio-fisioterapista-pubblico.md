@@ -20,17 +20,17 @@ Premessa: quello di cui parliamo oggi non è l’unico contratto pubblico, ma è
 
 > Se non hai il tempo di leggere tutto l’articolo, un Fisioterapista pubblico guadagna dai circa €23k lordi all’anno della cat. D ai circa €28k annui della cat. D6.
 >
-> Invece un fisioterapista coordinatore guadagna dai circa €25k lordi della cat.DS ai quasi €31k della categoria DS6. 
+> Invece un fisioterapista coordinatore guadagna dai circa €25k lordi della cat.DS ai quasi €31k della categoria DS6.
 >
 > Calcolando 13 mensilità, sono circa €1.700 lordi di partenza fino ai €2.100 lordi al mese per i fisioterapisti. Mentre per i coordinatori si va da €1.850 lordi ai €2.400 lordi al mese.
 >
-> Al lordo si aggiungono eventuali indennità e si tolgono le tasse (più o meno alte a seconda della residenza, familiari a carico, eventuali altri redditi). 
+> Al lordo si aggiungono eventuali indennità e si tolgono le tasse (più o meno alte a seconda della residenza, familiari a carico, eventuali altri redditi).
 >
 > Trovi una stima del netto in basso.
 >
-> Mentre scrivevo questo articolo è [stato firmato il nuovo contratto](https://www.ilsole24ore.com/art/firmato-contratto-infermieri-aumenti-117-171-euro-mese-AEUZ0JgB?refresh_ce=1), e sono previsti aumenti da 54 a 98 euro al mese, a seconda delle categorie. 
+> Mentre scrivevo questo articolo è [stato firmato il nuovo contratto](https://www.ilsole24ore.com/art/firmato-contratto-infermieri-aumenti-117-171-euro-mese-AEUZ0JgB?refresh_ce=1), e sono previsti aumenti da 54 a 98 euro al mese, a seconda delle categorie.
 >
-> Però c’è bisogno dell’approvazione della Ragioneria e della Corte dei Conti, e a quanto pare questi aumenti possono diventare effettivi ad autunno inoltrato. Per cui lascio le cifre del precedente, ma tieni conto di queste novità. 
+> Però c’è bisogno dell’approvazione della Ragioneria e della Corte dei Conti, e a quanto pare questi aumenti possono diventare effettivi ad autunno inoltrato. Per cui lascio le cifre del precedente, ma tieni conto di queste novità.
 
 Detto ciò, direi che possiamo partire.
 
@@ -135,8 +135,10 @@ Mentre per i coordinatori si va da €1.850 lordi a €2.400 lordi al mese.
 
 Certo, le mani avanti le abbiamo messe prima, quindi possiamo dire che:
 
-* Per i fisioterapisti siamo nella fascia €1.300-1.550 netti;
-* Per i coordinatori siamo nella fascia €1.400-1.800 netti.
+* Per i **fisioterapisti** siamo nella fascia **€1.300-1.550 netti**;
+* Per i **coordinatori** siamo nella fascia **€1.400-1.800 netti**.
+
+> Vedi anche: [cosa studiare per concorso fisioterapista?](https://fisioterapisti.org/cosa-studiare-per-concorso-fisioterapista-nel-2023/ "Cosa studiare per concorso fisioterapista nel 2023?")
 
 ## Conclusione
 
