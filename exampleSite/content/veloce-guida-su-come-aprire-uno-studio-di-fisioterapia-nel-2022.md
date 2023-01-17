@@ -14,7 +14,7 @@ Veloce guida introduttiva sull'apertura di uno studio, per chi deve farlo a brev
 
 Aprire uno studio è un **gran bel passo**. Sia chiaro però: non è necessario investire decine di migliaia di euro in strumenti sofisticati o costruire da zero un immobile.
 
-**Si può** [**iniziare con pochi strumenti**](https://amzn.to/3INStl9 "Allestire Studio Fisioterapia | Fisioterapisti") (che si possono comprare su internet e la maggior parte anche da decathlon) e con un locale anche non grandissimo e in affitto.
+Si può iniziare con pochi strumenti (che si possono comprare su internet e la maggior parte anche da decathlon) e con un locale anche non grandissimo e in affitto.
 
 L'ho fatto io, e altre persone che conosco, magari un giorno ci scriverò un articolo più dettagliato.
 
@@ -62,9 +62,9 @@ Il locale **deve avere determinate caratteristiche** (tipo pavimenti e pareti la
 
 Le normative sono regionali, quindi dipende in buona sostanza da regione a regione.
 
-Il consiglio è cercare su Google: "rquisiti strutturali studio Fisioterapia" + il nome della tua regione. 
+Il consiglio è cercare su Google: "rquisiti strutturali studio Fisioterapia" + il nome della tua regione.
 
-Cerca tra i risultati anche i file PDF (quelli che hanno il bollino PDF per intenderci), di solito sono la **documentazione ufficiale pubblicata dall'azienda sanitaria locale della tua regione con i requisiti strutturali degli studi di fisioterapia**. 
+Cerca tra i risultati anche i file PDF (quelli che hanno il bollino PDF per intenderci), di solito sono la **documentazione ufficiale pubblicata dall'azienda sanitaria locale della tua regione con i requisiti strutturali degli studi di fisioterapia**.
 
 Te ne elenco alcuni che ho trovato (quando ne trovo altri li aggiungo):
 
@@ -80,8 +80,6 @@ Alcune regioni entrano più nel dettaglio, altre meno, altre ancora non pubblica
 In ogni caso per i dettagli, la modulistica e per chiarirsi eventuali dubbi, la cosa migliore da fare è sempre sentire il comune o l'ASL del proprio territorio (di solito i tecnici che si occupano di questo tipo di richieste lavorano nel dipartimento di igiene).
 
 Per oggi abbiamo finito: se hai altre domande, continua a leggere, abbiamo quasi finito.
-
-> Se vuoi idee su [come allestire per bene lo studio spendendo poco, leggi qui](https://amzn.to/3WUXFrk "Allestire Studio Fisioterapia | Fisioterapisti | Amazon.it").
 
 ## Approfondimento
 
@@ -114,8 +112,6 @@ Non è assolutamente richiesto far parte del canale e **puoi scaricarlo e condiv
 
 Ma se ti va di ricevere aggiornamenti, notizie e altro materiale gratuito utile per la nostra professione ti accogliamo con molto piacere!
 
-> Se devi aprire uno studio ti servirà anche un POS. Scopri [grazie al nostro nuovo articolo come puoi averlo gratis](https://fisioterapisti.org/come-avere-un-pos-gratis-con-conto-corrente-a-zero-spese-incluso/ "Come avere un POS Gratis | Con conto corrente a zero spese incluso") fino al 15 gennaio 2023.
-
 ## Conclusione
 
 Se stai pensando di metterti in proprio e vuoi saperne di più su come funziona la Partita IVA, ho scritto anche un [articolo con i concetti base di Partita IVA](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti base di partita IVA per Fisioterapisti") per Fisioterapisti.
@@ -123,5 +119,3 @@ Se stai pensando di metterti in proprio e vuoi saperne di più su come funziona 
 Se invece sai già come funziona la Partita IVA, ma hai dubbi sulle fatture, c'è una [guida](https://fisioterapisti.org/che-sono-e-come-fare-le-fatture.guida-per-fisioterapisti/ "Guida fatture per fisioterapisti") che potrà tornarti molto utile.
 
 Per oggi è tutto, a presto!
-
-> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, abbiamo la possibilità di pubblicare regolarmente risorse utili e gratuite per tutti i Fisioterapisti.
