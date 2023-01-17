@@ -232,7 +232,20 @@ Di solito l’una o l’altra si ritirano direttamente in ospedale (poi quando i
 
 Discorso scarpe: se ti forniscono anche le ciabatte dovrai usare quelle, come tutti gli altri professionisti sanitari, altrimenti usa scarpe da ginnastica comode e morbide.
 
-> Leggi anche: [3 cose necessarie per iniziare a lavorare come Fisioterapista](https://fisioterapisti.org/3-cose-necessarie-per-iniziare-a-lavorare-come-fisioterapista-bonus/ "3 cose necessarie per iniziare a lavorare come Fisioterapista ")
+> Essere studenti **ha anche i suoi vantaggi**. 
+>
+> Quando studi per la sessione o sei in giro tutto il giorno e hai davvero bisogno di qualcosa ma non hai tempo di scendere, le consegne gratuite entro 24h sono molto comode.
+>
+>   
+> Se oltre a questo, hai pure:
+>
+> * Film e serie tv incluse per le tue serate tra conquilini; 
+> * 90 giorni per provarlo gratis;
+> * Sconto del 50% dopo la prova di 90 giorni (solo €24,90 all'anno);
+>
+> Allora [Amazon Prime Student](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student") diventa davvero conveniente.
+>
+> [Provalo gratis per 90 giorni da qui, se non ti piace lo disattivi e non hai pagano neanche un euro](http://www.amazon.it/joinstudent?tag=fisioterap08b-21 "Amazon Prime Student").
 
 ## Conclusione
 
