@@ -258,3 +258,5 @@ Se ti va di unirti a noi, passa a trovarci sul [nostro canale Telegram](https://
 Grazie per aver letto fin qui, e a presto con nuovi articoli!
 
 _Image by_ [_storyset_](https://www.freepik.com/free-vector/physical-therapy-exercise-concept-illustration_24487816.htm#query=physical%20therapy&position=19&from_view=search&track=sph "Freepik Storyset") _on Freepik_
+
+> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, abbiamo la possibilità di pubblicare regolarmente risorse utili e gratuite per tutti i Fisioterapisti.
