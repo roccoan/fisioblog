@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2023-01-16T23:00:00Z
 description = "Che si prova quando si apre la Partita IVA, soprattutto i primi tempi? Facili battute sulla fame a parte, cerchiamo di capirlo."
-draft = true
 image = "/images/fisioterapia-laurea-inutile.jpg"
 title = "5 cose che si provano quando si diventa Fisioterapisti Liberi Professionisti"
 type = "post"
