@@ -14,12 +14,11 @@ Oggi scopriamo **5 corsi prestigiosi ed economici** che rilasciano certificati u
 
 1. Presentarsi al meglio ai recruiter
 2. Quanto costano? (spoiler: molto poco)
-3. I corsi
-4. Università di Ginevra (€46)
-5. Università di Stanford (€74)
-6. State University of New Jersey (€36)
-7. University of London (€46)
-8. Johns Hopkins University (€46)
+3. Università di Ginevra (€46)
+4. Università di Stanford (€74)
+5. State University of New Jersey (€36)
+6. University of London (€46)
+7. Johns Hopkins University (€46)
 
 ## Presentarsi al meglio ai recruiter
 
@@ -53,11 +52,11 @@ Così puoi fare colpo in qualsiasi paese decidi di trasferirti.
 
 Si, alla fine del corso, viene **rilasciato il certificato ufficiale dall’Università** che puoi stampare, condividere e **mettere in bella mostra su LinkedIn**.
 
-Se non ti importa del certificato, puoi addirittura partecipare ai corsi gratis! 
+Se non ti importa del certificato, puoi addirittura partecipare ai corsi gratis!
 
 > NB: non rilasciano gli ECM. E il motivo è semplice, all’estero gli ECM neanche esistono.
 
-## Ma Quanto Costano?
+## Quanto Costano?
 
 **Pochissimo**, soprattutto se pensi ai nomi che puoi mettere sul tuo CV e su Linkedin.
 
@@ -89,6 +88,12 @@ Detto ciò, **vediamo i corsi** veri e propri.
 
 ## 1) Se vuoi coordinare e supervisionare tirocinanti e studenti (€46)
 
+> Per iscriverti, [clicca qui](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique") e seleziona **_“Enroll for Free”:_**
+>
+> [**Supervision du raisonnement clinique - Université De Genève | Coursera**](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")
+
+[![](/images/supervision-du-raisonnement-clinique.jpg)](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")  
+
 Questo è l’unico corso di questo elenco in **lingua francese**.
 
 Se vuoi **fare il coordinatore di fisioterapisti all’estero** in ospedali di _paesi francofoni_ (Francia, Svizzera, Canada, Belgio, Lussemburgo), questo è un’ottimo punto di partenza.
@@ -97,13 +102,13 @@ Realizzato dai professori delle Facoltà di Medicina delle **Università di Gine
 
 Puoi scegliere se seguirlo gratis o se ottenere anche **il certificato** (che costa €46 una tantum).
 
-> Per iscriverti, [clicca qui](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique") e seleziona **_“Enroll for Free”:_**
->
-> [**Supervision du raisonnement clinique - Université De Genève | Coursera**](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")
->
-> [![](/images/supervision-du-raisonnement-clinique.jpg)](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")
+## 2) Se vuoi specializzarti in qualcosa davvero all’avanguardia (€74)
 
-## 2) Se specializzarti in qualcosa davvero all’avanguardia (€74)
+> Per iscriverti, [clicca qui](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera") e seleziona **_“Enroll for Free”:_**
+>
+> [**AI in Healthcare - Stanford University | Coursera**](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")
+
+[![](/images/ai-in-healthcare-specialization.jpg)](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")  
 
 **Università di Stanford**: da molti considerati **la migliore al mondo**, sforna premi Nobel (85) miliardari (secondo Wikipedia, ad oggi in vita ce ne sono 74), presidenti americani e astronauti.
 
@@ -115,33 +120,33 @@ Inoltre, se sei un Fisioterapista che vuole **fare il ricercatore all’estero**
 
 Questo è il corso più costoso di questo elenco: **€74 al mese** (sempre con la prima settimana gratuita), e secondo me si può realisticamente completare in 3-6 mesi (il sito indica che studiando solo due ore a settimana, ci vogliono 9 mesi. E due ore a settimana sono solo 24 minuti al giorno).
 
-> Per iscriverti, [clicca qui](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera") e seleziona **_“Enroll for Free”:_**
->
-> [**AI in Healthcare - Stanford University | Coursera**](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")
->
-> [![](/images/ai-in-healthcare-specialization.jpg)](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")
-
 ## 3) Se ti vedi come un manager o un dirigente, e vuoi gestire risorse umane e processi (€36)
+
+> Per iscriverti,[ clicca qui](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations") e seleziona **_“Enroll for Free”:_**
+>
+> [**Healthcare Organization Operations - State University of New Jersey | Coursera**](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")
+
+[![](/images/healthcare-organization-operations-specialization.jpg)](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")  
 
 All’estero **non fanno i concorsi** come da noi.
 
-Per **diventare coordinatore o dirigente bisogna meritarlo**.
+Per **diventare coordinatore o dirigente** bisogna essere davvero bravi.
 
-La sanità privata è molto più diffusa, e se aspiri a posizioni gestionali e manageriali, non devi essere amico di nessuno **ma devi avere le competenze per farlo**.
+La sanità privata è molto più diffusa, e se aspiri a _posizioni gestionali e manageriali_, non devi essere amico di nessuno **ma devi avere le competenze per farlo**.
 
 Chiaramente c’è bisogno di esperienza, ma per metterti sulla strada giusta c’è la Specialization sulle _Healthcare Organization Operations_ della **State University of New Jersey.**
 
 Costa €36 al mese, e secondo Coursera dura 4 mesi studiando solo 4 ore a settimana.
 
-> Per iscriverti,[ clicca qui](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations") e seleziona **_“Enroll for Free”:_**
->
-> [**Healthcare Organization Operations - State University of New Jersey | Coursera**](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")
->
-> [![](/images/healthcare-organization-operations-specialization.jpg)](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")
-
 ## 4) Se vuoi fare il ricercatore, e vuoi comprendere la ricerca e i metodi con cui fare ricerca (€46)
 
-Okay, vuoi fare il ricercatore o la ricercatrice nelle scienze riabilitative e nella fisioterapia.
+> Per iscriverti, [clicca qui](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera") e seleziona **_“Enroll for Free”:_**
+>
+> [**Understanding Research Methods - University of London | Coursera**](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")
+
+[![](/images/research-methods.jpg)](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")  
+
+Okay, vuoi fare il ricercatore o la ricercatrice all'estero.
 
 Ma come si fa? Cosa bisogna fare ogni giorno? E soprattutto, come si impara a fare queste cose, velocemente?
 
@@ -153,15 +158,15 @@ Inoltre è davvero per tutti: **non è necessaria precedente esperienza nell’a
 
 Puoi scegliere se seguirlo gratis o se ottenere anche il certificato (che costa €46 una tantum).
 
-> Per iscriverti, [clicca qui](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera") e seleziona **_“Enroll for Free”:_**
->
-> [**Understanding Research Methods - University of London | Coursera**](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")
->
-> [![](/images/research-methods.jpg)](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")
-
 ## 5) Se vuoi diventare qualcuno che prende le decisioni importanti (€46)
 
-Manager, imprenditore, dirigente o consulente per grandi gruppi sanitari italiani ed esteri: chi ha detto che non può farlo un fisioterapista?
+> Per iscriverti, [clicca qui](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera") e seleziona **_“Enroll for Free”:_**
+>
+> [**Health Informatics - Johns Hopkins University | Coursera**](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")
+
+[![](/images/health-informatics.jpg)](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")  
+
+Manager, imprenditore, dirigente o consulente per grandi gruppi sanitari italiani ed esteri: _chi ha detto che non può farlo un fisioterapista?_
 
 In fondo essere fisioterapisti è come **avere una vista privilegiata** all’interno di [un mercato in espansione e che interessa a molte grandi aziende del settore](https://www.globenewswire.com/en/news-release/2022/07/12/2478285/0/en/Physical-Therapy-Market-Expected-Is-Prospering-at-a-CAGR-of-6-15-and-Would-Rocket-up-to-USD-37-24-billion-by-2029-Segmented-by-Therapy-Type-Application-End-Users-And-Regional-Overv.html).
 
@@ -172,12 +177,6 @@ Ma se vuoi sfruttarla al meglio e credi di avere inclinazioni manageriali, sappi
 Oggi gran parte delle decisioni **vengono prese analizzando i dati**, e i dati arrivano grazie ad infrastrutture informatiche: da qui la _Health Informatics Specialization_ della **Johns Hopkins University** (altra università Top 10 nel ranking mondiale, con ben 18 Premi Nobel per la Medicina).
 
 Costa €46 al mese e richiede circa 5 mesi per essere completata (studiando 3 ore a settimana).
-
-> Per iscriverti, [clicca qui](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera") e seleziona **_“Enroll for Free”:_**
->
-> [**Health Informatics - Johns Hopkins University | Coursera**](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")
->
-> [![](/images/health-informatics.jpg)](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")
 
 ## Conclusione
 
