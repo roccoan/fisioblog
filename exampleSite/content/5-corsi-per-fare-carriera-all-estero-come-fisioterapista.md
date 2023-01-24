@@ -5,7 +5,7 @@ date = 2023-01-23T23:00:00Z
 description = "Oggi scopriamo 5 corsi prestigiosi ed economici che rilasciano certificati ufficiali di università importantissime, se vuoi iniziare a lavorare e fare carriera all’estero come Fisioterapista."
 draft = true
 image = "/images/lavoro-fisioterapista-estero.jpg"
-title = "5 Corsi per fare Carriera all’Estero come Fisioterapista"
+title = "5 Corsi per fare Carriera all’Estero come Fisioterapista nel 2023"
 type = "post"
 
 +++
