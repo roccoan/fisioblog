@@ -14,8 +14,8 @@ Oggi scopriamo **5 corsi prestigiosi ed economici** che rilasciano certificati u
 ## Indice
 
 1. Presentarsi al meglio ai recruiter
-2. Quanto costano? (spoiler: molto poco + primi 7gg gratis)
-3. Bisogna trasferirsi all’estero o seguire le lezioni ad orari specifici? (spoiler: no)
+2. Quanto costano? (spoiler: molto poco)
+3. I corsi
 4. Università di Ginevra (€46)
 5. Università di Stanford (€74)
 6. State University of New Jersey (€36)
@@ -32,7 +32,7 @@ Parleremo piuttosto di **come presentarsi al meglio attraverso 5 corsi molto eco
 
 ### Come mai fanno molto effetto?
 
-Sono corsidi **Università internazionali prestigiosissime**.
+Sono corsi di **Università internazionali prestigiosissime**.
 
 E intendo proprio **le più prestigiose al mondo**.
 
@@ -42,25 +42,25 @@ Infatti, **mettiti nei panni di chi fa le selezioni** quando invii i tuoi curric
 
 Tra due candidati, a parità di competenze ed esperienza (che quando si è neolaureati, è praticamente pari a zero per chiunque), si sceglie **chi ha quel qualcosa in più**.
 
-Se qualcuno ti deve assumere sta facendo un investimento, e vuole tutte le rassicurazioni del caso che tra qualche tempo l’investimento darà i suoi frutti.
+Se qualcuno ti deve assumere sta facendo un investimento, e vuole **tutte le rassicurazioni del caso** che tra qualche tempo l’investimento darà i suoi frutti.
 
-Quindi **quel qualcosa in più** può essere: **esperienza** in qualcosa di collegato, **formazione e istruzione** più rilevante, **conoscenza della lingua** migliore.
+Quindi _quel qualcosa in più può essere_: **esperienza** in qualcosa di collegato, **formazione e istruzione** più rilevante, **conoscenza della lingua** migliore.
 
-E **a proposito di lingua**, sono per lo più in inglese, ma ce n’è uno anche in francese, e con questi corsi fai anche **molta pratica**.
+E **a proposito di lingua**, sono per lo più in inglese, ma ce n’è uno anche in francese. Quindi con questi corsi fai anche **molta pratica**.
 
-Così **puoi fare colpo** in qualsiasi paese decidi di trasferirti.
+Così puoi fare colpo in qualsiasi paese decidi di trasferirti.
 
 ### Rilasciano Certificati?
 
 Si, alla fine del corso, viene **rilasciato il certificato ufficiale dall’Università** che puoi stampare, condividere e **mettere in bella mostra su LinkedIn**.
 
-> Non rilasciano gli ECM. E il motivo è semplice, all’estero gli ECM neanche esistono.
+Se non ti importa del certificato, puoi addirittura partecipare ai corsi gratis! 
+
+> NB: non rilasciano gli ECM. E il motivo è semplice, all’estero gli ECM neanche esistono.
 
 ## Ma Quanto Costano?
 
 **Pochissimo**, soprattutto se pensi ai nomi che puoi mettere sul tuo CV e su Linkedin.
-
-La prima settimana **è gratis** per tutti.
 
 I **singoli corsi**, come quello in francese dell’Università di Ginevra o quello della University of London, costano solo **€46 in totale**.
 
@@ -70,7 +70,9 @@ Le **Specialization** hanno prezzi mensili diversi: dopo la prima settimana di p
 
 Se vuoi sospendere per andare in vacanza, puoi farlo senza problemi.
 
-> Nota bene: hai la massima libertà di completare le Specialization in un mese perché magari hai tanto tempo libero pagando solo una mensilità, oppure di studiare 10 minuti al giorno e metterci 9 mesi/un anno, oppure qualsiasi cosa nel mezzo.
+E cosa importantissima: puoi **provare tutto gratuitamente per una settimana**.
+
+> Nota bene: hai la massima libertà di completare le Specialization in un mese perché magari hai tanto tempo libero pagando solo una mensilità, oppure di studiare 10 minuti al giorno e metterci 9 mesi/un anno, oppure qualsiasi cosa nel mezzo. I corsi singoli invece si pagano una tantum, se si vuole il certificato. Se non si vuole sono gratis.
 
 ### Devi trasferirti all’estero per seguire i corsi? Ci sono orari?
 
@@ -80,7 +82,7 @@ Oltre ad essere così economici (soprattutto rispetto ai corsi da migliaia di eu
 
 Non devi parlare con nessuno in inglese o francese.
 
-Fai tutto **al passo che preferisci tu**. 
+Fai tutto **al passo che preferisci tu**.
 
 Detto ciò, **vediamo i corsi** veri e propri.
 
