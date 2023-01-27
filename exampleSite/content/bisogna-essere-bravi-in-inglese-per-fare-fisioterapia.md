@@ -60,6 +60,8 @@ Io non ho mai imparato, però per esperienza credo che saperlo non mi avrebbe ag
 
 Se quindi vuoi fare fisioterapia e ti preoccupa non sapere bene l'inglese perché magari a scuola non vai bene in questa materia (o semplicemente preferisci che le parole vadano lette così come sono scritte), mi sento davvero di rassicurarti! Sarai un bravo professionista della riabilitazione anche così, poi per impararlo ci sarà sempre tempo.
 
+> Se vuoi avere lezioni private d'inglese dalla privacy della tua stanza, [prova Cambly inserendo il codice FISIO](https://www.cambly.com/invite/FISIO?st=012723&sc=4 "Cambly").
+
 Spero che questo articolo ti sia utile, a presto!
 
 > L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
