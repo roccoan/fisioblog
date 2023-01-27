@@ -44,9 +44,9 @@ Se qualcuno ti deve assumere sta facendo un investimento, e vuole **tutte le ras
 
 Quindi _quel qualcosa in più può essere_: **esperienza** in qualcosa di collegato, **formazione e istruzione** più rilevante, **conoscenza della lingua** migliore.
 
-E **a proposito di lingua**, sono per lo più in inglese, ma ce n’è uno anche in francese. Quindi con questi corsi fai anche **molta pratica**.
+E **a proposito di lingua**, sono per lo più in inglese, ma ce n’è uno anche in francese. Quindi con questi corsi fai anche **molta pratica**, così puoi fare colpo in qualsiasi paese decidi di trasferirti.
 
-Così puoi fare colpo in qualsiasi paese decidi di trasferirti.
+> Se pensi di **non avere un livello adeguato di inglese** per seguire dei corsi, alza il tuo livello [facendo pratica con Cambly](https://www.cambly.com/invite/FISIO?st=012723&sc=4 "Cambly"). Così hai **lezioni private da insegnanti madrelingua risparmiando** e dalla **privacy della tua stanza** - così non devi neanche preoccuparti di fare figuracce di persona e puoi migliorare serenamente.
 
 ### Rilasciano Certificati?
 
@@ -92,7 +92,7 @@ Detto ciò, **vediamo i corsi** veri e propri.
 >
 > [**Supervision du raisonnement clinique - Université De Genève | Coursera**](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")
 
-[![](/images/supervision-du-raisonnement-clinique.jpg)](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")  
+[![](/images/supervision-du-raisonnement-clinique.jpg)](http://imp.i384100.net/VyJYER "Supervision du raisonnement clinique | Coursera")
 
 Questo è l’unico corso di questo elenco in **lingua francese**.
 
@@ -108,7 +108,7 @@ Puoi scegliere se seguirlo gratis o se ottenere anche **il certificato** (che co
 >
 > [**AI in Healthcare - Stanford University | Coursera**](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")
 
-[![](/images/ai-in-healthcare-specialization.jpg)](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")  
+[![](/images/ai-in-healthcare-specialization.jpg)](http://imp.i384100.net/ORkK2A "AI in Healthcare | Coursera")
 
 **Università di Stanford**: da molti considerati **la migliore al mondo**, sforna premi Nobel (85) miliardari (secondo Wikipedia, ad oggi in vita ce ne sono 74), presidenti americani e astronauti.
 
@@ -126,7 +126,7 @@ Questo è il corso più costoso di questo elenco: **€74 al mese** (sempre con 
 >
 > [**Healthcare Organization Operations - State University of New Jersey | Coursera**](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")
 
-[![](/images/healthcare-organization-operations-specialization.jpg)](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")  
+[![](/images/healthcare-organization-operations-specialization.jpg)](http://imp.i384100.net/2ro5PG "Healthcare Organization Operations")
 
 All’estero **non fanno i concorsi** come da noi.
 
@@ -144,7 +144,7 @@ Costa €36 al mese, e secondo Coursera dura 4 mesi studiando solo 4 ore a setti
 >
 > [**Understanding Research Methods - University of London | Coursera**](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")
 
-[![](/images/research-methods.jpg)](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")  
+[![](/images/research-methods.jpg)](http://imp.i384100.net/rn9Dkd "Understanding Research Methods | Coursera")
 
 Okay, vuoi fare il ricercatore o la ricercatrice all'estero.
 
@@ -164,7 +164,7 @@ Puoi scegliere se seguirlo gratis o se ottenere anche il certificato (che costa 
 >
 > [**Health Informatics - Johns Hopkins University | Coursera**](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")
 
-[![](/images/health-informatics.jpg)](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")  
+[![](/images/health-informatics.jpg)](http://imp.i384100.net/zaAbZx "Health Informatics | Coursera")
 
 Manager, imprenditore, dirigente o consulente per grandi gruppi sanitari italiani ed esteri: _chi ha detto che non può farlo un fisioterapista?_
 
