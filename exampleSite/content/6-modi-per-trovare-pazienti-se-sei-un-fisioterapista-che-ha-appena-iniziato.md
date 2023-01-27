@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2023-01-26T23:00:00Z
 description = "Come trovare pazienti quando sei all'inizio? Scopriamolo insieme con 6 idee"
-draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "6 modi per trovare pazienti se sei un Fisioterapista che ha appena iniziato"
 type = "post"
