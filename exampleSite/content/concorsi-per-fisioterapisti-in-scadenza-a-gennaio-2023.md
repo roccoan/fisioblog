@@ -12,6 +12,8 @@ Il 2023 è arrivato: vediamo le novità sui concorsi pubblici per fisioterapisti
 
 Come al solito, elenchiamo le date dei concorsi che scadono a Gennaio 2023.
 
+> Per quelli in scadenza a Febbraio 2023, [abbiamo postato un nuovo articolo che puoi visitare cliccando qui](https://fisioterapisti.org/concorsi-per-fisioterapisti-in-scadenza-a-febbraio-2023/ "Concorsi per Fisioterapisti in scadenza a Febbraio 2023").
+
 Ci sono **parecchie assunzioni previste**, soprattutto in Lazio, ma anche in Sardegna e non solo.
 
 In Lazio sono in corso **parecchie procedure di stabilizzazione**. Su queste _non entriamo nel dettaglio_, perché molto probabilmente i diretti interessati ne sono già a conoscenza.
