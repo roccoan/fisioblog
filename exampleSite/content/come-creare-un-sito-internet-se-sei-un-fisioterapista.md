@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2023-02-01T23:00:00Z
 description = "Come creare un sito internet in modo semplice e spendendo poco se sei un Fisioterapista nel 2023"
-draft = true
 image = "/images/blank-smartphone-screen-with-design-space.jpg"
 title = "Come creare un sito internet se sei un Fisioterapista nel 2023"
 type = "post"
