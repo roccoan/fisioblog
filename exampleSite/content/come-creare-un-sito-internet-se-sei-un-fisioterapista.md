@@ -49,7 +49,7 @@ Un **negozio** è composto da **un locale**, da **un indirizzo** per raggiungerl
 
 Quando si crea un sito, bisogna _affittare il locale_ (in gergo “l’hosting”), _prendere un indirizzo_ (cioè il dominio) e _metterci della roba dentro_ (testi, immagini, contenuti che vanno a riempire lo spazio dell’hosting).
 
-In generale, **l’hosting si paga** (cioè il nostro locale in affitto) - a volte anche centinaia di euro all’anno, perché appunto è uno spazio virtuale che andiamo ad occupare. 
+In generale, **l’hosting si paga** (cioè il nostro locale in affitto) - a volte anche centinaia di euro all’anno, perché appunto è uno spazio virtuale che andiamo ad occupare.
 
 La cosa bella è che **con Canva è gratuito** (essendo una pagina singola non pesa tanto).
 
@@ -89,13 +89,15 @@ Detto ciò, direi che abbiamo parlato abbastanza. Veniamo al sito.
 
 ## Come realizzare un sito su Canva in 5 step
 
+![](https://content-management-files.canva.com/75bc3170-94d6-48fa-88cd-5c23d6fe1ec2/hero-banner-it-IT-1600x852-placeholder.jpg)
+
 ### Step 1: Crea Account Gratuito su Canva
 
-Per le funzionalità dei siti serve il PC.
+Per le funzionalità dei siti web di Canva serve il PC (e anche gli screenshot che vedrai man mano nella guida **si vedono meglio da computer**).
 
-Esiste l’app per smartphone di Canva, che è ottima per fare i post sui social, ma per i siti serve un PC o un Tablet e andare dal sito internet canva.com - non dall’app.
+Esiste l’app per smartphone di Canva, che è ottima per fare i post sui social, ma **per i siti web serve un PC o un Tablet e andare dal sito internet canva.com** - non dall’app.
 
-Vai su [Canva.com](http://Canva.com) e crea un account gratuito.
+Quindi, vai su [Canva.com](http://Canva.com) e crea un account gratuito.
 
 > Puoi anche accedere direttamente con un account Google, Apple, Facebook o Microsoft.
 
@@ -103,13 +105,13 @@ Vai su [Canva.com](http://Canva.com) e crea un account gratuito.
 
 [Vai a questa pagina](https://www.canva.com/it_it/siti-web/) oppure sulla home di Canva, dove c’è scritto _“Cosa vuoi creare?”_ scegli _“Siti Web”_.
 
-Da qui ci sono tanti modelli gratuiti: scegli quello che più ti piace. Cliccandoci su, si apre l’editor dove puoi modificare immagini, testi, inserire grafiche e video.
+Da qui ci sono **tanti modelli gratuiti**: scegli quello che più ti piace. Cliccandoci su, si apre l’editor dove puoi modificare immagini, testi, inserire grafiche e video.
 
 ![](/images/modelli.png)
 
 ### Step 3: Personalizza il Modello
 
-Qui _se hai già usato Canva_ in passato **ti sentirai a casa** perché l’editor è assolutamente identico.
+A questo punto se hai _già usato Canva_ in passato **ti sentirai a casa** perché l’editor è assolutamente identico.
 
 Se non l’hai mai usato, ti assicuro che **è semplicissimo e ti troverai subito a tuo agio**.
 
@@ -119,9 +121,13 @@ Ti do un po’ di indicazioni:
 
 Per modificare fai _doppio click sui testi_. Se vuoi **aggiungere il testo**, a sinistra c’è l’icona “Testo” e clicca una delle opzioni “Aggiungi”.
 
+![](https://static-cse.canva.com/blob/711171/feature12.jpg)
+
 #### Modifica le Immagini
 
 Puoi cercarle a sinistra da “Elementi” o caricare foto tue da “Caricamenti”. Sull’editor le puoi ingrandire, rimpicciolire, tagliare e modificare (mettendoci i filtri che preferisci).
+
+![](https://static-cse.canva.com/blob/710449/photostraightner.jpg)
 
 #### Bottone per farti telefonare o scrivere su WhatsApp
 
@@ -188,9 +194,9 @@ Completato tutti i passaggi, entro qualche ora **il tuo sito è online!**
 
 Ora **potrai aggiungerlo** a Google Business Profile, alla bio di Instagram, alla pagina Facebook, e soprattutto mostrarlo alla mamma e alla nonna.
 
-[Se ti è piaciuto Canva, considera anche Canva Pro](https://partner.canva.com/NK55gV): **ha tante funzionalità che ti velocizzano la creazione dei post per i social**, come migliaia di foto, video ed illustrazioni stock premium che puoi usare liberamente **senza violare le leggi sul copyright**, lo strumento **rimuovi sfondo__ che nell’account gratis non c’è, tantissimi modelli premium per creare il tuo sito web. ****
+[Se ti è piaciuto Canva, considera anche Canva Pro](https://partner.canva.com/NK55gV): **ha tante funzionalità che ti velocizzano la creazione dei post per i social**, come migliaia di foto, video ed illustrazioni stock premium che puoi usare liberamente **senza violare le leggi sul copyright**, lo strumento **rimuovi sfondo** che nell’account gratis non c’è, tantissimi **modelli premium** inclusi per creare il tuo sito web.
 
-Così hai **più tempo** per i pazienti, la formazione e tutto il resto, a soli €12 al mese o €109 all’anno (cioè una ricarica telefonica). 
+Così hai **più tempo** per i pazienti, la formazione e tutto il resto, a soli €12 al mese o €109 all’anno (cioè una ricarica telefonica).
 
 [Se ti va, provalo gratis per un mese.](https://partner.canva.com/NK55gV)
 
@@ -198,8 +204,12 @@ Così hai **più tempo** per i pazienti, la formazione e tutto il resto, a soli 
 
 Spero che **il tuo nuovo sito** ti piaccia!
 
-Nelle prossime settimane continua la serie su **come farti pubblicità** e trovare nuovi pazienti. 
+Nelle prossime settimane continua la serie su **come farti pubblicità** e trovare nuovi pazienti.
 
 Per non perderti i prossimi articoli, [unisciti a noi e a centinaia di altri fisioterapisti sul nostro canale Telegram](https://t.me/fisioterapisti_official "Telegram | Fisioterapisti Official")!
 
-Grazie mille per aver letto, a presto :) 
+Grazie mille per aver letto, a presto :)
+
+\-
+
+> Disclaimer: l'articolo NON contiene link di affiliazione a Canva Free nè all'acquisto del dominio, ma presenta un link di affiliazione a Canva Pro. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, abbiamo la possibilità di pubblicare regolarmente risorse utili e gratuite per tutti i Fisioterapisti!
