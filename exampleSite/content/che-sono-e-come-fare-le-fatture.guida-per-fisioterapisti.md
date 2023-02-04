@@ -4,7 +4,7 @@ categories = ["Libera Professione"]
 date = 2022-01-10T23:00:00Z
 description = "Guida alla fatturazione per chi ha appena aperto la P.IVA"
 image = "/images/kelly-sikkema-xou52juvuxa-unsplash.jpg"
-title = "Che sono e come fare le fatture. Guida per Fisioterapisti + Template Fattura Gratis"
+title = "Che sono e come fare le fatture. Guida 2023 per Fisioterapisti + Template Fattura Gratis"
 type = "post"
 
 +++
@@ -14,7 +14,7 @@ Quando ho aperto io la P. IVA ricordo che i primi mesi avevo tantissime difficol
 
 Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo più preciso e semplice possibile.
 
-> Aggiornamento: dal 1° luglio 2022 ci sono delle novità sulle fatture anche per i Fisioterapisti. 
+> Aggiornamento: dal 1° luglio 2022 ci sono delle novità sulle fatture anche per i Fisioterapisti.
 >
 > Alcuni di noi hanno l'**obbligo di emettere fatture elettroniche** sin da ora (e altri saranno obbligati tra qualche tempo), ma questa guida resta ancora valida per le fatture cartacee.
 >
@@ -62,12 +62,10 @@ Questo è vero soprattutto per chi rientra nel **Regime Forfettario** (ci rientr
 In generale la struttura di base di una fattura deve contenere:
 
 * **Intestazione**, cioè chi sta emettendo la fattura e _deve prendere i soldi_;
-* **Dati di chi riceve la fattura**, cioè i dati di chi compra, di chi deve pagare;
+* **Dati di chi riceve la fattura**, cioè i dati di chi compra, di _chi deve pagare_;
 * **Data e numero** del documento;
 * **Descrizione del bene/servizio** che viene venduto (per esempio “prestazione fisioterapica”);
 * **Importi unitari, quantità e importo totale** (per esempio 4 terapie al prezzo di €30, totale €120).
-
-> Ti va di ricevere aggiornamenti utili sulla nostra professione? Il [nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram") per ora è piccolino, ma sta crescendo e viene aggiornato in tempo reale ogni volta che un articolo viene pubblicato, così non ti perdi nulla! (PS: non è un gruppo, quindi la timidezza non è un problema, e soprattutto non ricevi spam) - [Vai al canale](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram")
 
 ## Intestazioni
 
@@ -88,7 +86,7 @@ _P.IVA: 00000000000_
 
 _Cellulare ed e-mail (opzionali)_
 
-Diverso è per i dati dei pazienti/centri con cui collaboriamo, questi ogni volta possono variare e dobbiamo ricordare di chiederli al paziente, nello specifico il codice fiscale e l’indirizzo (io all’inizio me ne dimenticavo sempre).
+Diverso è per i dati dei pazienti/centri con cui collaboriamo, questi ogni volta possono variare e dobbiamo ricordare di chiederli al paziente, nello specifico il **codice fiscale e l’indirizzo** (io all’inizio me ne dimenticavo sempre).
 
 Se fatturiamo ad un centro/clinica/ospedale l’intestazione sarà chiaramente la ragione sociale o i dati dei titolari. Nel caso di un paziente privato abbiamo per esempio:
 
@@ -102,23 +100,23 @@ _Cellulare ed e-mail (opzionali)_
 
 ## Data e numero del documento
 
-Le fatture devono rispettare **un certo ordine**, vanno numerate e bisogna indicare in che data sono state emesse.
+Le fatture devono rispettare **un certo ordine**, vanno _numerate_ e bisogna indicare _in che data_ sono state emesse.
 
-Il numeratore dura un anno, quindi il 31 dicembre il numeratore termina e riparte dal numero uno il 1° gennaio.
+Il _numeratore_ **dura un anno**, quindi il 31 dicembre il numeratore termina e riparte dal numero uno il 1° gennaio.
 
 Facciamo un esempio.
 
-Inizia il 2022 ed emetto la prima fattura dell’anno il _7 gennaio 2022_. Questa sarà nel nostro numeratore:
+Inizia il 2023 ed emetto la prima fattura dell’anno il _7 gennaio 2023_. Questa sarà nel nostro numeratore:
 
-**Fattura n.1 del 07-01-2022**
+**Fattura n.1 del 07-01-2023**
 
-Durante l’anno, una fattura dopo l’altra, magari arrivo al _28 dicembre 2022_ alla
+Durante l’anno, una fattura dopo l’altra, magari arrivo al _28 dicembre 2023_ alla:
 
-**Fattura n.43 del 28-12-2022**
+**Fattura n.43 del 28-12-2023**
 
-A Capodanno non fatturo nulla, facciamo finta di riprendere il _3 gennaio 2023_. La nuova fattura non sarà la _n.44_, ma sarà la:
+A Capodanno non fatturo nulla, e facciamo finta di riprendere il _3 gennaio 2024_. La nuova fattura non sarà la _n.44_, ma sarà la:
 
-**Fattura n.1 del 03-01-2023**
+**Fattura n.1 del 03-01-2024**
 
 Quindi anno nuovo, vita nuova. Anche per il nostro numeratore delle fatture.
 
@@ -149,27 +147,29 @@ Ni, dipende a seconda dei casi. Se ti trovi nel Regime Forfettario, abbiamo fini
 
 ### Come faccio a sapere se sei nel Regime Forfettario?
 
-Se hai appena aperto la P.IVA, al 99% dei casi sei nel Regime Forfettario, che è il **regime semplificato** per chi si è messo **in proprio da poco** oppure lo è già da un po' e non supera i €65mila di fatturato annui (o circa €5.000 al mese - lordi).
+Se hai appena aperto la P.IVA, al 99% dei casi sei nel Regime Forfettario, che è il **regime semplificato** per chi si è messo **in proprio da poco** oppure lo è già da un po' e non supera gli €85mila di fatturato annui.
 
 > Questa guida si rivolge a chi ha aperto da poco la P.IVA, quindi è abbastanza probabile che se ti interessa l'argomento ti trovi nel Regime Forfettario, per cui non ci addentriamo negli altri casi (dove bisogna proseguire aggiungendo agli importi l'IVA, specificando le aliquote ecc.).
 
-Quindi se sei in Regime Forfettario ai €500 dell'esempio di prima non dovrai aggiungerci l’IVA.
+Quindi se sei in Regime Forfettario al totale di €500 dell'esempio di prima non dovrai aggiungerci l’IVA.
 
 Per questo nelle fatture che emettiamo **bisogna assolutamente indicare la seguente dicitura**:
 
 > _Operazione effettuata senza applicazione dell’IVA ai sensi dell’art.1, commi da 54 a 89, Legge n.190/2014 - Regime Forfettario. Si richiede la non applicazione della Ritenuta alla fonte a titolo di acconto come previsto Dall’art. 1, comma 67, Legge n.190/2014. Imposta di Bollo sull’Originale (per importi superiori ad €77,47)._
 
-Come dice l’ultima parte, se la fattura supera come importo totale €77,47 c’è bisogno di comprare una marca da bollo di €2 e applicarla _sull’originale_.
+Come dice l’ultima parte, se la fattura supera come importo totale €77,47 c’è bisogno di comprare una **marca da bollo di €2** e applicarla _sull’originale_.
 
 ### Che significa “l’originale”?
 
-Di ogni fattura dovrai produrre più copie.
+Di ogni fattura dovrai _produrre più copie_.
 
-L’unica che deve essere cartacea è appunto l’originale (cioè quella che consegni al paziente/ente con cui collabori) che richiede marca da bollo.
+L’unica che deve essere cartacea è appunto l’originale (cioè quella che **consegni al paziente/ente con cui collabori**) che richiede marca da bollo.
 
 Quindi quella per il paziente la stampi, ci apponi la marca da bollo, e la scansioni/fotocopi per te e per il commercialista.
 
 Se invece è senza marca da bollo perché sotto €77,47 puoi anche non stamparla e mandarla direttamente per email.
+
+> Se ti va, [unisciti al nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram"): pubblichiamo un sacco di aggiornamenti e promemoria utili per i fisioterapisti in libera professione!
 
 ### Accordi sul compenso
 
@@ -210,7 +210,7 @@ Secondo [l'Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/docu
 
 Ora che hai capito il meccanismo di base per emettere fatture, ti spiego come farle operativamente.
 
-Quando sei all’inizio e magari non puoi spendere soldi per programmi gestionali, va benissimo usare Microsoft Excel, Google Fogli o LibreOffice Calc, che sono gratuiti a differenza di Excel e puoi installarli liberamente se il tuo computer non ha Office.
+Quando sei all’inizio e magari non puoi spendere soldi per programmi gestionali, va benissimo usare Microsoft Excel, o le alternative gratuite Google Fogli o LibreOffice Calc, che sono gratuiti a differenza di Excel.
 
 ### Template gratis
 
@@ -228,7 +228,9 @@ Ricorda che il numeratore va rispettato alla perfezione.
 
 Se usi un gestionale il numeratore sarà gestito in automatico, ma se le fai a mano fai attenzione a non creare buchi nel numeratore saltando un numero o invertendo le date.
 
-Due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti che vogliono scaricare la spesa sanitaria sostenuta presso di voi, sul Sistema Tessera Sanitaria. Ho scritto un [articolo su Sistema Tessera Sanitaria qui]().
+Anche per il 2023, due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti privati che vogliono scaricare la spesa del fisioterapista, sul **Sistema Tessera Sanitaria**. 
+
+Ho scritto un [articolo su Sistema Tessera Sanitaria qui]().
 
 ## Conclusione
 
@@ -236,6 +238,6 @@ L'articolo era bello lungo, e sei arrivata/o fin qui, ti spinge davvero tanta mo
 
 Spero che la guida ti sia stata utile, e ti auguro tante tante fatture :D
 
-Se hai suggerimenti su come migliorarla ulteriormente, lascia pure un commento.
+Se ti va, [unisciti al nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official | Telegram"): pubblichiamo un sacco di aggiornamenti e promemoria utili per i fisioterapisti in libera professione.
 
 Grazie ancora, e a presto!
