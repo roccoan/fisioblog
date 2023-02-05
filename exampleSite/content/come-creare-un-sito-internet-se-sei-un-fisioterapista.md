@@ -71,9 +71,9 @@ Per questo bisogna pagare - ma per fortuna **i domini sono solitamente molto eco
 
 I domini si possono comprare da diverse parti - e costano sempre **poche decine di euro all’anno**.
 
-Siccome una volta acquistato il dominio poi **va collegato al sito.**
+Una volta acquistato il dominio poi **va collegato al sito.**
 
-> Acquistarlo dalla stessa piattaforma con cui lo realizzi ti solleva dal dover collegare sito e dominio - che è un passaggio molto tecnico e noioso. Se non si è esperti richiede decine di tentativi con decine di ore tra un tentativo e l’altro (si chiama “configurazione dei DNS”).
+> Acquistarlo dalla stessa piattaforma con cui lo realizzi ti solleva dal dover collegare sito e dominio - che è un **passaggio molto tecnico e noioso**. Se non si è esperti richiede decine di tentativi con decine di ore tra un tentativo e l’altro (si chiama “configurazione dei DNS”).
 
 Quindi, se realizzi il tuo sito con Canva, è meglio acquistare anche il dominio da Canva (€19), così il lavoro sporco lo fanno loro.
 
