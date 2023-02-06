@@ -44,7 +44,7 @@ I corsi sono tenuti da diversi enti, che chiedono l’autorizzazione a rilasciar
 
 ## Di quanti ECM ho bisogno?
 
-Per ogni **triennio formativo** (adesso siamo nel triennio 2020-2022) sono necessari **150 crediti formativi**.
+Per ogni **triennio formativo** (adesso siamo nel triennio 2020-2022*) sono necessari **150 crediti formativi**.
 
 > Attenzione: triennio formativo suona molto simile alla laurea triennale - nulla di tutto ciò. Quando ti sei laureato l’università non c’entra più niente, e il triennio formativo è semplicemente una roba per calcolare quanti ECM devi ottenere.
 
@@ -52,7 +52,7 @@ Inoltre, è facile pensare che il triennio sono tre anni e 150 crediti in tre an
 
 Per via del Covid, molti professionisti (non solo fisioterapisti, anche medici e altri professionisti sanitari) erano lontani dai 150, quindi la quota di ECM da ottenere questo triennio [è stata ridotta di un terzo](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=106634).
 
-**Attenzione:** per il Covid, in via del tutto eccezionale e per una sola volta, il triennio formativo **diventa quadriennio** - così che ci sia più tempo per tutti i professionisti sanitari che durante la pandemia non hanno avuto tempo e modo per studiare. Nello specifico, un ulteriore anno (dal 1 gennaio al 31 dicembre 2023)
+***Attenzione:** per il Covid, in via del tutto eccezionale e per una sola volta, il triennio formativo **diventa quadriennio** - così che ci sia più tempo per tutti i professionisti sanitari che durante la pandemia non hanno avuto tempo e modo per studiare. Nello specifico, un ulteriore anno (dal 1 gennaio al 31 dicembre 2023)
 
 ### Quindi, quanti ECM devo ottenere nel quadriennio 2020-2024?
 
