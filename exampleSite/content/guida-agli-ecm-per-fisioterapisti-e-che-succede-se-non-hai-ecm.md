@@ -12,7 +12,7 @@ Su internet ci sono tante guide sugli ECM: che sono, come si ottengono, come si 
 
 ## Aggiornamento: proroga ECM 2023
 
-Come [annunciato in anticipo sul nostro canale Telegram](https://t.me/fisioterapisti_official/158 "Aggiornamento 3 gennaio") (unisciti a noi per non perderti gli aggiornamenti più importanti!), sono stati prorogati i crediti ECM dello scorso triennio ancora per un anno - rendendolo a tutti gli effetti un quadriennio. Quindi, se non avevi abbastanza ECM non è più un problema: [hai ancora un anno per conseguirli, c'è tempo fino al 31 dicembre 2023](https://www.assocarenews.it/infermieri/ecm-proroga-di-un-anno-lobbligo-formativo-per-medici-infermieri-professioni-sanitarie-e-ostetriche "ECM. Proroga di un anno obbligo formativo per Medici, Infermieri, Professioni Sanitarie e Ostetriche."). 
+Come [annunciato in anticipo sul nostro canale Telegram](https://t.me/fisioterapisti_official/158 "Aggiornamento 3 gennaio") (unisciti a noi per non perderti gli aggiornamenti più importanti!), sono stati prorogati i crediti ECM dello scorso triennio ancora per un anno - rendendolo a tutti gli effetti un quadriennio. Quindi, se non avevi abbastanza ECM non è più un problema: [hai ancora un anno per conseguirli, c'è tempo fino al 31 dicembre 2023](https://www.assocarenews.it/infermieri/ecm-proroga-di-un-anno-lobbligo-formativo-per-medici-infermieri-professioni-sanitarie-e-ostetriche "ECM. Proroga di un anno obbligo formativo per Medici, Infermieri, Professioni Sanitarie e Ostetriche.").
 
 ## Introduzione
 
@@ -28,7 +28,7 @@ Senza perderci in chiacchiere, direi di iniziare.
 
 Gli ECM sono dei crediti, proprio come quelli che ottieni dopo un esame universitario.
 
-ECM però sta per “Educazione Continua in Medicina”, cioè il programma obbligatorio - attivo in Italia dal 2002 - che ha l’obiettivo del mantenimento di un livello elevato di conoscenze in ambito sanitario.
+ECM però sta per “Educazione Continua in Medicina”, cioè il programma obbligatorio - attivo in Italia dal 2002 - che ha l’obiettivo del **mantenimento di un livello elevato di conoscenze in ambito sanitario**.
 
 Quindi, quando si diventa fisioterapisti, per mantenere l’abilitazione bisogna necessariamente conseguire un certo numero di crediti ECM. Altrimenti dopo la laurea ti adagi, la scienza va avanti e resti indietro (e come vedremo dopo, corri anche dei rischi).
 
@@ -52,17 +52,23 @@ Inoltre, è facile pensare che il triennio sono tre anni e 150 crediti in tre an
 
 Per via del Covid, molti professionisti (non solo fisioterapisti, anche medici e altri professionisti sanitari) erano lontani dai 150, quindi la quota di ECM da ottenere questo triennio [è stata ridotta di un terzo](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=106634).
 
-### Quindi, quanti ECM devo ottenere nel triennio 2020-2022?
+**Attenzione:** per il Covid, in via del tutto eccezionale e per una sola volta, il triennio formativo **diventa quadriennio** - così che ci sia più tempo per tutti i professionisti sanitari che durante la pandemia non hanno avuto tempo e modo per studiare. Nello specifico, un ulteriore anno (dal 1 gennaio al 31 dicembre 2023)
 
-Un terzo di 150 ECM sono 50 ECM, quindi riducendo di un terzo questo triennio **devi ottenere 100 ECM in totale entro la fine del 2022**.
+### Quindi, quanti ECM devo ottenere nel quadriennio 2020-2024?
 
-### Mi sono appena laureata/o, devo ottenere 100 crediti anche io entro la fine del 2022?
+Un terzo di 150 ECM sono 50 ECM, quindi riducendo di un terzo **devi ottenere 100 ECM in totale entro la fine del 2023**.
 
-Assolutamente no, perché l’obbligo di formazione continua decorre dal 1° gennaio successivo alla data di conseguimento della laurea.
+### Mi sono appena laureata/o, devo ottenere 100 crediti anche io entro la fine del 2023?
 
-Quindi **se ti laurei nel 2022, dovrai iniziare ad accumulare gli ECM dal 1° gennaio 2023** (quando tra l’altro inizierà il nuovo triennio formativo, e lì saranno nuovamente 150).
+No, perché l’obbligo di formazione continua decorre dal 1° gennaio successivo alla data di conseguimento della laurea.
+
+Quindi **se ti laurei nel 2023, dovrai iniziare ad accumulare gli ECM dal 1° gennaio 2024** (quando tra l’altro inizierà il nuovo triennio formativo, e lì saranno nuovamente 150).
 
 ### E quanti ne dovrò ottenere?
+
+Per il numero esatto, **controlla sempre su Cogeaps**.
+
+In ogni caso, il metodo per capire quanti ne devi conseguire è questo.
 
 Siccome 150 ECM in tre anni sono 50 ECM all’anno, e siccome inizi sempre dall’anno successivo a quello della tua laurea, il tuo fabbisogno per il tuo primo triennio formativo lo calcoli così:
 
@@ -84,7 +90,9 @@ Qui ti serve capire come funziona CoGeAPS, il portale di cui parlavamo prima, e 
 
 Anzitutto, CoGeAPS è il “Consorzio per la Gestione Anagrafica delle Professioni Sanitarie”, ma a noi interessa solo per andare a **vedere se siamo in regola** o meno con gli ECM.
 
-L’Albo TSRM ha compilato una [guida al portale Cogeaps](https://www.tsrmumbria.it/wp-content/uploads/2018/05/guida-al-portale-cogeaps.pdf), però da qualche tempo è più facile accedere e registrarsi perché hanno inserito l’accesso con SPID, quindi tieni conto di questa differenza.
+Il nostro ex Albo TSRM aveva compilato una [guida al portale Cogeaps](https://www.tsrmumbria.it/wp-content/uploads/2018/05/guida-al-portale-cogeaps.pdf), però da qualche tempo è più facile accedere e registrarsi perché hanno inserito l’accesso con SPID, quindi tieni conto di questa differenza.
+
+In buona sostanza quindi, registrati e accedi a Cogeaps **per capire quanti te ne servono**.
 
 ## Come faccio a sapere quanti ECM ho?
 
@@ -117,8 +125,6 @@ Quindi occhio. Se non hai raggiunto i crediti e hai comunque sottoscritto l’as
 
 > Aggiornamento: [da questa intervista](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=108997 "Ecm. Gagliano (Opi Genova): “Lettera Cogeaps una doccia fredda. Solo il 47% in regola”") viene fuori che se non ha ECM qualcuno all'interno di una equipe, manca la copertura anche al resto dei professionisti che ne fanno parte.
 
-Ciò che conta però è che il fabbisogno è stato ridotto a 100 ECM e comunque c’è tempo fino al 31 dicembre 2022 per mettersi in regola.
-
 ## Conclusione
 
 Concludiamo con un enorme cliché: la fisioterapia è una professione che necessita di aggiornamento continuo, e sarebbe meglio non avvertire come un obbligo quello di formarsi, ma piuttosto come qualcosa che dovrebbe essere spontaneo.
@@ -131,7 +137,7 @@ Ma capita a tutti di avere periodi meno intensi, e io di solito ne approfitto in
 
 Per concludere, la formazione è senza dubbio importantissima e gli ECM vanno conseguiti, anche per tutelare i pazienti che è meglio che non vadano in mano a totali sconsiderati.
 
-In ogni caso, fino al 31 dicembre 2022 c’è ancora un po’ di tempo, e spero che questo articolo ti sia utile ad inquadrare le cose.
+In ogni caso, fino al 31 dicembre 2023 c’è ancora un po’ di tempo, e spero che questo articolo ti sia utile ad inquadrare le cose.
 
 Grazie per aver letto fino a qui!
 
