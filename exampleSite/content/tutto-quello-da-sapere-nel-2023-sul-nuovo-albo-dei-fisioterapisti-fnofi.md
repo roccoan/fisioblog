@@ -1,8 +1,8 @@
 +++
 author = "Federica"
-categories = []
+categories = ["Studio e Carriera"]
 date = 2023-02-06T23:00:00Z
-description = ""
+description = "Tutto quello da sapere sul nuovo Albo Fisioterapisti 2023: come iscriversi, come rinnovare, assicurazione, elezioni"
 draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "Tutto quello da sapere nel 2023 sul nuovo Albo dei Fisioterapisti FNOFI"
