@@ -62,7 +62,9 @@ Nel **primo caso**, le fatture sono intestate ad un Codice Fiscale (quello del p
 
 Questa tipologia di fattura **resta cartacea** perché [per permettere la detrazione al paziente](https://fisioterapisti.org/serve-la-prescrizione-per-detrarre-la-spesa-del-fisioterapista/ "Serve la prescrizione per detrarre la spesa del fisioterapista?") devono continuare a transitare per [Sistema Tessera Sanitaria](https://fisioterapisti.org/guida-al-sistema-tessera-sanitaria-per-i-fisioterapisti-nel-2022/ "Sistema Tessera Sanitaria - Guida per Fisioterapisti").
 
-Nel **secondo caso**, quello degli enti, le fatture sono intestate ad [un'altra Partita IVA](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti Base di Partita IVA per Fisioterapisti") (quella dell'ente). Qui scatta l'obbligo di emissione di fattura elettronica:
+> Per imparare ad **emettere fatture cartacee** se sei in regime forfettario, [prova il nostro sito interattivo gratuito che genera fatture in PDF in 4 semplici passaggi](https://fisioterapisti.org/fatture/home.html "Impara a creare le fatture gratis | Fisioterapisti.org"). Non c'è bisogno di scaricare nulla né registrarsi.
+
+Nel **secondo caso** invece, quello degli enti, le fatture sono intestate ad [un'altra Partita IVA](https://fisioterapisti.org/concetti-base-di-partita-iva-per-fisioterapisti/ "Concetti Base di Partita IVA per Fisioterapisti") (quella dell'ente). Qui scatta l'obbligo di emissione di fattura elettronica:
 
 * Dal **1° luglio 2022** - se l'anno scorso hai guadagnato più di €25.000 (lordi);
 * Dal **1° gennaio 2024** - se l'anno scorso hai guadagnato meno di €25.000.
@@ -77,7 +79,7 @@ basta chiedere al commercialista che ti tiene la contabilità.
 
 Per te che scatta l'obbligo di fatturazione elettronica dal 1° luglio 2022, se non hai intenzione di investire soldi in un nuovo programma per le fatture, non c'è problema.
 
-L'[Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/web/guest/aree-tematiche/fatturazione-elettronica/fatturazione-elettronica-site-area/servizi-consultazione-e-conservaz-fatture-elettroniche "Servizi Grauiti Fatture Elettroniche") mette a disposione di tutti degli **strumenti gratuiti**, in particolare:
+L'[Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/web/guest/aree-tematiche/fatturazione-elettronica/fatturazione-elettronica-site-area/servizi-consultazione-e-conservaz-fatture-elettroniche "Servizi Grauiti Fatture Elettroniche") mette a disposizione di tutti degli **strumenti gratuiti**, in particolare:
 
 * Un [sito web](https://ivaservizi.agenziaentrate.gov.it/portale/ "Fatture e Corrispettivi");
 * Un'app per mobile/tablet (sia per [dispositivi Android](https://play.google.com/store/apps/details?id=it.gov.agenziaentrate.fatturae&hl=it&gl=US "FAtturae - Google Play Store") che per [dispositivi Apple](https://apps.apple.com/it/app/fatturae/id1263953799 "FatturAE | App Store")).
@@ -122,11 +124,7 @@ Se non hai il POS, e vuoi procurartene uno, qui c'è il [link con codice amico](
 
 Questo non è assolutamente un contenuto sponsorizzato, ma è semplicemente un modo per averlo scontato tramite un codice sconto SumUp (il **modello base tascabile**, che puoi portare a casa dei pazienti se fai le domiciliari, **scende da €29 a €19**).
 
-> Ribadisco per trasparenza: non c'è assolutamente nessuna partnership commerciale. Dove possiamo, indichiamo risorse gratuite, come prima per le fatture elettroniche. POS gratuiti purtroppo non ce ne sono, e questa **è la cosa che più si avvicina all'essere gratis**.
->
-> Il link è solo l'iniziativa porta un amico - **come quelle che faceva la TIM negli anni 2000**, dove se portavi qualcuno **ti regalavano una ricarica** (nel caso di SumUp massimo €15, quindi se prendi la versione base penso che regalino giusto i soldi per un gelato) e **l'amico riceve uno sconto** (in questo caso molto interessante anche per la versione base - di solito scontano solo quelli più costosi). Tutti gli utenti di SumUp hanno il link porta un amico, quindi a tua volta potrai girarlo ad altri amici.
-
-Come ti dicevo, io da oltre due anni uso [quello piccolo con la basetta per la ricarica](https://store.sumup.com/it-IT/product-selection/card_reader.air_bundle?prc=CRPRt2AEUR-s-CRPRt2ABEUR-s-CRPRt23GBEUR-s-CRPRt2SOEUR&product-id=card_reader.air_bundle&website_source=landing_page&referrer=MD6GTRT7&fbuy_ref_code=rprsw&nextInternalLocale=it-IT "SumUp Air+Base di Ricarica").
+Io da oltre due anni uso [quello piccolo con la basetta per la ricarica](https://store.sumup.com/it-IT/product-selection/card_reader.air_bundle?prc=CRPRt2AEUR-s-CRPRt2ABEUR-s-CRPRt23GBEUR-s-CRPRt2SOEUR&product-id=card_reader.air_bundle&website_source=landing_page&referrer=MD6GTRT7&fbuy_ref_code=rprsw&nextInternalLocale=it-IT "SumUp Air+Base di Ricarica").
 
 ### Quanto costa?
 
