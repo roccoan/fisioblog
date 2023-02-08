@@ -12,6 +12,8 @@ Questo articolo è per aiutare coloro che stanno per aprire la Partita IVA e han
 
 Quando ho aperto io la P. IVA ricordo che i primi mesi avevo tantissime difficoltà. Quindi voglio scrivere l'articolo che avrei letto volentieri qualche anno fa quando ero agli inizi.
 
+> Abbiamo creato [un piccolo sito interattivo, gratuito e molto semplice da usare per imparare a creare le fatture](https://fisioterapisti.org/fatture/home "Impara a Creare Fattura Gratis | Fisioterapisti.org"). In soli 4 passaggi **hai una fattura in PDF** - e racchiude tutto quello che c'è in questo articolo, **per chi preferisce imparare facendo**. [Dagli un'occhiata cliccando qui](https://fisioterapisti.org/fatture/home "Impara a Creare Fattura Gratis | Fisioterapisti.org").
+
 Per questo non prendo nulla per scontato, e cerco di descrivere tutto nel modo più preciso e semplice possibile.
 
 > Aggiornamento: dal 1° luglio 2022 ci sono delle novità sulle fatture anche per i Fisioterapisti.
@@ -228,7 +230,7 @@ Ricorda che il numeratore va rispettato alla perfezione.
 
 Se usi un gestionale il numeratore sarà gestito in automatico, ma se le fai a mano fai attenzione a non creare buchi nel numeratore saltando un numero o invertendo le date.
 
-Anche per il 2023, due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti privati che vogliono scaricare la spesa del fisioterapista, sul **Sistema Tessera Sanitaria**. 
+Anche per il 2023, due volte all’anno devi caricare le informazioni delle fatture, nello specifico dei pazienti privati che vogliono scaricare la spesa del fisioterapista, sul **Sistema Tessera Sanitaria**.
 
 Ho scritto un [articolo su Sistema Tessera Sanitaria qui]().
 
