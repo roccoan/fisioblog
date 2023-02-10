@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Studio e Carriera"]
 date = 2023-02-10T23:00:00Z
 description = "Elezioni FNOFI 2023: Proviamo a descrivere in parole povere qualcosa che in un modo o nell'altro ci riguarda tutti (anche perché lo finanziamo coi nostri soldi)"
-draft = true
 image = "/images/northfolk-ok76f6yw2ia-unsplash.jpg"
 title = "Elezioni Albo FNOFI dei Fisioterapisti marzo 2023: cosa c'è da sapere?"
 type = "post"
