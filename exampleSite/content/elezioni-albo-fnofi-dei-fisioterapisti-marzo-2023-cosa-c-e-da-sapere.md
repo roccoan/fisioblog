@@ -35,11 +35,11 @@ I _Consigli da eleggere_ per ogni ordine sono due:
 
 \- **Consiglio dei Revisori**: ne fanno parte i Revisori Contabili, e cioè figure simili al commercialista che certificano che il bilancio del singolo Ordine dei Fisioterapisti sia stato redatto secondo la legge.
 
-> Cioè deve elencare in modo veritiero come vengono spesi i soldi degli iscritti e poi pubblicato ogni anno sul sito in modo che tutti possano saperlo.
+> ⚠️ Il bilancio deve elencare in modo veritiero come vengono spesi i soldi degli iscritti. Ogni anno viene pubblicato sul sito in modo che tutti gli interessati possano saperlo.
 
-Quindi, ogni Ordine deve eleggere i membri di questi due consigli, e si fa attraverso **le votazioni**.
+Quindi, ogni Ordine deve eleggere i membri di questi due consigli, e lo fa attraverso **le votazioni**.
 
-📝 Le votazioni si tengono su più date, in posti (cioè i seggi) che variano da città a città.
+📝 Le votazioni si tengono in più date, in posti (cioè i seggi) che variano da città a città.
 
 ## Come faccio a sapere dove e quando si tengono le elezioni del mio ordine?
 
