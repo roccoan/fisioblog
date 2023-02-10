@@ -12,13 +12,15 @@ Qualche tempo fa [parlavamo delle novità](https://fisioterapisti.org/cosa-c-e-n
 
 ## Nuntio Vobis
 
+Lasciamo questo annuncio per ricordo:
+
 > Oggi è 8 settembre 2022, la _Giornata Mondiale della Fisioterapia_, in Italia per la prima volta in presenza a Roma dopo gli anni del Covid... ed è ufficiale! [Il Ministro Speranza ha firmato il decreto istitutivo](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=107057 "Fisioterapisti. Nasce il nuovo Ordine per 70mila professionisti: il ministro Speranza ha firmato oggi il decreto istitutivo") e **nasce il nuovo Albo Autonomo dei Fisioterapisti**!
 
 ## Introduzione
 
-> **Aggiornamento Agosto 2022:** sembra che siamo molto vicini con la produzione di un documento finale di accordo, cioè una bozza definitiva che verrà ufficializzata dal Ministero. Per i dettagli leggi pure [questo documento](https://drive.google.com/file/d/1ewqXcOp8khujfXjie7YEWnJqxbuZ0cwx/view?ts=62f1673f "Verso l'ordine Autonomo dei Fisioterapisti").
+> **Aggiornamento 2023:** Il nuovo ordine prende il nome di FNOFI e abbiamo pubblicato un articolo con tutto quello che c'è da sapere:
 >
-> **Aggiornamento n.2:** la bozza è stata approvata dal Consiglio di Stato e si aspetta il decreto istitutivo ([fonte](https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=106769 "Fisioterapisti. Consiglio di Stato dice sì all’Ordine che rappresenterà quasi 70mila professionisti. L’annuncio di Sandra Zampa"))
+> [Tutto quello da sapere nel 2023 sul nuovo Albo dei Fisioterapisti FNOFI](https://fisioterapisti.org/tutto-quello-da-sapere-nel-2023-sul-nuovo-albo-dei-fisioterapisti-fnofi/)
 
 La Fisioterapia in Italia sta assumendo sempre più importanza e sta cambiando sempre di più. Restano le contraddizioni, i problemi, i nodi da sciogliere sulle condizioni lavorative, le retribuzioni e la formazione.
 
