@@ -18,11 +18,10 @@ Per capirci qualcosina, capiamo prima _come è composto l'ordine_.
 
 ### Come è composta la FNOFI?
 
-❇️ Il nuovo Ordine è composto così: 
+❇️ Il nuovo Ordine è composto così:
 
-1) A livello nazionale c'è una **Federazione Nazionale** centrale, che coordina gli ordini locali (e che prende il nome di FNOFI: Federazione Nazionale Ordini Fisioterapisti); 
-
-2) In ogni regione/provincia poi c'è **l'Ordine** locale (quello al quale _effettivamente ci iscriviamo_)
+1. A livello nazionale c'è una **Federazione Nazionale** centrale, che coordina gli ordini locali (e che prende il nome di FNOFI: Federazione Nazionale Ordini Fisioterapisti);
+2. In ogni regione/provincia poi c'è **l'Ordine** locale (quello al quale _effettivamente ci iscriviamo_)
 
 Fatta questa premessa, **che elezioni sono queste?**
 
@@ -34,7 +33,7 @@ I _Consigli da eleggere_ per ogni ordine sono due:
 
 \- **Consiglio Direttivo**: ne fanno parte i consiglieri che prendono decisioni, e sono fisioterapisti iscritti all'ordine;
 
-\- **Consiglio dei Revisori**: ne fanno parte i Revisori Contabili, e cioè figure simili al commercialista che certificano che il bilancio del singolo Ordine dei Fisioterapisti sia stato redatto secondo la legge. 
+\- **Consiglio dei Revisori**: ne fanno parte i Revisori Contabili, e cioè figure simili al commercialista che certificano che il bilancio del singolo Ordine dei Fisioterapisti sia stato redatto secondo la legge.
 
 > Cioè deve elencare in modo veritiero come vengono spesi i soldi degli iscritti e poi pubblicato ogni anno sul sito in modo che tutti possano saperlo.
 
@@ -52,7 +51,7 @@ Per scoprirlo, controlla su questa pagina:
 
 ## Chi si può candidare?
 
-Per i consigli direttivi, **i fisioterapisti iscritti all'Ordine**. 
+Per i consigli direttivi, **i fisioterapisti iscritti all'Ordine**.
 
 Sia **con una lista** (per esempio _AIFI_ oppure _Fisioterapia e Riabilitazione_) o **singolarmente**.
 
@@ -65,6 +64,8 @@ Sul sito dell'Albo linkato prima ci sono **tutti i regolamenti e le modalità** 
 Si: a seconda della grandezza dell'Ordine, del ruolo che ricoprono e delle responsabilità che hanno, _i membri dei consigli possono percepire qualcosa_ a titolo di rimborso spese.
 
 Per la trasparenza tutti gli ordini sono dovuti a **comunicare le somme periodicamente**, e ognuno può cercarle e controllarle online (ed è bene che si sappia secondo me).
+
+> Se hai dubbi su quando rinnovare l'iscrizione all'Albo, come ci si iscrive per la prima volta, come funziona per l'assicurazione e così via, leggi [l'articolo che abbiamo realizzato per rispondere a tutti questi dubbi (e anche altri)](https://fisioterapisti.org/tutto-quello-da-sapere-nel-2023-sul-nuovo-albo-dei-fisioterapisti-fnofi/ "Tutto quello da sapere nel 2023 sul nuovo Albo dei Fisioterapisti FNOFI").
 
 ## Conclusione
 
