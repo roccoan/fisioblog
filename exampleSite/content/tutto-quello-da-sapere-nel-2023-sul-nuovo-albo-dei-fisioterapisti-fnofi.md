@@ -14,7 +14,7 @@ Siamo a Febbraio 2023, che bisogna sapere del nuovo Albo?
 
 ## Introduzione
 
-Nei precedenti articoli, abbiamo elencato un po' di **dubbi sulla nascita del nuovo Albo FNOFI**: 
+Nei precedenti articoli, abbiamo elencato un po' di **dubbi sulla nascita del nuovo Albo FNOFI**:
 
 * Quando ci si potrà iscrivere o rinnovare?
 * Come funziona con l'assicurazione?
@@ -38,7 +38,7 @@ Probabilmente avrai un **nuovo numero di iscrizione** (mentre data e provincia r
 
 ## Come si fa il rinnovo o la prima iscrizione all'Albo FNOFI?
 
-Dal 1 febbraio 2023 è possibile **rinnovare l'iscrizione** e - per i neolaureati - **iscriversi per la prima volta** al nuovo Albo dei Fisioterapisti FNOFI. 
+Dal 1 febbraio 2023 è possibile **rinnovare l'iscrizione** e - per i neolaureati - **iscriversi per la prima volta** al nuovo Albo dei Fisioterapisti FNOFI.
 
 Per farlo, segui le indicazioni su questa pagina:
 
@@ -50,7 +50,7 @@ Per farlo, segui le indicazioni su questa pagina:
 
 \-
 
-## Come funziona con l'assicurazione? 
+## Come funziona con l'assicurazione?
 
 Come avevamo anticipato, **si può continuare ad avere l'assicurazione professionale con l'Albo** (che, [come avevo detto in un articolo](https://fisioterapisti.org/parliamo-di-assicurazione-professionale-per-fisioterapisti/ "Parliamo di assicurazione professionale per fisioterapisti"), costa meno e ha più garanzie rispetto a farla per conto proprio).
 
@@ -78,15 +78,12 @@ Riporto la **velocissima guida passo dopo passo** con le indicazioni che ho rice
 >
 > \- Procedere al pagamento del premio (con bonifico o pagamento online)
 >
->   
 > Clicca qui per un Tutorial esplicativo sulla modalità di acquisto della polizza ([https://www.fisioterapisti.aon.it/documents/31308451/0/Tutorial+FISIOTERAPISTI+2.0+%281%29.pdf/6f9d3752-d746-fa09-b69b-eb0769f24294?t=1673880807729](https://www.fisioterapisti.aon.it/documents/31308451/0/Tutorial+FISIOTERAPISTI+2.0+%281%29.pdf/6f9d3752-d746-fa09-b69b-eb0769f24294?t=1673880807729 "https://www.fisioterapisti.aon.it/documents/31308451/0/Tutorial+FISIOTERAPISTI+2.0+%281%29.pdf/6f9d3752-d746-fa09-b69b-eb0769f24294?t=1673880807729")), lo stesso è presente anche in Home Page del sito
 >
->   
 > IMPORTANTE: per procedere al rinnovo della polizza non cliccare, se presente, sul tasto “RINNOVA” ma sempre e soltanto su “FAI UN PREVENTIVO”.
 >
 > Le ricordiamo, infine, che la sua copertura di Responsabilità Civile Professionale, sottoscritta attraverso la Convenzione TSRM e PSTRP con Italiana Ass.ni, potrà essere rinnovata alle medesime condizioni e premi entro il 30 aprile 2023.
 >
->   
 > Questo significa che se il pagamento del suo rinnovo fosse effettuato, per esempio, nel mese di marzo 2023, questo viene considerato come se fosse fatto al 31 dicembre 2022 senza perdere, quindi, la continuità assicurativa."
 
 \-
@@ -109,9 +106,11 @@ Per verificarlo puoi andare sul nuovo sito:
 
 Per nominare i nuovi consigli provinciali dell'Albo FNOFI, **ci saranno le elezioni a Marzo 2023**.
 
-Controlla sul sito del tuo Albo provinciale per sapere dove potrai andare a votare. 
+Controlla sul sito del tuo Albo provinciale per sapere dove potrai andare a votare.
 
 Possono votare e candidarsi tutti i fisioterapisti iscritti.
+
+Per approfondire, leggi [l'articolo che abbiamo scritto a proposito delle elezioni](https://fisioterapisti.org/elezioni-albo-fnofi-dei-fisioterapisti-marzo-2023-cosa-c-e-da-sapere/ "Elezioni Albo FNOFI dei Fisioterapisti marzo 2023: cosa c’è da sapere?").
 
 \-
 
@@ -119,4 +118,4 @@ Possono votare e candidarsi tutti i fisioterapisti iscritti.
 
 Grazie per aver letto!
 
-Se ti va di ricevere aggiornamenti di questo tipo in anticipo, [unisciti a noi su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official")! 
+Se ti va di ricevere aggiornamenti di questo tipo in anticipo, [unisciti a noi su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official")!
