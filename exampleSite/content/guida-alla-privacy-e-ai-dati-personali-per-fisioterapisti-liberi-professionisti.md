@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2023-02-22T23:00:00Z
 description = "Tutto il discorso privacy, raccolta del consenso, informativa sono estremamente confusionari. Cerchiamo di fare chiarezza, soprattutto per i fisioterapisti in libera professione"
-draft = true
 image = "/images/gabrielle-henderson-hjckknwcxxq-unsplash.jpg"
 title = "Guida alla Privacy e ai Dati Personali per Fisioterapisti liberi professionisti"
 type = "post"
