@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Libera Professione"]
 date = 2023-02-27T23:00:00Z
 description = "Oggi pubblichiamo un veloce chiarimento in cui ci chiediamo se è possibile per un fisioterapista lavorare con contratto e arrotondare come libero professionista."
-draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "Un fisioterapista dipendente può avere la Partita IVA?"
 type = "post"
