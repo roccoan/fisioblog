@@ -96,6 +96,24 @@ Per iscriversi, bisogna andare qui:
 
 \-
 
+## ASP AZALEA AZIENDA DI SERVIZI ALLA PERSONA DEL DISTRETTO DI PONENTE
+
+**Scadenza:** 16/03/2023
+
+**Luogo:** Piacenza
+
+**Tipologia:** Concorso Pubblico per Fisioterapisti
+
+**Posti:** 3
+
+Bando di concorso pubblico, per esami, per l'assunzione a tempo indeterminato di n. 3 fisioterapisti
+
+Per iscriversi, bisogna andare qui:
+
+[https://portale.inpa.gov.it/ui/public-area/concoursedetail/7c51f9be1a7341809311dbde4ce603a9](https://portale.inpa.gov.it/ui/public-area/concoursedetail/7c51f9be1a7341809311dbde4ce603a9 "https://portale.inpa.gov.it/ui/public-area/concoursedetail/7c51f9be1a7341809311dbde4ce603a9")
+
+\-
+
 > Se non sai da **dove iniziare a studiare**, e il tempo per studiare è poco, **ti consiglio questo libro**:
 >
 > [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d’esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it")
