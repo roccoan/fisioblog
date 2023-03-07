@@ -3,7 +3,6 @@ author = "Redazione"
 categories = ["Libera Professione"]
 date = 2023-03-06T23:00:00Z
 description = "Se sono un Fisioterapista Libero Professionista, come faccio a capire quante tasse e contributi devo pagare e quale sarà il mio guadagno netto? Scopriamolo insieme."
-draft = true
 image = "/images/kelly-sikkema-xou52juvuxa-unsplash.jpg"
 title = "Quante tasse paga un Fisioterapista in Regime Forfettario nel 2023?"
 type = "post"
