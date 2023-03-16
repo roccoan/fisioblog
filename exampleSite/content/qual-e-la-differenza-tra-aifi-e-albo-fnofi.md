@@ -10,29 +10,35 @@ type = "post"
 +++
 Per molti professionisti "navigati" la differenza è ovvia, ma per chi ha iniziato da poco non lo è, quindi cerchiamo di spiegarlo in modo semplice.
 
+\-
+
 ## Qual è la differenza tra AIFI e Albo FNOFI?
 
 L'AIFI (Associazione Italiana Fisioterapisti) e l'Albo dei Fisioterapisti FNOFI sono **due entità differenti** nel campo della fisioterapia in Italia.
 
-L'AIFI è un'**associazione professionale** che rappresenta i fisioterapisti italiani e promuove la professione della fisioterapia in Italia e all'estero (per esempio collaborando con World Physiotherapy - quelli della Giornata Mondiale della Fisioterapia - e altri organismi internazionali). 
+L'AIFI è un'**associazione professionale** che rappresenta i fisioterapisti italiani e promuove la professione della fisioterapia in Italia e all'estero (per esempio collaborando con World Physiotherapy - quelli della Giornata Mondiale della Fisioterapia - e altri organismi internazionali).
 
-L'AIFI offre servizi di formazione continua, pubblicazioni scientifiche, aggiornamenti sulle normative e regolamentazioni della professione e una rete di contatti tra i professionisti del settore. 
+L'AIFI offre servizi di formazione continua, pubblicazioni scientifiche, aggiornamenti sulle normative e regolamentazioni della professione e una rete di contatti tra i professionisti del settore.
 
 Tra l'altro, l'AIFI esiste da molto più tempo dell'Albo.
 
-L'**Albo FNOFI**, invece, è un **registro professionale obbligatorio** per i fisioterapisti che vogliono esercitare la professione in Italia. 
+L'**Albo FNOFI**, invece, è un **registro professionale obbligatorio** per i fisioterapisti che vogliono esercitare la professione in Italia.
 
-L'iscrizione all'Albo garantisce la competenza e la qualità dei servizi offerti dai fisioterapisti e garantisce la tutela della salute pubblica. 
+L'iscrizione all'Albo garantisce la competenza e la qualità dei servizi offerti dai fisioterapisti e garantisce la tutela della salute pubblica.
 
 Per essere **iscritti all'ordine**, i fisioterapisti devono avere completato una laurea triennale o magistrale in Fisioterapia e superato l'esame di abilitazione (che si fa quando ci si laurea, per intenderci).
 
 In sintesi, l'AIFI è un'associazione professionale che rappresenta i fisioterapisti e fornisce loro servizi e supporto, mentre l'Albo FNOFI è un registro professionale obbligatorio che garantisce la qualità dei servizi offerti dai fisioterapisti e tutela la salute pubblica.
 
+\-
+
 ## Quindi, l'AIFI è facoltativa mentre il FNOFI è obbligatorio?
 
-Esatto, **l'iscrizione all'Ordine FNOFI è obbligatoria** per tutti i fisioterapisti che vogliono esercitare la professione in Italia, **mentre l'iscrizione all'AIFI è facoltativa** per i fisioterapisti che vogliono far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto. 
+Esatto, **l'iscrizione all'Ordine FNOFI è obbligatoria** per tutti i fisioterapisti che vogliono esercitare la professione in Italia, **mentre l'iscrizione all'AIFI è facoltativa** per i fisioterapisti che vogliono far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto.
 
 Tuttavia, l'iscrizione all'AIFI può comunque essere importante per i fisioterapisti, poiché l'associazione rappresenta la categoria a livello nazionale e internazionale e può fornire opportunità di formazione, aggiornamento e networking.
+
+\-
 
 ## Come funziona? Si pagano?
 
@@ -40,7 +46,9 @@ Sì, sia l'iscrizione all'Albo FNOFI che all'AIFI comportano il **pagamento di u
 
 L'iscrizione all'Albo FNOFI prevede il pagamento di una **tassa annuale** per la gestione dell'iscrizione e della verifica dei requisiti professionali e di formazione continua richiesti (tra un po' capiamo perché questa procedura di verifica, che all'Albo comporta dei costi, è importante).
 
-L'iscrizione all'AIFI, invece, prevede il pagamento di una quota annuale per far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto. 
+L'iscrizione all'AIFI, invece, prevede il pagamento di una quota annuale per far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto.
+
+\-
 
 ## Quanto si pagano?
 
@@ -61,7 +69,11 @@ La quota [dipende dal tipo di iscrizione](https://aifi.net/tesseramento-aifi/ "D
 * SOSTENITORE ELENCO SPECIALE: La quota di adesione è di **100 €;**
 * SOSTENITORE PERSONE FISICHE ED ENTI: La quota di adesione è di **100 €.**
 
+\-
+
 ## Ok si paga. Ma cosa ottengo in cambio?
+
+Cerchiamo di andare con ordine. Per capirlo vediamo prima cosa offre l'Albo e poi cosa offre l'AIFI.
 
 ### Cosa ottengo dall'Albo FNOFI
 
@@ -69,21 +81,29 @@ A parte vantaggi come la PEC gratuita, lo sconto sull'assicurazione professional
 
 Che significa **riconoscimento come professionista**?
 
-Semplicemente significa che gli _iscritti all'Albo_ sono **regolari**. 
+Semplicemente significa che gli _iscritti all'Albo_ sono **regolari**.
 
 Invece tutti i fisioterapisti (o presunti tali) _non iscritti all'Albo_ sono **abusivi**.
+
+Perché tutta questa attenzione ai regolari e agli abusivi?
+
+Perché l'abusivismo è un rischio sia per i pazienti (rischio a livello di salute) che per i fisioterapisti (a livello di reputazione della categoria ed economico). 
+
+Compito dell'Albo è tutelare da questo rischio entrambe le categorie, e ora capiamo come lo fa e perché farlo comporta dei costi che vengono coperti dalle quote di iscrizione.
+
+\-
 
 #### Quali sono i rischi dell'Abusivismo che l'Albo deve ridurre?
 
 ##### Per i pazienti
 
-Per i pazienti, l'abusivismo può comportare rischi per la salute, in quanto gli abusivi mediamente non hanno la formazione, la competenza e l'esperienza necessarie per esercitare la professione in modo sicuro ed efficace. 
+Per i pazienti, l'abusivismo può comportare rischi per la salute, in quanto gli abusivi mediamente non hanno la formazione, la competenza e l'esperienza necessarie per esercitare la professione in modo sicuro ed efficace.
 
-Gli abusivi possono: 
+Gli abusivi possono:
 
 * Utilizzare **tecniche inadeguate**;
 * Non rispettare le **norme igieniche**;
-* Non effettuare **valutazioni appropriate**; 
+* Non effettuare **valutazioni appropriate**;
 * Non disporre degli **strumenti necessari** per svolgere fisioterapia **in modo corretto** e **sicuro**.
 
 Inoltre, l'abusivismo può pregiudicare il diritto dei pazienti all'informazione e alla tutela della salute, perché _gli abusivi non sono tenuti al rispetto dei codici deontologici, delle normative e delle regolamentazioni in vigore_.
@@ -94,6 +114,8 @@ Per i fisioterapisti, l'abusivismo rappresenta una **concorrenza sleale** e una 
 
 Inoltre, gli abusivi possono comportare un aumento della concorrenza nel mercato del lavoro, con conseguente **diminuzione dei compensi** per i fisioterapisti regolarmente iscritti, che invece sono tenuti a rispettare le normative e le regolamentazioni in vigore, a formarsi e ad aggiornarsi costantemente per offrire servizi di alta qualità ai pazienti.
 
+\-
+
 #### Come lavora l'Albo per contrastare l'abusivismo?
 
 Quindi, l'Albo FNOFI ha il compito di **tutelare la professione del fisioterapista e la salute dei pazienti**, anche attraverso la prevenzione e il contrasto dell'abusivismo professionale.
@@ -102,11 +124,17 @@ Per fare ciò, l'Albo svolge diverse **attività di vigilanza e controllo sul te
 
 In caso di abusivismo, l'Albo può **intraprendere azioni legali** per tutelare la professione del fisioterapista e la salute dei pazienti. Ad esempio, può segnalare all'autorità giudiziaria i casi di esercizio abusivo della professione e collaborare con le autorità competenti per l'individuazione dei soggetti responsabili.
 
+Tutto ciò comporta dei **costi organizzativi, legali e operativi** che vengono **sostenuti grazie alle iscrizioni dei singoli** (per questo paghiamo).
+
+\-
+
 ### Cosa ottengo dall'iscrizione (facoltativa) all'AIFI?
 
 L'iscrizione all'AIFI **offre ai fisioterapisti diversi vantaggi** per la loro crescita professionale, la formazione continua, il networking e l'assistenza legale, oltre a promuovere e valorizzare la professione di fisioterapista nella società.
 
 Hanno anche delle **convenzioni** ([che puoi controllare da qui](https://aifi.net/convenzioni-vantaggi-aifi/ "Convenzioni e Vantaggi AIFI")) e tutta una serie di linee guida e riferimenti scientifici.
+
+\-
 
 ## Conclusione
 
