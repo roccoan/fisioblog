@@ -3,7 +3,6 @@ author = "Federica"
 categories = ["Università"]
 date = 2023-03-15T23:00:00Z
 description = "Oggi capiamo la differenza tra AIFI e FNOFI, quanto costano e cosa ti offrono in cambio"
-draft = true
 image = "/images/24487816_6961057.jpeg"
 title = "Qual è la differenza tra AIFI e Albo FNOFI?"
 type = "post"
