@@ -56,7 +56,7 @@ L'iscrizione all'AIFI, invece, prevede il pagamento di una quota annuale per far
 
 Per l'Albo la risposta è un bel **dipende**.
 
-Dipende dall’Albo di competenza (quindi dalla provincia di appartenenza), e di solito costa tra gli €80 e i €120 all’anno, ma dato il **sistema di pagamento** utilizzato (tra poco vedremo quale) c’è sempre da considerare €1-€2 per la commissione di PagoPA.
+Dipende dall’Albo di competenza (quindi dalla provincia di appartenenza), e di solito costa tra gli €80 e i €120 all’anno, ma dato il **sistema di pagamento** utilizzato (e cioè PagoPA) c’è sempre da considerare €1-€2 per la commissione.
 
 L'importo esatto si può controllare nella propria area riservata sul sito dell'Albo FNOFI.
 
