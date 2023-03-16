@@ -28,7 +28,7 @@ L'iscrizione all'Albo garantisce la competenza e la qualità dei servizi offerti
 
 Per essere **iscritti all'ordine**, i fisioterapisti devono avere completato una laurea triennale o magistrale in Fisioterapia e superato l'esame di abilitazione (che si fa quando ci si laurea, per intenderci).
 
-In sintesi, l'AIFI è un'associazione professionale che rappresenta i fisioterapisti e fornisce loro servizi e supporto, mentre l'Albo FNOFI è un registro professionale obbligatorio che garantisce la qualità dei servizi offerti dai fisioterapisti e tutela la salute pubblica.
+In sintesi, l'**AIFI** è un'_associazione professionale che rappresenta i fisioterapisti_ e fornisce loro servizi e supporto, mentre l'**Albo FNOFI** è un _registro professionale obbligatorio_ che garantisce la qualità dei servizi offerti dai fisioterapisti e tutela la salute pubblica.
 
 \-
 
@@ -44,9 +44,9 @@ Tuttavia, l'iscrizione all'AIFI può comunque essere importante per i fisioterap
 
 Sì, sia l'iscrizione all'Albo FNOFI che all'AIFI comportano il **pagamento di una quota annuale**.
 
-L'iscrizione all'Albo FNOFI prevede il pagamento di una **tassa annuale** per la gestione dell'iscrizione e della verifica dei requisiti professionali e di formazione continua richiesti (tra un po' capiamo perché questa procedura di verifica, che all'Albo comporta dei costi, è importante).
+L'iscrizione all'**Albo FNOFI** prevede il pagamento di una **tassa annuale** per la gestione dell'iscrizione e della verifica dei requisiti professionali e di formazione continua richiesti (tra un po' capiamo perché questa procedura di verifica, che all'Albo comporta dei costi, è importante).
 
-L'iscrizione all'AIFI, invece, prevede il pagamento di una quota annuale per far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto.
+L**'iscrizione all'AIFI**, invece, prevede il pagamento di una **quota annuale** per far parte dell'associazione e usufruire dei suoi servizi e del supporto offerto.
 
 \-
 
@@ -87,9 +87,9 @@ Invece tutti i fisioterapisti (o presunti tali) _non iscritti all'Albo_ sono **a
 
 Perché tutta questa attenzione ai regolari e agli abusivi?
 
-Perché l'abusivismo è un rischio sia per i pazienti (rischio a livello di salute) che per i fisioterapisti (a livello di reputazione della categoria ed economico). 
+Perché l'abusivismo è un **rischio sia per i pazienti** (rischio a livello di salute) **che per i fisioterapisti** (a livello di reputazione della categoria ed economico). 
 
-Compito dell'Albo è tutelare da questo rischio entrambe le categorie, e ora capiamo come lo fa e perché farlo comporta dei costi che vengono coperti dalle quote di iscrizione.
+Compito dell'Albo è **tutelare da questo rischio entrambe le categorie**, e ora capiamo anzitutto come lo fa e soprattutto come mai farlo comporta dei costi.
 
 \-
 
@@ -97,7 +97,7 @@ Compito dell'Albo è tutelare da questo rischio entrambe le categorie, e ora cap
 
 ##### Per i pazienti
 
-Per i pazienti, l'abusivismo può comportare rischi per la salute, in quanto gli abusivi mediamente non hanno la formazione, la competenza e l'esperienza necessarie per esercitare la professione in modo sicuro ed efficace.
+Per i pazienti, l'abusivismo può comportare **rischi per la salute**, in quanto gli abusivi possono non avere la formazione, la competenza e l'esperienza necessarie per esercitare la professione in modo sicuro ed efficace.
 
 Gli abusivi possono:
 
