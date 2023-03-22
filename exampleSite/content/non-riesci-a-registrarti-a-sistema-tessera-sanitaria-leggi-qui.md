@@ -3,7 +3,6 @@ author = "Redazione"
 categories = []
 date = 2023-03-21T23:00:00Z
 description = "Registrarsi per la prima volta a Sistema Tessera Sanitaria può dare dei problemi. Scopriamo i più diffusi e cerchiamo di risolverli insieme."
-draft = true
 image = "/images/screenshot-2022-04-29-114212.jpg"
 title = "Non riesci a registrarti a Sistema Tessera Sanitaria? Leggi qui"
 type = "post"
