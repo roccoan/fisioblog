@@ -18,7 +18,7 @@ Prima di partire con la guida, [riportiamo in un nuovo articolo le novità su](h
 * Le **nuove scadenze** per il 2023;
 * Le **sanzioni previste** se le scadenze non vengono rispettate.
 
-Ti riporto gli aggiornamenti per il 2023 anche in fondo, ora proseguiamo con la guida! 
+Ti riporto gli aggiornamenti per il 2023 anche in fondo, ora proseguiamo con la guida!
 
 ## La guida
 
@@ -41,7 +41,7 @@ Non c'è bisogno **della prescrizione del medico**.
 
 ### Tornando ai pagamenti tracciati
 
-Io faccio così di solito: nella prima valutazione, quando il cliente vuole iniziare il ciclo di fisioterapia, gli spiego che **se ha intenzione di detrarre la spesa dalla dichiarazione dei redditi non può pagare la fattura in contanti**, ma deve pagare _con strumento tracciabile_. 
+Io faccio così di solito: nella prima valutazione, quando il cliente vuole iniziare il ciclo di fisioterapia, gli spiego che **se ha intenzione di detrarre la spesa dalla dichiarazione dei redditi non può pagare la fattura in contanti**, ma deve pagare _con strumento tracciabile_.
 
 Per **strumento tracciabile** intendiamo ovviamente **bonifico** o **carta**, ma anche altri meno scontati come **Satispay** e **PayPal** ([fonte](https://www.ilsole24ore.com/art/da-satispay-paypal-ok-sconto-fiscale-le-spese-pagate-le-app-ACcCdCEB)).
 
@@ -80,6 +80,8 @@ Quindi, appena avrai per le mani la Password, basta:
 
 Il Codice Identificativo è il tuo Codice Fiscale (non la tua Partita IVA, ma proprio il Codice Fiscale) e la Parola Chiave è la Password che trovi nel file PDF che hai scaricato poco fa.
 
+> Stai avendo **problemi in fase di registrazione** a Sistema Tessera Sanitaria? Allora [leggi qui per scoprire gli errori più comuni in fase di registrazione e come risolverli](https://fisioterapisti.org/non-riesci-a-registrarti-a-sistema-tessera-sanitaria-leggi-qui/ "Non riesci a registrarti a Sistema Tessera Sanitaria? Leggi qui").
+
 ### Aggiunta dei dati della tua Partita IVA
 
 Adesso che ti sei registrata/o, hai la facoltà di cambiare la password con una di tua preferenza, ma per ora lasciamo perdere questo passaggio, puoi farlo in ogni momento.
@@ -102,7 +104,7 @@ Quindi non devi caricare quelle emesse a studi, centri, Rsa, assicurazioni sanit
 
 Se parti dalla Home, clicca su “Gestione dati spesa 730” in alto a sinistra. Da qui, sempre nella barra blu in alto, clicca su “Inserimento spese sanitarie”.
 
-Questo form va compilato per ogni fattura di pazienti privati che vogliono detrarre la spesa. 
+Questo form va compilato per ogni fattura di pazienti privati che vogliono detrarre la spesa.
 
 Ti do alcune **indicazioni sui dubbi che ho avuto la prima volta che l’ho compilato** – il resto è abbastanza semplice (tipo il numero della fattura, la data di emissione della fattura e il codice fiscale del paziente – che sul sito viene chiamato “assistito”).
 
@@ -132,7 +134,7 @@ Come promesso, [riportiamo in un nuovo articolo le novità su](https://fisiotera
 * Le **nuove scadenze** per il 2023;
 * Le **sanzioni previste** se le scadenze non vengono rispettate.
 
-Temi che non ricorderai mai tutte queste cose? Non preoccuparti, [unisciti a noi su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official"), te le ricordiamo noi al momento giusto ;) 
+Temi che non ricorderai mai tutte queste cose? Non preoccuparti, [unisciti a noi su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official"), te le ricordiamo noi al momento giusto ;)
 
 \-
 
