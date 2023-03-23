@@ -1,6 +1,6 @@
 +++
 author = "Redazione"
-categories = []
+categories = ["Libera Professione"]
 date = 2023-03-21T23:00:00Z
 description = "Registrarsi per la prima volta a Sistema Tessera Sanitaria può dare dei problemi. Scopriamo i più diffusi e cerchiamo di risolverli insieme."
 image = "/images/screenshot-2022-04-29-114212.jpg"
