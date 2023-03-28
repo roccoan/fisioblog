@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = []
+categories = ["Concorsi"]
 date = 2023-03-27T22:00:00Z
 description = "Concorsi e Avvisi Pubblici per Fisioterapisti in scadenza ad Aprile 2023"
 image = "/images/concorso-fisioterapista.jpg"
