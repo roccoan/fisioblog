@@ -8,12 +8,11 @@ title = "Concorsi e Avvisi Pubblici per Fisioterapisti in scadenza ad Aprile 202
 type = "post"
 
 +++
-
 Torniamo con la consueta rubrica mensile sui concorsi e avvisi pubblici per fisioterapisti.
 
 ## Introduzione
 
-Come al solito, elenchiamo le date dei concorsi e degli avvisi pubblici che scadono a Marzo 2023.
+Come al solito, elenchiamo le date dei concorsi e degli avvisi pubblici che scadono ad aprile 2023.
 
 Al momento della pubblicazione abbiamo un paio di concorsi interessanti, con **possibilità anche per chi vive al sud (Napoli e Palermo)**
 
@@ -25,11 +24,11 @@ Vediamoli insieme.
 
 \-
 
-## Fondazione IRCCS Policlinico «San Matteo» di Pavia	
+## Fondazione IRCCS Policlinico «San Matteo» di Pavia
 
 **Scadenza:** 06/04/2023
 
-**Luogo:** Pavia 
+**Luogo:** Pavia
 
 **Tipologia:** Concorso Pubblico
 
@@ -41,11 +40,11 @@ Per inviare la domanda, [procedi dalla pagina ufficiale dell'ente](http://www.sa
 
 \-
 
-## Azienda Ospedaliera Istituto Ortopedico «Gaetano Pini» di Milano	
+## Azienda Ospedaliera Istituto Ortopedico «Gaetano Pini» di Milano
 
 **Scadenza:** 11/04/2023
 
-**Luogo:** Milano 
+**Luogo:** Milano
 
 **Tipologia:** Concorso Pubblico
 
@@ -65,11 +64,11 @@ www.asst-pini-cto.it
 
 \-
 
-## Azienda Ospedaliera Universitaria Policlinico «P. Giaccone» di Palermo	
+## Azienda Ospedaliera Universitaria Policlinico «P. Giaccone» di Palermo
 
 **Scadenza:** 13/04/2023
 
-**Luogo:** Palermo 
+**Luogo:** Palermo
 
 **Tipologia:** Avviso Pubblico
 
@@ -77,7 +76,7 @@ www.asst-pini-cto.it
 
 SELEZIONE PUBBLICA, PER SOLI TITOLI, PER L'ATTIVAZIONE DI UNA GRADUATORIA A TEMPO PIENO E DETERMINATO NEL PROFILO DI COLLABORATORE PROFESSIONALE SANITARIO FISIOTERAPISTA -CAT. D PER L'ATTRIBUZIONE DI INCARICHI E/O SUPPLENZE.
 
-Per inviare la domanda, devi inviare una PEC all'indirizzo: _concorsi@cert.policlinico.pa.it_. 
+Per inviare la domanda, devi inviare una PEC all'indirizzo: _concorsi@cert.policlinico.pa.it_.
 
 Per ulteriori informazioni:
 
@@ -86,11 +85,11 @@ www.policlinico.pa.it
 
 \-
 
-## AZIENDA OSPEDALIERA DEI COLLI - NAPOLI	
+## AZIENDA OSPEDALIERA DEI COLLI - NAPOLI
 
 **Scadenza:** 20/04/2023
 
-**Luogo:** Napoli 
+**Luogo:** Napoli
 
 **Tipologia:** Concorso Pubblico
 
