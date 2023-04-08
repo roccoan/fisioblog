@@ -48,10 +48,10 @@ Siccome c'è un allentamento del vincolo di esclusività, i professionisti sanit
 
 I dipendenti coinvolti sono quelli [aderenti al CCNL Comparto Sanità](https://fisioterapisti.org/quanto-guadagna-un-fisioterapista-stipendio-fisioterapista-pubblico/ "Quanto guadagna un fisioterapista? | Stipendio fisioterapista pubblico"), quindi per fare qualche esempio pratico, parliamo di chi esercita le professioni:
 
-* dell’Infermiere, 
-* dell’Infermiere Pediatrico, 
-* dell’Ostetrica/o, 
-* del **Fisioterapista** 
+* dell’Infermiere,
+* dell’Infermiere Pediatrico,
+* dell’Ostetrica/o,
+* del **Fisioterapista**
 * e delle altre discipline professionali in ambito sanitario.
 
 Quindi si, **anche i Fisioterapisti sono coinvolti**, e con queste novità possono avere la Partita IVA **anche se dipendenti pubblici**.
@@ -82,7 +82,7 @@ Che prezzi sceglie di applicare un Fisioterapista? E un infermiere?
 
 ### Inoltre, come funziona per i contributi?
 
-Ce lo chiediamo perché i medici che già possono avere la Partita IVA anche se sono dipendenti pubblici, hanno anche una [cassa previdenziale privata](https://www.enpam.it/ "ENPAM") (mentre tutti gli altri professionisti - inclusi noi fisioterapisti - [rientriamo nella gestione separata dell'INPS](https://fisioterapisti.org/quante-tasse-paga-un-fisioterapista-in-regime-forfettario-nel-2023/ "Quante tasse paga un Fisioterapista in Regime Forfettario nel 2023?")).
+Ce lo chiediamo perché i medici che già possono avere la Partita IVA anche se sono dipendenti pubblici, hanno anche una [cassa previdenziale privata](https://www.enpam.it/ "ENPAM") (mentre tutti gli altri professionisti - inclusi noi fisioterapisti - [rientrano nella gestione separata dell'INPS](https://fisioterapisti.org/quante-tasse-paga-un-fisioterapista-in-regime-forfettario-nel-2023/ "Quante tasse paga un Fisioterapista in Regime Forfettario nel 2023?")).
 
 Tutti questi non sono affatto aspetti secondari, e **iniziare con l'attività da libero professionista prima che vengano definiti ufficialmente dai decreti ministeriali potrebbe comportare problemi**, anche poco piacevoli (come accertamenti fiscali, provvedimenti disciplinari o addirittura licenziamento).
 
