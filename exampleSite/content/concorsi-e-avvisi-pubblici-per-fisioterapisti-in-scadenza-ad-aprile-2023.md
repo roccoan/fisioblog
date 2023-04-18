@@ -101,6 +101,54 @@ Per inviare la domanda, [procedi dalla pagina ufficiale dell'ente](https://osped
 
 \-
 
+## Istituto Nazionale per lo Studio e la Cura dei Tumori «Fondazione Giovanni Pascale» di Napoli
+
+**Scadenza:** 20/04/2023
+
+**Luogo:** Napoli
+
+**Tipologia:** Avviso di Mobilità
+
+**Posti:** 3
+
+Mobilità, per titoli e colloquio, per la copertura di tre posti di fisioterapista, categoria D, a tempo indeterminato. (GU n.22 del 21-3-2023)
+
+Per inviare la domanda, [procedi dalla pagina ufficiale dell'ente](https://istitutotumorina.portaleamministrazionetrasparente.it/ "Istituto Nazionale per lo Studio e la Cura dei Tumori «Fondazione Giovanni Pascale» di Napoli, 3 fisioterapisti").
+
+\-
+
+## Azienda ULSS n. 2 Marca trevigiana
+
+**Scadenza:** 27/04/2023
+
+**Luogo:** Treviso
+
+**Tipologia:** Concorso Pubblico
+
+**Posti:** 11
+
+Concorso pubblico, per titoli ed esami, per la copertura di vari posti, in varie qualifiche, **riservati alle categorie protette** di cui all'art. 18 della legge n. 68/1999. (GU n.24 del 28-3-2023)
+
+Per inviare la domanda, [procedi dalla pagina ufficiale dell'ente](https://aulss2veneto.iscrizioneconcorsi.it/ "AZIENDA ULSS N. 2 MARCA TREVIGIANA, 11 VARI POSTI, IN VARIE QUALIFICHE, RISERVATI ALLE CATEGORIE PROTETTE").
+
+\-
+
+## Azienda Socio Sanitaria Territoriale (ASST) della Valtellina e dell'Alto Lario
+
+**Scadenza:** 27/04/2023
+
+**Luogo:** Sondrio
+
+**Tipologia:** Concorso Pubblico
+
+**Posti:** 3
+
+Concorsi pubblici, per titoli ed esami, per la copertura di sette posti per vari profili professionali, a tempo indeterminato, di cui un posto riservato ai volontari delle Forze armate. (GU n.24 del 28-3-2023)
+
+Per inviare la domanda, [procedi dalla pagina ufficiale dell'ente](https://asst-val.iscrizioneconcorsi.it/ "ASST DELLA VALTELLINA E DELL'ALTO LARIO , 3 FISIOTERAPISTI").
+
+\-
+
 > Se non sai da **dove iniziare a studiare**, e il tempo per studiare è poco, **ti consiglio questo libro**:
 >
 > [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d’esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it")
