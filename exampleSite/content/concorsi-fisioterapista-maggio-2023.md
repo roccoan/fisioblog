@@ -6,6 +6,7 @@ description = "Torna la consueta rubrica dei concorsi per fisioterapisti in scad
 image = "/images/concorso-fisioterapista.jpg"
 title = "Concorsi per Fisioterapista in scadenza a Maggio 2023"
 type = "post"
+draft = false
 
 +++ 
 Torna la nostra rubrica mensile sui concorsi e sugli avvisi pubblici per Fisioterapisti in scadenza a **Maggio 2023**.
