@@ -18,6 +18,8 @@ Ma come si fa?
 
 Vediamolo insieme velocemente!
 
+>Se vuoi una guida ancora più rapida, ne abbiamo postata una qualche giorno fa [sul nostro Canale Telegram](https://t.me/fisioterapisti_official/183).
+
 ## Come pagare l'Albo FNOFI
 Come prima cosa, devi accedere [al sito dell'Albo](https://amministrazione.alboweb-fnofi.net/login). 
 
@@ -43,4 +45,4 @@ Se ti stai chiedendo qual è l’importo della tassa di iscrizione annua, la ris
 Dipende dall’Albo di competenza (quindi dalla provincia di appartenenza), e di solito costa tra i €100 e i €150 all’anno, ma dato il sistema di pagamento utilizzato c’è sempre da considerare €1-€2 circa per la commissione di PagoPA. Se sei iscritto, puoi vedere la cifra esatta entrando nel tuo cassetto pagamenti.
 
 ## Conclusione
-Per oggi è tutto, grazie per aver letto! Ricorda di iscriverti al nostro Canale Telegram per non perderti gli aggiornamenti e le scadenze più utili sulla nostra professione ;) 
+Per oggi è tutto, grazie per aver letto! Ricorda di iscriverti [al nostro Canale Telegram](https://t.me/fisioterapisti_official) per non perderti gli aggiornamenti e le scadenze più utili sulla nostra professione :D 
