@@ -40,7 +40,9 @@ Probabilmente avrai un **nuovo numero di iscrizione** (mentre data e provincia r
 
 Dal 1 febbraio 2023 è possibile **rinnovare l'iscrizione** e - per i neolaureati - **iscriversi per la prima volta** al nuovo Albo dei Fisioterapisti FNOFI.
 
-Per farlo, segui le indicazioni su questa pagina:
+Per rinnovare l'iscrizione, abbiamo scritto questa guida: [Come si paga l’Albo FNOFI? Guida 2023](https://fisioterapisti.org/pagare-iscrizione-albo-fisioterapisti-2023/)
+
+Se devi iscriverti, segui le indicazioni su questa pagina:
 
 📲 [https://www.fnofi.it/blog/aperte-le-iscrizioni-rinnovi-2023/](https://www.fnofi.it/blog/aperte-le-iscrizioni-rinnovi-2023/ "https://www.fnofi.it/blog/aperte-le-iscrizioni-rinnovi-2023/")
 
