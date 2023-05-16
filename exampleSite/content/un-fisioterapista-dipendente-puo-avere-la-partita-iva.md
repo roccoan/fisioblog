@@ -30,6 +30,8 @@ Scopriamolo insieme, ma partiamo con ordine.
 
 ## 1) Fisioterapista dipendente pubblico
 
+>Aggiornamento 2023: per il momento valgono ancora le cose qui sotto, ma leggi quest'articolo per le novità su questo tema: [Rimozione vincolo esclusività 2023 per Fisioterapisti: il punto della situazione](https://fisioterapisti.org/rimozione-vincolo-esclusivita-2023-per-fisioterapisti-il-punto-della-situazione/)
+
 In generale, **un fisioterapista dipendente pubblico NON può aprire la Partita IVA**.
 
 Questa è la regola generale, ma **c’è un eccezione**.
@@ -53,6 +55,8 @@ Purtroppo non siamo in grado di dare una risposta: _è estremamente variabile_ i
 ### Cambieranno mai le cose?
 
 Già da un po’ si discute di **concedere l’intramoenia ai fisioterapisti** (per intenderci, come per i medici che possono avere la Partita IVA e fare visite a pagamento dentro le mura dell’ospedale o anche fuori nei casi di intramoenia allargata), ma al momento non è previsto.
+
+>Aggiornamento 2023: leggi quest'articolo per le novità su questo tema: [Rimozione vincolo esclusività 2023 per Fisioterapisti: il punto della situazione](https://fisioterapisti.org/rimozione-vincolo-esclusivita-2023-per-fisioterapisti-il-punto-della-situazione/)
 
 ## 2) Fisioterapista dipendente privato
 
