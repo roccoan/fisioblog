@@ -70,6 +70,8 @@ Prima di correre ad aprire la Partita IVA, sappi che **non è ancora chiaro che 
 
 Ovviamente come da tradizione appena sappiamo qualcosa di utile corriamo a condividerla [sul nostro canale Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official"), ma per il momento **la situazione è la seguente**.
 
+>Aggiornamento: quello che diciamo di seguito, ad oggi (17 maggio) è ancora valido, ma facciamo un'aggiunta. Nell'[ultima versione del Decreto Bollette all'art.15](https://www.quotidianosanita.it/allegati/allegato1684316272.pdf) viene specificato che appena il decreto diventerà legge, la palla passa alla Conferenza Stato-Regioni che avrà 90 giorni per definire i dettagli. Quindi per ora aspettiamo prima che il decreto diventi legge, e poi possiamo contare 90 giorni.
+
 ### Non ci sono le circolari ministeriali
 
 Nonostante il decreto milleproroghe sia stato convertito in legge, e la legge sia stata poi integrata dal Decreto Bollette, [non ci sono i decreti ministeriali](https://agenparl.eu/2023/03/17/sanita-nursing-up-de-palma-milleproroghe-e-sblocco-libera-professione-per-infermieri-e-altri-operatori-sanitari-del-ssn-mancano-ancora-i-decreti-di-attuazione-si-rischia-lennesima-legge-fe/ "Sanità, Nursing Up De Palma: «Milleproroghe e sblocco Libera Professione per infermieri e altri operatori sanitari del SSN: mancano ancora i Decreti di attuazione.").
