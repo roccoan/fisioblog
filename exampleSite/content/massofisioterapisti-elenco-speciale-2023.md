@@ -37,9 +37,9 @@ Il D.M. del 7 settembre 1976 li definiva così:
 
 In buona sostanza: il massofisioterapista può fare il fisioterapista.
 
-Però dal 1976 ad oggi sono cambiate parecchie cose: se a quel tempo anche per fare il fisioterapista non serviva la laurea né tutti gli obblighi che oggi ci sono (per tutelare la salute dei pazienti), per i massofisioterapisti questi obblighi non sono mai sorti.
+Però dal 1976 ad oggi sono cambiate parecchie cose: se a quel tempo anche per fare il fisioterapista non serviva la laurea né tutti gli obblighi che oggi ci sono (per tutelare la salute dei pazienti), per i massofisioterapisti molti di questi obblighi non sono mai sorti.
 
-E se si rispetta la definizione di prima, il massofisioterapista può in buona sostanza fare il fisioterapista ma senza tutte le rotture che comporta diventare fisioterapisti.
+E se si rispetta la definizione di prima, il massofisioterapista in buona sostanza può fare il fisioterapista ma senza la maggior parte delle complicazioni che comporta diventare fisioterapisti.
 
 
 ## Ma allora perché è stata presa questa decisione?
@@ -48,7 +48,7 @@ Anche perché c'era - e continua ad esserci - carenza di personale sanitario, tr
 
 Ovviamente ammettere i Massofisioterapisti in un'albo (che per definizione deve essere selettivo) fu un tema parecchio controverso.
 
-Per fare un paragone (con i dovuti distinguo), per molti è stato un po' come fare il condono di un immobile costruito senza permessi e a costi molto più bassi, senza ulteriori adeguamenti, solo perché in passato non c'era tanta regolamentazione.
+Per fare un paragone (con i dovuti distinguo), per molti è stato un po' come fare il condono di un immobile costruito senza permessi e a costi molto più bassi, senza ulteriori adeguamenti, costruito così solo perché in passato non c'era tanta regolamentazione.
 Siamo tutti d'accordo che non è molto equo nei confronti di chi ha fatto tutto in regola, ha richiesto permessi, fatto comunicazioni, rispettato norme anti-sismiche e si è assunto responsabilità sulla sicurezza dei lavoratori e così via.
 
 ## Che ne pensiamo noi?
