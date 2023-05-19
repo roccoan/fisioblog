@@ -9,7 +9,7 @@ draft = false
 
 +++
 
-Tra un po' spieghiamo come mai abbiamo deciso di parlare di questo argomento. Prima però dobbiamo fare una premessa.
+Tra un po' spieghiamo come mai abbiamo deciso di parlare di questo argomento, prima però dobbiamo fare una premessa.
 
 ## L'elenco speciale
 
