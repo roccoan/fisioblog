@@ -16,7 +16,6 @@ Tra un po' spieghiamo come mai abbiamo deciso di parlare di questo argomento. Pr
 Che cos'è l'elenco speciale dei Massofisioterapisti? 
 In buona sostanza era una misura, concessa in via straordinaria nel 2018, per far entrare i massofisioterapisti nell'Albo.
 
--
 
 ## Ma perché far entrare i massofisioterapisti nell'albo dei Fisioterapisti?
 In quel periodo non avevamo ancora un albo solo nostro come adesso.
@@ -28,7 +27,6 @@ Per evitare questa situazione, si pensò all'elenco speciale come compromesso.
 
 Questo elenco speciale era ad esaurimento, nel senso che i Massofisioterapisti in quella situazione non erano poi tantissimi, e una volta registrati tutti quelli che avevano lavorato per almeno 36 mesi (anche non continuativi) nei 10 anni precedenti all'istituzione dell'albo, poi l'elenco speciale sarebbe stato chiuso e non abrebbe ammesso nuovi iscritti.
 
--
 
 ## Perché ne parliamo?
 Per capirlo, considera questo: i Massofisioterapisti sono una figura molto borderline. 
@@ -43,7 +41,6 @@ Però dal 1976 ad oggi sono cambiate parecchie cose: se a quel tempo anche per f
 
 E se si rispetta la definizione di prima, il massofisioterapista può in buona sostanza fare il fisioterapista ma senza tutte le rotture che comporta diventare fisioterapisti.
 
--
 
 ## Ma allora perché è stata presa questa decisione?
 Visto che i massofisioterapisti che rispettavano quei requisiti non erano poi tantissimi, si è deciso di prendere la via più veloce e procedere in questo modo.
@@ -54,11 +51,12 @@ Ovviamente ammettere i Massofisioterapisti in un'albo (che per definizione deve 
 Per fare un paragone (con i dovuti distinguo), per molti è stato un po' come fare il condono di un immobile costruito senza permessi e a costi molto più bassi, senza ulteriori adeguamenti, solo perché in passato non c'era tanta regolamentazione.
 Siamo tutti d'accordo che non è molto equo nei confronti di chi ha fatto tutto in regola, ha richiesto permessi, fatto comunicazioni, rispettato norme anti-sismiche e si è assunto responsabilità sulla sicurezza dei lavoratori e così via.
 
-Chi si è trovato a fare la legge all'epoca ha dovuto decidere se far prevalere l'interesse di salute pubblica (limitando le figure che possono mettere le mani sui pazienti) o se far prevalere il diritto al lavoro dei singoli Massofisioterapisti coinvolti (che si sarebbero ritrovati abusivi e fuorilegge da un giorno all'altro).
+## Che ne pensiamo noi?
+Che oggettivamente non era una decisione facile.
 
-Non una scelta facile, e oggi torniamo a parlarne, per un motivo.
+Chi si è trovato a fare la legge all'epoca ha dovuto decidere se far prevalere l'interesse di salute pubblica (limitando le figure che possono mettere le mani sui pazienti) o se far prevalere il diritto al lavoro dei singoli Massofisioterapisti coinvolti (che si sarebbero ritrovati abusivi e fuorilegge da un giorno all'altro). 
 
--
+Non una scelta facile di sicuro, e oggi si torna a parlarne per un motivo ben preciso.
 
 ## Perché se ne parla di nuovo?
 Come abbiamo [segnalato in un post sul nostro Canale Telegram](https://t.me/fisioterapisti_official), nell'art.15-bis del Decreto Bollette (lo stesso della [rimozione del vincolo di esclusività](https://fisioterapisti.org/rimozione-vincolo-esclusivita-2023-per-fisioterapisti-il-punto-della-situazione/)) il Governo Meloni sta riaprendo l'elenco speciale per i Massofisioterapisti.
