@@ -6,9 +6,12 @@ description = "Il Decreto Milleproroghe permette ai professionisti sanitari dipe
 image = "/images/national-cancer-institute-nfvdkihxylu-unsplash.jpg"
 title = "Rimozione vincolo esclusività 2023 per Fisioterapisti: il punto della situazione"
 type = "post"
+draft = false
 
 +++
 Il Decreto Milleproroghe permette ai professionisti sanitari dipendenti pubblici di praticare la libera professione. Vale anche per i fisioterapisti? Come funziona? Fino a quando? Scopriamolo insieme.
+
+> Aggiornamento 26 maggio 2023: [Il Decreto Bollette è diventato legge](https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=114140). Ora la situazione passa in mano alla Conferenza Stato-Regioni che ha 90 giorni per definire i dettagli. Continua a seguirci [anche su Telegram](https://t.me/fisioterapisti_official) per non perderti aggiornamenti come questo.
 
 ## Partita IVA per dipendenti pubblici
 
