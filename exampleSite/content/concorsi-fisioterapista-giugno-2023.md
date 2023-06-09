@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Concorsi"]
-date = 2023-06-09T12:00:00Z
+date = 2023-03-09T12:00:00Z
 description = "Torna la consueta rubrica dei concorsi per fisioterapisti in scadenza a Giugno 2023"
 image = "/images/concorso-fisioterapista.jpg"
 title = "Concorsi per Fisioterapista in scadenza a Giugno 2023"
