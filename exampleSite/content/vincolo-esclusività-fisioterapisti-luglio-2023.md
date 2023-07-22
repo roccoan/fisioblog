@@ -29,10 +29,10 @@ Questo Documento parla della [rimozione del vincolo di esclusività](https://fis
 
 Ricordiamo che il Decreto Bollette aveva previsto **la rimozione del vincolo di esclusività** (cioè la possibilità per i professionisti sanitari dipendenti pubblici di lavorare a partita iva fino ad 8 ore a settimana) prima fino al 31/12/2023, poi fino al 31/12/2025.
 
-Siccome la legge era *abbastanza vaga* sono sorti **parecchi dubbi**, come: 
-•	Quali **attività extra** può esercitare il personale delle professioni sanitarie del comparto sanità? 
-•	Che deve fare un professionista sanitario per **richiedere l’autorizzazione**? 
-•	In quali casi possono **approvarti la richiesta**, e in quali **bocciartela**?
+Siccome il decreto bollette era *abbastanza vago* sono sorti **parecchi dubbi**, come: 
+- Quali **attività extra** può esercitare il personale delle professioni sanitarie del comparto sanità? 
+- Che deve fare un professionista sanitario per **richiedere l’autorizzazione**? 
+- In quali casi possono **approvarti la richiesta**, e in quali **bocciartela**?
 
 Ma abbiamo anche risposte a **tante altre domande**, come:
 - I Fisioterapisti **dirigenti** possono svolgere l'attività extra?
