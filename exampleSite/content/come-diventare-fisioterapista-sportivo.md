@@ -1,13 +1,12 @@
 +++
 author = "Federica"
 categories = ["Carriera"]
-date = 2023-08-29T12:00:00Z
+date = 2023-08-28T12:00:00Z
 description = "Su Fisioterapisti.org parliamo sempre di carriera, e oggi ci chiediamo: Come Diventare un Fisioterapista Sportivo?"
 image = "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
 title = "Come Diventare un Fisioterapista Sportivo: Guida ai Percorsi di Formazione"
 type = "post"
 draft = false
-
 +++ 
 
 Il mondo dello sport non è solo riservato agli atleti sul campo, ma è anche popolato da professionisti che lavorano dietro le quinte per garantire il benessere e le performance degli sportivi. Tra questi professionisti, i fisioterapisti sportivi svolgono un ruolo cruciale nell'aiutare gli atleti a recuperare da infortuni, migliorare la loro resistenza e mantenere il corpo in forma ottimale per competere al meglio. Se sei interessato a diventare un fisioterapista sportivo, ecco una guida sui percorsi di formazione da intraprendere.
@@ -36,6 +35,8 @@ Per chi è seriamente interessato a intraprendere una carriera di successo come 
 ## 5) RISPT: Registered International Sports Physical Therapist
 
 La figura del fisioterapista sportivo è riconosciuta a livello internazionale dalla IFSPT. Concludere un percorso di formazione adeguato e ottenere la certificazione necessaria può permetterti di diventare un Registered International Sports Physical Therapist (RISPT), un riconoscimento di alto valore per la tua competenza nel settore.
+
+> Seguici anche [su Telegram](https://t.me/fisioterapisti_official)!
 
 ## Conclusione
 
