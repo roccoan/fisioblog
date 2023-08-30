@@ -21,10 +21,10 @@ Ecco una panoramica dei prossimi concorsi che scadranno a settembre 2023, elenca
 
 ## 1. Provincia di Vicenza
 
-Data: 05/09/2023
-Luogo: Vicenza
-Occupazione: Fisioterapista
-Posti: 1
+- Data: 05/09/2023
+- Luogo: Vicenza
+- Occupazione: Fisioterapista
+- Posti: 1
 Descrizione: Si tratta di un concorso pubblico, basato su esami, per coprire un posto di Fisioterapista specialista a tempo pieno ed indeterminato nell'Area dei Funzionari e della elevata qualificazione secondo il C.C.N.L. Funzioni Locali.
 Se desideri lavorare a Vicenza e hai l'ambizione di diventare un fisioterapista specialista, questa è un'opportunità che non puoi lasciarti sfuggire.
 
@@ -35,10 +35,10 @@ Se desideri lavorare a Vicenza e hai l'ambizione di diventare un fisioterapista 
 
 ## 2. Azienda Socio-Sanitaria Territoriale della Valcamonica - Breno
 
-Data: 21/09/2023
-Luogo: Brescia
-Occupazione: Fisioterapista
-Posti: 1
+- Data: 21/09/2023
+- Luogo: Brescia
+- Occupazione: Fisioterapista
+- Posti: 1
 Descrizione: Si tratta di un concorso pubblico, basato su titoli ed esami, per coprire un posto di fisioterapista nell'Area dei Professionisti della Salute e dei Funzionari.
 Se sei interessato a lavorare nella pittoresca città di Brescia, questa è un'opportunità per dimostrare le tue competenze in un ambiente sanitario dinamico.
 
@@ -46,10 +46,10 @@ Per ulteriori informazioni, visualizzare il bando e inoltrare la domanda, [quest
 
 ## 3. AZIENDA SOCIO SANITARIA TERRITORIALE DI MANTOVA
 
-Data: 21/09/2023
-Luogo: Mantova
-Occupazione: Fisioterapista
-Posti: 2
+- Data: 21/09/2023
+- Luogo: Mantova
+- Occupazione: Fisioterapista
+- Posti: 2
 Descrizione: Questo concorso è parte di una procedura di stabilizzazione del personale precario del comparto. Offre due posizioni per fisioterapisti.
 
 Essendo una procedura di stabilizzazione, le persone potenzialmente coinvolte ne saranno già a conoscenza. [Rimandiamo comunque al sito dell'ente per maggiori informazioni](https://www.asst-mantova.it/contenuto-web/-/asset_publisher/aPLQFInD1pDc/content/avviso-pubblico-per-la-procedura-di-stabilizzazione-di-cui-all-art-1-comma-268-lett-b-della-l-234-2021-e-s-m-i-del-personale-del-comparto).
@@ -57,10 +57,10 @@ Essendo una procedura di stabilizzazione, le persone potenzialmente coinvolte ne
 
 ## 4. CENTRO SERVIZI «CA' ARNALDI» NOVENTA VICENTINA
 
-Data: 25/09/2023
-Luogo: Vicenza
-Occupazione: Fisioterapista
-Posti: 3
+- Data: 25/09/2023
+- Luogo: Vicenza
+- Occupazione: Fisioterapista
+- Posti: 3
 Descrizione: Questo concorso pubblico è basato su esami ed è stato indetto per coprire tre posizioni di fisioterapista a tempo parziale (18 ore settimanali) e *a tempo indeterminato* nell'area dei funzionari del CCNL Funzioni Locali.
 Se preferisci un ruolo a tempo parziale o desideri un'opportunità a Vicenza, questa potrebbe essere la tua occasione.
 
