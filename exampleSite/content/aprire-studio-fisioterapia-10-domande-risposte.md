@@ -1,6 +1,6 @@
 +++
 author = "Federica"
-categories = ["Concorsi"]
+categories = ["Libera Professione"]
 date = 2023-08-30T12:00:00Z
 description = "Facciamo un po' di chiarezza con 10 domande e risposte su come aprire uno studio di fisioterapia"
 image = "https://images.unsplash.com/photo-1630226040750-d934f017f0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
@@ -38,6 +38,8 @@ Quindi l'obiettivo di oggi è fare chiarezza con le risposte alle 10 domande pi�
 
 ## Le 10 risposte
 
+Vediamo le risposte:
+
 ### 1. Lo Studio Professionale Fisioterapico (SPF) è un luogo pubblico?
 I requisiti di accessibilità dello Studio Professionale Fisioterapico **non prevedono l’obbligo di apertura al pubblico**, perché il professionista che conduce uno studio professionale **riceve esclusivamente su appuntamento**. 
 
@@ -52,6 +54,8 @@ E che conseguenze ha questa trasformazione?
 Comporta molte **più leggi da rispettare, più burocrazia, più controlli, più costi**.
 
 Quindi, lo studio professionale è più semplice da aprire e da gestire, ma come vedremo anche tra poco non ci permette di fare tutto, molte cose sono riservate a strutture più complesse come centri e ambulatori.
+
+> Leggi anche: [Veloce guida su come aprire uno studio di Fisioterapia](https://fisioterapisti.org/veloce-guida-su-come-aprire-uno-studio-di-fisioterapia-nel-2022/)
 
 ### 2. Quali sono i requisiti fondamentali per operare in uno Studio Professionale Fisioterapico?
 Requisiti fondamentali per l’esercizio professionale all’interno di uno SPF sono il possesso del titolo abilitante alla professione di fisioterapista e l’iscrizione all’Ordine e al relativo albo professionale. 
@@ -81,6 +85,8 @@ Gli unici **requisiti strutturali richiesti per lo Studio Professionale di Fisio
 
 Queste caratteristiche devono esserci anche se all’interno dell’immobile (es. appartamento con stanze indipendenti e professionisti autonomi) operano più professionisti in modo autonomo (ripartendosi esclusivamente le spese d’affitto).
 
+> Dai pure un'occhiata [al nostro canale Telegram](https://t.me/fisioterapisti_official) per non perderti le risorse più utili per la nostra professione!.
+
 ### 4. Quali requisiti deve soddisfare l'impianto elettrico dello Studio Professionale Fisioterapico?
 L'impianto elettrico deve essere **conforme alle norme di settore e dotato di certificazioni di conformità energetica**. 
 
@@ -94,6 +100,8 @@ L’impianto elettrico potrà essere realizzato sia *ex-novo* nel caso di nuovo 
 Le apparecchiature devono possedere **documenti di conformità energetica** e rispondere ai requisiti normativi del Regolamento sui Dispositivi Medici (UE) 2017/745. Devono essere soggette a verifiche periodiche di sicurezza elettrica e di funzionalità.
 
 Anche il **lettino fisioterapico ad elevazione motorizzata elettrica** rientra tra le tipologie di apparecchiature che, oltre a dover essere provviste di documento di conformità energetica e di periodica VSE, devono essere collegate ad un impianto elettrico conforme ad uso studio medico.
+
+#### I Controlli periodici
 
 Tu come fisioterapista, periodicamente devi effettuare la **verifica**:
 
@@ -144,11 +152,11 @@ Gli altri fisioterapisti possono condividere le spese dello studio e dovranno em
 Quindi lo studio è la struttura più semplice in cui un fisioterapista libero professionista può esercitare, e all’interno di essa prevale il rapporto diretto tra professionista e paziente. 
 Le prestazioni erogate dal Fisioterapista in uno studio professionale fisioterapico non determinano procedure terapeutiche di particolare complessità o che comportano un rischio per la sicurezza del paziente.
 
-Quindi, se ci fossero dipendenti, verrebbe meno questo rapporto diretto tra il paziente e il professionista e non sarebbe più uno studio professionale, con tutte le semplificazioni che ne derivano, ma sarebbe una **struttura più complessa** come centri di fisioterapia e ambulatori.
+Quindi, se ci fossero dipendenti, verrebbe meno questo **rapporto diretto tra il paziente e il professionista** e non sarebbe più uno studio professionale, con tutte le semplificazioni che ne derivano, ma sarebbe una **struttura più complessa** come centri di fisioterapia e ambulatori.
 
 Questi possono avere dipendenti, ma devono rispondere a tante altre leggi e responsabilità (e quindi tanti costi in più) a cui lo studio professionale fisioterapico non risponde.
 
-Anche per questo motivo, il Fisioterapista Libero Professionista titolare di uno Studio Professionale di Fisioterapia, non è assoggettato (o assoggettabile) al pagamento del contributo INAIL (cioè l’assicurazione sugli infortuni sul lavoro per sé o per eventuali dipendenti perché non ne può avere se ha uno Studio Professionale).
+Anche per questo motivo, il Fisioterapista Libero Professionista titolare di uno Studio Professionale di Fisioterapia, non è assoggettato (o assoggettabile) al pagamento del **contributo INAIL** (cioè l’assicurazione sugli infortuni sul lavoro per sé o per eventuali dipendenti perché non ne può avere se ha uno Studio Professionale).
 
 ### 10. Si può fare un’associazione tra professionisti per condurre uno Studio Professionale Fisioterapico?
 Si, è possibile. 
