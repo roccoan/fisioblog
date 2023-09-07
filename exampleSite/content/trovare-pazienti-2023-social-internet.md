@@ -9,13 +9,13 @@ type = "post"
 draft = false
 +++
 
-Come promesso, ecco il nostro articolo sul: Come faccio a trovare pazienti?
+Come [ti avevamo promesso](https://t.me/fisioterapisti_official/197), ecco il nostro articolo sul: Come faccio a trovare pazienti?
 
 In fondo gran parte delle preoccupazioni, soprattutto di chi inizia, sono relative al... non morire di fame (beh, non letteralmente per fortuna).
 
 Trovare pazienti è una soluzione a questo, ma è tutto un processo nuovo da conoscere e allenare sia nel mondo fisico che virtuale, e c'è parecchia confusione su come si usano i social per farlo (perché sul lavoro i social si usano in modi diversi rispetto a come siamo abituati a fare nella vita privata).
 
-Quindi, se ritieni che il World PT Day non serva a nulla... cerchiamo di dargli insieme un nuovo significato
+> Non a caso pubblichiamo questo articolo la settimana della Giornata Mondiale della Fisioterapia. [Se vuoi avere qualche info in più, leggi qui](https://t.me/fisioterapisti_official/197). Quindi, se anche tu ritieni che il World PT Day non serva a nulla... cerchiamo di dargli insieme un nuovo significato!
 
 ## **Introduzione**
 
