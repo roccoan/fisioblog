@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Libera Professione"]
-date = 2023-08-07T12:00:00Z
+date = 2023-09-07T12:00:00Z
 description = "Come faccio a trovare nuovi pazienti grazie ai social senza spenderci troppo tempo? Scopriamolo insieme."
 image = "https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1934&q=80"
 title = "Trovare Pazienti con Internet e i Social, senza perderci troppo tempo"
@@ -173,6 +173,8 @@ Ma riassumendo, qual è il punto di forza di Google Business Profile?
 
 Proprio il fatto che **ti posiziona davanti agli occhi dei potenziali pazienti della tua zona quando più ne hanno bisogno**, a tutte le ore e a costo zero.
 
+> Se vuoi capirci di più su Google Business Profile, [leggi anche questo articolo](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/). All'epoca aveva un nome diverso, ma è rimasto tutto uguale!
+
 ## Per trovare pazienti, il local marketing è tutto
 
 Quando si inizia una nuova attività di fisioterapia, è importante concentrarsi sulla costruzione di una di un giro di pazienti della tua zona. 
@@ -199,6 +201,8 @@ Quando un potenziale paziente nella tua zona fa domande attinenti alla fisiotera
 
 Inoltre, Google Maps consente ai professionisti di fisioterapia e ai pazienti stessi di aggiungere foto e video per mostrare la loro attività e i loro servizi. 
 
+> Se vuoi capirci di più su Google Business Profile, [leggi anche questo articolo](https://fisioterapisti.org/da-dove-provengono-i-miei-pazienti-internet/). All'epoca aveva un nome diverso, ma è rimasto tutto uguale!
+
 ## Ma qual è la differenza fondamentale con Instagram?
 
 Google Business Profile richiede meno impegno per un fisioterapista libero professionista rispetto ad Instagram perché è una piattaforma specificamente progettata per le attività commerciali locali. 
@@ -216,7 +220,6 @@ C’è quindi una **grossa disparità** tra l’impegno richiesto per stare diet
 L’unica cosa di cui ti devi preoccupare è aggiornare gli orari o i periodi di chiusura durante le feste e quando vai in ferie.
 
 > Ti è mai capitato di avere un problema da risolvere subito, vedere che è un’attività che fa al caso tuo per risolvere quel problema è aperta, guidi per 25 minuti fino alla loro sede e scopri che è chiusa? Ecco, per evitare questo dispiacere ai tuoi potenziali pazienti, ricorda sempre di aggiornare gli orari e i giorni di apertura.
-
 
 ## **Google Ads: Attrarre un Pubblico Mirato**
 
