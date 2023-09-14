@@ -87,9 +87,11 @@ Detto questo, passiamo al secondo strumento di oggi!
 
 Per capire cos’è WhatsApp Business, basta immaginarselo come WhatsApp normale, **ma con tante funzioni interessanti in più che devi assolutamente conoscere.**
 
-Non conoscerle ti metterà nelle condizioni di avere la concorrenza di gente che invece le conosce e che ha avrà un vantaggio sempre maggiore per i motivi che vediamo tra poco.
+Non conoscere queste funzioni **ti mette in concorrenza con chi invece le conosce** e che avrà un **vantaggio sempre maggiore** per i motivi che vediamo tra poco.
 
 Tra un secondo scopriamo quali sono queste funzioni interessanti, ma prima **facciamo una premessa**.
+
+### Piccola Premessa
 
 Anzitutto, non puoi avere sia WhatsApp normale che WhatsApp Business **sullo stesso numero di telefono**.
 
@@ -141,7 +143,7 @@ Questa combinazione Android+WhatsApp è diffusissima e sfruttare WhatsApp Busine
 
 Immagina quale sarebbe l’alternativa come sistema di prenotazione automatico: “vai su questo sito che non hai mai visto prima, crea un account, dacci i dati della tua carta, compila questo form con quello che ti serve”. A quel punto non siamo neanche a metà della registrazione e qualcuno che voleva solo scriverti un messaggio si è annoiato e ha chiamato un altro Fisioterapista.
 
-Invece WhatsApp fa sentire tutti a casa. Viene associato mentalmente a famiglia e amici con cui scambiarsi le immagini e fare le videochiamate.
+Ma invece, per i pazienti che hai già?
 
 ### Fidelizza i pazienti
 
@@ -161,7 +163,7 @@ Inoltre, una volta che un paziente è passato da te si è salvato il tuo numero,
 
 Perché ricordiamolo: per far durare la tua attività e sostenere i costi nel tempo, è importante avere pazienti, ed **è più facile far tornare qualcuno che si è trovato bene** rispetto a trovarne di nuovi.
 
-Inoltre, hai una comunicazione importante da fare a tutti i tuoi pazienti?
+Inoltre, hai una **comunicazione importante** da far arrivare a tutti i tuoi pazienti?
 
 Che sia una promozione, un aggiornamento o una notizia che vuoi condividere, oltre allo stato hai la possibilità di inviare un **Messaggio Broadcast** ad una lista di pazienti che scegli tu.
 
@@ -175,8 +177,8 @@ Una volta preso il bigliettino da visita deve:
 
 1. Aprire il telefono;
 2. Digitare il tuo numero;
-3. Salvarlo altrimenti su WhatsApp non esce (e immagina quanto è noioso dover salvare i numeri di tutti i Fisioterapisti che stai valutando per chiedere informazioni, anche se poi andrai solo da quello che ti convince di più);
-4. Aspettare che WhatsApp si ricarica e scriverti un messaggio. E poi attendere una tua risposta.
+3. Salvarlo **altrimenti su WhatsApp non esce** (e immagina quanto è noioso dover *salvare i numeri di tutti i Fisioterapisti che stai valutando* solo per *chiedere informazioni*, anche se poi andrai solo da quello che ti convince di più);
+4. Aspettare che WhatsApp si ricarica e **scriverti un messaggio**. E poi attendere una tua risposta.
 
 Pensa se ci fosse **un metodo per eliminare tutto questo attrito**. 
 
@@ -207,7 +209,7 @@ Questo strumento è ancora nelle fasi preliminari, ma appena lo vedi all’azion
 
 ### Cosa è Microsoft Designer?
 
-Microsoft Designer è un tool di progettazione basato su web che ti permette di creare grafiche, illustrazioni e qualsiasi altro tipo di elementi visivi che possa venirti in mente. 
+Microsoft Designer è **un sito a cui chiedi di creare grafiche**, illustrazioni e qualsiasi altro tipo di elementi visivi che possa venirti in mente. 
 
 È alimentato da un'intelligenza artificiale, il che significa che può aiutarti a creare design dall'aspetto professionale anche se non hai esperienza in campo di progettazione.
 
@@ -215,11 +217,11 @@ In sostanza tu scrivi cosa desideri... e lasci che la tecnologia faccia il resto
 
 Ecco fatto!
 
-Sembra interessante, vero? Ma come funziona esattamente?
+Sembra interessante, vero? Ma **come funziona** esattamente?
 
 ### Come funziona Microsoft Designer?
 
-Microsoft Designer funziona utilizzando chiedendo all'intelligenza artificiale (basata sulla tecnologia dell'app popolare "text-to-art" DALL-E 2) di generarti un post per i social. 
+**Microsoft Designer** funziona utilizzando chiedendo all'intelligenza artificiale di **generarti un post per i social**. 
 
 Lui ti dà un po’ di **alternative**, tu **scegli quale preferisci** e la personalizzi per adattarla alle tue esigenze.
 
@@ -231,9 +233,11 @@ Microsoft Designer include anche diversi strumenti che ti consentono di **creare
 
 ### Per cosa utilizzarlo?
 
-Puoi utilizzare immagini, icone, grafici e tabelle, nonché lo strumento di disegno per creare forme personalizzate e lo strumento di testo per aggiungere varie tipologie di caratteri e stili. 
+Puoi utilizzarlo per **creare immagini, icone, grafici e tabelle**. 
 
-È davvero facile aggiungere e rimuovere contenuti, e Microsoft offre anche ulteriori suggerimenti per design accattivanti mentre procedi.
+Hai a disposizione anche lo **strumento di disegno** per creare forme personalizzate e lo **strumento di testo** per aggiungere varie tipologie di caratteri e stili. 
+
+È davvero facile **aggiungere e rimuovere contenuti**, e Microsoft offre anche **ulteriori suggerimenti** per design più accattivanti mentre procedi.
 
 ### Lo consiglio?
 
