@@ -138,14 +138,16 @@ Perché in Italia, che è un paese che invecchia sempre di più, se si vuole sem
 
 Con **un messaggio del genere** infatti: 
 
-- Se **una persona è esperta** con gli strumenti digitali **sarà entusiasta all’idea di poter prenotare in autonomia;**
-- Invece **se una persona è poco esperta** con gli strumenti digitali **sarà contenta di aver ricevuto una risposta in tempi brevi** e **si sentirà rassicurata** **di ricevere una risposta direttamente dal professionista** appena si libera.
+- Se **una persona è esperta** con gli strumenti digitali, allora **sarà entusiasta all’idea di poter prenotare in autonomia;**
+- Invece **se una persona è poco esperta** con gli strumenti digitali, allora **sarà contenta di aver ricevuto una risposta in tempi brevi** e **si sentirà rassicurata di ricevere una risposta direttamente dal professionista** non appena si libera.
 
-La **maggior parte delle persone** inoltre usa un *cellulare Android* (con l’account di Google Calendar già sincronizzato perché Android è di Google) su cui *ha installato WhatsApp*.
+La **maggior parte delle persone** inoltre usa un *cellulare Android* (con l’account di Google Calendar già sincronizzato perché **Android è di Google**) su cui *ha installato WhatsApp*.
 
 Questa combinazione Android+WhatsApp è diffusissima e sfruttare WhatsApp Business per un Fisioterapista **fa sentire a casa anche le persone per niente tecnologiche**.
 
-Immagina quale sarebbe l’alternativa come sistema di prenotazione automatico: “vai su questo sito che non hai mai visto prima, crea un account, dacci i dati della tua carta, compila questo form con quello che ti serve”. A quel punto non siamo neanche a metà della registrazione e qualcuno che voleva solo scriverti un messaggio si è annoiato e ha chiamato un altro Fisioterapista.
+Immagina quale sarebbe l’alternativa come sistema di prenotazione automatico: “vai su questo sito che non hai mai visto prima, crea un account, dacci i dati della tua carta, compila questo form con quello che ti serve”. 
+
+A quel punto non siamo neanche a metà della registrazione e qualcuno che voleva solo scriverti un messaggio si è annoiato e ha chiamato un altro Fisioterapista.
 
 Ma invece, per i pazienti che hai già?
 
