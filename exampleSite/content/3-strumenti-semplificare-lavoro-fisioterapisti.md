@@ -1,9 +1,9 @@
 +++ 
 author = "Federica" 
 categories = ["Libera Professione"] 
-date = 2020-08-30T12:00:00Z 
+date = 2023-09-13T12:00:00Z 
 description = "Oggi vediamo 3 strumenti online che ti aiutano a perdere meno tempo per goderti la vita fuori dal lavoro!" 
-image = "https://images.unsplash.com/photo-1630226040750-d934f017f0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" 
+image = "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" 
 title = "3 strumenti online per Fisioterapisti che ti semplificano enormemente la vita" 
 type = "post" 
 draft = false 
@@ -33,7 +33,7 @@ Per capire **a che serve** e **come funziona** ti faccio **una domanda**:
 
 Quando lo fai, ti fa scegliere **il giorno in cui vuoi volare** e ti dà **tutti gli orari in cui c’è un volo**.
 
-{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Prenotazione Voli" >}}
+{{< figure src="https://content.skyscnr.com/m/13cb54c6aef43d62/original/Italy_screenshot_08_03.png?imbypass=true" >}}
 
 Non hai mai pensato: wow, e **se ce lo avessi anche io un sistema del genere** che permette ai pazienti di prenotare facilmente gli appuntamenti?
 
@@ -42,7 +42,7 @@ Ecco, il Programma degli Appuntamenti di Google **ti permette di avere una pagin
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" >}}
 
 > Per generare una pagina di prenotazione devi solo avere un account Gmail e usare Google Calendar.
 > 
@@ -57,7 +57,7 @@ In questa pagina di prenotazione i pazienti **vedono i giorni e gli orari dispon
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" >}}
 
 > La pagina di prenotazione è visibile ovunque: da pc, da telefono, da tablet, ecc. **Solo il primo passaggio** della predisposizione dei tuoi orari **va fatto da PC**. Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**.
 > 
@@ -67,7 +67,7 @@ Puoi addirittura scegliere se far pagare in anticipo al momento della prenotazio
 > Questa è la pagina che vedi tu su Calendar:
 > 
 
-{{< figure src="https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" title="Google Calendar Creazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" >}}
 
 Una volta che il paziente prenota, riceve una mail di promemoria e potrà disdire o modificare l’appuntamento in autonomia.
 
@@ -83,7 +83,7 @@ Detto questo, passiamo al secondo strumento di oggi!
 
 ## 2) WhatsApp Business
 
-{{< figure src="https://scontent.whatsapp.net/v/t39.8562-34/328238494_2566517096856341_5625165492518456552_n.jpg?ccb=1-7&_nc_sid=2fbf2a&_nc_ohc=HWoNRfj7XrMAX-4lWQT&_nc_ht=scontent.whatsapp.net&oh=01_AdRNO2iIzacDa8WJ66Ki61IyanqtghN5Ol6GZH6p-AP3gw&oe=650863A5" title="WhatsApp Business Fisioterapisti" >}}
+{{< figure src="https://scontent.whatsapp.net/v/t39.8562-34/328238494_2566517096856341_5625165492518456552_n.jpg?ccb=1-7&_nc_sid=2fbf2a&_nc_ohc=HWoNRfj7XrMAX-4lWQT&_nc_ht=scontent.whatsapp.net&oh=01_AdRNO2iIzacDa8WJ66Ki61IyanqtghN5Ol6GZH6p-AP3gw&oe=650863A5" >}}
 
 Per capire cos’è WhatsApp Business, basta immaginarselo come WhatsApp normale, **ma con tante funzioni interessanti in più che devi assolutamente conoscere.**
 
@@ -184,7 +184,7 @@ Qualcosa come **un codice QR da inquadrare** che permette ai potenziali pazienti
 
 E WhatsApp Business fa anche questo.
 
-{{< figure src="https://meeasy.it/wp-content/uploads/2022/10/biglietto-da-visita-qr-code-card-nfc-1.jpg" title="WhatsApp Business Codice QR Fisioterapisti" >}}
+{{< figure src="https://meeasy.it/wp-content/uploads/2022/10/biglietto-da-visita-qr-code-card-nfc-1.jpg" >}}
 
 Pensa **al paziente di prima quanto è contento quando**, in preda alla noia mortale di dover salvare i numeri di tutti i Fisioterapisti che sta valutando solo per chiedere informazioni su WhatsApp **si ritrova in chat con te con la risposta automatica piena di informazioni rilevanti senza neanche accorgersene**. 
 
@@ -203,7 +203,7 @@ Pazienti nuovi ed esistenti possono mandarti messaggi su WhatsApp Business scann
 
 Questo strumento è ancora nelle fasi preliminari, ma appena lo vedi all’azione se ne comprende il potenziale e capisci che il futuro è arrivato.
 
-{{< figure src="https://cdn.designerapp.osi.office.net/designerapp/static/designer-social.png" title="Microsoft Designer Post Social Facili Fisioterapisti" >}}
+{{< figure src="https://cdn.designerapp.osi.office.net/designerapp/static/designer-social.png" >}}
 
 ### Cosa è Microsoft Designer?
 
