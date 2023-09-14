@@ -92,14 +92,19 @@ Non conoscere queste funzioni **ti mette in concorrenza con chi invece le conosc
 Tra un secondo scopriamo quali sono queste funzioni interessanti, ma prima **facciamo una premessa**.
 
 ### Piccola Premessa
+WhatsApp Business **è un'app che scarichi sul telefono**, proprio come WhatsApp normale.
 
-Anzitutto, non puoi avere sia WhatsApp normale che WhatsApp Business **sullo stesso numero di telefono**.
+Basta andare su Play Store o su App Store, cercarlo e installarlo.
+
+La premessa però è questa: non puoi avere sia WhatsApp normale che WhatsApp Business **sullo stesso numero di telefono**.
 
 Questo perché **sono due chat separate**, e quindi **ognuna si deve appoggiare ad un numero diverso.** 
 
+Se installi WhatsApp Business sul tuo telefono e inserisci il tuo numero di telefono personale, il tuo account diventa business e le persone che ti contattano per motivi personali ti vedono come una chat business.
+
 E se leggendo questo credi che sia tanto disturbo per una cosa inutile, tra poco non ho dubbi che ti ricrederai.
 
-> Pertanto **devi avere un secondo numero di telefono** **dedicato a WhatsApp Business** per poterlo usare. Se devi richiedere una nuova SIM e non vuoi spendere tanto al mese, se ti interessa una delle offerte [Very Mobile](https://verymobile.it/) usa questo codice con cui puoi avere €5 o €10 di ricarica omaggio: **XMRE2QYK**
+> Pertanto **devi avere un secondo numero di telefono dedicato a WhatsApp Business** per poterlo usare. Se devi richiedere una nuova SIM e non vuoi spendere tanto al mese, se ti interessa una delle offerte [Very Mobile](https://verymobile.it/) usa questo codice con cui puoi avere €5 o €10 di ricarica omaggio: **XMRE2QYK**
 > 
 
 Ma a questo punto ci chiediamo: **perché dovrei complicarmi la vita per usarlo?**
@@ -118,10 +123,9 @@ Il **contenuto della risposta automatica** di benvenuto lo scegli tu.
 
 Per fare un esempio molto pratico, puoi **scrivere una risposta automatizzata** del genere:
 
-> Grazie per aver contattato la Dott.ssa/il Dott. Fisioterapista! Riceverà una risposta appena possibile, nel frattempo la invitiamo a controllare l’agenda per fissare un appuntamento in autonomia. Per informazioni sui prezzi, la invitiamo a consultare il nostro tariffario.
-> 
+> Grazie per aver contattato la Dott.ssa/il Dott. Fisioterapista! Riceverà una risposta appena possibile, nel frattempo la invitiamo a **controllare l’agenda per fissare un appuntamento in autonomia**. Per informazioni sui prezzi, la invitiamo a **consultare il nostro tariffario**.
 
-Le parti sottolineate sono dei link che puoi impostare nel messaggio automatico, rispettivamente:
+Le parti in grassetto sono dei link che puoi impostare nel messaggio automatico, rispettivamente:
 
 - Il link che ti ha generato il **Programma degli Appuntamenti** di Google Calendar;
 - Il link al **catalogo**, che è una funzione di WhatsApp Business, dove puoi mettere i servizi che offri con i relativi prezzi.
@@ -199,7 +203,6 @@ Pazienti nuovi ed esistenti possono mandarti messaggi su WhatsApp Business scann
 {{< youtube 945A6KtAR9A >}}
 
 > Se questo articolo ti sta dando tante idee nuove e ti piace ricevere contenuti stimolanti per portare al livello successivo la tua attività da Fisioterapista Libero Professionista, [seguici sul nostro canale Telegram!](https://t.me/fisioterapisti_official)
-> 
 
 ## 3) Microsoft Designer
 
