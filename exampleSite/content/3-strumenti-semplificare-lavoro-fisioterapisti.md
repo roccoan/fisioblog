@@ -33,7 +33,7 @@ Per capire **a che serve** e **come funziona** ti faccio **una domanda**:
 
 Quando lo fai, ti fa scegliere **il giorno in cui vuoi volare** e ti dà **tutti gli orari in cui c’è un volo**.
 
-{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Prenotazione Voli" >}}
+{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Prenotazione Voli" >}}
 
 Non hai mai pensato: wow, e **se ce lo avessi anche io un sistema del genere** che permette ai pazienti di prenotare facilmente gli appuntamenti?
 
@@ -42,7 +42,7 @@ Ecco, il Programma degli Appuntamenti di Google **ti permette di avere una pagin
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
 
 > Per generare una pagina di prenotazione devi solo avere un account Gmail e usare Google Calendar.
 > 
@@ -57,7 +57,7 @@ In questa pagina di prenotazione i pazienti **vedono i giorni e gli orari dispon
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title="Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
 
 > La pagina di prenotazione è visibile ovunque: da pc, da telefono, da tablet, ecc. **Solo il primo passaggio** della predisposizione dei tuoi orari **va fatto da PC**. Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**.
 > 
@@ -67,7 +67,7 @@ Puoi addirittura scegliere se far pagare in anticipo al momento della prenotazio
 > Questa è la pagina che vedi tu su Calendar:
 > 
 
-{{< figure src**=**"https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" title**=**"Google Calendar Creazione Slot Appuntamenti Fisioterapisti" >}}
+{{< figure src="https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" title="Google Calendar Creazione Slot Appuntamenti Fisioterapisti" >}}
 
 Una volta che il paziente prenota, riceve una mail di promemoria e potrà disdire o modificare l’appuntamento in autonomia.
 
@@ -83,7 +83,7 @@ Detto questo, passiamo al secondo strumento di oggi!
 
 ## 2) WhatsApp Business
 
-{{< figure src**=**"https://scontent.whatsapp.net/v/t39.8562-34/328238494_2566517096856341_5625165492518456552_n.jpg?ccb=1-7&_nc_sid=2fbf2a&_nc_ohc=HWoNRfj7XrMAX-4lWQT&_nc_ht=scontent.whatsapp.net&oh=01_AdRNO2iIzacDa8WJ66Ki61IyanqtghN5Ol6GZH6p-AP3gw&oe=650863A5" title**=**"WhatsApp Business Fisioterapisti" >}}
+{{< figure src="https://scontent.whatsapp.net/v/t39.8562-34/328238494_2566517096856341_5625165492518456552_n.jpg?ccb=1-7&_nc_sid=2fbf2a&_nc_ohc=HWoNRfj7XrMAX-4lWQT&_nc_ht=scontent.whatsapp.net&oh=01_AdRNO2iIzacDa8WJ66Ki61IyanqtghN5Ol6GZH6p-AP3gw&oe=650863A5" title="WhatsApp Business Fisioterapisti" >}}
 
 Per capire cos’è WhatsApp Business, basta immaginarselo come WhatsApp normale, **ma con tante funzioni interessanti in più che devi assolutamente conoscere.**
 
@@ -152,7 +152,6 @@ Sono una funzione carina, ma in fondo se hai Instagram lì le stories **sono un 
 Ma considera questo: WhatsApp viene utilizzata almeno una volta a settimana **dall’83,6% degli italiani,** contro il 64,7% di Facebook e circa il 50% di Instagram. 
 
 > I dati sono del **18° Rapporto Censis sulla Comunicazione**, Dicembre 2022
-> 
 
 E ovviamente, questi numeri in realtà sono tantissime persone meno giovani **che non hanno i social** ma **usano abitualmente WhatsApp** per messaggiare con i propri cari e fare videochiamate.
 
@@ -185,7 +184,7 @@ Qualcosa come **un codice QR da inquadrare** che permette ai potenziali pazienti
 
 E WhatsApp Business fa anche questo.
 
-{{< figure src**=**"https://meeasy.it/wp-content/uploads/2022/10/biglietto-da-visita-qr-code-card-nfc-1.jpg" title**=**"WhatsApp Business Codice QR Fisioterapisti" >}}
+{{< figure src="https://meeasy.it/wp-content/uploads/2022/10/biglietto-da-visita-qr-code-card-nfc-1.jpg" title="WhatsApp Business Codice QR Fisioterapisti" >}}
 
 Pensa **al paziente di prima quanto è contento quando**, in preda alla noia mortale di dover salvare i numeri di tutti i Fisioterapisti che sta valutando solo per chiedere informazioni su WhatsApp **si ritrova in chat con te con la risposta automatica piena di informazioni rilevanti senza neanche accorgersene**. 
 
@@ -204,7 +203,7 @@ Pazienti nuovi ed esistenti possono mandarti messaggi su WhatsApp Business scann
 
 Questo strumento è ancora nelle fasi preliminari, ma appena lo vedi all’azione se ne comprende il potenziale e capisci che il futuro è arrivato.
 
-{{< figure src**=**"https://cdn.designerapp.osi.office.net/designerapp/static/designer-social.png" title**=**"Microsoft Designer Post Social Facili Fisioterapisti" >}}
+{{< figure src="https://cdn.designerapp.osi.office.net/designerapp/static/designer-social.png" title="Microsoft Designer Post Social Facili Fisioterapisti" >}}
 
 ### Cosa è Microsoft Designer?
 
@@ -226,8 +225,7 @@ Lui ti dà un po’ di **alternative**, tu **scegli quale preferisci** e la pers
 
 Per utilizzare Microsoft Designer, [vai su questa pagina da PC](https://designer.microsoft.com/) (per i cellulari stanno lavorando all’app) e inizia semplicemente scegliendo un modello o chiedendo di realizzarti qualcosa.
 
-> Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**.
-> 
+> Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**. 
 
 Microsoft Designer include anche diversi strumenti che ti consentono di **creare design più complessi**.
 
