@@ -17,9 +17,9 @@ Quindi, oggi vediamo 3 strumenti online che ti aiutano a perdere meno tempo!
 
 I tre strumenti di oggi sono:
 
-- **Programma degli Appuntamenti** di Google;
+- **Programma degli Appuntamenti** di Google: presentato da pochissimo, risolve un problema a cui avrai sicuramente pensato ma non sai come si fa a risolverlo;
 - **WhatsApp Business**: che è davvero una bomba, al punto che **i Fisioterapisti che lo conoscono hanno *un vantaggio enorme* rispetto a chi non lo conosce**;
-- **Microsoft Designer**.
+- **Microsoft Designer:** è appena uscito, e ha ancora qualche problema di gioventù, ma devi tenerlo d’occhio perché rende istantaneo il lavoro di creare i post per i social.
 
 Detto questo, partiamo!
 
@@ -33,6 +33,8 @@ Per capire **a che serve** e **come funziona** ti faccio **una domanda**:
 
 Quando lo fai, ti fa scegliere **il giorno in cui vuoi volare** e ti dà **tutti gli orari in cui c’è un volo**.
 
+{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Prenotazione Voli" >}}
+
 Non hai mai pensato: wow, e **se ce lo avessi anche io un sistema del genere** che permette ai pazienti di prenotare facilmente gli appuntamenti?
 
 Ecco, il Programma degli Appuntamenti di Google **ti permette di avere una pagina di prenotazione simile a quella dei voli**.
@@ -40,7 +42,7 @@ Ecco, il Programma degli Appuntamenti di Google **ti permette di avere una pagin
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-**{{** $image **:=** resources.GetRemote "https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" **}}**
+{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
 
 > Per generare una pagina di prenotazione devi solo avere un account Gmail e usare Google Calendar.
 > 
@@ -55,7 +57,7 @@ In questa pagina di prenotazione i pazienti **vedono i giorni e gli orari dispon
 > Questa è la pagina di prenotazione che vedono i pazienti:
 > 
 
-**{{** $image **:=** resources.GetRemote "https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" **}}**
+{{< figure src**=**"https://media.wired.com/photos/61fd8f28e98a8a3325f35c7a/master/w_1600%2Cc_limit/appointment-schedule.jpg" title**=**"Google Calendar Prenotazione Slot Appuntamenti Fisioterapisti" >}}
 
 > La pagina di prenotazione è visibile ovunque: da pc, da telefono, da tablet, ecc. **Solo il primo passaggio** della predisposizione dei tuoi orari **va fatto da PC**. Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**.
 > 
@@ -65,7 +67,7 @@ Puoi addirittura scegliere se far pagare in anticipo al momento della prenotazio
 > Questa è la pagina che vedi tu su Calendar:
 > 
 
-**{{** $image **:=** resources.GetRemote "https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" **}}**
+{{< figure src**=**"https://lh6.googleusercontent.com/q4fORDmbiPvzX9jqsyklFV8nSzTHT2ET7HScyqxrGBUMtFSIT7vxIZvlEA8Rk0CwKsJdGYLijT9zHaAOzW57X4RZSnv-hAFzMhiBfcwJzOEQmzPP1qzLs4fv39MbFebnR_aqqUeoTQf-yrau7GjIhw" title**=**"Google Calendar Creazione Slot Appuntamenti Fisioterapisti" >}}
 
 Una volta che il paziente prenota, riceve una mail di promemoria e potrà disdire o modificare l’appuntamento in autonomia.
 
@@ -80,6 +82,8 @@ Questo servizio **ti semplifica enormemente il lavoro** se devi gestirti l’age
 Detto questo, passiamo al secondo strumento di oggi!
 
 ## 2) WhatsApp Business
+
+{{< figure src**=**"https://scontent.whatsapp.net/v/t39.8562-34/328238494_2566517096856341_5625165492518456552_n.jpg?ccb=1-7&_nc_sid=2fbf2a&_nc_ohc=HWoNRfj7XrMAX-4lWQT&_nc_ht=scontent.whatsapp.net&oh=01_AdRNO2iIzacDa8WJ66Ki61IyanqtghN5Ol6GZH6p-AP3gw&oe=650863A5" title**=**"WhatsApp Business Fisioterapisti" >}}
 
 Per capire cos’è WhatsApp Business, basta immaginarselo come WhatsApp normale, **ma con tante funzioni interessanti in più che devi assolutamente conoscere.**
 
@@ -181,6 +185,8 @@ Qualcosa come **un codice QR da inquadrare** che permette ai potenziali pazienti
 
 E WhatsApp Business fa anche questo.
 
+{{< figure src**=**"https://meeasy.it/wp-content/uploads/2022/10/biglietto-da-visita-qr-code-card-nfc-1.jpg" title**=**"WhatsApp Business Codice QR Fisioterapisti" >}}
+
 Pensa **al paziente di prima quanto è contento quando**, in preda alla noia mortale di dover salvare i numeri di tutti i Fisioterapisti che sta valutando solo per chiedere informazioni su WhatsApp **si ritrova in chat con te con la risposta automatica piena di informazioni rilevanti senza neanche accorgersene**. 
 
 Il solo usare **WhatsApp Business nel modo giusto** ti fa arrivare istantaneamente sul podio delle sue preferenze.
@@ -191,4 +197,60 @@ Pazienti nuovi ed esistenti possono mandarti messaggi su WhatsApp Business scann
 
 {{< youtube 945A6KtAR9A >}}
 
-> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, abbiamo la possibilità di pubblicare regolarmente risorse utili e gratuite per tutti i Fisioterapisti.
+> Se questo articolo ti sta dando tante idee nuove e ti piace ricevere contenuti stimolanti per portare al livello successivo la tua attività da Fisioterapista Libero Professionista, [seguici sul nostro canale Telegram!](https://t.me/fisioterapisti_official)
+> 
+
+## 3) Microsoft Designer
+
+Questo strumento è ancora nelle fasi preliminari, ma appena lo vedi all’azione se ne comprende il potenziale e capisci che il futuro è arrivato.
+
+{{< figure src**=**"https://cdn.designerapp.osi.office.net/designerapp/static/designer-social.png" title**=**"Microsoft Designer Post Social Facili Fisioterapisti" >}}
+
+### Cosa è Microsoft Designer?
+
+Microsoft Designer è un tool di progettazione basato su web che ti permette di creare grafiche, illustrazioni e qualsiasi altro tipo di elementi visivi che possa venirti in mente. 
+
+È alimentato da un'intelligenza artificiale, il che significa che può aiutarti a creare design dall'aspetto professionale anche se non hai esperienza in campo di progettazione.
+
+In sostanza tu scrivi cosa desideri... e lasci che la tecnologia faccia il resto. 
+
+Ecco fatto!
+
+Sembra interessante, vero? Ma come funziona esattamente?
+
+### Come funziona Microsoft Designer?
+
+Microsoft Designer funziona utilizzando chiedendo all'intelligenza artificiale (basata sulla tecnologia dell'app popolare "text-to-art" DALL-E 2) di generarti un post per i social. 
+
+Lui ti dà un po’ di **alternative**, tu **scegli quale preferisci** e la personalizzi per adattarla alle tue esigenze.
+
+Per utilizzare Microsoft Designer, [vai su questa pagina da PC](https://designer.microsoft.com/) (per i cellulari stanno lavorando all’app) e inizia semplicemente scegliendo un modello o chiedendo di realizzarti qualcosa.
+
+> Se non hai un PC, [dai un’occhiata a questo](https://amzn.to/3Log9Nd), per il lavoro **è molto importante averne uno**.
+> 
+
+Microsoft Designer include anche diversi strumenti che ti consentono di **creare design più complessi**.
+
+### Per cosa utilizzarlo?
+
+Puoi utilizzare immagini, icone, grafici e tabelle, nonché lo strumento di disegno per creare forme personalizzate e lo strumento di testo per aggiungere varie tipologie di caratteri e stili. 
+
+È davvero facile aggiungere e rimuovere contenuti, e Microsoft offre anche ulteriori suggerimenti per design accattivanti mentre procedi.
+
+### Lo consiglio?
+
+Sicuramente devi dargli un’occhiata. Il problema è che è ancora agli inizi, è uscito proprio da pochissimo.
+
+Molto spesso ti crea design anche carini, però **mette tutte le scritte in Inglese** (anche se una volta scelto quello che ti ha generato, si può riscrivere a mano in italiano).
+
+Credo sia uscito proprio la settimana scorsa, per cui tienilo d’occhio: non appena prende piede secondo me sarà **uno degli strumenti più utili per un Fisioterapista che non vuole perdere tempo** con tutte le attività collaterali e vuole **dedicarsi il più possibile alla propria crescita professionale**.
+
+## Conclusione
+
+Per oggi è tutto!
+
+Spero che questo articolo ti abbia fatto **pensare a nuove idee** per portare al livello successivo la tua attività da Fisioterapista libero professionista.
+
+Se ti piace ricevere contenuti stimolanti e notizie importanti, ricordati di [seguirci su Telegram!](https://t.me/fisioterapisti_official)
+
+Grazie mille per aver letto, a presto 😊
