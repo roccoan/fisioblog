@@ -10,6 +10,19 @@ type = "post"
 +++
 Sono ufficiali le novità per il 2023 di Sistema Tessera Sanitaria. Tra le altre cose, ci sono novità che riguardano i fisioterapisti, ma anche i medici e le altre professioni sanitarie.
 
+## Aggiornamento Settembre 2023
+L'Albo FNOFI ha inviato una comunicazione a tutti i Fisioterapisti sulla prossima scadenza del 30 settembre 2023. Leggi qui:
+
+> Si ricorda a tutti i Colleghi che svolgono attività libero professionale che, entro il 30 settembre 2023, devono procedere al caricamento delle fatture emesse dal primo gennaio al 30 giugno 2023 nel sistema Tessera Sanitaria, per consentire le detrazioni ai propri pazienti. La Federazione nazionale, secondo le indicazioni dell’Agenzia delle Entrate, ha provveduto al caricamento di tutte le anagrafiche, come presenti nella piattaforma Albo web. Per evitare disguidi dell’ultima ora, si raccomanda a tutti i Colleghi di verificare per tempo le proprie credenziali di accesso al sistema [attraverso questo link](https://sistemats1.sanita.finanze.it/portale/info-sulle-modalita-di-accesso-professionisti-sanitari) di provvedere al caricamento, evitando il rischio di intasamento degli ultimi giorni, e di segnalare al proprio Ordine eventuali problemi insorti, allegando screenshots o foto delle schermate di errore. Si richiama l’attenzione di ciascuno nel verificare che sia stato inserito il codice fiscale corretto nelle anagrafiche personali, perché altrimenti il sistema non riconosce il professionista.
+
+Quindi, per evitare problemi all'ultimo, controlla se riesci ad accedere (soprattutto se fai questa procedura per la prima volta) e segnala eventuali problemi così che vengano risolti per tempo. 
+
+Ricordiamo che **per ogni fattura non caricata o caricata in ritardo c'è una sanzione di €100** per documento.
+
+E ricordiamo anche che le fatture da caricare sono **solo quelle emesse a pazienti privati** e non quelle emesse ad enti (aziende sanitarie/ospedaliere, cooperative, palestre, ecc.).
+
+Detto questo, continua a leggere per **non perderti gli altri aggiornamenti di quest'anno**!
+
 ## Introduzione
 
 > Se sai già di cosa si tratta, vai pure al prossimo capitolo per le novità.
