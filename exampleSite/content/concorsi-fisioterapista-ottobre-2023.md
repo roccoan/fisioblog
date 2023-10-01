@@ -10,7 +10,7 @@ draft = false
 
 +++ 
 
-Torna la nostra rubrica mensile sui concorsi e sugli avvisi pubblici per Fisioterapisti in scadenza a **Settembre 2023**.
+Torna la nostra rubrica mensile sui concorsi e sugli avvisi pubblici per Fisioterapisti in scadenza ad **Ottobre 2023**.
 
 ## Introduzione
 Se sei un fisioterapista in cerca di opportunità lavorative, sicuramente troverai interessanti queste posizioni aperte nel settore pubblico.
@@ -19,20 +19,30 @@ Se sei un fisioterapista in cerca di opportunità lavorative, sicuramente trover
 
 Ecco una panoramica dei prossimi concorsi che scadranno ad ottobre 2023.
 
-## 1. Azienda di Servizi alla Persona Istituzioni Assistenziali Riunite - Pavia
+## Azienda Ospedaliera Spedali Civili di Brescia
+- Data di Scadenza: 26/10/2023
+- Luogo: Brescia
+- Occupazione: Fisioterapista
+- Posti Disponibili: 1
 
-Data di Scadenza: 09/10/2023
-Luogo: Pavia
-Occupazione: Fisioterapista
-Posti Disponibili: 1
+Concorso pubblico, per titoli ed esami, per la copertura di un posto di fisioterapista, area dei professionisti della salute e dei funzionari. (GU n.73 del 26-9-2023). 
+
+Per il bando e per iscriverti al concorso, visita il [sito dell'ente](https://asst-spedalicivili.iscrizioneconcorsi.it/).
+
+## Azienda di Servizi alla Persona Istituzioni Assistenziali Riunite - Pavia
+
+- Data di Scadenza: 09/10/2023
+- Luogo: Pavia
+- Occupazione: Fisioterapista
+- Posti Disponibili: 1
 Si tratta di un concorso pubblico, basato su titoli ed esami, volto a coprire un ruolo di fisioterapista nell'area dei professionisti della salute e dei funzionari. Questo è un lavoro a tempo indeterminato presso l'IDR S. Margherita. Questa opportunità offre stabilità e la possibilità di lavorare in un ambiente stimolante. (Pubblicato nella Gazzetta Ufficiale n.68 del 08-09-2023)
 
-## 2. Azienda Provinciale per i Servizi Sanitari della Provincia Autonoma di Trento
+## Azienda Provinciale per i Servizi Sanitari della Provincia Autonoma di Trento
 
-Data di Scadenza: 06/10/2023
-Luogo: Trento
-Occupazione: Fisioterapista
-Posti Disponibili: 2
+- Data di Scadenza: 06/10/2023
+- Luogo: Trento
+- Occupazione: Fisioterapista
+- Posti Disponibili: 2
 Questo concorso offre la possibilità di lavorare come collaboratore professionale sanitario - fisioterapista in un'importante azienda provinciale. Si tratta di una selezione pubblica basata su esami, con la prospettiva di un impiego a tempo determinato. Questa è un'opportunità unica per contribuire al sistema sanitario della Provincia Autonoma di Trento e sviluppare la tua carriera nella riabilitazione. (Pubblicato nella Gazzetta Ufficiale n.70 del 15-09-2023)
 
 > Ti piacerebbe il posto fisso ma non sai da dove partire con lo studio? [Ti consiglio di iniziare da qui](https://amzn.to/3MWTEPC).
