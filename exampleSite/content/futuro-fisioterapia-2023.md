@@ -17,7 +17,7 @@ La motivazione è presto detta. Siamo tutti presi a discutere e polemizzare sui 
 - I massofisioterapisti che entrano nell’Albo;
 - Offerte di lavoro scandalose a Fisioterapisti laureati;
 - Gente che guadagna troppo poco e gente che si vanta di guadagnare tantissimo;
-- Lo stato ladro, il Sistema Sanitario Nazionale che cade a pezzi ed è tutto in mano alle cooperative.
+- Le tasse, il Sistema Sanitario Nazionale che cade a pezzi ed è tutto in mano alle cooperative.
 
 Tutto giusto e sacrosanto, ci teniamo a dirlo: siamo i primi che cercano un modo per **ridurre i disagi e migliorare la condizione di chi esce dall’Università e inizia a lavorare** in questo fantastico mondo (che come qualsiasi cosa non può essere perfetto, ma sicuramente migliorabile).
 
@@ -27,7 +27,7 @@ Stiamo prendendo per scontato che la sanità tra 10-15-20 anni sarà come lo è 
 
 Stiamo prendendo per scontato che il lavoro del fisioterapista sarà simile.
 
-Stiamo prendendo per scontato che le terapie domiciliari richiederanno la nostra presenza, e che le cooperative continueranno ad esistere. Probabile che scompariranno, e **nella seconda parte di questo articolo vedremo perché e come**.
+Stiamo prendendo per scontato che le terapie (soprattutto quelle domiciliari) richiederanno la nostra presenza, e che le cooperative continueranno ad esistere. Probabile addirittura che scompariranno, e **nella seconda parte di questo articolo vedremo perché e come**.
 
 Stiamo prendendo anche per scontato che le interazioni tra le persone, e quindi anche quelle con i pazienti, saranno simili ad oggi.
 
