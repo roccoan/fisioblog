@@ -81,7 +81,7 @@ Gli smartphone hanno iniziato ad essere tutti uguali, e i produttori fanno fatic
 
 Apple ha già presentato quello che molti ritengono l’aggeggio **che sostituirà concettualmente gli smartphone nelle nostre vite**: Apple Vision Pro.
 
-{{< figure src="https://prod-files-secure.s3.us-west-2.amazonaws.com/9b9b785e-9f3f-44e3-800b-1b9f6629dfc7/47d6b747-116d-47b4-836e-0f39ee86e88e/Untitled.png" >}}
+{{< figure src="https://images.idgesg.net/images/idge/imported/imageapi/2023/06/21/11/new-project-2023-06-05t215116.519-100942426-large.jpg" >}}
 
 Con la realtà virtuale in pratica sei immerso in un ambiente 3D virtuale. 
 
@@ -97,7 +97,7 @@ Quindi, la priorità non è tanto la “realtà virtuale”, ma **la “realtà 
 
 Invece gli occhiali smart tendenzialmente rientrano nei dispositivi della realtà aumentata (perché proiettano dei dati sulle normali lenti, un po’ come succedeva in Dragon Ball per chi se lo ricorda).
 
-{{< figure src="https://prod-files-secure.s3.us-west-2.amazonaws.com/9b9b785e-9f3f-44e3-800b-1b9f6629dfc7/009c31cf-a6b1-4694-9cab-ea788061786b/Untitled.png" >}}
+{{< figure src="https://brandonsturges.wordpress.com/files/2009/10/38210_k3clh4chsr_l.jpg" >}}
 
 Già da tempo le aziende hanno provato ad innovare con occhiali smart/visori di realtà virtuale e così via.
 
