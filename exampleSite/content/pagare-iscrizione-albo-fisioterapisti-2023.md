@@ -1,7 +1,7 @@
 +++
 author = "Federica"
 categories = ["Studio e carriera", "Libera Professione"]
-date = 2024-01-08T22:00:00Z
+date = 2024-01-06T22:00:00Z
 description = "Come si fa a pagare l'albo dei fisioterapisti per il 2024? Oggi vediamo come pagare l'albo FNOFI"
 image = "/images/rupixen-com-q59hmzk38eq-unsplash.jpg"
 title = "Come si paga l'Albo FNOFI? Guida 2024"
