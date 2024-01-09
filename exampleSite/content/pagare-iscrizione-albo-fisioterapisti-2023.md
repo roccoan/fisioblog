@@ -1,10 +1,10 @@
 +++
 author = "Federica"
 categories = ["Studio e carriera", "Libera Professione"]
-date = 2023-05-14T22:00:00Z
-description = "Come si fa a pagare l'albo dei fisioterapisti? Oggi vediamo come pagare l'albo FNOFI"
+date = 2024-01-08T22:00:00Z
+description = "Come si fa a pagare l'albo dei fisioterapisti per il 2024? Oggi vediamo come pagare l'albo FNOFI"
 image = "/images/rupixen-com-q59hmzk38eq-unsplash.jpg"
-title = "Come si paga l'Albo FNOFI? Guida 2023"
+title = "Come si paga l'Albo FNOFI? Guida 2024"
 type = "post"
 draft = false
 
@@ -12,20 +12,20 @@ draft = false
 Nuovo anno, bisogna pagare l'iscrizione all'Albo. Magari avevi imparato, e ora temi che con il nuovo Albo FNOFI la procedura sia diversa. Quindi, come si fa? 
 
 ## Introduzione
-Dal 30 aprile 2023 è possibile pagare la Tassa Di Iscrizione Annua per l'Ordine dei Fisioterapisti. 
+Dal 3 gennaio 2024 è possibile pagare la Tassa Di Iscrizione Annua per l'Ordine dei Fisioterapisti. 
 
 Ma come si fa?
 
 Vediamolo insieme velocemente!
 
->Se vuoi una guida ancora più rapida, ne abbiamo postata una qualche giorno fa [sul nostro Canale Telegram](https://t.me/fisioterapisti_official/183).
+>Se vuoi una guida ancora più rapida, ne abbiamo postata una [sul nostro Canale Telegram](https://t.me/fisioterapisti_official/183).
 
 ## Come pagare l'Albo FNOFI
 Come prima cosa, devi accedere [al sito dell'Albo](https://amministrazione.alboweb-fnofi.net/login). 
 
 Una volta dentro, clicca su "Cassetto Pagamenti".
 
-Da qui devi cliccare su “Paga Ora” relativo all’anno 2023.
+Da qui devi cliccare su “Paga Ora” relativo all’anno 2024.
 
 Nella successiva schermata compila i 2 campi relativi all’email.
 
