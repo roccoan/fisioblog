@@ -1,24 +1,24 @@
 +++
 author = "Redazione"
 categories = ["Libera Professione"]
-date = 2022-01-04T23:00:00Z
-description = "Guida a Sistema Tessera Sanitaria"
+date = 2024-01-04T23:00:00Z
+description = "Guida a Sistema Tessera Sanitaria 2024"
 image = "/images/screenshot-2022-04-29-114212.jpg"
-title = "Guida al Sistema Tessera Sanitaria per i Fisioterapisti | Agg. 2023"
+title = "Guida al Sistema Tessera Sanitaria per i Fisioterapisti | Agg. 2024"
 type = "post"
 
 +++
 Quest’articolo è per i fisioterapisti – o altri professionisti sanitari – in libera professione.
 
-## Aggiornamenti 2023
+## Aggiornamenti 2024
 
-Prima di partire con la guida, [riportiamo in un nuovo articolo le novità su](https://fisioterapisti.org/sistema-tessera-sanitaria-per-fisioterapisti-aggiornamenti-e-nuove-scadenze-per-il-2023/ "Sistema Tessera Sanitaria per Fisioterapisti | Aggiornamenti e nuove scadenze per il 2023"):
+Prima di partire con la guida, sappi in fondo troverai anche:
 
 * **Ogni quanto** devi caricare i dati;
-* Le **nuove scadenze** per il 2023;
+* Le **nuove scadenze** per il 2024;
 * Le **sanzioni previste** se le scadenze non vengono rispettate.
 
-Ti riporto gli aggiornamenti per il 2023 anche in fondo, ora proseguiamo con la guida!
+Ti riporto gli aggiornamenti per il 2024 anche in fondo, ora proseguiamo con la guida!
 
 ## La guida
 
@@ -51,11 +51,11 @@ Per quanto riguarda il sito Sistema Tessera Sanitaria, avrai pensato: “Oh no! 
 
 È vero, è un altro adempimento, ma fortunatamente **non c’è bisogno di farlo subito per ogni fattura che emetti**.
 
-Hai parecchio tempo, per il 2023 funzionerà così:
+Hai parecchio tempo, per il 2024 funzionerà così:
 
-* Per le **ultime fatture emesse** **l'anno scorso** (il 2022): hai tempo fino al _31 gennaio 2023_;
-* Per le fatture che hai emesso durante il **primo semestre** del 2023: hai tempo fino al _30 settembre 2023_;
-* Per le fatture che hai emesso durante il **secondo semestre** del 2023: hai tempo fino al _31 gennaio 2024_.
+* Per le **ultime fatture emesse** **l'anno scorso** (il 2023): hai tempo fino al _31 gennaio 2024_;
+* Per le fatture che hai emesso durante il **primo semestre** del 2024: hai tempo fino al _30 settembre 2024_;
+* Per le fatture che hai emesso durante il **secondo semestre** del 2024: hai tempo fino al _31 gennaio 2025_.
 
 Inoltre, è un’attività che **molti commercialisti accettano in delega**, quindi puoi semplicemente delegarlo al commercialista – mettiti d’accordo con lei/lui.
 
@@ -126,13 +126,13 @@ Fai clic su “Aggiungi” una volta sola e poi “Avanti”. Ora ti appare il r
 
 Hai finito! Ricorda che hai la possibilità di vedere e modificare le spese inserite andando in “Gestione Spese Sanitarie” sempre dalla barra blu in alto.
 
-## Aggiornamenti 2023
+## Aggiornamenti 2024
 
-Come promesso, [riportiamo in un nuovo articolo le novità su](https://fisioterapisti.org/sistema-tessera-sanitaria-per-fisioterapisti-aggiornamenti-e-nuove-scadenze-per-il-2023/ "Sistema Tessera Sanitaria per Fisioterapisti | Aggiornamenti e nuove scadenze per il 2023"):
+Come promesso, riportiamo:
 
-* **Ogni quanto** devi caricare i dati;
-* Le **nuove scadenze** per il 2023;
-* Le **sanzioni previste** se le scadenze non vengono rispettate.
+* **Ogni quanto** devi caricare i dati? Il caricamento dei dati anche per il 2024 **resta SEMESTRALE**;
+* Le **nuove scadenze** per il 2024: quelle che hai letto prima;
+* Le **sanzioni previste** se le scadenze non vengono rispettate: €100 ogni fattura non trasmessa o trasmessa con errori.
 
 Temi che non ricorderai mai tutte queste cose? Non preoccuparti, [unisciti a noi su Telegram](https://t.me/fisioterapisti_official "Fisioterapisti Official"), te le ricordiamo noi al momento giusto ;)
 
