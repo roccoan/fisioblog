@@ -1,7 +1,7 @@
 +++ 
 author = "Federica" 
 categories = ["Studio e Carriera"] 
-date = 2024-01-7T12:00:00Z 
+date = 2024-01-06T22:00:00Z
 description = "Oggi vediamo come pagare l'Albo FNOFI per il 2024 e come funziona per l'Assicurazione Professionale" 
 image = "https://images.unsplash.com/photo-1593182440959-9d5165b29b59?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
 title = "Pagamento Albo e Assicurazione Professionale per i Fisioterapisti 2024" 
