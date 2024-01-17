@@ -1,7 +1,7 @@
 +++ 
 author = "Redazione" 
 categories = ["Studio e Carriera"] 
-date = 2024-01-09T12:00:00Z 
+date = 2024-01-17T12:00:00Z 
 description = "Ma se non andremo mai in pensione! Mai dire mai: cerchiamo di capire le cose fondamentali per stare sereni" 
 image = "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
 title = "Guida alla Pensione per Fisioterapisti" 
@@ -54,7 +54,21 @@ Il problema come dicevamo prima è che il sistema pensionistico - **per come sta
 
 La parte importante della frase di prima è **“per come stanno le cose oggi”.**
 
-Infatti **non sappiamo come saranno le cose domani**, ma ci sono alcuni fenomeni che non vanno ignorati, e che **possono cambiare radicalmente le carte in tavola**:
+Infatti **non sappiamo come saranno le cose domani**, ma ci sono alcuni fenomeni che non vanno ignorati, e che **possono cambiare radicalmente le carte in tavola**. 
+
+Tra un po' vediamo quali sono i fattori, ma è notizia di questi giorni **la conferma che il nostro sistema pensionistico è sostenibile**. Infatti, il problema dell'INPS non sono i soldi spesi per le pensioni. 
+
+Il problema dell'INPS è che **sono i soldi spesi per le altre Prestazioni Assistenziali ad essere troppi** (assegni sociali, redditi di cittadinanza, indennità di accompagnamento e così via), non quelli delle pensioni.
+
+Quindi, per molti **il sistema pensionistico italiano non è al collasso, è quasi in equilibrio e sostanzialmente è sostenibile**.
+
+> Fonte: Undicesimo Rapporto sul Bilancio del Sistema Previdenziale curato dal Centro Studi e Ricerche Itinerari Previdenziali, presentato lo scorso 16 gennaio alla Camera dei Deputati.
+>
+
+## Cosa potrebbe cambiare?
+
+Ma quali sono i fattori che potrebbero modificare le cose come stanno oggi e se vogliamo, rendere ancora più probabile il fatto che tu andrai in pensione? 
+Ne elenchiamo due, che sono sotto gli occhi di tutti:
 
 - Con molta probabilità, [il Covid non sarà l’ultima pandemia che vedremo](https://www.imperial.ac.uk/news/241611/covid-wont-last-pandemic-climate-change/) - che ci piaccia o no. Le epidemie e le pandemie purtroppo causano morte. Sul dato che stiamo per riportare purtroppo sono nate fior di teorie del complotto, però a quanto pare il dato è realistico: dall’eccesso di mortalità nelle fasce più anziane della popolazione nel 2020 sono stati erogati €1,1 miliardi di pensioni in meno ([Fonte: via Morningstar, Nono Rapporto sul Bilancio del Sistema Previdenziale - Centro Studi e Ricerche Itinerari Previdenziali](https://www.morningstar.it/it/news/218947/covid-inps-risparmia-12-miliardi-in-10-anni-ma-non-%C3%A8-una-buona-notizia.aspx)). Speriamo assolutamente **che non accada ancora** perché quei decessi sono genitori, nonni, zii di tutti noi (e se per fortuna non succede di nuovo vorrà dire che le lezioni imparate col Covid hanno dato i loro frutti). Ma un’epidemia **non è l’unico evento probabile che può modificare le carte in tavola** e farti ritrovare in pensione dopotutto;
 - I **cambiamenti climatici** stanno rendendo invivibili intere zone del mondo, spingendo tantissime persone ad emigrare. Se una pandemia aggiusta i sistemi pensionistici con la morte, **le migrazioni potrebbero farlo con la vita** (e tutte le problematiche che essa comporta a partire dall’integrazione, populismo e altri aspetti politici - argomenti che non ci competono assolutamente). Ma non possiamo escludere che le ondate migratorie un giorno potrebbero essere molto più intense di qualsiasi sentimento anti-migratorio, e **l’Italia si ritroverebbe con più giovani contribuenti che anziani pensionati**. E quindi dopotutto ti ritroverai per davvero in pensione.
