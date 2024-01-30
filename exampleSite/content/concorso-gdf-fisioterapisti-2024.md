@@ -1,7 +1,7 @@
 +++ 
 author = "Redazione" 
 categories = ["Concorsi"] 
-date = 2024-29-13T12:00:00Z 
+date = 2024-01-29T12:00:00Z 
 description = "La Guardia di Finanza ha indetto un concorso per personale sanitario, tra cui Fisioterapisti. Vediamo insieme come funziona ed entro quando si può fare domanda." 
 image = "https://concorsi.gdf.gov.it/imgconcorsi/img_3.png" 
 title = "Concorso Guardia di Finanza Fisioterapisti 2024" 
