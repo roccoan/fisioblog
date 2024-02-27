@@ -51,7 +51,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Copy Hugo config file
-        run: cp fisioblog/exampleSite/config.toml config.toml
+        run: cp exampleSite/config.toml config.toml
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
