@@ -50,8 +50,6 @@ Se poi va particolarmente bene, magari il professore sceglie anche di farlo con 
 
 Inoltre, ricordo che molti termini dell'inglese scientifico erano presi direttamente dal latino, e quindi c'era molta assonanza con gli stessi termini scientifici in italiano.
 
-> Se non sai da dove iniziare a studiare, [parti con il classico Alphatest di Professioni Sanitarie](https://amzn.to/3Zcpm0k "Alpha Test PLUS Professioni sanitarie - Kit completo di preparazione con training on line personalizzato"). C'è tutto: teoria, quiz e approfondimenti online. A me è bastato questo (e un'intera estate di studio disperato).
-
 ## Conclusione
 
 Imparare l'inglese è sicuramente una competenza che nella vita prima o poi torna utile, anche solo per chiedere indicazioni mentre siamo in viaggio.
@@ -59,8 +57,6 @@ Imparare l'inglese è sicuramente una competenza che nella vita prima o poi torn
 Io non ho mai imparato, però per esperienza credo che saperlo non mi avrebbe agevolato particolarmente in alcun modo all'università. Avessi studiato altro sicuramente sarebbe stato diverso, ma per fisioterapia e le professioni sanitarie non è necessario.
 
 Se quindi vuoi fare fisioterapia e ti preoccupa non sapere bene l'inglese perché magari a scuola non vai bene in questa materia (o semplicemente preferisci che le parole vadano lette così come sono scritte), mi sento davvero di rassicurarti! Sarai un bravo professionista della riabilitazione anche così, poi per impararlo ci sarà sempre tempo.
-
-> Se vuoi avere lezioni private d'inglese dalla privacy della tua stanza, [prova Cambly inserendo il codice FISIO](https://www.cambly.com/invite/FISIO?st=012723&sc=4 "Cambly").
 
 Spero che questo articolo ti sia utile, a presto!
 
