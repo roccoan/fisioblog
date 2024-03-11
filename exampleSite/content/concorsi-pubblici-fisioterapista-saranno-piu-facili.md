@@ -86,13 +86,6 @@ Se nella posizione che si sta cercando di riempire gli impiegati sono tutti uomi
 
 Se invece la donna in questione ha meno punti di qualcuno che è uomo, non avrà vantaggi e verrà scelto l'uomo.
 
-> Se non sai da dove iniziare a studiare, e il tempo per studiare è poco, ti consiglio di partire da questi due libri:
->
-> 1. [I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame](https://amzn.to/3WC4uhm "I test dei concorsi per fisioterapista. Oltre 1300 domande risolte e ampiamente commentate su tutti gli argomenti oggetto d'esame | Amazon.it");
-> 2. [La Prova di Inglese per tutti i Concorsi](https://amzn.to/3WXhX35 "La Prova di Inglese per tutti i Concorsi | Amazon.it").
->
-> Con questi due copri praticamente tutti gli argomenti, che puoi sempre approfondire con gli appunti dell'università, con internet o con altri libri che hai già.
-
 ## Tutto bello, ma siamo in Italia. Verrà mai realizzato?
 
 Gli impegni presi per usare i soldi del PNRR prevedono che tutto ciò venga completato **entro il 30 giugno 2023**.
@@ -110,5 +103,3 @@ Fammelo sapere nei commenti, intanto grazie per aver letto!
 A presto con nuovi articoli, e se ti va [unisciti a noi su Telegram](https://t.me/fisioterapisti_official) per non perderti le notizie più utili!
 
 _Image by rawpixel.com on Freepik_
-
-> L'articolo può contenere link di affiliazione: in qualità di Affiliato Amazon ricevo una piccola commissione dagli acquisti idonei. Come vengono reinvestite queste piccole commissioni? Semplicemente contribuiscono a ripagare le spese per tenere su il sito: a te il prodotto consigliato costa uguale, e noi possiamo continuare a fornirti risorse e informazioni utili.
