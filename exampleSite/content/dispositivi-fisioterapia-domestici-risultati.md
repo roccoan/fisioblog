@@ -1,7 +1,7 @@
 +++ 
 author = "Redazione" 
 categories = ["Notizie"] 
-date = 2024-05-14T12:00:00Z 
+date = 2024-05-04T12:00:00Z 
 description = "Tecnologia al servizio della salute e della bellezza: si possono ottenere gli stessi risultati di un centro specializzato a casa?" 
 image = "https://imagenes.elpais.com/resizer/v2/VPVDGDKJDBDBVKFZEXG52RE5FA.jpg?auth=b25399f2f3252f3754992929d6dbac9b2ed93dd3213b60d606b1b7e3200cc905&width=1200" 
 title = "Dispositivi professionali per fisioterapia ad uso domestico: producono risultati?" 
