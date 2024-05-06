@@ -16,11 +16,11 @@ Oggi scopriamo una dinamica che sta accadendo tra Francia e Spagna che ti aiuta 
 La Francia offre condizioni migliori che in Spagna per i professionisti che hanno appena terminato la laurea. Ma perché? **Quanto guadagna un Fisioterapista in Spagna? E quanto guadagna in Francia?**
 
 ## Molti fisioterapisti spagnoli emigrano in Francia per le migliori condizioni della professione
-C'è un Paese in cui alla professione di Fisioterapista è garantito un posto di lavoro non appena ci si laurea, una destinazione che attira sempre più questi professionisti che in Spagna hanno più difficoltà ad accedere a una posizione di qualità, e quel posto è la Francia. 
+C'è un Paese in cui alla professione di Fisioterapista è **garantito un posto di lavoro non appena ci si laurea**, una destinazione che attira sempre più questi professionisti che in Spagna hanno più difficoltà ad accedere a una posizione di qualità. **Quel posto è la Francia**. 
 
-Con un tasso di disoccupazione pari allo 0% per i fisioterapisti, ciò garantisce un immediato inserimento nel mondo del lavoro, rendendo il Paese una delle vie di fuga per i professionisti spagnoli.
+Con un **tasso di disoccupazione pari allo 0% per i fisioterapisti**, ciò garantisce un **immediato inserimento nel mondo del lavoro**, rendendo il Paese una delle vie di fuga per i professionisti spagnoli.
 
-Fernando Ramos, presidente del l'Associazione spagnola dei fisioterapisti (AEF), spiega a Medical Writing che questa professione è la quarta con il maggior numero di richieste di mobilità all'estero, dietro solo a Infermieri, Medicina e insegnanti delle scuole secondarie. 
+Fernando Ramos, presidente del l'Associazione spagnola dei fisioterapisti (AEF), spiega a Medical Writing che **questa professione è la quarta con il maggior numero di richieste di mobilità all'estero**, dietro solo a Infermieri, Medicina e insegnanti delle scuole secondarie. 
 
 Infatti, l'Ordre des Masseurs-Kinésitherapeutes (OMK), un'organizzazione equivalente al Collegio Professionale, sottolinea nella sua analisi che la maggior parte dei professionisti che vengono in Francia provengono dalla Spagna, più di paesi come il Belgio o la Germania. 
 
@@ -30,7 +30,7 @@ In Francia i fisioterapisti che lavorano negli ospedali pubblici svolgono la lor
 
 _"In Francia esiste un sistema di rimborso incaricato di finanziare i trattamenti di fisioterapia in cui il paziente ha la libertà di scegliere il centro di fisioterapia dove ricevere il trattamento e senza liste di attesa o ritardi nelle cure"_, precisa.
 
-Nel 2018, l’80% dei nuovi arrivati all’OMK erano laureati provenienti da altri paesi, fino a 2.697 nuovi arrivati in questa organizzazione, il che è essenziale per poter esercitare. 
+Nel 2018, **l’80% dei nuovi arrivati all’OMK erano laureati provenienti da altri paesi**, fino a 2.697 nuovi arrivati in questa organizzazione, il che è essenziale per poter esercitare.
 
 Tra loro ci sono 537 laureati in Francia, 2.150 laureati nei paesi dell'Unione Europea e 10 laureati provenienti da paesi che non appartengono all'UE. Analizzando la provenienza dei laureati nell'UE per paese, l'OMK evidenzia che la maggioranza proviene dalla Spagna (745), seguita da Belgio (716) e Germania (198).
 
@@ -45,7 +45,7 @@ _"Nel **settore privato, un fisioterapista in Francia può guadagnare fino a 40.
 
 Ma è **nel settore privato che la differenza è maggiore**. 
 
-Non è possibile stimare lo stipendio medio di un fisioterapista in Spagna a causa della differenza salariale tra regioni, ma in prima approssimazione Ramos lo collocherebbe intorno ai 23.000 euro annui, mentre in Francia potrebbe essere fissato a 40.000 euro lordi in media.
+Non è possibile stimare lo stipendio medio di un fisioterapista in Spagna a causa della differenza salariale tra regioni, ma in prima approssimazione **Ramos lo collocherebbe intorno ai 23.000 euro annui**, mentre in Francia potrebbe essere fissato a 40.000 euro lordi in media.
 
 Quali altri motivi hanno i fisioterapisti spagnoli per esercitare in Francia? Innanzitutto Ramos sottolinea l'importanza di sottolineare che **in Francia il tasso di disoccupazione è pari allo 0% per la professione di fisioterapista**. 
 
