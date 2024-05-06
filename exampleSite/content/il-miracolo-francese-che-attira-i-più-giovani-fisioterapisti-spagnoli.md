@@ -49,7 +49,9 @@ Non è possibile stimare lo stipendio medio di un fisioterapista in Spagna a cau
 
 Quali altri motivi hanno i fisioterapisti spagnoli per esercitare in Francia? Innanzitutto Ramos sottolinea l'importanza di sottolineare che **in Francia il tasso di disoccupazione è pari allo 0% per la professione di fisioterapista**. 
 
-_"Inoltre, quando lavori nel settore privato, la politica retributiva del sistema sociale francese fa sì che tu possa godere di condizioni di lavoro migliori rispetto a quelle spagnole, soprattutto se sei neolaureato. Le differenze non risiedono tanto nella tipologia del lavoro svolto ma nel suo riconoscimento Un altro aspetto fondamentale è sia la vicinanza geografica che la facilità di omologare il titolo nel paese vicino rispetto ad altri paesi"_, dice.
+> Continua [a seguirci su Telegram](https://t.me/fisioterapisti_official)!
+
+_"Inoltre, quando lavori nel settore privato, la politica retributiva del sistema sociale francese fa sì che tu possa godere di **condizioni di lavoro migliori rispetto a quelle spagnole, soprattutto se sei neolaureato**. Le differenze non risiedono tanto nella tipologia del lavoro svolto ma nel suo riconoscimento Un altro aspetto fondamentale è sia la vicinanza geografica che la facilità di omologare il titolo nel paese vicino rispetto ad altri paesi"_, dice.
 
 ## Com'è fare il Fisioterapista in Spagna? 
 Attualmente in Spagna sono circa 70.000 i fisioterapisti che svolgono la loro attività professionale in due contesti con caratteristiche molto diverse. 
@@ -57,6 +59,8 @@ Attualmente in Spagna sono circa 70.000 i fisioterapisti che svolgono la loro at
 **Solo il 10% di loro esercita nel Sistema Sanitario Nazionale**, mentre la restante percentuale lo fa **nel settore privato**. 
 
 Nel sistema pubblico, **le principali difficoltà che i fisioterapisti devono affrontare** hanno a che fare con il modo in cui è organizzata l’assistenza sanitaria spagnola.
+
+> Continua [a seguirci su Telegram](https://t.me/fisioterapisti_official)!
 
 _"Nonostante la Fisioterapia sia una professione in cui è legalmente stabilita l'autonomia professionale, restano in vigore circuiti obsoleti che costringono i pazienti a passare attraverso filtri inutili che ritardano l'accesso alle cure fisioterapiche, con anacronistiche ingerenze di altre figure professionali che si oppongono all'accesso libero e diretto delle cure. pazienti ai servizi di fisioterapia"_, sottolinea Ramos.
 
