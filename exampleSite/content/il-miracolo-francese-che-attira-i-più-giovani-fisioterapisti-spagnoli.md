@@ -26,13 +26,13 @@ Infatti, l'Ordre des Masseurs-Kinésitherapeutes (OMK), un'organizzazione equiva
 
 _"È anche importante notare che è normale, a causa del modo in cui sono strutturati gli studi in Francia, che molti francesi decidano di studiare nelle università spagnole e finiscano per tornare in Francia per esercitare, una volta ottenuta la laurea"_, precisa.
 
-In Francia i fisioterapisti che lavorano negli ospedali pubblici svolgono la loro attività in un contesto “simile” a quello del nostro Paese, ma le differenze diventano “più evidenti” nella sfera privata, poiché le cure nei centri privati sono finanziate dalla previdenza sociale francese.
+In Francia i fisioterapisti che lavorano negli ospedali pubblici svolgono la loro attività in un contesto “simile” a quello spagnolo, ma **le differenze diventano “più evidenti” nella sfera privata**, poiché le cure nei centri privati **sono finanziate dalla previdenza sociale francese**.
 
 _"In Francia esiste un sistema di rimborso incaricato di finanziare i trattamenti di fisioterapia in cui il paziente ha la libertà di scegliere il centro di fisioterapia dove ricevere il trattamento e senza liste di attesa o ritardi nelle cure"_, precisa.
 
 Nel 2018, **l’80% dei nuovi arrivati all’OMK erano laureati provenienti da altri paesi**, fino a 2.697 nuovi arrivati in questa organizzazione, il che è essenziale per poter esercitare.
 
-Tra loro ci sono 537 laureati in Francia, 2.150 laureati nei paesi dell'Unione Europea e 10 laureati provenienti da paesi che non appartengono all'UE. Analizzando la provenienza dei laureati nell'UE per paese, l'OMK evidenzia che la maggioranza proviene dalla Spagna (745), seguita da Belgio (716) e Germania (198).
+Tra loro ci sono 537 laureati in Francia, 2.150 laureati nei paesi dell'Unione Europea e 10 laureati provenienti da paesi che non appartengono all'UE. Analizzando la provenienza dei laureati nell'UE per paese, l'OMK evidenzia che **la maggioranza proviene dalla Spagna (745), seguita da Belgio (716) e Germania (198)**.
 
 ## Ma quanto guadagna un Fisioterapista in Francia? E quanto guadagna un Fisioterapista in Spagna?
 La questione salariale presenta grandi differenze ed emerge come una delle motivazioni principali dei fisioterapisti spagnoli che vanno a esercitare in Francia. 
@@ -56,11 +56,11 @@ Attualmente in Spagna sono circa 70.000 i fisioterapisti che svolgono la loro at
 
 **Solo il 10% di loro esercita nel Sistema Sanitario Nazionale**, mentre la restante percentuale lo fa **nel settore privato**. 
 
-Nel sistema pubblico, le principali difficoltà che i fisioterapisti devono affrontare hanno a che fare con il modo in cui è organizzata l’assistenza sanitaria.
+Nel sistema pubblico, **le principali difficoltà che i fisioterapisti devono affrontare** hanno a che fare con il modo in cui è organizzata l’assistenza sanitaria spagnola.
 
 _"Nonostante la Fisioterapia sia una professione in cui è legalmente stabilita l'autonomia professionale, restano in vigore circuiti obsoleti che costringono i pazienti a passare attraverso filtri inutili che ritardano l'accesso alle cure fisioterapiche, con anacronistiche ingerenze di altre figure professionali che si oppongono all'accesso libero e diretto delle cure. pazienti ai servizi di fisioterapia"_, sottolinea Ramos.
 
-D'altra parte, nella sfera privata, soprattutto in quei centri o cliniche di fisioterapia dove lavorano con compagnie di assicurazione, il problema principale risiede nelle condizioni di lavoro precarie causate dalle "pratiche abusive delle compagnie" che impongono "unilateralmente". "tariffe misere" per i professionisti, molti dei quali non aggiornati dagli anni '90.
+D'altra parte in Spagna, nella sfera privata, soprattutto in quei centri o cliniche di fisioterapia dove lavorano con compagnie di assicurazione, **il problema principale risiede nelle condizioni di lavoro precarie** causate dalle "pratiche abusive delle compagnie" che impongono "unilateralmente". "tariffe misere" per i professionisti, molti dei quali non aggiornati dagli anni '90.
 
 _"Senza dubbio, occorre un impegno fermo e determinato per integrare un maggior numero di fisioterapisti nel SNS e riconoscere lo sviluppo professionale continuo all'interno del sistema, migliorando il loro posizionamento e riconoscendoli come specialisti nelle diverse aree in cui svolgono la loro attività"_, conclude.
 
