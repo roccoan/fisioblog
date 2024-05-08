@@ -24,12 +24,11 @@
   Questo sito utilizza i cookie per migliorare l'esperienza dell'utente. <span id="js-cookie-accept" class="btn btn-sm btn-primary ml-2">Accetta tutti i cookie</span> <span id="js-cookie-reject" class="btn btn-sm btn-outline-secondary ml-2">Accetta solo i cookie necessari</span>
 </div>
 <script>
-  (function ($) {
+   (function () {
     const cookieBox = document.getElementById('js-cookie-box');
     const cookieAccept = document.getElementById('js-cookie-accept');
     const cookieReject = document.getElementById('js-cookie-reject');
-    
-    // Funzione per impostare i cookie facoltativi
+
     function setOptionalCookies() {
       Cookies.set('optional-cookies', true, {
         expires: {{ site.Params.cookies.expire_days }}
@@ -37,29 +36,26 @@
       // Inizializza Google Analytics
       gtag('config', 'G-RGEETKC7E0', { client_storage: 'none', 'anonymize_ip': true });
     }
-    
-    // Funzione per rimuovere i cookie facoltativi
+
     function removeOptionalCookies() {
       Cookies.remove('optional-cookies');
-      // Rimuovi Google Analytics
       // Non è necessario rimuovere Google Analytics esplicitamente
     }
-    
-    // Verifica se l'utente ha già accettato i cookie facoltativi
+
     if (!Cookies.get('optional-cookies')) {
       cookieBox.classList.remove('cookie-box-hide');
     }
-    
+
     cookieAccept.onclick = function () {
       setOptionalCookies();
       cookieBox.classList.add('cookie-box-hide');
     };
-    
+
     cookieReject.onclick = function () {
       removeOptionalCookies();
       cookieBox.classList.add('cookie-box-hide');
     };
-  })(jQuery);
+  })();
 </script>
 
 <!-- cookie style -->
