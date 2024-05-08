@@ -1,110 +1,84 @@
 <!-- footer -->
 <footer class="py-4 bg-light border-top">
   <div class="container">
-    <div class="row justify-content-between align-items-center">
-      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
-        <a href="{{ .Site.BaseURL }}" class="d-block pb-3"><img src="{{ .Site.Params.logo | relURL }}" class="img-fluid" alt="{{ .Site.Title }}"></a>
-      </div>
-      <div class="col-lg-4 text-center mb-4 mb-lg-0">
-        <ul class="list-inline mb-0">
-          {{ range .Site.Menus.footer }}
-          <li class="list-inline-item"><a class="text-dark d-block p-2" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
-      <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
-        <ul class="list-inline social-icon mb-0">
-          {{ range .Site.Params.social }}
-          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-    <div class="text-center mt-4">
-      <span>{{ .Site.Params.copyright | markdownify }}</span>
-    </div>
+    <!-- Rimuovi questo div -->
   </div>
 </footer>
 <!-- /footer -->
 
 <!-- search index -->
+<!-- Rimuovi questo script -->
 {{ if .Site.Params.search.enable }}
 <script>
   var indexURL = {{ "index.json" | absURL }}
 </script>
 {{ end }}
 
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
-{{ end }}
-
-{{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
-
-
+<!-- Rimuovi questi commenti e script -->
+<!-- JS Plugins -->
+<!-- Main Script -->
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-  Questo sito utilizza i cookie per migliorare l'esperienza dell'utente. <span id="js-cookie-accept" class="btn btn-sm btn-primary ml-2">Accetta tutti i cookie</span> <span id="js-cookie-reject" class="btn btn-sm btn-outline-secondary ml-2">Accetta solo i cookie necessari</span>
+  Questo sito utilizza i cookie per migliorare l'esperienza dell'utente. <span id="js-cookie-accept" class="btn btn-sm btn-primary ml-2">Accetta tutti i cookie</span> <span id="js-cookie-reject" class="btn btn-sm btn-outline-secondary ml-2">Accetta solo i cookie necessari</span>
 </div>
 <script>
-  (function ($) {
-    const cookieBox = document.getElementById('js-cookie-box');
-    const cookieAccept = document.getElementById('js-cookie-accept');
-    const cookieReject = document.getElementById('js-cookie-reject');
-    
-    // Funzione per impostare i cookie facoltativi
-    function setOptionalCookies() {
-      Cookies.set('optional-cookies', true, {
-        expires: {{ site.Params.cookies.expire_days }}
-      });
-      // Inserisci qui il codice per inizializzare i cookie facoltativi, ad esempio Google Analytics
-      // gtag('config', 'G-RGEETKC7E0', { client_storage: 'none', 'anonymize_ip': true });
-    }
-    
-    // Funzione per rimuovere i cookie facoltativi
-    function removeOptionalCookies() {
-      Cookies.remove('optional-cookies');
-      // Inserisci qui il codice per rimuovere i cookie facoltativi, ad esempio Google Analytics
-    }
-    
-    // Verifica se l'utente ha già accettato i cookie facoltativi
-    if (!Cookies.get('optional-cookies')) {
-      cookieBox.classList.remove('cookie-box-hide');
-    }
-    
-    cookieAccept.onclick = function () {
-      setOptionalCookies();
-      cookieBox.classList.add('cookie-box-hide');
-    };
-    
-    cookieReject.onclick = function () {
-      removeOptionalCookies();
-      cookieBox.classList.add('cookie-box-hide');
-    };
-  })(jQuery);
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieAccept = document.getElementById('js-cookie-accept');
+    const cookieReject = document.getElementById('js-cookie-reject');
+    
+    // Funzione per impostare i cookie facoltativi
+    function setOptionalCookies() {
+      Cookies.set('optional-cookies', true, {
+        expires: {{ site.Params.cookies.expire_days }}
+      });
+      // Inizializza Google Analytics
+      gtag('config', 'G-RGEETKC7E0', { client_storage: 'none', 'anonymize_ip': true });
+    }
+    
+    // Funzione per rimuovere i cookie facoltativi
+    function removeOptionalCookies() {
+      Cookies.remove('optional-cookies');
+      // Rimuovi Google Analytics
+      // Non è necessario rimuovere Google Analytics esplicitamente
+    }
+    
+    // Verifica se l'utente ha già accettato i cookie facoltativi
+    if (!Cookies.get('optional-cookies')) {
+      cookieBox.classList.remove('cookie-box-hide');
+    }
+    
+    cookieAccept.onclick = function () {
+      setOptionalCookies();
+      cookieBox.classList.add('cookie-box-hide');
+    };
+    
+    cookieReject.onclick = function () {
+      removeOptionalCookies();
+      cookieBox.classList.add('cookie-box-hide');
+    };
+  })(jQuery);
 </script>
 
 <!-- cookie style -->
 <style>
 .cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
 }
 
 .cookie-box-hide {
-  display: none;
+  display: none;
 }
 </style>
 {{ end }}
