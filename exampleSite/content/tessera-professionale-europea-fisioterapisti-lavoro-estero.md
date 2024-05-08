@@ -58,7 +58,9 @@ La EPC ti permette di:
 
 > Consiglio: Per avere maggiori informazioni sulla EPC e per ricevere assistenza nella procedura di richiesta, consulta [il sito web dedicato del Ministero della Salute](https://www.salute.gov.it/portale/riconoscimentoQualifiche/dettaglioContenutiRiconoscimentoQualifiche.jsp?lingua=italiano&id=4608&area=riconoscimento%20titoli&menu=vuoto).
 
-La **procedura per richiedere la EPC è telematica** e avviene attraverso il portale Sistema informativo europeo per le professioni regolamentate (IMI) [URL non valido rimosso]. Dovrai creare un account, compilare un modulo online e allegare la documentazione richiesta, tra cui:
+La **procedura per richiedere la EPC è telematica** e avviene attraverso il portale [Your Europe](https://europa.eu/youreurope/citizens/work/professional-qualifications/european-professional-card/index_it.htm). 
+
+Adesso **vediamo per bene come si richiede**, ma in sintesi dovrai _creare un account_, compilare _un modulo online_ e _allegare la documentazione_ richiesta, tra cui:
 
 - Copia del tuo **diploma di laurea in fisioterapia**;
 - Certificato di **iscrizione all'albo** professionale in Italia;
