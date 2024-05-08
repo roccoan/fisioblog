@@ -26,7 +26,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Fisioterapisti"
 contact_form_action = "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfh5RlIB7gMZ8Dw6fH9yjbLs5wpENmgbOs_7W8YJwK3x_Q3ag/formResponse"
-copyright = "&copy; 2022 Fisioterapisti.org | Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"
+copyright = "&copy; 2024 Fisioterapisti.org | Federica De Filippis - Iscritta all'Albo Professionale dei Fisioterapisti di Foggia al n°817 del 07/10/2021 - P.IVA: 04211250719"
 description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
 google_tag_manager = ""
 home = "Home"
