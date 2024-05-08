@@ -47,64 +47,64 @@
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<script>
-    function getCookie(name) {
-        var value = "; " + document.cookie;
-        var parts = value.split("; " + name + "=");
-        if (parts.length == 2) return parts.pop().split(";").shift();
-    }
-</script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-    Questo sito utilizza i cookie per migliorare l'esperienza di navigazione. 
-    <button id="js-cookie-accept" class="btn btn-sm btn-outline-primary ml-2">Accetta i cookie facoltativi</button>
-    <button id="js-cookie-reject" class="btn btn-sm btn-outline-danger ml-2">Rifiuta i cookie facoltativi</button>
+  Questo sito utilizza i cookie per migliorare l'esperienza dell'utente. <span id="js-cookie-accept" class="btn btn-sm btn-outline-primary ml-2">Accetta i cookie facoltativi</span> <span id="js-cookie-reject" class="btn btn-sm btn-outline-primary ml-2">Rifiuta i cookie facoltativi</span>
 </div>
 <script>
-    (function () {
-        const cookieBox = document.getElementById('js-cookie-box');
-        const acceptButton = document.getElementById('js-cookie-accept');
-        const rejectButton = document.getElementById('js-cookie-reject');
-
-        function acceptCookies() {
-            Cookies.set('cookie-consent', 'accepted', {
-                expires: {{ site.Params.cookies.expire_days }}
-            });
-            cookieBox.classList.add('cookie-box-hide');
-        }
-
-        function rejectCookies() {
-            Cookies.set('cookie-consent', 'rejected', {
-                expires: {{ site.Params.cookies.expire_days }}
-            });
-            cookieBox.classList.add('cookie-box-hide');
-        }
-
-        acceptButton.addEventListener('click', acceptCookies);
-        rejectButton.addEventListener('click', rejectCookies);
-
-        if (!Cookies.get('cookie-consent')) {
-            cookieBox.classList.remove('cookie-box-hide');
-        }
-    })();
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieAccept = document.getElementById('js-cookie-accept');
+    const cookieReject = document.getElementById('js-cookie-reject');
+    
+    // Funzione per impostare i cookie facoltativi
+    function setOptionalCookies() {
+      Cookies.set('optional-cookies', true, {
+        expires: {{ site.Params.cookies.expire_days }}
+      });
+      // Inserisci qui il codice per inizializzare i cookie facoltativi, ad esempio Google Analytics
+      // gtag('config', 'G-RGEETKC7E0', { client_storage: 'none', 'anonymize_ip': true });
+    }
+    
+    // Funzione per rimuovere i cookie facoltativi
+    function removeOptionalCookies() {
+      Cookies.remove('optional-cookies');
+      // Inserisci qui il codice per rimuovere i cookie facoltativi, ad esempio Google Analytics
+    }
+    
+    // Verifica se l'utente ha già accettato i cookie facoltativi
+    if (!Cookies.get('optional-cookies')) {
+      cookieBox.classList.remove('cookie-box-hide');
+    }
+    
+    cookieAccept.onclick = function () {
+      setOptionalCookies();
+      cookieBox.classList.add('cookie-box-hide');
+    };
+    
+    cookieReject.onclick = function () {
+      removeOptionalCookies();
+      cookieBox.classList.add('cookie-box-hide');
+    };
+  })(jQuery);
 </script>
 
 <!-- cookie style -->
 <style>
-    .cookie-box {
-        position: fixed;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        text-align: center;
-        z-index: 9999;
-        padding: 1rem 2rem;
-        background: rgb(71, 71, 71);
-        transition: all .75s cubic-bezier(.19, 1, .22, 1);
-        color: #fdfdfd;
-    }
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
 
 .cookie-box-hide {
-  display: none;
+  display: none;
 }
 </style>
 {{ end }}
