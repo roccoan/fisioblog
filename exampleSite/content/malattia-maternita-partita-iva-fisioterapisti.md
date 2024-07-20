@@ -56,6 +56,8 @@ Per il ricovero ospedaliero, l'indennità giornaliera è:
 - Da 5 a 8 mensilità: 78,46 euro.
 - Da 9 a 12 mensilità: 104,61 euro.
 
+> Nel frattempo le cose potrebbero essere cambiate. Per ulteriori dettagli aggiornati, fai sempre riferimento [all'apposita sezione sul sito dell'INPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.malattia-e-degenza-ospedaliera-per-iscritti-alla-gestione-separata-50086.malattia-e-degenza-ospedaliera-per-iscritti-alla-gestione-separata.html).
+
 ## Maternità per Fisioterapiste Liberi Professionisti
 Anche durante la maternità, i liberi professionisti con partita IVA in regime forfettario hanno diritto a specifiche tutele.
 
@@ -82,6 +84,13 @@ L'indennità di maternità è soggetta a tassazione e deve essere dichiarata nei
 
 ### Continuare a lavorare durante la maternità
 Come libera professionista, non sei obbligata ad astenerti dal lavoro durante la maternità e puoi continuare a lavorare fino al giorno prima del parto.
+
+> Da quando abbiamo scritto questo articolo le cose potrebbero essere cambiate. Per ulteriori dettagli aggiornati, fai sempre riferimento [all'apposita sezione sul sito dell'INPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.indennit-di-maternit-paternit-per-lavoratrici-e-lavoratori-iscritti-alla-gestione-separata-58666.indennit-di-maternit-paternit-per-lavoratrici-e-lavoratori-iscritti-alla-gestione-separata.html).
+
+## Cosa potrà cambiare in futuro
+Tutto questo è valido finché i fisioterapisti liberi professionisti continueranno a versare alla Gestione Separata dell'INPS i contributi (cioè quei soldi che devi dare per avere un giorno la pensione... [che quasi certamente riusciranno ad avere anche i giovani di oggi](https://fisioterapisti.org/pensione-contributi-fisioterapisti/)).
+
+Però [non escludiamo che in futuro venga istituita una cosiddetta Cassa Previdenziale propria dei fisioterapisti](https://fisioterapisti.org/3-cose-che-non-vanno-della-fisioterapia-in-italia/). Ad oggi sono solo voci, ma nel caso queste tutele non dipenderanno più dall'INPS ma da chi gestirà la nuova cassa previdenziale.
 
 ## Conclusioni
 Anche se sei un fisioterapista libero professionista con partita IVA, hai accesso a tutele simili a quelle dei lavoratori dipendenti per malattia e maternità, purché rispetti i requisiti previsti. Informati sulle normative specifiche e assicurati di presentare le richieste in modo tempestivo per non perdere i tuoi diritti.
