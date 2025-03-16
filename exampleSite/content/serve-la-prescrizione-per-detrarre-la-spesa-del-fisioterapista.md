@@ -32,8 +32,6 @@ Per la detrazione **non c'è bisogno della prescrizione del medico** (specialist
 
 Quindi, **non sono ammessi pagamenti in contanti**, ma vanno bene sia quelli con carta o bonifico, che [altri meno scontati come Satispay e PayPal](https://www.ilsole24ore.com/art/da-satispay-paypal-ok-sconto-fiscale-le-spese-pagate-le-app-ACcCdCEB "Il Sole 24 Ore, Da Satispay a Paypal: ok allo sconto fiscale per le spese pagate con le App").
 
-> Piccola nota a margine: **se sei un paziente**, e il mal di schiena o alla cervicale è un problema, [considera anche il cambio del materasso](https://www.awin1.com/awclick.php?gid=422253&mid=25709&awinaffid=1226758&linkid=2978323&clickref= "Angolo degli Affari | Materassi e Doghe"). I materassi certificati come Presidio Medico dal Ministero della Salute **possono essere detratti del 19% come spesa sanitaria**. Per detrarli va richiesta la fattura al momento dell’acquisto, fornendo il codice fiscale della persona a cui è intestata la fattura, e presentare la fattura nella dichiarazione dei redditi.
-
 ## Il problema: il paziente che vuole detrarre la spesa sanitaria nel 730
 
 In fase di **dichiarazione dei redditi** quindi i pazienti possono detrarre la spesa sostenuta dal fisioterapista **se hanno pagano con strumento tracciabile**.
