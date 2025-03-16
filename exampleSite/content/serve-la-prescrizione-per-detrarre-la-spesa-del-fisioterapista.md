@@ -76,5 +76,3 @@ Inoltre bisogna effettuare l'invio telematico della fattura tramite Sistema TS. 
 Per oggi è tutto, spero che questo articolo possa tornarti utile.
 
 Grazie per aver letto, a presto!
-
-> L'articolo può contenere link di affiliazione. In qualità di affiliato, il sito riceve una piccola commissione dagli acquisti idonei che vengono reinvestite per coprire i costi vivi: hosting, dominio, sviluppo, grafica, ricerca e scrittura degli articoli. Così facendo, proviamo a garantire una pubblicazione regolare di risorse utili e gratuite.
